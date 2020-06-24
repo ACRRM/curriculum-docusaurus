@@ -103,7 +103,7 @@ module.exports = {
           homePageId: "doc1",
           sidebarPath: require.resolve("./sidebars.auto.js"),
           // Please change this to your repo.
-          editUrl: "https://github.com/ACRRM/curriculum-docusaurus",
+          editUrl: "https://github.com/ACRRM/curriculum-docusaurus/tree/master",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
