@@ -4,7 +4,7 @@ title: "Introduction"
 ---
 
 The Australian College of Rural and Remote Medicine (ACRRM) was formed in 1997 as an
-acknowledgment of:
+acknowledgment of: 
 - the importance of rural and remote medicine as a broad and distinctive form of general
 practice
 - the need for well-designed vocational preparation and continuing medical education for
