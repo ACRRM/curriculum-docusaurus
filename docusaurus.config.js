@@ -91,7 +91,7 @@ module.exports = {
       copyright: `Copyright ©${new Date().getFullYear()} <br /> ABN: 12 078 081 848 <br /> Built with ☕ & ❤ in <a href="https://youtu.be/52ZPlDSmEj4?t=139">Brisvegus</a>`,
     },
   },
-  plugins: ['docusaurus-plugin-auto-sidebars'],
+  // plugins: ['docusaurus-plugin-auto-sidebars'],
   presets: [
     [
       "@docusaurus/preset-classic",
