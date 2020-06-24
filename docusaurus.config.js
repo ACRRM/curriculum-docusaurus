@@ -1,103 +1,112 @@
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
-  favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  title: "My Site",
+  tagline: "The tagline of my site",
+  url: "https://your-docusaurus-test-site.com",
+  baseUrl: "/",
+  favicon: "img/favicon.ico",
+  organizationName: "facebook", // Usually your GitHub org/user name.
+  projectName: "docusaurus", // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: "Resources",
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        alt: "ACRRM Logo",
+        src: "img/ACRRM_logo_minimal.svg",
       },
       links: [
         {
-          to: 'docs/',
-          activeBasePath: 'docs',
-          label: 'Docs',
-          position: 'left',
+          to: "docs/",
+          activeBasePath: "docs",
+          label: "Docs",
+          position: "right",
         },
-        {to: 'blog', label: 'Blog', position: 'left'},
+        { to: "blog", label: "Blog", position: "right" },
         {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
-          position: 'right',
+          href: "tel:1800223226",
+          label: "📞 1800 223 226",
+          position: "right",
         },
       ],
     },
-    footer: {
-      style: 'dark',
-      links: [
-        {
-          title: 'Docs',
-          items: [
-            {
-              label: 'Style Guide',
-              to: 'docs/',
-            },
-            {
-              label: 'Second Doc',
-              to: 'docs/doc2/',
-            },
-          ],
-        },
-        {
-          title: 'Community',
-          items: [
-            {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
-            },
-          ],
-        },
-        {
-          title: 'More',
-          items: [
-            {
-              label: 'Blog',
-              to: 'blog',
-            },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
-            },
-          ],
-        },
-      ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+    footer: {      
+      logo: { src: 'img/ACRRM_logo.svg', alt: '' },
+      style: "dark",
+      // links: [
+      //   {
+      //     title: "ACRRM",
+      //     items: [
+      //       {
+      //         label: "Contact Us",
+      //         href: "https://mycollege.acrrm.org.au/contact-us",
+      //       },
+      //       {
+      //         label: "Privacy",
+      //         href: "https://www.acrrm.org.au/privacy",
+      //       },
+      //       {
+      //         label: "Terms of Use",
+      //         href: "https://www.acrrm.org.au/terms-of-use",
+      //       },
+      //       {
+      //         label: "Website Tips",
+      //         href: "https://www.acrrm.org.au/website-tips",
+      //       },
+      //     ],
+      //   },
+      //   {
+      //     title: "Community",
+      //     items: [
+      //       {
+      //         label: "Connect@ACRRM",
+      //         href: "https://connect.acrrm.org.au/",
+      //       },
+      //       {
+      //         label: "Facebook",
+      //         href: "https://www.facebook.com/ACRRM4ruralhealth/",
+      //       },
+      //       {
+      //         label: "Twitter",
+      //         href: "https://twitter.com/ACRRM",
+      //       },
+      //       {
+      //         label: "Instagram",
+      //         href: "https://www.instagram.com/the_acrrm/",
+      //       },
+      //     ],
+      //   },
+      //   {
+      //     title: 'More',
+      //     items: [
+      //       {
+      //         label: 'Blog',
+      //         to: 'blog',
+      //       },
+      //       {
+      //         label: 'GitHub',
+      //         href: 'https://github.com/facebook/docusaurus',
+      //       },
+      //     ],
+      //   },
+      // ],
+      copyright: `Copyright ©${new Date().getFullYear()} <br /> ABN: 12 078 081 848 <br /> Built with ☕ & ❤ in <a href="https://youtu.be/52ZPlDSmEj4?t=139">Brisvegus</a>`,
     },
   },
+  plugins: ['docusaurus-plugin-auto-sidebars'],
   presets: [
     [
-      '@docusaurus/preset-classic',
+      "@docusaurus/preset-classic",
       {
         docs: {
+          showLastUpdateAuthor: true,
+          showLastUpdateTime: true,
           // It is recommended to set document id as docs home page (`docs/` path).
-          homePageId: 'doc1',
-          sidebarPath: require.resolve('./sidebars.js'),
+          homePageId: "doc1",
+          sidebarPath: require.resolve("./sidebars.auto.js"),
           // Please change this to your repo.
-          editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
-        },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+          editUrl: "https://github.com/ACRRM/curriculum-docusaurus",
         },
         theme: {
-          customCss: require.resolve('./src/css/custom.css'),
+          customCss: require.resolve("./src/css/custom.css"),
         },
       },
     ],
