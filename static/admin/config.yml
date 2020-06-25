@@ -13,7 +13,6 @@ collections:
       create: true
       nested:
         depth: 100 # max depth to show in the collection tree
-        summary: '{{title}}'
       meta: { path: { widget: string, label: 'Path', index_file: 'index' } }
       fields:
         - {label: "Title", name: "title", widget: "string"}
