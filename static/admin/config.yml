@@ -6,13 +6,16 @@ media_folder: static/img
 public_folder: /img
 
 collections:
-    - name: "content"
-      label: "Content"
-      folder: "docs"
+    - name: pages
+      label: Pages
+      label_singular: 'Page'
+      folder: docs
       create: true
-    #   slug: "{{slug}}"
+      nested:
+        depth: 100 # max depth to show in the collection tree
+        summary: '{{title}}'
+      meta: { path: { widget: string, label: 'Path', index_file: 'index' } }
       fields:
-        - {label: "Title", name: "title", widget: "string"}        
-        - {label: "Category", name: "category", widget: "string"}
+        - {label: "Title", name: "title", widget: "string"}
         - {label: "Body", name: "body", widget: "markdown"}
   
