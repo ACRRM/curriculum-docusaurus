@@ -8,6 +8,7 @@ module.exports = {
   projectName: "docusaurus", // Usually your repo name.
   themeConfig: {
     navbar: {
+      hideOnScroll: true,
       title: "Resources",
       logo: {
         alt: "ACRRM Logo",
@@ -20,7 +21,6 @@ module.exports = {
           label: "Docs",
           position: "right",
         },
-        { to: "blog", label: "Blog", position: "right" },
         {
           href: "tel:1800223226",
           label: "📞 1800 223 226",
@@ -28,6 +28,13 @@ module.exports = {
         },
       ],
     },
+    // announcementBar: {
+    //   id: 'support_us', // Any value that will identify this message.
+    //   content:
+    //     '🚧 Pardon us, we are currently revamping our documents',
+    //   backgroundColor: '#fafbfc', // Defaults to `#fff`.
+    //   // textColor: '#091E42', // Defaults to `#000`.
+    // },
     footer: {      
       logo: { src: 'img/ACRRM_logo.svg', alt: '' },
       style: "dark",

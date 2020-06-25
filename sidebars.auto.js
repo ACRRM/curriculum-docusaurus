@@ -12,10 +12,10 @@ module.exports = {
     {
         "type": "category",
         "label": "Rural Generalist",
-        "items": [
+        "items": [            
+            "Rural Generalist/Rural Generalist Curriculum",
             "Rural Generalist/Competencies",
             "Rural Generalist/Standards",
-            "Rural Generalist/Rural Generalist Curriculum"
         ]
     }
 ]
