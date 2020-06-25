@@ -1,6 +1,5 @@
 ---
-title: "Competencies of a Rural Generalist Medical Practitioner"
-category: "Rural Generalist"
+title: Competencies of a Rural Generalist Medical Practitioner
 ---
 
 Rural Generalist medical practitioner competencies are grouped under the eight domains of rural

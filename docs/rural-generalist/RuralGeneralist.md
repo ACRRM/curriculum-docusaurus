@@ -1,6 +1,5 @@
 ---
 title: Rural Generalist Curriculum
-category: Rural Generalist
 ---
 
 The Australian College of Rural and Remote Medicine (ACRRM) was formed in 1997 as an
