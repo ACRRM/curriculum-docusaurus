@@ -1,7 +1,8 @@
 ---
-title: Style Guide
-category: none
+title: "Style Guide"
+category: "none"
 ---
+
 You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
 
 ## Markdown Syntax

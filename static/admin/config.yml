@@ -9,9 +9,10 @@ collections:
     - name: "content"
       label: "Content"
       folder: "docs"
-    #   create: true
+      create: true
     #   slug: "{{slug}}"
       fields:
-        - {label: "Title", name: "title", widget: "string"}
+        - {label: "Title", name: "title", widget: "string"}        
+        - {label: "Category", name: "category", widget: "string"}
         - {label: "Body", name: "body", widget: "markdown"}
   

@@ -27,12 +27,13 @@
   padding: 0 var(--ifm-pre-padding);
 }
 
-html[data-theme='dark'] {
-  /*--ifm-hover-overlay: rgba(255, 255, 255, 0.05);
-  --ifm-color-content-secondary: rgba(255, 255, 255, 1); */
+@font-face {
+  font-family: "archiaregular";
+  src: local("archiaregular"),
+    url(/fonts/archia-regular-webfont.woff2) format("woff2");
+  font-weight: normal;
+  font-style: normal;
 }
-
-/* #283F3D */
 
 /* custom css below */
 
