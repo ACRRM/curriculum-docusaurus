@@ -15,7 +15,7 @@ module.exports = {
             "rural-generalist/index",
             "rural-generalist/Curriculum",
             "rural-generalist/Competency Domains",
-            "rural-generalist/Standards",
+            "rural-generalist/Learning-Areas"
         ],
     }
     // {
