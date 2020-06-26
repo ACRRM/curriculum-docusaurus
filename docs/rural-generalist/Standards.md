@@ -20,3 +20,19 @@ component.
 - beginning of core generalist standard
 - progressing to core generalist standard
 - achieved the core generalist standard
+
+### Domain 1 – Provide expert medical care in all rural contexts
+
+### Domain 2 – Provide primary care
+
+### Domain 3 – Provide secondary medical care
+
+### Domain 4 – Respond to medical emergencies
+
+### Domain 5 – Apply a population health approach
+
+### Domain 6 – Work with Aboriginal, Torres Strait Islander and other culturally diverse communities to improve health and wellbeing
+
+### Domain 7 – Practise medicine within an ethical, intellectual and professional framework
+
+### Domain 8 – Provide safe medical care while working in geographic, social and professional isolation
