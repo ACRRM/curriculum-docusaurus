@@ -13,8 +13,8 @@ module.exports = {
         label: 'Rural Generalist',
         items: [
             "rural-generalist/index",
-            "rural-generalist/Curriculum",
-            "rural-generalist/Competency Domains",
+            "rural-generalist/curriculum",
+            "rural-generalist/competency-domains",
             "rural-generalist/learning-areas"
         ],
     }
