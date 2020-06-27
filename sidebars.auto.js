@@ -5,7 +5,7 @@ module.exports = {
         type: 'category',
         label: 'Fellowship',
         items: [        
-            "fellowship/Standards"
+            "fellowship/standards"
         ],
     },
     {
