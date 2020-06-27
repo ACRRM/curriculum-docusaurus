@@ -1,0 +1,5 @@
+---
+title: Scholar
+---
+
+## Core Generalised
