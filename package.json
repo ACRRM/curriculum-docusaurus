@@ -3,12 +3,14 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
+    "clean": "shx rm -rf .docusaurus/ build/",
     "start": "docusaurus start",
-    "build": "docusaurus build && create-pdf",
+    "build": "yarn run clean && docusaurus build && yarn run create-pdf",
     "serve": "yarn build && npx http-server build",
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",
-    "create-pdf": "npx docusaurus-pdf from-build-config"
+    "move-pdf": "shx mv docusaurus.pdf build/generated.pdf && shx cp build/generated.pdf static/generated.pdf",
+    "create-pdf": "npx docusaurus-pdf from-build-config && yarn run move-pdf"
   },
   "dependencies": {
     "@docusaurus/core": "^2.0.0-alpha.58",
@@ -31,5 +33,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "shx": "^0.3.2"
   }
 }
