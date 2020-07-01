@@ -40,63 +40,6 @@ module.exports = {
     footer: {      
       logo: { src: 'img/ACRRM_logo.svg', alt: '' },
       style: "dark",
-      // links: [
-      //   {
-      //     title: "ACRRM",
-      //     items: [
-      //       {
-      //         label: "Contact Us",
-      //         href: "https://mycollege.acrrm.org.au/contact-us",
-      //       },
-      //       {
-      //         label: "Privacy",
-      //         href: "https://www.acrrm.org.au/privacy",
-      //       },
-      //       {
-      //         label: "Terms of Use",
-      //         href: "https://www.acrrm.org.au/terms-of-use",
-      //       },
-      //       {
-      //         label: "Website Tips",
-      //         href: "https://www.acrrm.org.au/website-tips",
-      //       },
-      //     ],
-      //   },
-      //   {
-      //     title: "Community",
-      //     items: [
-      //       {
-      //         label: "Connect@ACRRM",
-      //         href: "https://connect.acrrm.org.au/",
-      //       },
-      //       {
-      //         label: "Facebook",
-      //         href: "https://www.facebook.com/ACRRM4ruralhealth/",
-      //       },
-      //       {
-      //         label: "Twitter",
-      //         href: "https://twitter.com/ACRRM",
-      //       },
-      //       {
-      //         label: "Instagram",
-      //         href: "https://www.instagram.com/the_acrrm/",
-      //       },
-      //     ],
-      //   },
-      //   {
-      //     title: 'More',
-      //     items: [
-      //       {
-      //         label: 'Blog',
-      //         to: 'blog',
-      //       },
-      //       {
-      //         label: 'GitHub',
-      //         href: 'https://github.com/facebook/docusaurus',
-      //       },
-      //     ],
-      //   },
-      // ],
       copyright: `Copyright ©${new Date().getFullYear()} <br /> ABN: 12 078 081 848 <br /> Built with ☕ & ❤ in <a href="https://youtu.be/52ZPlDSmEj4?t=139">Brisvegas</a>`,
     },
   },
