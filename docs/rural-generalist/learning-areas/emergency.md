@@ -450,19 +450,21 @@ Reflection
 #### At.17
 
 Resourceful
-Emergency presentations and conditions
-•	Airway and respiratory emergencies: airway obstruction difficult foreign bodies, severe asthma, respiratory distress, tension pneumothorax, compromised airways, hypoventilation, hypoxia and chest trauma
-•	Circulatory and cardiovascular emergencies: chest pain, acute coronary syndromes, cardiogenic shock, hypovolaemic shock, hypertensive emergencies, haemorrhagic emergencies, cardiac tamponade, acute myocardial infarction, thrombo-embolic emergencies including pulmonary embolism, gas embolism and anaphylaxis:
-•	Neurological emergencies: neurologic trauma, coma, stroke, cerebral ischaemia, space occupying lesions, intracranial haemorrhage, subarachnoid haemorrhage, altered mental status, acute confusional states, delirium, undifferentiated headache, Guillain-Barre Syndrome, seizures, status epilepticus, meningitis and neurogenic shock:
-•	Musculo-skeletal emergencies: simple and complex fractures and dislocations, crush injuries, compound wounds, spinal injuries, ischaemic limbs (including compartment syndrome), degloving injury, amputated digits, acute back pain/sciatica and maxillofacial injury:
-•	Soft tissue emergencies and burns: foreign bodies, abscesses, burns (thermal, chemical and electrical), frostbite, necrotising infections, bite wounds, crush injury, neurovascular injury, degloving injury and acute desquamating conditions:
-•	Obstetric and gynaecologic emergencies: haemorrhage in early pregnancy, trauma in pregnancy, miscarriage, precipitate delivery, common labour and delivery complications, hypertensive urgencies, hyperemesis, pre-eclampsia, eclampsia and post-partum problems including fluid embolus, uterine rupture, haemorrhage, sepsis and retained products of conception (POC):
-•	Abdominal and genitourinary emergencies: acute renal failure, foreign body ingestion, abdominal trauma, acute urinary retention, abdominal ascites causing significant discomfort and/or respiratory compromise, oesophageal varices and paraphimosis: 
-•	Metabolic and endocrine emergencies: hypoglycaemia, diabetic ketoacidosis (DKA), hyperosmolar non-ketotic states, hypokalaemia, hyperkalaemia, hypocalcaemia, hypercalcaemia, hyponatraemia, Addisonian crisis, hypothermia and hyperthermia:
-•	Acute infections: undifferentiated sepsis, septicaemia, urosepsis, neutropenic sepsis, febrile convulsion, septic shock, exotic infectious diseases, nosocomial infections, needle stick injury and other body fluid exposure:
-•	Toxicologic and toxinological emergencies: drug/alcohol overdose, accidental and deliberate toxic ingestion, terrestrial and marine envenomation, deliberate chemical biological or radiological (CBR) incidents, polypharmacy overdose and delayed presentations:
-•	Environmental emergencies: hypothermia, hyperthermia, barotrauma, near drowning, electrical injury and smoke/gas inhalation:
-•	Ophthalmological emergencies: chemical and thermal trauma, blunt and penetrating trauma, hyphema, blowout fracture, ultra violet trauma, snow blindness, acute vision loss, acute chalazion, glaucoma, viral and bacterial infections, foreign bodies and peri-ocular lacerations:
-•	ENT and dental emergencies: dental trauma, acute infection, maxillofacial trauma, anterior and posterior epistaxis, aural and nasal foreign bodies and quinsy:
-•	Psychiatric emergencies: acute psychosis, suicide threat or attempt, violent self-harm
+
+### Emergency presentations and conditions
+
+- Airway and respiratory emergencies: airway obstruction difficult foreign bodies, severe asthma, respiratory distress, tension pneumothorax, compromised airways, hypoventilation, hypoxia and chest trauma
+- Circulatory and cardiovascular emergencies: chest pain, acute coronary syndromes, cardiogenic shock, hypovolaemic shock, hypertensive emergencies, haemorrhagic emergencies, cardiac tamponade, acute myocardial infarction, thrombo-embolic emergencies including pulmonary embolism, gas embolism and anaphylaxis:
+- Neurological emergencies: neurologic trauma, coma, stroke, cerebral ischaemia, space occupying lesions, intracranial haemorrhage, subarachnoid haemorrhage, altered mental status, acute confusional states, delirium, undifferentiated headache, Guillain-Barre Syndrome, seizures, status epilepticus, meningitis and neurogenic shock:
+- Musculo-skeletal emergencies: simple and complex fractures and dislocations, crush injuries, compound wounds, spinal injuries, ischaemic limbs (including compartment syndrome), degloving injury, amputated digits, acute back pain/sciatica and maxillofacial injury:
+- Soft tissue emergencies and burns: foreign bodies, abscesses, burns (thermal, chemical and electrical), frostbite, necrotising infections, bite wounds, crush injury, neurovascular injury, degloving injury and acute desquamating conditions:
+- Obstetric and gynaecologic emergencies: haemorrhage in early pregnancy, trauma in pregnancy, miscarriage, precipitate delivery, common labour and delivery complications, hypertensive urgencies, hyperemesis, pre-eclampsia, eclampsia and post-partum problems including fluid embolus, uterine rupture, haemorrhage, sepsis and retained products of conception (POC):
+- Abdominal and genitourinary emergencies: acute renal failure, foreign body ingestion, abdominal trauma, acute urinary retention, abdominal ascites causing significant discomfort and/or respiratory compromise, oesophageal varices and paraphimosis: 
+- Metabolic and endocrine emergencies: hypoglycaemia, diabetic ketoacidosis (DKA), hyperosmolar non-ketotic states, hypokalaemia, hyperkalaemia, hypocalcaemia, hypercalcaemia, hyponatraemia, Addisonian crisis, hypothermia and hyperthermia:
+- Acute infections: undifferentiated sepsis, septicaemia, urosepsis, neutropenic sepsis, febrile convulsion, septic shock, exotic infectious diseases, nosocomial infections, needle stick injury and other body fluid exposure:
+- Toxicologic and toxinological emergencies: drug/alcohol overdose, accidental and deliberate toxic ingestion, terrestrial and marine envenomation, deliberate chemical biological or radiological (CBR) incidents, polypharmacy overdose and delayed presentations:
+- Environmental emergencies: hypothermia, hyperthermia, barotrauma, near drowning, electrical injury and smoke/gas inhalation:
+- Ophthalmological emergencies: chemical and thermal trauma, blunt and penetrating trauma, hyphema, blowout fracture, ultra violet trauma, snow blindness, acute vision loss, acute chalazion, glaucoma, viral and bacterial infections, foreign bodies and peri-ocular lacerations:
+- ENT and dental emergencies: dental trauma, acute infection, maxillofacial trauma, anterior and posterior epistaxis, aural and nasal foreign bodies and quinsy:
+- Psychiatric emergencies: acute psychosis, suicide threat or attempt, violent self-harm
 

@@ -6,7 +6,6 @@ title: Digital Health
 
 ### 💡 Knowledge
 
-
 #### CG.K.1
 
 Discuss principles of interoperability, for exchanging messages between systems

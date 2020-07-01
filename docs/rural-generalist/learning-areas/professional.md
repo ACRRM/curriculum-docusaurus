@@ -102,7 +102,6 @@ Recognise unprofessional behaviour and signs of the practitioner in difficulty a
 
 ### 🎭 Attributes
 
-
 #### At.8
 
 Honesty 

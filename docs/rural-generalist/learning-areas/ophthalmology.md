@@ -100,28 +100,28 @@ Integrity
 
 ### Eye presentations and conditions
 
-•	cataracts
-•	glaucoma
-•	macular degeneration 
-•	strabismus and abnormal eye movements
-•	contact lens complications 
-•	blocked tear duct
-•	amaurosis fugax 
-•	hemianopia
-•	conjunctivitis: viral, herpetic eye disease, bacterial, allergic, trachoma, trichiasis, conjunctival tumours 
-•	corneal diseases: keratitis, corneal ulcers, conjunctival nevus, pterygium, pinguecula 
-•	uveitis 
-•	drug allergy 
-•	episcleritis/scleritis 
-•	neonatal sticky eyes 
-•	dry eyes 
-•	red lids 
-•	blepharitis 
-•	entropion 
-•	ectropion 
-•	stye 
-•	chalazion
-•	diabetic retinopathy, hypertensive retinopathy 
-•	optic nerve and fundus conditions; optic disc abnormalities in glaucoma, optic disc swelling, optic atrophy 
-•	eye injuries; chemical, blunt and penetrating trauma to eye and surrounding tissues, subtarsal and corneal foreign bodies, scratches and abrasions, hyphema, blowout fracture, signs of child abuse, ultra violet trauma, welders’ flash burns, snow blindness
-•	acute loss of vision; vascular occlusion, giant cell arteritis, acute glaucoma, vitreous haemorrhage, retinal detachment, optic neuritis, papilloedema, proptosis
+- cataracts
+- glaucoma
+- macular degeneration 
+- strabismus and abnormal eye movements
+- contact lens complications 
+- blocked tear duct
+- amaurosis fugax 
+- hemianopia
+- conjunctivitis: viral, herpetic eye disease, bacterial, allergic, trachoma, trichiasis, conjunctival tumours 
+- corneal diseases: keratitis, corneal ulcers, conjunctival nevus, pterygium, pinguecula 
+- uveitis 
+- drug allergy 
+- episcleritis/scleritis 
+- neonatal sticky eyes 
+- dry eyes 
+- red lids 
+- blepharitis 
+- entropion 
+- ectropion 
+- stye 
+- chalazion
+- diabetic retinopathy, hypertensive retinopathy 
+- optic nerve and fundus conditions; optic disc abnormalities in glaucoma, optic disc swelling, optic atrophy 
+- eye injuries; chemical, blunt and penetrating trauma to eye and surrounding tissues, subtarsal and corneal foreign bodies, scratches and abrasions, hyphema, blowout fracture, signs of child abuse, ultra violet trauma, welders’ flash burns, snow blindness
+- acute loss of vision; vascular occlusion, giant cell arteritis, acute glaucoma, vitreous haemorrhage, retinal detachment, optic neuritis, papilloedema, proptosis

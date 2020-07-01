@@ -6,7 +6,6 @@ title: Population Health
 
 ### 💡 Knowledge
 
-
 #### AS.K.1
 
 Discuss national public health priorities, targets and campaigns and discuss their relevance, impact and application to local rural and remote communities, including: 
@@ -84,7 +83,6 @@ Discuss population health principles in crisis situations, such as:
 - pandemic or epidemic response.
 
 ### 🤹‍♀️ Skills
-
 
 #### AS.S.1
 

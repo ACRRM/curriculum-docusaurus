@@ -6,7 +6,6 @@ title: Health Advocate
 
 ### 💡 Knowledge
 
-
 #### CG.K.1
 
 Analyse the social, environmental, economic and occupational determinants of health that affect the community burden of disease and access to health-related services

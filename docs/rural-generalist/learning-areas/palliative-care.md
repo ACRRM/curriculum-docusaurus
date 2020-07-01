@@ -266,7 +266,6 @@ Develop and apply strategies for self-care, to manage the challenges of dealing 
 
 ### 🎭 Attributes
 
-
 #### At.6
 
 Compassion

@@ -15,25 +15,25 @@ Describe the principles of rehabilitation
 
 Discuss rehabilitation treatment, including: 
 - patient conducted techniques including: 
-	general exercise 
-	nutrition 
-	specific exercises and stretches, post isometric exercises, allied to breathing techniques 
-	correct posture 
-	application of cold and heat 
-	relaxation and meditation techniques 
-	relevant lifestyle interventions including weight loss, stress reduction, recreational substance reduction and sleep improvement 
-	orthotics and prosthetics 
+  - general exercise 
+  - nutrition 
+  - specific exercises and stretches, post isometric exercises, allied to breathing techniques 
+  - correct posture 
+  - application of cold and heat 
+  - relaxation and meditation techniques 
+  - relevant lifestyle interventions including weight loss, stress reduction, recreational substance reduction and sleep improvement 
+  - orthotics and prosthetics 
 - therapist conducted techniques including: 
-	speech therapy
-	psychology
-	occupational therapy
-	physiotherapy
-	social worker
-	hydrotherapy 
-	massage 
-	biofeedback 
-	joint mobilisation 
-	joint manipulation
+  - speech therapy
+  - psychology
+  - occupational therapy
+  - physiotherapy
+  - social worker
+  - hydrotherapy 
+  - massage 
+  - biofeedback 
+  - joint mobilisation 
+  - joint manipulation
 
 #### CG.K.3
 

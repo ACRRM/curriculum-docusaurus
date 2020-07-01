@@ -6,7 +6,6 @@ title: Physical Examination
 
 ### 💡 Knowledge
 
-
 #### CG.K.1
 
 Describe a structured, systematic approach to examination

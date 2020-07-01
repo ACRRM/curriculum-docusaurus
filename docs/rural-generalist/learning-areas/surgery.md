@@ -6,7 +6,6 @@ title: Surgery
 
 ### 💡 Knowledge
 
-
 #### CG.K.1
 
 Discuss the diagnosis and initial/non-surgical management for conditions that require surgical treatment 
@@ -237,11 +236,11 @@ Manage abdominal presentations:
 
 Manage non-abdominal presentations:
 - Integumentary lesions: skin, nail, subcutaneous lesions, ganglia, lipoma, digital amputation, burns cellulitis, skin flap and skin graft closure
-	Wounds: dressings, excision and suture, drainage and debridement, drainage and packing
-	Fertility: vasectomy
-	Genitourinary disease: acute testicular torsion, epididymitis, phimosis, circumcision 
-	Breast lump: triple assessment and referral 
-	Hand/limb: carpal tunnel release, hand trauma/infection, extensor tendon repair, compartment syndrome upper and lower limb 
+- Wounds: dressings, excision and suture, drainage and debridement, drainage and packing
+- Fertility: vasectomy
+- Genitourinary disease: acute testicular torsion, epididymitis, phimosis, circumcision 
+- Breast lump: triple assessment and referral 
+- Hand/limb: carpal tunnel release, hand trauma/infection, extensor tendon repair, compartment syndrome upper and lower limb 
 
 #### AS.S.12
 

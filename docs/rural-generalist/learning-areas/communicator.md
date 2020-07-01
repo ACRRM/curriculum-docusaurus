@@ -6,7 +6,6 @@ title: Communicator
 
 ### 💡 Knowledge
 
-
 #### CG.K.1
 
 Describe the components of good communication
@@ -32,7 +31,6 @@ Describe how to access an interpreter
 Discuss the safe use of social media 
 
 ### 🤹‍♀️ Skills
-
 
 #### CG.S.1
 

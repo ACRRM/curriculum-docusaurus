@@ -117,7 +117,6 @@ Implement efficiency and effectiveness measures, including:
 
 ### 🎭 Attributes
 
-
 #### At.1
 
 Accountability

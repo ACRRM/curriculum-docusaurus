@@ -6,7 +6,6 @@ title: Oral Health
 
 ### 💡 Knowledge
 
-
 #### CG.K.1
 
 Describe the main concepts and principles of: 

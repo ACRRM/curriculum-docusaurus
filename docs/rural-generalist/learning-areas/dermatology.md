@@ -128,63 +128,63 @@ Receptivity
 
 ### Dermatology presentations and conditions
 
-•	Skin infections
-- Viral: warts, molluscum contagiosum, herpes simplex, herpes zoster, HIV 
-- Bacterial: erysipelas/cellulitis, staphylococcal infections, folliculitis, pitted keratolysis, erythrasma, syphilis, impetigo 
-- Fungal: candidiasis, tinea, pityriasis versicolor 
-- Insects: scabies, lice, flea bites 
-•	Cutaneous manifestations of systemic disease, including: 
-- systemic malignancy 
-- metabolic diseases 
-- endocrine disorders e.g. diabetes, thyroid, Cushings, Addison’s 
-- gastrointestinal disorders 
-- Paget’s disease
-- extra-mammary Paget’s disease
-- autoimmune and or connective tissue diseases eg systemic lupus erythematosus, polymyositis, systemic sclerosis, CREST syndrome, sarcoid, raynauds, scleroderma, bullous pemphigoid, epidermolysis bullosa 
-•	Rashes related to pregnancy, including: 
-- pruritis gravidarum 
-- prurigo of pregnancy 
-- pruritic urticarial papules and plaques of pregnancy 
-- pruritic folliculitis of pregnancy 
-•	Dermatological conditions associated with hair, including: 
-- hair loss – diffuse, localised 
-- alopecia areata 
-- alopecia totalis 
-- trichotillomania 
-- traction alopecia 
-- scalp ringworm 
-- lichen simplex 
-- psoriasis 
-- excessive hair growth, aetiology, differences: hirsutism, hypertrichosis 
-•	Dermatological conditions associated with nails, including:
-- nail pitting 
-- nail ridging 
-- nail discolouration 
-- nail plate thickening; tinea, onychogryphosis
-- other nail conditions; avulsion, ingrown, subungual haematoma 
-•	Nail changes that occur due to: 
-- psoriasis 
-- dermatitis 
-- paronychia
-•	Types of ‘nappy rash’, including: 
-- irritant dermatitis 
-- candida 
-- seborrheic dermatitis 
-•	Facial rashes, including: 
-- rosacea 
-- seborrheic, perioral, contact dermatitis 
-- fungal infection 
-- systemic and discoid lupus 
-- erythematosus
-- acne
-- chloasma
-•	Rashes on the hands and other areas of body including:
-- contact irritant dermatitis 
-- contact allergic dermatitis 
-- endogenous eczema 
-- fungal infection 
-- psoriasis
+- Skin infections
+  - Viral: warts, molluscum contagiosum, herpes simplex, herpes zoster, HIV 
+  - Bacterial: erysipelas/cellulitis, staphylococcal infections, folliculitis, pitted keratolysis, erythrasma, syphilis, impetigo 
+  - Fungal: candidiasis, tinea, pityriasis versicolor 
+  - Insects: scabies, lice, flea bites 
+- Cutaneous manifestations of systemic disease, including: 
+  - systemic malignancy 
+  - metabolic diseases 
+  - endocrine disorders e.g. diabetes, thyroid, Cushings, Addison’s 
+  - gastrointestinal disorders 
+  - Paget’s disease
+  - extra-mammary Paget’s disease
+  - autoimmune and or connective tissue diseases eg systemic lupus erythematosus, polymyositis, systemic sclerosis, CREST syndrome, sarcoid, raynauds, scleroderma, bullous pemphigoid, epidermolysis bullosa 
+- Rashes related to pregnancy, including: 
+  - pruritis gravidarum 
+  - prurigo of pregnancy 
+  - pruritic urticarial papules and plaques of pregnancy 
+  - pruritic folliculitis of pregnancy 
+- Dermatological conditions associated with hair, including: 
+  - hair loss – diffuse, localised 
+  - alopecia areata 
+  - alopecia totalis 
+  - trichotillomania 
+  - traction alopecia 
+  - scalp ringworm 
+  - lichen simplex 
+  - psoriasis 
+  - excessive hair growth, aetiology, differences: hirsutism, hypertrichosis 
+- Dermatological conditions associated with nails, including:
+  - nail pitting 
+  - nail ridging 
+  - nail discolouration 
+  - nail plate thickening; tinea, onychogryphosis
+  - other nail conditions; avulsion, ingrown, subungual haematoma 
+- Nail changes that occur due to: 
+  - psoriasis 
+  - dermatitis 
+  - paronychia
+- Types of ‘nappy rash’, including: 
+  - irritant dermatitis 
+  - candida 
+  - seborrheic dermatitis 
+- Facial rashes, including: 
+  - rosacea 
+  - seborrheic, perioral, contact dermatitis 
+  - fungal infection 
+  - systemic and discoid lupus 
+  - erythematosus
+  - acne
+  - chloasma
+- Rashes on the hands and other areas of body including:
+  - contact irritant dermatitis 
+  - contact allergic dermatitis 
+  - endogenous eczema 
+  - fungal infection 
+  - psoriasis
 
-•	Mucous membrane conditions; ulcers, tumours, leukoplakia 
-•	Chronic ulcers; venous and arterial ulcers, pressure sores
-•	Dermatitis conditions; atopy, eczema, contact dermatitis, venous insufficiency dermatitis, xerosis
+- Mucous membrane conditions; ulcers, tumours, leukoplakia 
+- Chronic ulcers; venous and arterial ulcers, pressure sores
+- Dermatitis conditions; atopy, eczema, contact dermatitis, venous insufficiency dermatitis, xerosis

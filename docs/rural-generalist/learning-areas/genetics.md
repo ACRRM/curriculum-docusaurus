@@ -6,7 +6,6 @@ title: Genetics
 
 ### 💡 Knowledge
 
-
 #### CG.K.1
 
 Identify scientific developments around genetics

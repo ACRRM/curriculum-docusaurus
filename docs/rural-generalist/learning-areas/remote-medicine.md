@@ -6,7 +6,6 @@ title: Remote Medicine
 
 ### 💡 Knowledge
 
-
 #### AS.K.1
 
 Discuss public health issues relevant to remote communities, including: 
@@ -29,10 +28,10 @@ Identify links between social factors and health outcomes in a community, includ
 - the impact of poverty, nutrition, housing, education and employment opportunities, family relationships, social support, transport, and control over one’s life
 - the Barker hypothesis and health outcomes in adulthood
 - Principles of ethical practice in a remote community, including:
-	respecting different cultural frameworks for determining ethical behaviour
-	understanding the ethical principles underlying the care of chronically ill patients in remote practice – informed consent, confidentiality, autonomy and issues associated with dying
-	respecting a patient’s right to refuse, or vary treatment, and
-	understanding local issues that might impact upon the decision to treat a person locally or refer
+  - respecting different cultural frameworks for determining ethical behaviour
+  - understanding the ethical principles underlying the care of chronically ill patients in remote practice – informed consent, confidentiality, autonomy and issues associated with dying
+  - respecting a patient’s right to refuse, or vary treatment, and
+  - understanding local issues that might impact upon the decision to treat a person locally or refer
 
 #### AS.K.4
 
