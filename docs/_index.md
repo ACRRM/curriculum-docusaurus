@@ -1,6 +1,6 @@
 ---
 id: _index
-title: Introduction
+title: Welcome
 ---
 
 View all our Fellowship training curricula, handbooks, guides, policies, standards and forms. Making it easy to navigate your path to Fellowship.
