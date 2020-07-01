@@ -1,13 +1,12 @@
 const path = require('path');
 
 module.exports = {
-  title: "My Site",
-  tagline: "The tagline of my site",
-  url: "https://your-docusaurus-test-site.com",
+  title: "ACRRM Curriculum",
+  url: "https://acrrm-curriculum.netlify.com",
   baseUrl: "/",
   favicon: "img/favicon.ico",
-  organizationName: "facebook", // Usually your GitHub org/user name.
-  projectName: "docusaurus", // Usually your repo name.
+  organizationName: "ACRRM",
+  projectName: "curriculum",
   themeConfig: {
     navbar: {
       hideOnScroll: true,

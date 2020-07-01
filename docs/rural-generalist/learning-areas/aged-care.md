@@ -4,7 +4,7 @@ title: Aged Care
 
 ## Core Generalised
 
-### Knowledge
+### 💡 Knowledge
 
 #### CG.K.1
 
@@ -97,7 +97,7 @@ Integrate health education and health promotion for healthy ageing activities to
 
 Access and collaborate with agencies responsible for older person care and support including residential care facilities including nursing homes, hostels, respite care services, community resources available to support older people in the home, roles of allied health care workers, role of Office of Public Guardian/Public Trustee
 
-### Attributes
+### 🎭 Attributes
 
 #### At.6 
 

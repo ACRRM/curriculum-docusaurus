@@ -4,7 +4,7 @@ title: Professional
 
 ## Core Generalised
 
-### Knowledge
+### 💡 Knowledge
 
 #### CG.K.1
 
@@ -34,7 +34,7 @@ Recognise the principles and limits of patient confidentiality
 
 Discuss the appropriate regulatory, legal and clinical standards and requirements for practicing medicine in Australia
 
-### Skills
+### 🤹‍♀️ Skills
 
 #### CG.S.1
 
@@ -100,7 +100,7 @@ Respond professionally and appropriately to complaints
 
 Recognise unprofessional behaviour and signs of the practitioner in difficulty among colleagues and respond according to ethical guidelines and statutory requirements
 
-### Attributes
+### 🎭 Attributes
 
 
 #### At.8

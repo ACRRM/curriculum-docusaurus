@@ -4,7 +4,7 @@ title: Procedural Skills
 
 ## Core Generalised
 
-### Knowledge
+### 💡 Knowledge
 
 CG.K.1  	Identify common and important procedures
 CG.K.2  	Describe indicators for undertaking a procedure
@@ -16,7 +16,7 @@ CG.K.7  	Describe informed consent, patient and equipment preparation methods, s
 CG.K.8  	Identify the presence of psychomotor impairment or medical conditions that may affect the ability to successfully and safely perform technical tasks
 CG.K.9  	Describe other procedural related risks, such as the transmission of blood borne viruses and their potential for transmission between patients and healthcare providers during procedures
 
-### Skills
+### 🤹‍♀️ Skills
 
 CG.S.1	Ensure that practice facilities are appropriately equipped and resourced to meet procedural task requirements
 CG.S.2	Ensure adequate preparation for the procedure 
@@ -25,7 +25,7 @@ CG.S.4	Ensure that procedural tasks meet the ethical and legal requirements for 
 CG.S.5	Recognise and manage complications of procedures performed by self or others
 CG.S.6	Document consent, procedure, after care and follow up appropriately 
 
-### Attributes
+### 🎭 Attributes
 
 At.20    Sensitivity 
 At.1      Accountability

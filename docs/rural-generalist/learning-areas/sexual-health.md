@@ -4,7 +4,7 @@ title: Sexual Health
 
 ## Core Generalised
 
-### Knowledge
+### 💡 Knowledge
 
 #### CG.K.1
 
@@ -50,7 +50,7 @@ Describe tests of cure and re-infection
 
 Explain genital dermatology and common gynaecological/urological problems
 
-### Skills
+### 🤹‍♀️ Skills
 
 #### CG.S.1
 
@@ -98,7 +98,7 @@ Provide in sexual assault cases:
 - psychological safety
 - emergency contraception
 
-### Attributes
+### 🎭 Attributes
 
 #### At.8
 

@@ -4,7 +4,7 @@ title: Health Advocate
 
 ## Core Generalised
 
-### Knowledge
+### 💡 Knowledge
 
 
 #### CG.K.1
@@ -47,7 +47,7 @@ Discuss the common challenges for seeking and receiving help in rural and remote
 
 Explain the role of the Rural Generalist in the chain of services to assist in prevention and support
 
-### Skills 
+### 🤹‍♀️ Skills 
 
 #### CG.S.1
 
@@ -117,7 +117,7 @@ Work with patients experience domestic violence to develop a safety plan, includ
 
 Develop strategies to mitigate personal risk, including how to deal with the perpetrator of domestic violence
 
-### Attributes
+### 🎭 Attributes
 
 #### At.5
 

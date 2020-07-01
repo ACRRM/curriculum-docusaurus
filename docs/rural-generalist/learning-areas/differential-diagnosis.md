@@ -4,7 +4,7 @@ title: Differential Diagnosis
 
 ## Core Generalised
 
-### Knowledge
+### 💡 Knowledge
 
 
 #### CG.K.1
@@ -23,7 +23,7 @@ Illustrate an understanding of clinical disease and event probabilities
 
 Identify the system-related and cognitive causes of diagnostic errors, including cognitive bias and heuristics, and describe approaches to reducing cognitive error and improving quality of diagnosis at a healthcare organisation level.
 
-### Skills
+### 🤹‍♀️ Skills
 
 #### CG.S.1
 
@@ -61,7 +61,7 @@ Justify the diagnosis based on clinical information
 
 Modify working diagnosis based on new information or response to therapy 
 
-### Attributes
+### 🎭 Attributes
 
 
 #### At. 2

@@ -4,7 +4,7 @@ title: Ophthalmology
 
 ## Core Generalised
 
-### Knowledge
+### 💡 Knowledge
 
 
 #### CG.K.1
@@ -84,7 +84,7 @@ Prescribe topical and systemic medications for eye, including:
 - diagnostic agents 
 - local anaesthetics
 
-### Attributes
+### 🎭 Attributes
 
 #### At.20
 

@@ -4,7 +4,7 @@ title: Diagnostic Imaging
 
 ## Core Generalised
 
-### Knowledge
+### 💡 Knowledge
 
 #### CG.K.1
 
@@ -62,7 +62,7 @@ Describe the comparative radiation doses of imaging modalities
 
 Describe risks to patients and staff of proximity to diagnostic imaging and ways to reduce these risks
 
-### Skills
+### 🤹‍♀️ Skills
 
 #### CG.S.1
 
@@ -175,7 +175,7 @@ Recognise common and important paediatrics conditions using X-ray and/or ultraso
 - intussusception, pyloric stenosis, malrotation
 - epiglottitis/croup 
 
-### Attributes
+### 🎭 Attributes
 
 #### At.1
 

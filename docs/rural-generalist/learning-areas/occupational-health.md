@@ -4,7 +4,7 @@ title: Occupational Health
 
 ## Core Generalised
 
-### Knowledge
+### 💡 Knowledge
 
 #### CG.K.1
 
@@ -75,7 +75,7 @@ Undertake hazards identification, assessment and mitigation limitations when att
 
 Perform initial patient assessment and management and activate retrieval, transport or evacuation as appropriate
 
-### Attributes
+### 🎭 Attributes
 
 #### At.13
 

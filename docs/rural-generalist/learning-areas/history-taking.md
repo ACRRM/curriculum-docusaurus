@@ -4,8 +4,7 @@ title: History Taking
 
 ## Core Generalised
 
-### Knowledge
-
+### 💡 Knowledge
 
 #### CG.K.1
 
@@ -15,8 +14,7 @@ Describe a structured approach to patient history, including systems review.
 
 Identify potential sources of data (e.g. personal health records, medical records, patient, family, carers, pharmacy records)
 
-### Skills
-
+### 🤹‍♀️ Skills
 
 #### CG.S.1
 
@@ -62,7 +60,7 @@ Persist in seeking information to assist in clinical decision making
 
 Create accurate, succinct, legible and timely records of every clinical encounter
 
-### Attributes
+### 🎭 Attributes
 
 #### At.14
 

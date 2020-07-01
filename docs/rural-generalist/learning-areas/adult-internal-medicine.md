@@ -4,7 +4,7 @@ title: Adult Internal Medicine
 
 ## Core Generalised
 
-### Knowledge
+### 💡 Knowledge
 
 
 #### CG.K.1
@@ -19,7 +19,7 @@ Discuss differential diagnosis, appropriate investigations and initial managemen
 
 Describe clinical presentation, differential diagnosis, investigations, initial management, principles of ongoing management, potential complications of the disease and its management, for common and important conditions 
 
-### Skills 
+### 🤹‍♀️ Skills 
 
 
 #### CG.S.1
@@ -59,7 +59,7 @@ Perform and interpret the following diagnostic and therapeutic procedures:
   - ascitic tap
   - assist with focussed assessment with sonography for trauma   - FAST Scan 
 
-### Attributes
+### 🎭 Attributes
 
 
 #### At.1  
@@ -76,7 +76,7 @@ Reflection
 
 ## ADVANCED SPECIALISED
 
-### Knowledge
+### 💡 Knowledge
 
 #### AS.K.1
 
@@ -86,7 +86,7 @@ Describe the clinical presentation, initial investigations, initial management, 
 
 Explain the interpretation and significance of relevant investigations and reports 
 
-### Skills
+### 🤹‍♀️ Skills
 
 
 #### AS.S.1
@@ -105,7 +105,7 @@ For the less common or more complex, acute and chronic conditions with considera
 
 Perform and interpret one or more advanced diagnostic and/or therapeutic procedure according to community need, eg exercise stress testing, Holter monitoring, endoscopy
 
-### Attributes
+### 🎭 Attributes
 
 
 #### At.1

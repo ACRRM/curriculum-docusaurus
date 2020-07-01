@@ -4,7 +4,7 @@ title: Mental Health
 
 ## Core Generalised
 
-### Knowledge
+### 💡 Knowledge
 
 
 #### CG.K.1
@@ -218,7 +218,7 @@ Apply a plan/protocol for referring or transferring patients who require special
 
 Use the legislative framework for involuntary psychiatric care, guardianship/power of attorney and child protection where relevant
 
-### Attributes
+### 🎭 Attributes
 
 
 #### At.6
@@ -235,7 +235,7 @@ Resilience
 
 ## ADVANCED SPECIALISED
 
-### Knowledge
+### 💡 Knowledge
 
 #### AS.K.1
 
@@ -321,7 +321,7 @@ Understands the importance of family issues/dysfunction and the broader social c
 
 Knows appropriate strategies and techniques for teaching mental health approaches to junior doctors and other health professionals.
 
-### Skills
+### 🤹‍♀️ Skills
 
 #### AS.S.1
 
@@ -457,7 +457,7 @@ Design and implement a community mental health initiative
 - adolescent mental health programs
 - preventive programs – e.g. Beyond Blue, Headspace or GP Network mental health activities within the registrar’s community.
 
-### Attributes
+### 🎭 Attributes
 
 #### At.6
 

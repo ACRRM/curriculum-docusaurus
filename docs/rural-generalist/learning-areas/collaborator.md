@@ -4,14 +4,14 @@ title: Collaborator
 
 ## Core Generalised
 
-### Knowledge
+### 💡 Knowledge
 
 CG.K.1	Discuss principles of risk management in rural and remote environment 
 CG.K.2	Discuss the roles and responsibilities of health care team members
 CG.K.3	Describe an approach to conflict management
 CG.K.4	Identify referral networks
 
-### Skills
+### 🤹‍♀️ Skills
 
 CG.K.1	Identify level of risk for patient, doctor, and community, including:
 - assessment of situational analysis: complexity, socio-economic factors, cultural and psychological factors, public health issues
@@ -32,7 +32,7 @@ CG.K.7	Demonstrate safe handover of care, using both verbal and written communic
 
 CG.K.8	Supervise and co-ordinate vertical integration where required eg clinical learners
 
-### Attributes
+### 🎭 Attributes
 
 At.4          Clinical courage
 At.17        Resourcefulness

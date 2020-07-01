@@ -4,7 +4,7 @@ title: Academic Practice
 
 ## ADVANCED SPECIALISED 
 
-### Knowledge
+### 💡 Knowledge
 
 
 #### AS.K.1
@@ -70,7 +70,7 @@ Discuss the nature and scope of current research activities pertaining to rural 
 
 Explain the role of research and clinical audit against context-relevant benchmarks in the continuous quality improvement of a rural/remote medical practice
 
-### Skills
+### 🤹‍♀️ Skills
 
 
 #### AS.S.1
@@ -197,7 +197,7 @@ Provide direct and distance clinical supervision and support for other rural and
 
 Use distance learning technologies in education, such as videoconferencing and asynchronous web-based programs
 
-### Attributes
+### 🎭 Attributes
 
 #### At.1
 

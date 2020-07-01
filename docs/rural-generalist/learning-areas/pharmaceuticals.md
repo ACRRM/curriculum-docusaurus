@@ -4,7 +4,7 @@ title: Pharmaceuticals
 
 ## Core Generalised
 
-### Knowledge
+### 💡 Knowledge
 
 #### CG.K.1
 
@@ -48,7 +48,7 @@ Discuss the quality use of medicines:
 
 Discuss the range of treatment modalities patients may seek including complementary therapies
 
-### Skills
+### 🤹‍♀️ Skills
 
 #### CG.S.1
 
@@ -114,7 +114,7 @@ Teach device use technique and assess patient’s use of delivery devices
 
 Use a range of strategies to enhance patient adherence
 
-### Attributes
+### 🎭 Attributes
 
 #### At.2
 

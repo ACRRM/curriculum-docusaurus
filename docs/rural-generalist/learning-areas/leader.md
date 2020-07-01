@@ -4,7 +4,7 @@ title: Leader
 
 ## Core Generalised
 
-### Knowledge
+### 💡 Knowledge
 
 #### CG.K.1
 
@@ -74,7 +74,7 @@ Describe professional systems, including:
 - organisations, the Colleges and associations, PHNs, Rural Workforce Agencies, RDA, AMA and Medical Indemnity Insurers  
 - the role and function of academic, financial, and legal advisers including, management consultants, accountants, solicitors, financial planning consultants
 
-### Skills
+### 🤹‍♀️ Skills
 
 #### CG.S.1
 
@@ -115,7 +115,7 @@ Implement efficiency and effectiveness measures, including:
 - apply evidence and management processes to achieve cost-appropriate care
 - use a considered and rational approach to the use of resources including disposable items, limited/expensive resources and human resource
 
-### Attributes
+### 🎭 Attributes
 
 
 #### At.1

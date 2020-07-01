@@ -4,7 +4,7 @@ title: Digital Health
 
 ## Core Generalised
 
-### Knowledge
+### 💡 Knowledge
 
 
 #### CG.K.1
@@ -79,7 +79,7 @@ Compare the benefits and risks of using social media in general practice
 
 Describe appropriate ways for doctors to engage in social media
 
-### Skills
+### 🤹‍♀️ Skills
 
 #### CG.S.1
 
@@ -133,7 +133,7 @@ Access online education
 
 Be able to use electronic health records for quality improvement eg clinical audits
 
-### Attributes
+### 🎭 Attributes
 
 #### At.2
 

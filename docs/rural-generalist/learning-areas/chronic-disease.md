@@ -4,7 +4,7 @@ title: Chronic Disease
 
 ## Core Generalised
 
-### Knowledge
+### 💡 Knowledge
 
 
 #### CG.K.1
@@ -43,7 +43,7 @@ Identify relevant risk factors for future health events in the context of chroni
 
 Identify currently funded programs to assist in the management of chronic conditions
 
-### Skills
+### 🤹‍♀️ Skills
 
 
 #### CG.S.1
@@ -122,7 +122,7 @@ Utilise computer records and eHealth measures in disease management and preventi
 
 Have strategies for time management, taking into consideration heavy demands on time and effort when managing complex medical problems and chronically ill patients
 
-### Attributes
+### 🎭 Attributes
 
 
 #### At.6
