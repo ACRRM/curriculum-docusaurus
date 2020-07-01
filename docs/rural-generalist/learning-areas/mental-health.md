@@ -233,7 +233,7 @@ Sensitivity
 
 Resilience
 
-## ADVANCED SPECIALISED
+## Advanced Specialised
 
 ### 💡 Knowledge
 

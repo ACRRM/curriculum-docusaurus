@@ -121,7 +121,7 @@ At.6          Compassion
 At.7          Empathy
 At.5          Commitment
 
-## ADVANCED SPECIALISED
+## Advanced Specialised
 
 ### 💡 Knowledge
 

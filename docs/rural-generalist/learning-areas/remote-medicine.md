@@ -2,7 +2,7 @@
 title: Remote Medicine
 ---
 
-## ADVANCED SPECIALISED
+## Advanced Specialised
 
 ### 💡 Knowledge
 

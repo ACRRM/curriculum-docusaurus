@@ -143,7 +143,7 @@ Reflection
 
 Resourceful
 
-## ADVANCED SPECIALISED
+## Advanced Specialised
 
 ### 💡 Knowledge
 

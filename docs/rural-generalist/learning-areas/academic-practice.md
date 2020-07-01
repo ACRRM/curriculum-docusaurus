@@ -2,7 +2,7 @@
 title: Academic Practice
 ---
 
-## ADVANCED SPECIALISED 
+## Advanced Specialised 
 
 ### 💡 Knowledge
 

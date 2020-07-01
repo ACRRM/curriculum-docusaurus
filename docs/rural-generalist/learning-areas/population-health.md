@@ -2,7 +2,7 @@
 title: Population Health
 ---
 
-## ADVANCED SPECIALISED
+## Advanced Specialised
 
 ### 💡 Knowledge
 
@@ -57,10 +57,7 @@ Detail the characteristics of rural and remote settings and their impact on popu
 - limited resource availability
 - rural/remote environmental factors
 - unique agricultural health and medical issues impacting upon workers and their families, and
-
-#### - unique mining
-
-health issues in rural and remote areas.
+- unique mining health issues in rural and remote areas
 
 #### AS.K.7
 

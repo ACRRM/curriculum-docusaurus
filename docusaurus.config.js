@@ -17,12 +17,6 @@ module.exports = {
       },
       links: [
         {
-          to: "docs/",
-          activeBasePath: "docs",
-          label: "Docs",
-          position: "right",
-        },
-        {
           href: "tel:1800223226",
           label: "📞 1800 223 226",
           position: "right",
@@ -52,7 +46,7 @@ module.exports = {
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
           // It is recommended to set document id as docs home page (`docs/` path).
-          homePageId: "doc1",
+          routeBasePath: '/',
           sidebarPath: require.resolve("./sidebars.auto.js"),
           // Please change this to your repo.
           editUrl: "https://github.com/ACRRM/curriculum-docusaurus/tree/master",

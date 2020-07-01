@@ -5,6 +5,7 @@
   "scripts": {
     "start": "docusaurus start",
     "build": "docusaurus build",
+    "serve": "yarn build && npx http-server build",
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",
     "create-pdf": "npx docusaurus-pdf from-build-config"

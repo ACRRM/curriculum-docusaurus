@@ -168,7 +168,7 @@ At.1       Accountability
 At.17     Resourcefulness
 At.19     Self-reliance
 
-## ADVANCED SPECIALISED (BASED ON JCCA CURRICULUM)
+## Advanced Specialised (BASED ON JCCA CURRICULUM)
 
 ### 💡 Knowledge
 

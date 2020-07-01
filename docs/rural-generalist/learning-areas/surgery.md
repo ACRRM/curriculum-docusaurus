@@ -111,7 +111,7 @@ Integrity
 
 Reflection
 
-## ADVANCED SPECIALISED
+## Advanced Specialised
 
 ### 💡 Knowledge
 

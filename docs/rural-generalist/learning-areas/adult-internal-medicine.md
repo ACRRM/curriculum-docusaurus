@@ -74,7 +74,7 @@ Adaptability
 
 Reflection
 
-## ADVANCED SPECIALISED
+## Advanced Specialised
 
 ### 💡 Knowledge
 
