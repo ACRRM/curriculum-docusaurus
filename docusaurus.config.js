@@ -23,13 +23,14 @@ module.exports = {
         },
       ],
     },
-    // announcementBar: {
-    //   id: 'support_us', // Any value that will identify this message.
-    //   content:
-    //     '🚧 Pardon us, we are currently revamping our documents',
-    //   backgroundColor: '#fafbfc', // Defaults to `#fff`.
-    //   // textColor: '#091E42', // Defaults to `#000`.
-    // },
+    announcementBar: {
+      id: 'support_us', // Any value that will identify this message.
+      content:
+        '🚧 <b>This prototype is not complete and has limited functionality.</b> <br /> Please visit <a href="https://acrrm.org.au/resources" target="_blank" rel="noopener noreferrer">our main website</a> for up-to-date information',
+        backgroundColor: "#00bfe9"
+      // backgroundColor: '#fafbfc', // Defaults to `#fff`.
+      // textColor: '#091E42', // Defaults to `#000`.
+    },
     footer: {      
       logo: { src: 'img/ACRRM_logo.svg', alt: '' },
       style: "dark",

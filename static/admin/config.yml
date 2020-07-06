@@ -24,6 +24,7 @@ collections:
   - label: Sidebar Label
     name: sidebar_label
     widget: string
+    optional: true
   - label: Body
     name: body
     widget: markdown
