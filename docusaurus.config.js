@@ -37,7 +37,7 @@ module.exports = {
       copyright: `Copyright ©${new Date().getFullYear()} <br /> ABN: 12 078 081 848 <br /> Built with ☕ & ❤ in <a href="https://youtu.be/52ZPlDSmEj4?t=139">Brisvegas</a>`,
     },
   },
-  plugins: [path.resolve(__dirname, './node_modules/docusaurus-lunr-search/')],
+  plugins: [path.resolve(__dirname, './node_modules/docusaurus-lunr-search/'), 'docusaurus-plugin-sass'],
   // plugins: ['docusaurus-plugin-auto-sidebars'],
   presets: [
     [
