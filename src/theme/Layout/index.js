@@ -77,6 +77,7 @@ function Layout(props) {
         <AnnouncementBar />
         <Navbar />
         <div className="main-wrapper">{children}</div>
+        <div className="printfont" aria-hidden="true">render print font</div>
         {!noFooter && <Footer />}
       </UserPreferencesProvider>
     </ThemeProvider>

@@ -15,7 +15,6 @@
   --ifm-color-primary-lighter: #ff860c;
   --ifm-color-primary-lightest: #ff982f;
   --ifm-code-font-size: 95%;
-
   --ifm-navbar-height: 100px;
   font-family: "archiaregular", arial, sans-serif;
   --docusaurus-announcement-bar-height: auto !important;
@@ -28,6 +27,7 @@
   padding: 0 var(--ifm-pre-padding);
 }
 
+/* custom css below */
 @font-face {
   font-family: "archiaregular";
   src: local("archiaregular"),
@@ -36,7 +36,42 @@
   font-style: normal;
 }
 
-/* custom css below */
+@font-face {
+  font-family: "MuseoSans";
+  src: local("MuseoSans"),
+    url(/fonts/MuseoSans_500.otf) format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "MuseoSans";
+  src: local("MuseoSans"),
+    url(/fonts/MuseoSans_500_Italic.otf) format("opentype");
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "MuseoSans";
+  src: local("MuseoSans"),
+    url(/fonts/MuseoSans_700.otf) format("opentype");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@media only print {
+  body {
+    font-family: "MuseoSans", arial, sans-serif;
+  }
+}
+
+/* https://stackoverflow.com/a/45883930/905571 */
+.printfont {
+  font-family: "MuseoSans", serif;
+  position: absolute;
+  visibility: hidden;
+}
 
 html {
 	scroll-behavior: smooth;
