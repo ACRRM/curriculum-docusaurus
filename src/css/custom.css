@@ -44,29 +44,13 @@
   font-style: normal;
 }
 
-@font-face {
-  font-family: "MuseoSans";
-  src: local("MuseoSans"),
-    url(/fonts/MuseoSans_500_Italic.otf) format("opentype");
-  font-weight: normal;
-  font-style: italic;
-}
-
-@font-face {
-  font-family: "MuseoSans";
-  src: local("MuseoSans"),
-    url(/fonts/MuseoSans_700.otf) format("opentype");
-  font-weight: bold;
-  font-style: normal;
-}
-
 @media only print {
   body {
     font-family: "MuseoSans", arial, sans-serif;
   }
 }
 
-/* https://stackoverflow.com/a/45883930/905571 */
+/* HACK: https://stackoverflow.com/a/45883930/905571 */
 .printfont {
   font-family: "MuseoSans", serif;
   position: absolute;
