@@ -19,6 +19,10 @@ At the time of writing this document, an application to have Rural Generalist me
 recognised as a protected title and as a specialised field within the speciality of general practice
 is being progressed.
 
+:::info PDF version
+[Click to download the Rural Generalist curriculum](/rural-generalist.pdf)
+:::
+
 ## What is a General Practitioner?
 
 The General Practitioner is the doctor with core responsibility for providing comprehensive and

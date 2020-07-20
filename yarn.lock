@@ -4009,9 +4009,10 @@ docusaurus-lunr-search@^2.0.1:
     lunr "^2.3.8"
     lunr-languages "^1.4.0"
 
-"docusaurus-pdf@git+https://github.com/ACRRM/docusaurus-pdf.git":
+docusaurus-pdf@^1.2.0:
   version "1.2.0"
-  resolved "git+https://github.com/ACRRM/docusaurus-pdf.git#48c67d58728dd40ae18eae0bddab58528f37843b"
+  resolved "https://registry.yarnpkg.com/docusaurus-pdf/-/docusaurus-pdf-1.2.0.tgz#5d874862bd20809314b5aa368688a141980a7a6b"
+  integrity sha512-nDpGVGL18y1c3hpOlX38QtfKcThAlmaUPlHR/7G1wun/pvVeCVV1HUvFDAldJFWdEUWzOCHVl/hpSft7bt6hiw==
   dependencies:
     chalk "^3.0.0"
     commander "^4.1.1"

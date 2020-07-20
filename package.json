@@ -9,8 +9,8 @@
     "serve": "npx http-server build",
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",
-    "move-pdf": "shx mv docusaurus.pdf build/generated.pdf && shx cp build/generated.pdf static/generated.pdf",
-    "create-pdf": "docusaurus-pdf from-build-config && yarn run move-pdf"
+    "move-pdf": "shx mv docusaurus.pdf build/generated.pdf && shx cp build/rural-generalist.pdf static/rural-generalist.pdf",
+    "create-pdf": "docusaurus-pdf from-build build /rural-generalist/introduction && yarn run move-pdf"
   },
   "dependencies": {
     "@docusaurus/core": "^2.0.0-alpha.58",
@@ -18,7 +18,7 @@
     "bulma": "^0.9.0",
     "clsx": "^1.1.1",
     "docusaurus-lunr-search": "^2.0.1",
-    "docusaurus-pdf": "git+https://github.com/ACRRM/docusaurus-pdf.git",
+    "docusaurus-pdf": "^1.2.0",
     "docusaurus-plugin-auto-sidebars": "^1.0.5",
     "docusaurus-plugin-sass": "^0.1.9",
     "netlify-cms": "^2.10.51",

@@ -1,4 +1,4 @@
-const path = require('path');
+const path = require("path");
 
 module.exports = {
   title: "ACRRM Curriculum",
@@ -10,10 +10,10 @@ module.exports = {
   themeConfig: {
     navbar: {
       hideOnScroll: true,
-      title: "Resources",
+      // title: "Resources",
       logo: {
         alt: "ACRRM Logo",
-        src: "img/ACRRM_logo_minimal.svg",
+        src: "img/ACRRM_logo.svg",
       },
       links: [
         {
@@ -24,20 +24,26 @@ module.exports = {
       ],
     },
     announcementBar: {
-      id: 'support_us', // Any value that will identify this message.
+      id: "support_us", // Any value that will identify this message.
       content:
         '🚧 <b>This prototype is not complete and has limited functionality.</b> <br /> Please visit <a href="https://acrrm.org.au/resources" target="_blank" rel="noopener noreferrer">our main website</a> for up-to-date information',
-        backgroundColor: "#00bfe9"
+      backgroundColor: "#00bfe9",
       // backgroundColor: '#fafbfc', // Defaults to `#fff`.
       // textColor: '#091E42', // Defaults to `#000`.
     },
-    footer: {      
-      logo: { src: 'img/ACRRM_logo.svg', alt: '' },
-      style: "dark",
+    footer: {
+      logo: {
+        src: "img/ACRRM_logo.svg",
+        alt: "ACRRM logo",
+        href: "https://acrrm.org.au",
+      },
       copyright: `Copyright ©${new Date().getFullYear()} <br /> ABN: 12 078 081 848 <br /> Built with ☕ & ❤ in <a href="https://youtu.be/52ZPlDSmEj4?t=139">Brisvegas</a>`,
     },
   },
-  plugins: [path.resolve(__dirname, './node_modules/docusaurus-lunr-search/'), 'docusaurus-plugin-sass'],
+  plugins: [
+    path.resolve(__dirname, "./node_modules/docusaurus-lunr-search/"),
+    "docusaurus-plugin-sass",
+  ],
   // plugins: ['docusaurus-plugin-auto-sidebars'],
   presets: [
     [
@@ -47,10 +53,10 @@ module.exports = {
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
           // It is recommended to set document id as docs home page (`docs/` path).
-          routeBasePath: '/',
+          routeBasePath: "/",
           sidebarPath: require.resolve("./sidebars.auto.js"),
           // Please change this to your repo.
-          editUrl: "https://github.com/ACRRM/curriculum-docusaurus/tree/master",
+          editUrl: "",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
