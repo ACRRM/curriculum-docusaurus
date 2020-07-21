@@ -22,6 +22,12 @@ module.exports = {
           position: "right",
         },
       ],
+    },    
+    googleAnalytics: {
+      trackingID: 'UA-11311405-8'
+    },
+    gtag: {
+      trackingID: 'UA-11311405-8',
     },
     announcementBar: {
       id: "support_us", // Any value that will identify this message.
@@ -61,12 +67,6 @@ module.exports = {
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
         },
-        googleAnalytics: {
-          trackingID: 'UA-11311405-8'
-        },
-        gtag: {
-          trackingID: 'UA-11311405-8',
-        }
       },
     ],
   ],
