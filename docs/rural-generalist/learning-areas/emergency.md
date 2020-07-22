@@ -10,7 +10,7 @@ sidebar_label: emergency
 
 Describe the following;
 
-TESTING! 😀
+TESTING! 😀 
 
 * **basic pathophysiology of cardiac arrest and the factors leading to circulatory and respiratory failure, and those factors relevant to post resuscitation care**
 * basic pathophysiology of shock secondary to cardiogenic, haemorrhagic, hypovolaemic, anaphylactic, mechanical or other causes of shock 
