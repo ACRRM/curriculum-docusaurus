@@ -3,7 +3,7 @@ id: _index
 title: Welcome
 ---
 
-View all our Fellowship training curricula, handbooks, guides, policies, standards and forms. Making it easy to navigate your path to Fellowship.
+View all our Fellowship training curricula, handbooks, guides, policies, standards and forms. Making it easy to navigate your path to Fellowship
 
 - [Rural Generalist Curriculum](/rural-generalist/introduction)
 
