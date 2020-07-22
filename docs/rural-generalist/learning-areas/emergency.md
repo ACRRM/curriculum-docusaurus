@@ -1,84 +1,76 @@
 ---
 title: Emergency
+sidebar_label: emergency
 ---
-
 ## Core Generalised
 
 ### 💡 Knowledge
 
-
 #### CG.K.1
 
 Describe the following;
-- basic pathophysiology of cardiac arrest and the factors leading to circulatory and respiratory failure, and those factors relevant to post resuscitation care
-- basic pathophysiology of shock secondary to cardiogenic, haemorrhagic, hypovolaemic, anaphylactic, mechanical or other causes of shock 
-- basic anatomy of the airway, circulatory and respiratory system in relation to life threatening conditions 
-- relevant anatomical aspects of the neurological and musculoskeletal systems in relation to medical and surgical conditions 
-- special considerations for facial and airway trauma
-- important age-specific differences and the anatomy and physiology of the child relevant to emergencies  
-- essentials of acid-base balance and fluid and electrolyte management in emergencies 
+
+TESTING! 😀
+
+* **basic pathophysiology of cardiac arrest and the factors leading to circulatory and respiratory failure, and those factors relevant to post resuscitation care**
+* basic pathophysiology of shock secondary to cardiogenic, haemorrhagic, hypovolaemic, anaphylactic, mechanical or other causes of shock 
+* basic anatomy of the airway, circulatory and respiratory system in relation to life threatening conditions 
+* relevant anatomical aspects of the neurological and musculoskeletal systems in relation to medical and surgical conditions 
+* special considerations for facial and airway trauma
+* important age-specific differences and the anatomy and physiology of the child relevant to emergencies  
+* essentials of acid-base balance and fluid and electrolyte management in emergencies 
 
 #### CG.K.2
 
 Discuss the principles of triage, prioritisation of patients for resuscitation, and resource allocation 
 
-
 #### CG.K.3
 
 Discuss personal safety responsibilities and limitations if attending an emergency in the community
-
 
 #### CG.K.4
 
 Describe hazards identification, assessment and mitigation at a prehospital scene or incident 
 
-
 #### CG.K.5
 
 Identify medical capabilities and the relationship of emergency services police, fire, medical, specialist rescue and voluntary emergency services at a prehospital scene or incident 
-
 
 #### CG.K.6
 
 Describe the steps involved in the management of an acute emergency, proceeding logically through life support while advancing towards definitive diagnosis and management of underlying injury and disease
 
-
 #### CG.K.7
 
 Discuss the principles of managing the acutely disturbed/agitated patient
-
 
 #### CG.K.8
 
 Discuss the principles of retrieval, transfer and transport by road and by air 
 
-
 #### CG.K.9
 
 Discuss use of common chemo-therapeutic agents in emergency management particularly in relation to:
-- analgesia
-- sedation
-- antibiotics
-- thrombolysis
-- anticoagulation/platelet inhibition
 
+* analgesia
+* sedation
+* antibiotics
+* thrombolysis
+* anticoagulation/platelet inhibition
 
 #### CG.K.10
 
 Identify the contents and general layout of emergency and retrieval kits
 
-
 #### CG.K.11
 
 Explain the principles of acute forensic presentation particularly with respect to victims of sexual assault and non-accidental injury 
-
 
 #### CG.K.12
 
 Identify the disaster response plan for the hospital and community
 
 ### 🤹‍♀️ Skills
-
 
 #### CG.S.1
 
@@ -95,31 +87,33 @@ Competently provide definitive emergency medical care for most Australian Triage
 #### CG.S.4
 
 Undertake the following:
-- organise and allocate resources
-- make appropriate pre-hospital arrival preparations 
-- give telephone advice to transporting persons 
-- hazard identification, assessment and mitigation
-- conduct initial resuscitation following the ABC algorithm 
-- basic life support 
-- primary survey 
-- conduct further resuscitation as indicated 
-- secondary survey 
-- necessary investigations 
-- definitive treatment where indicated 
-- consultation as indicated 
-- stabilise and monitor haemodynamics, oxygenation and acid/base balance
-- manage acutely disturbed/agitated/violent behaviour
-- set up and supervise retrieval as indicated
+
+* organise and allocate resources
+* make appropriate pre-hospital arrival preparations 
+* give telephone advice to transporting persons 
+* hazard identification, assessment and mitigation
+* conduct initial resuscitation following the ABC algorithm 
+* basic life support 
+* primary survey 
+* conduct further resuscitation as indicated 
+* secondary survey 
+* necessary investigations 
+* definitive treatment where indicated 
+* consultation as indicated 
+* stabilise and monitor haemodynamics, oxygenation and acid/base balance
+* manage acutely disturbed/agitated/violent behaviour
+* set up and supervise retrieval as indicated
 
 #### CG.S.5
 
 Ensure proper access/egress for all systems, in particular: 
-- airway protection 
-- adequate venous access 
-- naso/orogastric intubation 
-- urinary catheterisation 
-- spinal stabilisation 
-- stabilisation of injuries and fractures 
+
+* airway protection 
+* adequate venous access 
+* naso/orogastric intubation 
+* urinary catheterisation 
+* spinal stabilisation 
+* stabilisation of injuries and fractures 
 
 #### CG.S.6
 
@@ -150,18 +144,19 @@ Resourceful
 #### AS.K.1
 
 Describe characteristics of rural and remote settings and their impact on emergency medicine that need to be considered including the differences when compared with metropolitan settings in:
-- prevailing social attitudes to health, illness and health care
-- rural occupations
-- incidence and prevalence of emergency medical conditions
-- Aboriginal and Torres Strait Islander Peoples Health
-- access to physical resources including investigations, medications and treatments
-- working in a resource limited environment
-- access to specialist services
+
+* prevailing social attitudes to health, illness and health care
+* rural occupations
+* incidence and prevalence of emergency medical conditions
+* Aboriginal and Torres Strait Islander Peoples Health
+* access to physical resources including investigations, medications and treatments
+* working in a resource limited environment
+* access to specialist services
 
 #### AS.K.2
 
 Detail selection criteria, protocols, principles, limitations and interpretation of results of the tests listed in skills section 
- 
+
 #### AS.K.3
 
 Be aware of congenital and acquired conditions that may predispose patients to emergency presentations or complicate emergency management including congenital heart disease, congenital maxillofacial and other anatomical abnormalities, acquired anatomical abnormalities
@@ -185,14 +180,15 @@ Discuss anaesthetics, procedural sedation and analgesic decision-making and deli
 #### AS.K.8
 
 Describe clinical and medico-legal requirements for consent, management of physical and/or sexual assault cases, including:
-- sexual assault examination and specimen collection
-- recognition of non-accidental injury patterns in children and domestic partners
-- understanding the coronial investigation process
-- writing medico-legal reports
-- giving evidence in court
-- treatment of minors and persons in custody
-- guardianship, advanced care directives, mentally impaired patients
-- duty of care for alcohol/recreational drug affected patients 
+
+* sexual assault examination and specimen collection
+* recognition of non-accidental injury patterns in children and domestic partners
+* understanding the coronial investigation process
+* writing medico-legal reports
+* giving evidence in court
+* treatment of minors and persons in custody
+* guardianship, advanced care directives, mentally impaired patients
+* duty of care for alcohol/recreational drug affected patients 
 
 #### AS.K.9
 
@@ -209,20 +205,22 @@ Identify potential complications (including possible treatment failure) of the e
 #### AS.K.12
 
 Describe signs and symptoms of the following complications and outline appropriate rescue plans. 
-- post-procedural complications – haemorrhage, thromboembolism, vascular insufficiency, infection/sepsis, wound breakdown, perforation/obstruction, mechanical failure, pneumothorax, spinal headache, renal failure, uncontrolled pain
-- complications of therapeutics, for example, adverse reaction, allergy/anaphylaxis, toxicity, drug interactions, GI bleeding, excessive sedation, dystonic reactions, neuroleptic malignant syndrome, transfusion reactions, over-hydration, over-anticoagulation, medication non-compliance and polypharmacy
-- complications of dialysis.
+
+* post-procedural complications – haemorrhage, thromboembolism, vascular insufficiency, infection/sepsis, wound breakdown, perforation/obstruction, mechanical failure, pneumothorax, spinal headache, renal failure, uncontrolled pain
+* complications of therapeutics, for example, adverse reaction, allergy/anaphylaxis, toxicity, drug interactions, GI bleeding, excessive sedation, dystonic reactions, neuroleptic malignant syndrome, transfusion reactions, over-hydration, over-anticoagulation, medication non-compliance and polypharmacy
+* complications of dialysis.
 
 #### AS.K.13
 
 Describe the epidemiologic characteristics, prevention and control measures for infectious disease outbreaks, including:
-- immunisation and post-exposure prophylaxis
-- community epidemics
-- nosocomial outbreaks
-- tropical and exotic infections
-- sexually transmitted infections
-- patients requiring isolation
-- personal protective equipment and safe working practices for other staff
+
+* immunisation and post-exposure prophylaxis
+* community epidemics
+* nosocomial outbreaks
+* tropical and exotic infections
+* sexually transmitted infections
+* patients requiring isolation
+* personal protective equipment and safe working practices for other staff
 
 #### AS.K.14
 
@@ -245,14 +243,15 @@ Competently provide definitive emergency medical care including emergency medici
 #### AS.S.2
 
 Undertake initial assessment and triage of patients with acute or life-threatening conditions, including:
-- seriously unwell conscious patients
-- patients with undifferentiated severe acute pain
-- undifferentiated unconscious patients
-- patients with undifferentiated shock
-- patients with undifferentiated fever or infective illness
-- undifferentiated sick children
-- major or complicated trauma – multiple trauma, head trauma, pelvic fracture, ENT, maxillofacial, abdominal (blunt and penetrating) and genital trauma
-- acutely psychotic patients, other mental illness including attempted self-harm and suicide
+
+* seriously unwell conscious patients
+* patients with undifferentiated severe acute pain
+* undifferentiated unconscious patients
+* patients with undifferentiated shock
+* patients with undifferentiated fever or infective illness
+* undifferentiated sick children
+* major or complicated trauma – multiple trauma, head trauma, pelvic fracture, ENT, maxillofacial, abdominal (blunt and penetrating) and genital trauma
+* acutely psychotic patients, other mental illness including attempted self-harm and suicide
 
 #### AS.S.3
 
@@ -261,12 +260,13 @@ Recognition of the seriously unwell conscious patient, appropriate prioritisatio
 #### AS.S.4
 
 Recognise and evaluate variations in emergency presentations among Aboriginal and Torres Strait Islander patients that differ from the non- Aboriginal and Torres Strait Islander peoples including: 
-- young age at presentation with acute coronary syndrome
-- stroke or acute kidney failure
-- acute rheumatic fever
-- severe pneumonia 
-- crusted scabies, and 
-- disseminated strongyloidiasis
+
+* young age at presentation with acute coronary syndrome
+* stroke or acute kidney failure
+* acute rheumatic fever
+* severe pneumonia 
+* crusted scabies, and 
+* disseminated strongyloidiasis
 
 #### AS.S.5
 
@@ -291,100 +291,102 @@ Competent in techniques for vital signs monitoring including invasive; intra-art
 #### AS.S.10
 
 Stabilise critically ill patients and provide primary and secondary care for emergency conditions including:
-- Airway and respiratory emergencies: 
-- advanced airway management options and techniques
-- use of portable ventilators
-- use of non-invasive ventilation
-- techniques for pneumothorax drainage techniques including needle thoracostomy, Seldinger guided catheters and large intercostal catheters
-- Circulatory and cardiovascular emergencies:
-- application of Advanced Cardiac Life Support (ACLS) algorithms
-- defibrillation, cardioversion and external cardiac pacing
-- advanced thrombolytic therapy, including management of complications
-- platelet inhibitor and anticoagulant therapy
-- advanced hypotensive therapy
-- pericardiocentesis with on-site or distant guidance
-- advanced haemostatic therapy
-- advanced anti-arrhythmic therapy
-- competent and confident administration of inotropes
-- principles of angioplasty and stenting
-- principles of occult blood loss in trauma
-- competent and confident fluid resuscitation including minimum volume fluid resuscitation, use of blood products and Massive Transfusion Protocol
-- Neurological emergencies:
-- seizure monitoring and control
-- competent lumbar puncture for diagnostic and therapeutic procedures
-- basic surgical skills to undertake decompressive cranial burr holes with distant guidance from a neurosurgeon
-- Musculo-skeletal emergencies:
-- independent splinting, casting and reduction of simple fractures and dislocations
-- reduction of complex fractures/dislocations under distant or on-site guidance, including minimisation of neurovascular compromise
-- competent and confident initial management of compound wounds
-- competent and confident initial management of spinal injuries, including awareness of patterns of spinal injury without radiological abnormality 
-- independent joint aspiration
-- Soft tissue emergencies and burns:
-- removal of superficial foreign bodies
-- independent abscess drainage
-- independent wound management, including prophylactic antibiotic administration, local anaesthetic, tetanus injections, wound cleaning, debridement and complex wound closure techniques
-- independent management of minor burns
-- initial management of moderate or severe burns including special area burns e.g. face, neck, airway, hands, genitalia, circumferential burns, chemical, electrical, other associated injury with on-site or distant guidance
-- management of rhabdomyolysis/acidosis
-- monitoring and management of compartment pressure, including escharotomy with distant or on-site guidance
-- pressure care of soft tissues at risk from ischaemia and infection
-- regulation of body temperature in patients with dermatological emergencies 
-- Obstetric and gynaecologic emergencies:
-- competent and confident initial management of haemorrhage in early pregnancy
-- initial management of trauma in pregnancy
-- competent and confident management of miscarriage
-- timely recognition and transfer of patients requiring surgical intervention
-- competent and confident management of common labour and delivery complications 
-- seizure control in eclampsia
-- management of precipitate delivery with distant guidance
-- initial management of post-partum problems
-- Abdominal and genitourinary emergencies:
-- competent and confident initial management of acute renal failure
-- recognition of gastrointestinal foreign bodies requiring removal
-- urethral and suprapubic catheterisation
-- control of oesophageal varices
-- drainage of abdominal ascites for symptom control
-- reduction of paraphimosis with on-site or distant guidance
-- Metabolic and endocrine emergencies:
-- competent and independent insulin infusion
-- competent and independent intravenous potassium replacement 
-- competent and independent IV fluids for endocrine emergencies
-- Acute infections:
-- chemotherapeutics for undifferentiated sepsis
-- be aware of and able to follow protocol for management of needle stick injury and other body fluid exposure
-- competent and confident application of infection control procedures, public health reporting procedures and management of contact persons
-- Toxicologic and toxinological emergencies:
-- competent application of pressure immobilisation bandage
-- competent and independent antivenom and antidote administration
-- competent use of venom detection kit (VDK) with distance guidance
-- safety and decontamination procedures for deliberate CBR incidents – for patients, staff members and in an emergency department
-- Environmental emergencies:
-- re-warming techniques 
-- cooling techniques
-- temperature monitoring
-- initial management of diving injuries, including hyperbaric medicine
-- Ophthalmological emergencies:
-- competent use of slit lamp
-- competent measurement of intra-ocular pressures
-- competent removal of simple superficial corneal foreign bodies
-- refer for removal of difficult foreign bodies
-- repair onsite or referral for repair peri-ocular lacerations
-- ENT and dental emergencies: 
-- tooth preservation techniques
-- infection prevention and management 
-- competent and independent management of anterior and posterior epistaxis
-- removal of simple nasal and aural foreign bodies and identification difficult foreign bodies 
-- Psychiatric emergencies:
-- competent and confident differentiation between an acute severe behavioural disturbance due to acute delirium (including substance intoxication and withdrawal) and psychosis 
-- competent and confident risk assessment, engagement and acute counselling skill
+
+* Airway and respiratory emergencies: 
+* advanced airway management options and techniques
+* use of portable ventilators
+* use of non-invasive ventilation
+* techniques for pneumothorax drainage techniques including needle thoracostomy, Seldinger guided catheters and large intercostal catheters
+* Circulatory and cardiovascular emergencies:
+* application of Advanced Cardiac Life Support (ACLS) algorithms
+* defibrillation, cardioversion and external cardiac pacing
+* advanced thrombolytic therapy, including management of complications
+* platelet inhibitor and anticoagulant therapy
+* advanced hypotensive therapy
+* pericardiocentesis with on-site or distant guidance
+* advanced haemostatic therapy
+* advanced anti-arrhythmic therapy
+* competent and confident administration of inotropes
+* principles of angioplasty and stenting
+* principles of occult blood loss in trauma
+* competent and confident fluid resuscitation including minimum volume fluid resuscitation, use of blood products and Massive Transfusion Protocol
+* Neurological emergencies:
+* seizure monitoring and control
+* competent lumbar puncture for diagnostic and therapeutic procedures
+* basic surgical skills to undertake decompressive cranial burr holes with distant guidance from a neurosurgeon
+* Musculo-skeletal emergencies:
+* independent splinting, casting and reduction of simple fractures and dislocations
+* reduction of complex fractures/dislocations under distant or on-site guidance, including minimisation of neurovascular compromise
+* competent and confident initial management of compound wounds
+* competent and confident initial management of spinal injuries, including awareness of patterns of spinal injury without radiological abnormality 
+* independent joint aspiration
+* Soft tissue emergencies and burns:
+* removal of superficial foreign bodies
+* independent abscess drainage
+* independent wound management, including prophylactic antibiotic administration, local anaesthetic, tetanus injections, wound cleaning, debridement and complex wound closure techniques
+* independent management of minor burns
+* initial management of moderate or severe burns including special area burns e.g. face, neck, airway, hands, genitalia, circumferential burns, chemical, electrical, other associated injury with on-site or distant guidance
+* management of rhabdomyolysis/acidosis
+* monitoring and management of compartment pressure, including escharotomy with distant or on-site guidance
+* pressure care of soft tissues at risk from ischaemia and infection
+* regulation of body temperature in patients with dermatological emergencies 
+* Obstetric and gynaecologic emergencies:
+* competent and confident initial management of haemorrhage in early pregnancy
+* initial management of trauma in pregnancy
+* competent and confident management of miscarriage
+* timely recognition and transfer of patients requiring surgical intervention
+* competent and confident management of common labour and delivery complications 
+* seizure control in eclampsia
+* management of precipitate delivery with distant guidance
+* initial management of post-partum problems
+* Abdominal and genitourinary emergencies:
+* competent and confident initial management of acute renal failure
+* recognition of gastrointestinal foreign bodies requiring removal
+* urethral and suprapubic catheterisation
+* control of oesophageal varices
+* drainage of abdominal ascites for symptom control
+* reduction of paraphimosis with on-site or distant guidance
+* Metabolic and endocrine emergencies:
+* competent and independent insulin infusion
+* competent and independent intravenous potassium replacement 
+* competent and independent IV fluids for endocrine emergencies
+* Acute infections:
+* chemotherapeutics for undifferentiated sepsis
+* be aware of and able to follow protocol for management of needle stick injury and other body fluid exposure
+* competent and confident application of infection control procedures, public health reporting procedures and management of contact persons
+* Toxicologic and toxinological emergencies:
+* competent application of pressure immobilisation bandage
+* competent and independent antivenom and antidote administration
+* competent use of venom detection kit (VDK) with distance guidance
+* safety and decontamination procedures for deliberate CBR incidents – for patients, staff members and in an emergency department
+* Environmental emergencies:
+* re-warming techniques 
+* cooling techniques
+* temperature monitoring
+* initial management of diving injuries, including hyperbaric medicine
+* Ophthalmological emergencies:
+* competent use of slit lamp
+* competent measurement of intra-ocular pressures
+* competent removal of simple superficial corneal foreign bodies
+* refer for removal of difficult foreign bodies
+* repair onsite or referral for repair peri-ocular lacerations
+* ENT and dental emergencies: 
+* tooth preservation techniques
+* infection prevention and management 
+* competent and independent management of anterior and posterior epistaxis
+* removal of simple nasal and aural foreign bodies and identification difficult foreign bodies 
+* Psychiatric emergencies:
+* competent and confident differentiation between an acute severe behavioural disturbance due to acute delirium (including substance intoxication and withdrawal) and psychosis 
+* competent and confident risk assessment, engagement and acute counselling skill
 
 #### AS.S.11
 
 Competent verbal de-escalation techniques in high stress and potentially violent situations 
-- competent and confident administration of rapid-acting antipsychotics sedatives and other medication where appropriate 
-- appropriate administration of chemical restraint 
-- use of relevant legislation for involuntary treatment admission
-- leadership to manage Code Black situation
+
+* competent and confident administration of rapid-acting antipsychotics sedatives and other medication where appropriate 
+* appropriate administration of chemical restraint 
+* use of relevant legislation for involuntary treatment admission
+* leadership to manage Code Black situation
 
 #### AS.S.12
 
@@ -397,20 +399,21 @@ Competent, sensitive and age-appropriate communication skills with anxious and d
 #### AS.S.14
 
 Competent and confident paediatric and neonatal emergency care, including:
-- initiation of Advanced Life Support
-- paediatric calculations – appropriate dosages and equipment size 
-- estimation and administration of fluid requirements for resuscitation and ongoing maintenance 
-- lumbar puncture, clean catch urine and phlebotomy in children
-- procedural sedation
-- warming techniques in children and neonates
-- paediatric pain management techniques
-- seizure management, including diagnosis of the underlying cause/s
-- airway management in children and neonates, including wound repair, foreign body removal, management of stridor, croup and epiglottitis, paediatric intubation
-- advanced intravenous access techniques – intraosseous infusion and neonatal umbilical catheterisation
-- management of acute infections in children, including neonatal infections, sepsis and meningitis
-- management of diabetic ketoacidosis (DKA) in children
-- management of serious gastro-intestinal conditions, including pyloric stenosis and intussusception
-- management of serious neonatal conditions including prematurity, sepsis, respiratory failure and congenital abnormalities
+
+* initiation of Advanced Life Support
+* paediatric calculations – appropriate dosages and equipment size 
+* estimation and administration of fluid requirements for resuscitation and ongoing maintenance 
+* lumbar puncture, clean catch urine and phlebotomy in children
+* procedural sedation
+* warming techniques in children and neonates
+* paediatric pain management techniques
+* seizure management, including diagnosis of the underlying cause/s
+* airway management in children and neonates, including wound repair, foreign body removal, management of stridor, croup and epiglottitis, paediatric intubation
+* advanced intravenous access techniques – intraosseous infusion and neonatal umbilical catheterisation
+* management of acute infections in children, including neonatal infections, sepsis and meningitis
+* management of diabetic ketoacidosis (DKA) in children
+* management of serious gastro-intestinal conditions, including pyloric stenosis and intussusception
+* management of serious neonatal conditions including prematurity, sepsis, respiratory failure and congenital abnormalities
 
 #### AS.S.15
 
@@ -419,19 +422,20 @@ Coordinate, work with and/or provide leadership (clinical and operational) as ap
 #### AS.S.16
 
 Establish and maintain appropriate emergency department systems and procedures
-- trauma and priority team organisation
-- multi-casualty preparedness and response
-- co-ordination with police and other agencies
-- risk management, critical decision making and dealing with uncertainty
-- use of electronic record systems
-- quality assurance and audit policies and procedures
-- storage and handling of blood products
-- organ donation and transplantation protocols
-- pharmaceutical dispensing
-- staff management and communication skills
-- inter-professional co-operation skills
-- complaint management
-- occupational health and safety measures.
+
+* trauma and priority team organisation
+* multi-casualty preparedness and response
+* co-ordination with police and other agencies
+* risk management, critical decision making and dealing with uncertainty
+* use of electronic record systems
+* quality assurance and audit policies and procedures
+* storage and handling of blood products
+* organ donation and transplantation protocols
+* pharmaceutical dispensing
+* staff management and communication skills
+* inter-professional co-operation skills
+* complaint management
+* occupational health and safety measures.
 
 #### AS.S.17
 
@@ -453,18 +457,17 @@ Resourceful
 
 ### Emergency presentations and conditions
 
-- Airway and respiratory emergencies: airway obstruction difficult foreign bodies, severe asthma, respiratory distress, tension pneumothorax, compromised airways, hypoventilation, hypoxia and chest trauma
-- Circulatory and cardiovascular emergencies: chest pain, acute coronary syndromes, cardiogenic shock, hypovolaemic shock, hypertensive emergencies, haemorrhagic emergencies, cardiac tamponade, acute myocardial infarction, thrombo-embolic emergencies including pulmonary embolism, gas embolism and anaphylaxis:
-- Neurological emergencies: neurologic trauma, coma, stroke, cerebral ischaemia, space occupying lesions, intracranial haemorrhage, subarachnoid haemorrhage, altered mental status, acute confusional states, delirium, undifferentiated headache, Guillain-Barre Syndrome, seizures, status epilepticus, meningitis and neurogenic shock:
-- Musculo-skeletal emergencies: simple and complex fractures and dislocations, crush injuries, compound wounds, spinal injuries, ischaemic limbs (including compartment syndrome), degloving injury, amputated digits, acute back pain/sciatica and maxillofacial injury:
-- Soft tissue emergencies and burns: foreign bodies, abscesses, burns (thermal, chemical and electrical), frostbite, necrotising infections, bite wounds, crush injury, neurovascular injury, degloving injury and acute desquamating conditions:
-- Obstetric and gynaecologic emergencies: haemorrhage in early pregnancy, trauma in pregnancy, miscarriage, precipitate delivery, common labour and delivery complications, hypertensive urgencies, hyperemesis, pre-eclampsia, eclampsia and post-partum problems including fluid embolus, uterine rupture, haemorrhage, sepsis and retained products of conception (POC):
-- Abdominal and genitourinary emergencies: acute renal failure, foreign body ingestion, abdominal trauma, acute urinary retention, abdominal ascites causing significant discomfort and/or respiratory compromise, oesophageal varices and paraphimosis: 
-- Metabolic and endocrine emergencies: hypoglycaemia, diabetic ketoacidosis (DKA), hyperosmolar non-ketotic states, hypokalaemia, hyperkalaemia, hypocalcaemia, hypercalcaemia, hyponatraemia, Addisonian crisis, hypothermia and hyperthermia:
-- Acute infections: undifferentiated sepsis, septicaemia, urosepsis, neutropenic sepsis, febrile convulsion, septic shock, exotic infectious diseases, nosocomial infections, needle stick injury and other body fluid exposure:
-- Toxicologic and toxinological emergencies: drug/alcohol overdose, accidental and deliberate toxic ingestion, terrestrial and marine envenomation, deliberate chemical biological or radiological (CBR) incidents, polypharmacy overdose and delayed presentations:
-- Environmental emergencies: hypothermia, hyperthermia, barotrauma, near drowning, electrical injury and smoke/gas inhalation:
-- Ophthalmological emergencies: chemical and thermal trauma, blunt and penetrating trauma, hyphema, blowout fracture, ultra violet trauma, snow blindness, acute vision loss, acute chalazion, glaucoma, viral and bacterial infections, foreign bodies and peri-ocular lacerations:
-- ENT and dental emergencies: dental trauma, acute infection, maxillofacial trauma, anterior and posterior epistaxis, aural and nasal foreign bodies and quinsy:
-- Psychiatric emergencies: acute psychosis, suicide threat or attempt, violent self-harm
-
+* Airway and respiratory emergencies: airway obstruction difficult foreign bodies, severe asthma, respiratory distress, tension pneumothorax, compromised airways, hypoventilation, hypoxia and chest trauma
+* Circulatory and cardiovascular emergencies: chest pain, acute coronary syndromes, cardiogenic shock, hypovolaemic shock, hypertensive emergencies, haemorrhagic emergencies, cardiac tamponade, acute myocardial infarction, thrombo-embolic emergencies including pulmonary embolism, gas embolism and anaphylaxis:
+* Neurological emergencies: neurologic trauma, coma, stroke, cerebral ischaemia, space occupying lesions, intracranial haemorrhage, subarachnoid haemorrhage, altered mental status, acute confusional states, delirium, undifferentiated headache, Guillain-Barre Syndrome, seizures, status epilepticus, meningitis and neurogenic shock:
+* Musculo-skeletal emergencies: simple and complex fractures and dislocations, crush injuries, compound wounds, spinal injuries, ischaemic limbs (including compartment syndrome), degloving injury, amputated digits, acute back pain/sciatica and maxillofacial injury:
+* Soft tissue emergencies and burns: foreign bodies, abscesses, burns (thermal, chemical and electrical), frostbite, necrotising infections, bite wounds, crush injury, neurovascular injury, degloving injury and acute desquamating conditions:
+* Obstetric and gynaecologic emergencies: haemorrhage in early pregnancy, trauma in pregnancy, miscarriage, precipitate delivery, common labour and delivery complications, hypertensive urgencies, hyperemesis, pre-eclampsia, eclampsia and post-partum problems including fluid embolus, uterine rupture, haemorrhage, sepsis and retained products of conception (POC):
+* Abdominal and genitourinary emergencies: acute renal failure, foreign body ingestion, abdominal trauma, acute urinary retention, abdominal ascites causing significant discomfort and/or respiratory compromise, oesophageal varices and paraphimosis: 
+* Metabolic and endocrine emergencies: hypoglycaemia, diabetic ketoacidosis (DKA), hyperosmolar non-ketotic states, hypokalaemia, hyperkalaemia, hypocalcaemia, hypercalcaemia, hyponatraemia, Addisonian crisis, hypothermia and hyperthermia:
+* Acute infections: undifferentiated sepsis, septicaemia, urosepsis, neutropenic sepsis, febrile convulsion, septic shock, exotic infectious diseases, nosocomial infections, needle stick injury and other body fluid exposure:
+* Toxicologic and toxinological emergencies: drug/alcohol overdose, accidental and deliberate toxic ingestion, terrestrial and marine envenomation, deliberate chemical biological or radiological (CBR) incidents, polypharmacy overdose and delayed presentations:
+* Environmental emergencies: hypothermia, hyperthermia, barotrauma, near drowning, electrical injury and smoke/gas inhalation:
+* Ophthalmological emergencies: chemical and thermal trauma, blunt and penetrating trauma, hyphema, blowout fracture, ultra violet trauma, snow blindness, acute vision loss, acute chalazion, glaucoma, viral and bacterial infections, foreign bodies and peri-ocular lacerations:
+* ENT and dental emergencies: dental trauma, acute infection, maxillofacial trauma, anterior and posterior epistaxis, aural and nasal foreign bodies and quinsy:
+* Psychiatric emergencies: acute psychosis, suicide threat or attempt, violent self-harm
