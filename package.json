@@ -13,8 +13,8 @@
     "create-pdf": "docusaurus-pdf from-build build /rural-generalist/introduction && yarn run move-pdf"
   },
   "dependencies": {
-    "@docusaurus/core": "^2.0.0-alpha.58",
-    "@docusaurus/preset-classic": "^2.0.0-alpha.58",
+    "@docusaurus/core": "^2.0.0-alpha.59",
+    "@docusaurus/preset-classic": "^2.0.0-alpha.59",
     "bulma": "^0.9.0",
     "clsx": "^1.1.1",
     "docusaurus-lunr-search": "^2.0.1",

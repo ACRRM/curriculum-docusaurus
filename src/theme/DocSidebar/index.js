@@ -4,7 +4,6 @@
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
  */
-
 import React, {useState, useCallback, useEffect, useRef} from 'react';
 import clsx from 'clsx';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
@@ -15,9 +14,7 @@ import useLogo from '@theme/hooks/useLogo';
 import useScrollPosition from '@theme/hooks/useScrollPosition';
 import Link from '@docusaurus/Link';
 import isInternalUrl from '@docusaurus/isInternalUrl';
-
 import styles from './styles.module.css';
-
 const MOBILE_TOGGLE_SIZE = 24;
 
 function usePrevious(value) {
@@ -26,11 +23,11 @@ function usePrevious(value) {
     ref.current = value;
   }, [value]);
   return ref.current;
-}
+} // Compare the 2 paths, ignoring trailing /
 
-// Compare the 2 paths, ignoring trailing /
 const isSamePath = (path1, path2) => {
   const normalize = (str) => (str.endsWith('/') ? str : `${str}/`);
+
   return normalize(path1) === normalize(path2);
 };
 
@@ -38,11 +35,13 @@ const isActiveSidebarItem = (item, activePath) => {
   if (item.type === 'link') {
     return isSamePath(item.href, activePath);
   }
+
   if (item.type === 'category') {
     return item.items.some((subItem) =>
       isActiveSidebarItem(subItem, activePath),
     );
   }
+
   return false;
 };
 
@@ -54,27 +53,25 @@ function DocSidebarItemCategory({
   ...props
 }) {
   const {items, label} = item;
-
   const isActive = isActiveSidebarItem(item, activePath);
-  const wasActive = usePrevious(isActive);
-
-  // active categories are always initialized as expanded
+  const wasActive = usePrevious(isActive); // active categories are always initialized as expanded
   // the default (item.collapsed) is only used for non-active categories
+
   const [collapsed, setCollapsed] = useState(() => {
     if (!collapsible) {
       return false;
     }
-    return isActive ? false : item.collapsed;
-  });
 
-  // If we navigate to a category, it should automatically expand itself
+    return isActive ? false : item.collapsed;
+  }); // If we navigate to a category, it should automatically expand itself
+
   useEffect(() => {
     const justBecameActive = isActive && !wasActive;
+
     if (justBecameActive && collapsed) {
       setCollapsed(false);
     }
   }, [isActive, wasActive, collapsed]);
-
   const handleItemClick = useCallback(
     (e) => {
       e.preventDefault();
@@ -157,52 +154,31 @@ function DocSidebarItem(props) {
   switch (props.item.type) {
     case 'category':
       return <DocSidebarItemCategory {...props} />;
+
     case 'link':
     default:
       return <DocSidebarItemLink {...props} />;
   }
 }
 
-function DocSidebar(props) {
+function DocSidebar({path, sidebar, sidebarCollapsible = true}) {
   const [showResponsiveSidebar, setShowResponsiveSidebar] = useState(false);
   const {
     siteConfig: {
-      themeConfig: {navbar: {title, hideOnScroll = false} = {}},
+      themeConfig: {navbar: {title = '', hideOnScroll = false} = {}} = {},
     } = {},
     isClient,
   } = useDocusaurusContext();
   const {logoLink, logoLinkProps, logoImageUrl, logoAlt} = useLogo();
   const {isAnnouncementBarClosed} = useUserPreferencesContext();
   const {scrollY} = useScrollPosition();
-
-  const {
-    docsSidebars,
-    path,
-    sidebar: currentSidebar,
-    sidebarCollapsible,
-  } = props;
-
   useLockBodyScroll(showResponsiveSidebar);
   const windowSize = useWindowSize();
-
   useEffect(() => {
     if (windowSize === windowSizes.desktop) {
       setShowResponsiveSidebar(false);
     }
   }, [windowSize]);
-
-  if (!currentSidebar) {
-    return null;
-  }
-
-  const sidebarData = docsSidebars[currentSidebar];
-
-  if (!sidebarData) {
-    throw new Error(
-      `Cannot find the sidebar "${currentSidebar}" in the sidebar config!`,
-    );
-  }
-
   return (
     <div
       className={clsx(styles.sidebar, {
@@ -264,7 +240,7 @@ function DocSidebar(props) {
           )}
         </button>
         <ul className="menu__list">
-          {sidebarData.map((item) => (
+          {sidebar.map((item) => (
             <DocSidebarItem
               key={item.label}
               item={item}

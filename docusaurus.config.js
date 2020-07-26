@@ -10,12 +10,12 @@ module.exports = {
   themeConfig: {
     navbar: {
       hideOnScroll: true,
-      // title: "Resources",
+      title: "Resources",
       logo: {
         alt: "ACRRM Logo",
         src: "img/ACRRM_logo.svg",
       },
-      links: [
+      items: [
         {
           href: "tel:1800223226",
           label: "📞 1800 223 226",
@@ -60,9 +60,7 @@ module.exports = {
           showLastUpdateTime: true,
           // It is recommended to set document id as docs home page (`docs/` path).
           routeBasePath: "/",
-          sidebarPath: require.resolve("./sidebars.auto.js"),
-          // Please change this to your repo.
-          editUrl: "",
+          sidebarPath: require.resolve("./sidebars.auto.js")
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
