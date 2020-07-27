@@ -21,7 +21,7 @@ recognised as a protected title and as a specialised field within the speciality
 is being progressed.
 
 :::info PDF version
-[Click to download the Rural Generalist curriculum](/rural-generalist.pdf)
+[Click here to download the Rural Generalist curriculum](/rural-generalist.pdf)
 :::
 
 ## What is a General Practitioner?
