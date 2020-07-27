@@ -6,7 +6,7 @@
     "clean": "shx rm -rf .docusaurus/ build/",
     "start": "docusaurus start",
     "build": "yarn run clean && docusaurus build",
-    "serve": "npx http-server build",
+    "serve": "docusaurus serve",
     "swizzle": "docusaurus swizzle @docusaurus/theme-classic",
     "deploy": "docusaurus deploy",
     "move-pdf": "shx mv docusaurus.pdf build/generated.pdf && shx cp build/rural-generalist.pdf static/rural-generalist.pdf",
@@ -14,6 +14,7 @@
   },
   "dependencies": {
     "@docusaurus/core": "^2.0.0-alpha.59",
+    "@docusaurus/plugin-pwa": "^2.0.0-alpha.59",
     "@docusaurus/preset-classic": "^2.0.0-alpha.59",
     "bulma": "^0.9.0",
     "clsx": "^1.1.1",
