@@ -14,6 +14,7 @@
   --ifm-color-primary-light: #ff8100;
   --ifm-color-primary-lighter: #ff860c;
   --ifm-color-primary-lightest: #ff982f;
+  /* --ifm-card-background-color: red; */
   --ifm-code-font-size: 95%;
   --ifm-navbar-height: 100px;
   --ifm-global-shadow-lw: 0;
@@ -37,6 +38,23 @@
     url(/fonts/archia-regular-webfont.woff2) format("woff2");
   font-weight: normal;
   font-style: normal;
+}
+
+.card-demo-container {
+  align-items: center;
+  background-color: var(--ifm-color-black-alpha-05);
+  border-radius: var(--ifm-global-radius);
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding: 2rem;
+}
+
+.card {
+  max-width: 280px;
+  -webkit-box-shadow: 0 5px 5px 1px rgba(0,0,0,0.1);
+  box-shadow: 0 5px 5px 1px rgba(0,0,0,0.1);
 }
 
 /* @font-face {
