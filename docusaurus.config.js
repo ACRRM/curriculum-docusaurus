@@ -53,7 +53,7 @@ module.exports = {
     [
       "@docusaurus/plugin-pwa",
       {
-        debug: true,
+        debug: false,
         offlineModeActivationStrategies: ["appInstalled", "queryString"],
         pwaHead: [
           {
@@ -89,7 +89,7 @@ module.exports = {
           {
             tagName: 'link',
             rel: 'mask-icon',
-            href: '/img/ACRRM_logo_minimal_v2.svg',
+            href: '/img/icons/maskable_icon.png',
             color: '#e87500',
           },
           {
