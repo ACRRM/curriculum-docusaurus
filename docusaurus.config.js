@@ -10,7 +10,7 @@ module.exports = {
   themeConfig: {
     navbar: {
       hideOnScroll: true,
-      title: "Resources",
+      title: "",
       logo: {
         alt: "ACRRM Logo",
         src: "img/ACRRM_logo.svg",
