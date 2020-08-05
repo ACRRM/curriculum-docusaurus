@@ -1,8 +1,8 @@
 ---
 title: Genetics
+sidebar_label: Core Generalist
 ---
-
-## Core Generalised
+## Core Generalist
 
 ### 💡 Knowledge
 
@@ -17,20 +17,21 @@ Describe conditions that may have a genetic origin
 #### CG.K.3
 
 Discuss the following conditions that have a genetic factor in their aetiology:
-- autosomal dominant polycystic kidney disease
-- cystic fibrosis 
-- Down syndrome, and discuss pre-test counselling
-- familial cancer syndromes, including: BRCA1 and 2, hereditary non-polyposis colorectal cancer, familial adenomatous polyposis, multiple endocrine neoplasia 
-- Haemochromatosis 
-- Inherited cardiac diseases, such as: brugada syndrome, hypertrophic cardiomyopathy, long QT syndrome 
-- Inherited neurological syndromes, such as Huntington disease
-- Klinefelter syndrome 
-- Marfan syndrome 
-- Muscular dystrophies including Becker muscular dystrophy, Duchenne muscular dystrophy, myotonic dystrophy • 
-- Neurofibromatosis type 1 (NF1) 
-- Noonan syndrome (NS) 
-- Turner syndrome
-- Haemophilia, thalassaemia, Mediterranean fever
+
+* autosomal dominant polycystic kidney disease
+* cystic fibrosis 
+* Down syndrome, and discuss pre-test counselling
+* familial cancer syndromes, including: BRCA1 and 2, hereditary non-polyposis colorectal cancer, familial adenomatous polyposis, multiple endocrine neoplasia 
+* Haemochromatosis 
+* Inherited cardiac diseases, such as: brugada syndrome, hypertrophic cardiomyopathy, long QT syndrome 
+* Inherited neurological syndromes, such as Huntington disease
+* Klinefelter syndrome 
+* Marfan syndrome 
+* Muscular dystrophies including Becker muscular dystrophy, Duchenne muscular dystrophy, myotonic dystrophy • 
+* Neurofibromatosis type 1 (NF1) 
+* Noonan syndrome (NS) 
+* Turner syndrome
+* Haemophilia, thalassaemia, Mediterranean fever
 
 #### CG.K.4
 
