@@ -1,8 +1,8 @@
 ---
 title: History Taking
+sidebar_label: Core Generalist
 ---
-
-## Core Generalised
+## Core Generalist
 
 ### 💡 Knowledge
 
@@ -66,7 +66,7 @@ Create accurate, succinct, legible and timely records of every clinical encounte
 
 Receptivity
 
-#### At. 2 
+#### At. 2
 
 Adaptability
 
