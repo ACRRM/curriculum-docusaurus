@@ -1,8 +1,8 @@
 ---
 title: Health Advocate
+sidebar_label: Core Generalist
 ---
-
-## Core Generalised
+## Core Generalist
 
 ### 💡 Knowledge
 
@@ -46,7 +46,7 @@ Discuss the common challenges for seeking and receiving help in rural and remote
 
 Explain the role of the Rural Generalist in the chain of services to assist in prevention and support
 
-### 🤹‍♀️ Skills 
+### 🤹‍♀️ Skills
 
 #### CG.S.1
 
