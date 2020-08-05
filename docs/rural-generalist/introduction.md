@@ -1,6 +1,6 @@
 ---
 id: introduction
-title: Rural Generalist
+title: Background
 sidebar_label: Rural Generalist
 ---
 The Australian College of Rural and Remote Medicine (ACRRM) was formed in 1997 as an
