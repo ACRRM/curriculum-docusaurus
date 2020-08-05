@@ -1,8 +1,8 @@
 ---
 title: Physical Examination
+sidebar_label: Core Generalist
 ---
-
-## Core Generalised
+## Core Generalist
 
 ### 💡 Knowledge
 
@@ -72,25 +72,27 @@ Always use appropriate hand hygiene and infection control strategies
 #### CG.S.12
 
 Perform clinical examination of adults in the following areas:
-- respiratory 
-- cardiovascular
-- gastrointestinal
-- endocrine
-- neurological; central and peripheral
-- spine
-- musculoskeletal including joints and muscles
-- ophthalmic
-- ear nose and throat (ENT)
+
+* respiratory 
+* cardiovascular
+* gastrointestinal
+* endocrine
+* neurological; central and peripheral
+* spine
+* musculoskeletal including joints and muscles
+* ophthalmic
+* ear nose and throat (ENT)
 
 #### CG.S.13
 
 Undertake the following examinations:
-- physical examination of a neonate
-- antenatal examination, and
-- ENT and chest examinations in paediatrics
-- urogenital examinations in male and female patients
-- mental health examination
-- skin
+
+* physical examination of a neonate
+* antenatal examination, and
+* ENT and chest examinations in paediatrics
+* urogenital examinations in male and female patients
+* mental health examination
+* skin
 
 ### 🎭 Attributes
 
