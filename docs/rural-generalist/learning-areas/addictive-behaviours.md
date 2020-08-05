@@ -1,5 +1,6 @@
 ---
 title: Addictive Behaviours
+sidebar_label: Core Generalist
 ---
 
 ## Core Generalised
