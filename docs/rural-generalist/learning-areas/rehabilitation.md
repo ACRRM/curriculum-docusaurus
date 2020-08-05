@@ -1,11 +1,10 @@
 ---
 title: Rehabilitation
+sidebar_label: Core Generalist
 ---
-
-## Core Generalised
+## Core Generalist
 
 ### 💡 Knowledge
-
 
 #### CG.K.1
 
@@ -14,26 +13,29 @@ Describe the principles of rehabilitation
 #### CG.K.2
 
 Discuss rehabilitation treatment, including: 
-- patient conducted techniques including: 
-  - general exercise 
-  - nutrition 
-  - specific exercises and stretches, post isometric exercises, allied to breathing techniques 
-  - correct posture 
-  - application of cold and heat 
-  - relaxation and meditation techniques 
-  - relevant lifestyle interventions including weight loss, stress reduction, recreational substance reduction and sleep improvement 
-  - orthotics and prosthetics 
-- therapist conducted techniques including: 
-  - speech therapy
-  - psychology
-  - occupational therapy
-  - physiotherapy
-  - social worker
-  - hydrotherapy 
-  - massage 
-  - biofeedback 
-  - joint mobilisation 
-  - joint manipulation
+
+* patient conducted techniques including: 
+
+  * general exercise 
+  * nutrition 
+  * specific exercises and stretches, post isometric exercises, allied to breathing techniques 
+  * correct posture 
+  * application of cold and heat 
+  * relaxation and meditation techniques 
+  * relevant lifestyle interventions including weight loss, stress reduction, recreational substance reduction and sleep improvement 
+  * orthotics and prosthetics 
+* therapist conducted techniques including: 
+
+  * speech therapy
+  * psychology
+  * occupational therapy
+  * physiotherapy
+  * social worker
+  * hydrotherapy 
+  * massage 
+  * biofeedback 
+  * joint mobilisation 
+  * joint manipulation
 
 #### CG.K.3
 
@@ -55,18 +57,19 @@ Undertake an assessment of functional capacities and rehabilitative needs of pat
 #### CG.S.4
 
 Perform an evaluation of pain, including: 
-- site of pain
-- radiation of pain
-- quality of pain
-- duration and intensity
-- exacerbating and relieving factors
-- temporal onset 
-- exact onset 
-- associated symptoms and signs 
-- interference with activities of daily living
-- impact on psychological state 
-- response to previous interventions or therapies
-- current and previous analgesic therapies
+
+* site of pain
+* radiation of pain
+* quality of pain
+* duration and intensity
+* exacerbating and relieving factors
+* temporal onset 
+* exact onset 
+* associated symptoms and signs 
+* interference with activities of daily living
+* impact on psychological state 
+* response to previous interventions or therapies
+* current and previous analgesic therapies
 
 #### CG.S.5
 
@@ -87,12 +90,13 @@ Implement a therapeutic process designed to: restore with minimum delay optimum 
 #### CG.S.9
 
 Guide patients in a comprehensive approach to recovery including: 
-- specific therapy including surgery 
-- psychological support 
-- self-directed activities 
-- motivation 
-- a supportive environment 
-- general health initiatives
+
+* specific therapy including surgery 
+* psychological support 
+* self-directed activities 
+* motivation 
+* a supportive environment 
+* general health initiatives
 
 #### CG.S.10
 
@@ -105,17 +109,19 @@ Develop, implement and maintain a rehabilitation management plan for hospitalise
 #### CG.S.12
 
 Demonstrate a commitment to co-ordination of care including: 
-- referral to other health providers when not able to solely provide optimal care 
-- ongoing monitoring 
-- shared care 
-- further strategic interventions where necessary
+
+* referral to other health providers when not able to solely provide optimal care 
+* ongoing monitoring 
+* shared care 
+* further strategic interventions where necessary
 
 #### CG.S.13
 
 Competently perform the following skills: 
-- provide management plan for prosthesis and stump care 
-- write a medico-legal report
-- complete the relevant Centrelink, Medicare, NDIS, workers compensation, insurance and superannuation forms
+
+* provide management plan for prosthesis and stump care 
+* write a medico-legal report
+* complete the relevant Centrelink, Medicare, NDIS, workers compensation, insurance and superannuation forms
 
 ### 🎭 Attributes
 
@@ -134,18 +140,18 @@ Commitment
 ### Rehabilitation presentations and conditions
 
 Common rehabilitative care presentations: 
-- stroke 
-- traumatic brain injury (TBI) 
-- spinal injuries 
-- amputations 
-- arthritis, osteoarthritis 
-- osteoporosis 
-- cardiac disease
-- respiratory 
-- sensory loss 
-- chronic pain
-- cerebral palsy
-- chronic degenerative conditions 
-- neurogenic bladder and bowel conditions
-- skin conditions including burns, scars and keloids
 
+* stroke 
+* traumatic brain injury (TBI) 
+* spinal injuries 
+* amputations 
+* arthritis, osteoarthritis 
+* osteoporosis 
+* cardiac disease
+* respiratory 
+* sensory loss 
+* chronic pain
+* cerebral palsy
+* chronic degenerative conditions 
+* neurogenic bladder and bowel conditions
+* skin conditions including burns, scars and keloids
