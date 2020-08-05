@@ -1,8 +1,8 @@
 ---
 title: Aged Care
+sidebar_label: Core Generalist
 ---
-
-## Core Generalised
+## Core Generalist
 
 ### 💡 Knowledge
 
@@ -13,24 +13,25 @@ Describe epidemiological characteristics of the ageing population in Australia
 #### CG.K.2
 
 Describe physiological, psychological and social age-related changes commonly experienced by the elderly 
-- Identify conditions that may affect functional status including:
-- nutritional problems 
-- syncope 
-- falls and gait disorders 
-- fractures 
-- osteoarthritis
-- acute confusional state
-- behaviour disorders 
-- sleep disorders
-- pain
-- cancer 
-- pressure sores 
-- urinary incontinence
-- sensory loss
-- polypharmacy 
-- frailty 
-- dementia
-- social isolation, grief and loss
+
+* Identify conditions that may affect functional status including:
+* nutritional problems 
+* syncope 
+* falls and gait disorders 
+* fractures 
+* osteoarthritis
+* acute confusional state
+* behaviour disorders 
+* sleep disorders
+* pain
+* cancer 
+* pressure sores 
+* urinary incontinence
+* sensory loss
+* polypharmacy 
+* frailty 
+* dementia
+* social isolation, grief and loss
 
 #### CG.K.3
 
@@ -52,18 +53,20 @@ Apply diagnostic reasoning to arrive at one or more provisional diagnoses, consi
 #### CG.S.2
 
 Perform a comprehensive functional assessment including: 
-- an assessment of impairment 
-- disability and handicap that also includes social, psychological and environmental dimensions
-- administration of functional and cognitive assessment scales as appropriate 
-- assessing a patient’s suitability for care at home 
-- identifying the need for appliances and aids, including hearing aids
+
+* an assessment of impairment 
+* disability and handicap that also includes social, psychological and environmental dimensions
+* administration of functional and cognitive assessment scales as appropriate 
+* assessing a patient’s suitability for care at home 
+* identifying the need for appliances and aids, including hearing aids
 
 #### CG.S.3
 
 Undertake the following assessments:
-- health assessment for patients aged over 75 years  
-- fitness to drive assessment 
-- medication review
+
+* health assessment for patients aged over 75 years  
+* fitness to drive assessment 
+* medication review
 
 #### CG.S.4
 
@@ -99,28 +102,29 @@ Access and collaborate with agencies responsible for older person care and suppo
 
 ### 🎭 Attributes
 
-#### At.6 
+#### At.6
 
 Compassion
 
-#### At.5 
+#### At.5
 
 Commitment
 
-#### At.12 
+#### At.12
 
 Patience
 
 ### Age related presentations and conditions
-- Neurological including Parkinson’s disease, dementia, stroke
-- Ophthalmology disorders including loss of visual acuity, cataracts, glaucoma, macular degeneration, exophthalmia, temporal arteritis, dry eye syndrome
-- Musculoskeletal including spondylosis, polymyalgia rheumatica, osteoarthritis, spinal canal stenosis, sciatica, osteoporosis and osteoporotic fractures, weakness, deconditioned
-- Pulmonary including asthma, Chronic Obstructive Pulmonary Disease, pneumonia, cancer
-- Gastrointestinal including constipation, incontinence, malabsorption and pernicious anaemia
-- ENT including deafness, tinnitus, xerostomia, vertigo
-- Endocrine including Type 2 diabetes, hypothyroidism, hyperthyroidism
-- Renal including chronic renal disease
-- Cardiovascular disease including ischaemic heart disease, heart failure, hypertension, hypotension, atrial fibrillation
-- Genitourinary including urinary dysfunction, urinary tract infection, prostate disease, incontinence
-- Psychiatric disorders including depression, anxiety, cognitive impairment, substance use problems
-- Cancer
+
+* Neurological including Parkinson’s disease, dementia, stroke
+* Ophthalmology disorders including loss of visual acuity, cataracts, glaucoma, macular degeneration, exophthalmia, temporal arteritis, dry eye syndrome
+* Musculoskeletal including spondylosis, polymyalgia rheumatica, osteoarthritis, spinal canal stenosis, sciatica, osteoporosis and osteoporotic fractures, weakness, deconditioned
+* Pulmonary including asthma, Chronic Obstructive Pulmonary Disease, pneumonia, cancer
+* Gastrointestinal including constipation, incontinence, malabsorption and pernicious anaemia
+* ENT including deafness, tinnitus, xerostomia, vertigo
+* Endocrine including Type 2 diabetes, hypothyroidism, hyperthyroidism
+* Renal including chronic renal disease
+* Cardiovascular disease including ischaemic heart disease, heart failure, hypertension, hypotension, atrial fibrillation
+* Genitourinary including urinary dysfunction, urinary tract infection, prostate disease, incontinence
+* Psychiatric disorders including depression, anxiety, cognitive impairment, substance use problems
+* Cancer
