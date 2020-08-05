@@ -1,31 +1,33 @@
 ---
 title: Oral Health
+sidebar_label: Core Generalist
 ---
-
-## Core Generalised
+## Core Generalist
 
 ### 💡 Knowledge
 
 #### CG.K.1
 
 Describe the main concepts and principles of: 
-- dental history taking 
-- extra- and intra-oral examination 
-- brief stages of dentition 
-- tooth structure 
-- dental treatment procedures
+
+* dental history taking 
+* extra- and intra-oral examination 
+* brief stages of dentition 
+* tooth structure 
+* dental treatment procedures
 
 #### CG.K.2
 
 Explain the importance of dental hygiene and antibiotic prophylaxis for cardiac conditions and the link between poor dentition and other health problems eg malnutrition, geriatric lung disease
 
-### 🤹‍♀️ Skills 
+### 🤹‍♀️ Skills
 
 #### CG.S.1
 
 Apply diagnostic reasoning to arrive at one or more provisional diagnoses, considering oral and dental conditions, including:
-- Children; oral thrush, teething, nursing or bottle caries, juvenile periodontal disease, ulcerations, oral swellings, dental caries, tooth abscess, fluorosis cleft lip and palate
-- Adults: oral cancer, gingivitis/periodontal disease, pregnancy and medication related gingivitis, ulcerations, swellings, salivary and parotid gland blockage, dental caries, dry socket, pericoronitis, tooth abscess, wisdom teeth, sensitive teeth, dry mouth, temporomandibular joint pain and bruxism, denture hygiene, candida and other oral infections
+
+* Children; oral thrush, teething, nursing or bottle caries, juvenile periodontal disease, ulcerations, oral swellings, dental caries, tooth abscess, fluorosis cleft lip and palate
+* Adults: oral cancer, gingivitis/periodontal disease, pregnancy and medication related gingivitis, ulcerations, swellings, salivary and parotid gland blockage, dental caries, dry socket, pericoronitis, tooth abscess, wisdom teeth, sensitive teeth, dry mouth, temporomandibular joint pain and bruxism, denture hygiene, candida and other oral infections
 
 #### CG.S.2
 
@@ -42,9 +44,10 @@ Undertake initial assessment and triage patients with traumatic dental injuries,
 #### CG.S.5
 
 Ideally perform dental emergency procedures:
-- re-implantation of adult teeth 
-- management of dental fractures 
-- dental blocks using different techniques
+
+* re-implantation of adult teeth 
+* management of dental fractures 
+* dental blocks using different techniques
 
 ### 🎭 Attributes
 
