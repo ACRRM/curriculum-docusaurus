@@ -1,50 +1,52 @@
 ---
 title: Mental Health
+sidebar_label: Core Generalist
 ---
-
-## Core Generalised
+## Core Generalist
 
 ### 💡 Knowledge
-
 
 #### CG.K.1
 
 Describe the epidemiology, pathophysiology, clinical presentation, differential diagnosis, investigations, detailed initial management, principles of ongoing management, potential complications of the condition and its management, plus preventive strategies, for the following mental health disorders and problems:
-- Schizophrenia spectrum and other psychotic disorders
-- Bipolar and related disorders
-- Depressive disorders
-- Anxiety disorders; panic attack, generalised anxiety disorder, panic disorder 
-- Self-harming
-- Obsessive-compulsive and related disorders
-- Trauma- and stressor-related disorders; acute stress disorder, post-traumatic stress disorder, adjustment disorder
-- Personality disorders
-- Feeding and eating disorders
-- Sleep-wake problems
-- Disruptive, impulse-control and conduct disorders
-- Substance-related and addictive behaviours; substance misuse, abuse, dependence, and substance induced mental disorders, gambling and other forms of addiction
-- Suicidal behaviour
-- Neurocognitive disorders; dementia, depression delirium
+
+* Schizophrenia spectrum and other psychotic disorders
+* Bipolar and related disorders
+* Depressive disorders
+* Anxiety disorders; panic attack, generalised anxiety disorder, panic disorder 
+* Self-harming
+* Obsessive-compulsive and related disorders
+* Trauma- and stressor-related disorders; acute stress disorder, post-traumatic stress disorder, adjustment disorder
+* Personality disorders
+* Feeding and eating disorders
+* Sleep-wake problems
+* Disruptive, impulse-control and conduct disorders
+* Substance-related and addictive behaviours; substance misuse, abuse, dependence, and substance induced mental disorders, gambling and other forms of addiction
+* Suicidal behaviour
+* Neurocognitive disorders; dementia, depression delirium
 
 #### CG.K.2
 
 Describe the social, cultural, geographic and environmental characteristics of rural/remote communities that have an impact on the presentation and management of mental health problems including: 
-- risk factors eg socioeconomic disadvantage, firearm access
-- health patterns 
-- access to health services 
-- appropriateness of health services, eg lack of security, secure rooms
-- health service utilisation
-- work and living patterns, eg fly-in fly-out workers
-- Aboriginal and Torres Strait Islander considerations: traditional culture, family and kinship, connection to country, dispossession, transgenerational trauma, “stolen generation”, reconciliation
+
+* risk factors eg socioeconomic disadvantage, firearm access
+* health patterns 
+* access to health services 
+* appropriateness of health services, eg lack of security, secure rooms
+* health service utilisation
+* work and living patterns, eg fly-in fly-out workers
+* Aboriginal and Torres Strait Islander considerations: traditional culture, family and kinship, connection to country, dispossession, transgenerational trauma, “stolen generation”, reconciliation
 
 #### CG.K.3
 
 Explain pharmacokinetics, indications, contraindications and side effects of the major psychotherapeutic agents including:
-- antidepressants
-- mood stabilisers
-- anxiolytics/hypnotics
-- antipsychotics
-- prescribing for drug and alcohol indications, including methadone and buprenorphine therapy for opioid dependence
-- co-prescribing of clozapine therapy, stimulants 
+
+* antidepressants
+* mood stabilisers
+* anxiolytics/hypnotics
+* antipsychotics
+* prescribing for drug and alcohol indications, including methadone and buprenorphine therapy for opioid dependence
+* co-prescribing of clozapine therapy, stimulants 
 
 #### CG.K.4
 
@@ -53,21 +55,22 @@ Explain recovery concepts and ideas when working with patients
 #### CG.K.5
 
 Identify relevant national and state legislation related to the rights of people with a mental illness and the improvement of mental health care including: 
-- relevant state Mental Health Act 
-- legislation on: 
-	child protection 
-	privacy 
-	confidentiality 
-	guardianship 
-	freedom of information 
-	anti-discrimination 
-- legislation related to informed consent for treatment 
-- mechanisms for involuntary treatment and care according to state or territory mental health legislation 
-- reporting requirements and record keeping of state legislation including:
-	child abuse 
-	elder abuse 
-	domestic violence 
-	critical incidents
+
+* relevant state Mental Health Act 
+* legislation on: 
+  	child protection 
+  	privacy 
+  	confidentiality 
+  	guardianship 
+  	freedom of information 
+  	anti-discrimination 
+* legislation related to informed consent for treatment 
+* mechanisms for involuntary treatment and care according to state or territory mental health legislation 
+* reporting requirements and record keeping of state legislation including:
+  	child abuse 
+  	elder abuse 
+  	domestic violence 
+  	critical incidents
 
 #### CG.K.6
 
@@ -77,33 +80,36 @@ Skills
 #### CG.S.1
 
 Recognise the presentation of mental health disorders and problems:
-- establish a provisional diagnosis and consider appropriate differentials
-- plan and arrange appropriate investigations 
-- initiate appropriate management for uncomplicated disease 
-- monitor for complications
-- recognise if there are complications, or if procedural intervention is required and provide initial emergency management and refer appropriately
+
+* establish a provisional diagnosis and consider appropriate differentials
+* plan and arrange appropriate investigations 
+* initiate appropriate management for uncomplicated disease 
+* monitor for complications
+* recognise if there are complications, or if procedural intervention is required and provide initial emergency management and refer appropriately
 
 #### CG.S.2
 
 Perform a mental status examination including the following components:
-- general appearance and behaviour
-- psychomotor changes
-- mood and affect
-- speech & thought form 
-- thought content
-- conscious state and cognition
-- insight and capacity 
+
+* general appearance and behaviour
+* psychomotor changes
+* mood and affect
+* speech & thought form 
+* thought content
+* conscious state and cognition
+* insight and capacity 
 
 #### CG.S.3
 
 Perform the following assessments:
-- HEADSS assessment for adolescents
-- Suicide risk assessment and safety planning
-- Mini-mental state examination
-- other cognitive bedside assessments
-- Psychiatric mental state examination
-- Alcohol withdrawal scale use
-- Application of Mental Health Act “Schedule”/referral
+
+* HEADSS assessment for adolescents
+* Suicide risk assessment and safety planning
+* Mini-mental state examination
+* other cognitive bedside assessments
+* Psychiatric mental state examination
+* Alcohol withdrawal scale use
+* Application of Mental Health Act “Schedule”/referral
 
 #### CG.S.4
 
@@ -112,8 +118,9 @@ Distinguish between functional and organic causes of altered mental status
 #### CG.S.5
 
 Apply diagnostic classification systems: 
-- the Diagnostic and Statistical Manual of Mental Disorders, fifth Edition (DSM-5) or
-- the International Statistical Classification of Diseases and Related Health Problems 11th Revision (ICD-11)
+
+* the Diagnostic and Statistical Manual of Mental Disorders, fifth Edition (DSM-5) or
+* the International Statistical Classification of Diseases and Related Health Problems 11th Revision (ICD-11)
 
 #### CG.S.6
 
@@ -122,15 +129,16 @@ Consider spirituality problems as a potential differential diagnosis in a range 
 #### CG.S.7
 
 Consider the needs of those with existing co-morbidities including: 
-- substance misuse
-- developmental disability 
-- physical disability 
-- personality disorder 
-- trauma 
-- acquired brain injury
-- physical illness with which mental illnesses are commonly associated - e.g. Parkinson’s disease 
-- hearing or sight impairment and 
-- co-existing psychiatric morbidities
+
+* substance misuse
+* developmental disability 
+* physical disability 
+* personality disorder 
+* trauma 
+* acquired brain injury
+* physical illness with which mental illnesses are commonly associated - e.g. Parkinson’s disease 
+* hearing or sight impairment and 
+* co-existing psychiatric morbidities
 
 #### CG.S.8
 
@@ -143,13 +151,14 @@ Manage pharmacotherapy for the full spectrum of mental illness including monitor
 #### CG.S.10
 
 Provide a range of talking treatments including:
-- empathic/active listening 
-- structured problem solving
-- goal setting
-- sleep hygiene and
-- behavioural activation
-- brief counselling interventions
-- motivational interviewing
+
+* empathic/active listening 
+* structured problem solving
+* goal setting
+* sleep hygiene and
+* behavioural activation
+* brief counselling interventions
+* motivational interviewing
 
 #### CG.S.11
 
@@ -178,19 +187,21 @@ Provide community education and mental health promotion that is informed by spec
 #### CG.S.17
 
 Manage admission of patients with mental health conditions requiring hospitalisation including: 
-- alcohol detoxification, 
-- initiation of new medications in some circumstances, 
-- crisis situations
+
+* alcohol detoxification, 
+* initiation of new medications in some circumstances, 
+* crisis situations
 
 #### CG.S.18
 
 Assess patients experiencing a mental health crisis including assessment of: 
-- severity of psychiatric illness 
-- suicide/self-harm 
-- drug overdose 
-- violence to others, 
-- damage to property 
-- availability of guns 
+
+* severity of psychiatric illness 
+* suicide/self-harm 
+* drug overdose 
+* violence to others, 
+* damage to property 
+* availability of guns 
 
 #### CG.S.19
 
@@ -199,12 +210,13 @@ Recognise the indicators for an emergency psychiatric consultation
 #### CG.S.20
 
 Institute emergency management of patients with a mental illness through using:
-- techniques for aggression management 
-- acute situational crisis counselling
-- conflict resolution
-- violence interventions 
-- debriefing, and 
-- only as a last resort, the involvement of police, chemical and/or physical restraint
+
+* techniques for aggression management 
+* acute situational crisis counselling
+* conflict resolution
+* violence interventions 
+* debriefing, and 
+* only as a last resort, the involvement of police, chemical and/or physical restraint
 
 #### CG.S.21
 
@@ -219,7 +231,6 @@ Apply a plan/protocol for referring or transferring patients who require special
 Use the legislative framework for involuntary psychiatric care, guardianship/power of attorney and child protection where relevant
 
 ### 🎭 Attributes
-
 
 #### At.6
 
@@ -260,9 +271,10 @@ Describes diagnostic systems and dual diagnosis conditions, including physical c
 #### AS.K.6
 
 Explains recovery concepts and ideas, including: 
-- Recovery is being able to live a meaningful and satisfying life, as defined by each person, in the presence or absence of symptoms. It is about the person having control over and input into their own life. 
-- Recovery does not necessarily mean ‘clinical recovery’ (usually defined in terms of symptoms and cure) - it does mean ‘personal recovery’ – building a life beyond illness without necessarily achieving the elimination of the symptoms of illness.
-- Recovery is often described as a journey, with its inevitable ups and downs, and people often describe themselves as being in Recovery rather than Recovered.
+
+* Recovery is being able to live a meaningful and satisfying life, as defined by each person, in the presence or absence of symptoms. It is about the person having control over and input into their own life. 
+* Recovery does not necessarily mean ‘clinical recovery’ (usually defined in terms of symptoms and cure) - it does mean ‘personal recovery’ – building a life beyond illness without necessarily achieving the elimination of the symptoms of illness.
+* Recovery is often described as a journey, with its inevitable ups and downs, and people often describe themselves as being in Recovery rather than Recovered.
 
 #### AS.K.7
 
@@ -283,32 +295,36 @@ Compares the major drug classes of pharmacotherapeutics for the treatment of men
 #### AS.K.11
 
 Describes principles of safe and effective pharmacotherapy, including:
-- minimises or avoids polypharmacy prescribing and use
-- patient education
-- patient adherence strategies and monitoring
-- requirements for informed consent.
 
- 
+* minimises or avoids polypharmacy prescribing and use
+* patient education
+* patient adherence strategies and monitoring
+* requirements for informed consent.
+
 #### AS.K.12
 
 Explains the principles of management for complex pharmacotherapeutic scenarios, including:
-- serious adverse effects – acute and long-term
-- poly-pharmacy
-- treatment resistance
-- prescribing for children and adolescents
-- prescribing for pregnant and breastfeeding women
+
+* serious adverse effects – acute and long-term
+* poly-pharmacy
+* treatment resistance
+* prescribing for children and adolescents
+* prescribing for pregnant and breastfeeding women
+
 #### AS.K.13
 
 Discusses the types and appropriate selection of counselling and psychosocial therapeutic techniques:
-- patient education
-- supportive psychotherapy/expressive supportive continuum
-- bereavement counselling
-- general counselling
-- structured problem solving
-- motivational interviewing
-- cognitive behaviour therapy (CBT)
-- inter-personal therapy (IPT)
-- family therapy and marriage counselling
+
+* patient education
+* supportive psychotherapy/expressive supportive continuum
+* bereavement counselling
+* general counselling
+* structured problem solving
+* motivational interviewing
+* cognitive behaviour therapy (CBT)
+* inter-personal therapy (IPT)
+* family therapy and marriage counselling
+
 #### AS.K.14
 
 Recognises the relevance of developmental stages on mental health 
@@ -330,35 +346,38 @@ Obtain a comprehensive mental health history, including effective communication 
 #### AS.S.2
 
 Take a focused history in complex or difficult situations, including:
-- alcohol and other drug history
-- domestic violence history
-- previous childhood sexual abuse – managing disclosure
-- gambling
-- Aboriginal or Torres Strait Islander patients – traditional culture, family and kinship, connection to country, dispossession, transgenerational trauma, “stolen generation”, reconciliation
-- migrant and refugee patients
-- risk assessment – suicide, deliberate self-harm, harm to others
-- traumatic events 
+
+* alcohol and other drug history
+* domestic violence history
+* previous childhood sexual abuse – managing disclosure
+* gambling
+* Aboriginal or Torres Strait Islander patients – traditional culture, family and kinship, connection to country, dispossession, transgenerational trauma, “stolen generation”, reconciliation
+* migrant and refugee patients
+* risk assessment – suicide, deliberate self-harm, harm to others
+* traumatic events 
 
 #### AS.S.3
 
 Recognise the signs of uncommon but serious mental health disorders, including:
-- psychoses – affective psychoses, schizophrenia, schizo-affective disorder, delusional disorder, hallucinoses
-- eating disorders
-- severe somatoform disorders
-- toxic and organic brain syndromes
-- acute stress disorder and post-traumatic stress disorder (PTSD)
-- ADD/ADHD in adults.
+
+* psychoses – affective psychoses, schizophrenia, schizo-affective disorder, delusional disorder, hallucinoses
+* eating disorders
+* severe somatoform disorders
+* toxic and organic brain syndromes
+* acute stress disorder and post-traumatic stress disorder (PTSD)
+* ADD/ADHD in adults.
 
 #### AS.S.4
 
 Consider mental health needs as well as existing co-morbidities, including:
-- substance misuse 
-- developmental disability 
-- physical disability 
-- personality disorder 
-- trauma 
-- acquired brain injury
-- physical illness with which mental illnesses are commonly associated - e.g. Parkinson’s disease, hearing or sight impairment and co-existing psychiatric morbidities
+
+* substance misuse 
+* developmental disability 
+* physical disability 
+* personality disorder 
+* trauma 
+* acquired brain injury
+* physical illness with which mental illnesses are commonly associated - e.g. Parkinson’s disease, hearing or sight impairment and co-existing psychiatric morbidities
 
 #### AS.S.5
 
@@ -375,9 +394,10 @@ Manage co-morbid physical complications of substance misuse and abuse, including
 #### AS.S.8
 
 Diagnose mental health problems in specific age groups, including:
-- Children: ‘the difficult child’, encopresis and enuresis, school refusal, attention deficit hyperactivity disorder, aggression, organic brain disorder, oppositional defiant disorder, loss and grief reaction, recognition of sexual abuse and child abuse
-- Young people: relationship problems at home, low self-esteem, peer group imitation, separation from cultural and family demands, oppositional behaviour, somatoform disorders, conversion disorder, ADHD, confusion about gender identity, self-harm, substance misuse (alcohol, marijuana, amphetamine derivatives, solvents, sedatives and others), depression, anxiety, attachment disorders, psychoses, teen pregnancy, eating disorders, loss and grief reaction, sexual abuse.
-- Adults: substance abuse, marriage/relationship problems, family conflict/parenting issues
+
+* Children: ‘the difficult child’, encopresis and enuresis, school refusal, attention deficit hyperactivity disorder, aggression, organic brain disorder, oppositional defiant disorder, loss and grief reaction, recognition of sexual abuse and child abuse
+* Young people: relationship problems at home, low self-esteem, peer group imitation, separation from cultural and family demands, oppositional behaviour, somatoform disorders, conversion disorder, ADHD, confusion about gender identity, self-harm, substance misuse (alcohol, marijuana, amphetamine derivatives, solvents, sedatives and others), depression, anxiety, attachment disorders, psychoses, teen pregnancy, eating disorders, loss and grief reaction, sexual abuse.
+* Adults: substance abuse, marriage/relationship problems, family conflict/parenting issues
 
 #### AS.S.9
 
@@ -386,9 +406,10 @@ Provide counselling therapies for example;
 #### AS.S.10
 
 Psycho-education (including motivational interviewing) 
-- Cognitive-behavioural therapy including behavioural interventions, behaviour modification, exposure techniques, activity scheduling, cognitive interventions, cognitive therapy
-- Relaxation strategies: progressive muscle relaxation, controlled breathing
-- Skills training; problem solving skills and training, anger management, social skills training, communication training, stress management, parent management training
+
+* Cognitive-behavioural therapy including behavioural interventions, behaviour modification, exposure techniques, activity scheduling, cognitive interventions, cognitive therapy
+* Relaxation strategies: progressive muscle relaxation, controlled breathing
+* Skills training; problem solving skills and training, anger management, social skills training, communication training, stress management, parent management training
 
 #### AS.S.11
 
@@ -397,35 +418,38 @@ Interpersonal therapy (especially for depression)
 #### AS.S.12
 
 Manage pharmacotherapy for the full spectrum of mental illness including monitoring and managing adverse effects of medication
-- antidepressants
-- mood stabilisers
-- anxiolytics/hypnotics
-- antipsychotics
-- prescribing for drug and alcohol indications, including methadone and buprenorphine therapy for opioid dependence
-- co-prescribing of clozapine therapy, stimulants
+
+* antidepressants
+* mood stabilisers
+* anxiolytics/hypnotics
+* antipsychotics
+* prescribing for drug and alcohol indications, including methadone and buprenorphine therapy for opioid dependence
+* co-prescribing of clozapine therapy, stimulants
 
 #### AS.S.13
 
 Provide follow up and long-term care for patients with mental health conditions
-- providing for transition of care
-- using the recovery paradigm
-- ongoing monitoring of the patient’s mental state,
-- ongoing monitoring the patient’s physical state including physical comorbidities and medication
-- relapse prevention – including prevention planning, relapse detection and relapse management 
-- appropriate participation in team-based care
-- patient advocacy
-- management of treatment completion.
+
+* providing for transition of care
+* using the recovery paradigm
+* ongoing monitoring of the patient’s mental state,
+* ongoing monitoring the patient’s physical state including physical comorbidities and medication
+* relapse prevention – including prevention planning, relapse detection and relapse management 
+* appropriate participation in team-based care
+* patient advocacy
+* management of treatment completion.
 
 #### AS.S.14
 
 Work in collaboration with other mental health care professionals and community and government organisations
-- opportunities for shared care
-- specialist services
-- tele-psychiatry
-- mental health nurses or mental health practitioners
-- carer and self-help organisations
-- peer worker, advocacy services
-- online services and resources.
+
+* opportunities for shared care
+* specialist services
+* tele-psychiatry
+* mental health nurses or mental health practitioners
+* carer and self-help organisations
+* peer worker, advocacy services
+* online services and resources.
 
 #### AS.S.15
 
@@ -442,20 +466,25 @@ Techniques for aggression management, acute situational crisis counselling, conf
 #### AS.S.18
 
 Appropriately administer emergency pharmacotherapy, including:
-- understanding clinical practice guidelines
-- understanding the legal requirements for involuntary administration of emergency pharmacotherapy.
+
+* understanding clinical practice guidelines
+* understanding the legal requirements for involuntary administration of emergency pharmacotherapy.
+
 #### AS.S.19
 
 Demonstrate forensic mental health skills, including:
-- initial response to cases of suspected abuse – including child abuse, domestic abuse and sexual assault
-- mental health assessment of offenders 
-- assessment of competence to consent and fitness to plead.
+
+* initial response to cases of suspected abuse – including child abuse, domestic abuse and sexual assault
+* mental health assessment of offenders 
+* assessment of competence to consent and fitness to plead.
+
 #### AS.S.20
 
 Design and implement a community mental health initiative
-- mental health literacy education
-- adolescent mental health programs
-- preventive programs – e.g. Beyond Blue, Headspace or GP Network mental health activities within the registrar’s community.
+
+* mental health literacy education
+* adolescent mental health programs
+* preventive programs – e.g. Beyond Blue, Headspace or GP Network mental health activities within the registrar’s community.
 
 ### 🎭 Attributes
 
