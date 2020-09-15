@@ -1,8 +1,8 @@
 ---
 title: Emergency
-sidebar_label: emergency
+sidebar_label: Core Generalist
 ---
-## Core Generalised
+## Core Generalist
 
 ### 💡 Knowledge
 
@@ -10,9 +10,7 @@ sidebar_label: emergency
 
 Describe the following;
 
-TESTING! 😀
-
-* **basic pathophysiology of cardiac arrest and the factors leading to circulatory and respiratory failure, and those factors relevant to post resuscitation care**
+* basic pathophysiology of cardiac arrest and the factors leading to circulatory and respiratory failure, and those factors relevant to post resuscitation care
 * basic pathophysiology of shock secondary to cardiogenic, haemorrhagic, hypovolaemic, anaphylactic, mechanical or other causes of shock 
 * basic anatomy of the airway, circulatory and respiratory system in relation to life threatening conditions 
 * relevant anatomical aspects of the neurological and musculoskeletal systems in relation to medical and surgical conditions 
