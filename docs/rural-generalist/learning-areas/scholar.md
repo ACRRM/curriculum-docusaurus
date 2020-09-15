@@ -1,11 +1,10 @@
 ---
 title: Scholar
+sidebar_label: Core Generalist
 ---
-
-## Core Generalised
+## Core Generalist
 
 ### 💡 Knowledge
-
 
 #### CG.K.1
 
@@ -44,30 +43,33 @@ Describe methods by which patients can better understand the evidence behind dif
 #### CG.S.1
 
 Demonstrate lifelong learning, including:
-- engage in continuous learning and professional development
-- develop, implement, monitor, and revise a personal learning plan to enhance professional practice
-- seek and utilise feedback to enhance learning and performance 
-- identify opportunities for learning and improvement by regularly reflecting on and assessing their performance using various internal and external data sources
-- engage in collaborative learning to continuously improve personal practice and contribute to collective improvements in practice
+
+* engage in continuous learning and professional development
+* develop, implement, monitor, and revise a personal learning plan to enhance professional practice
+* seek and utilise feedback to enhance learning and performance 
+* identify opportunities for learning and improvement by regularly reflecting on and assessing their performance using various internal and external data sources
+* engage in collaborative learning to continuously improve personal practice and contribute to collective improvements in practice
 
 #### CG.S.2
 
 Apply teaching skills, including:
-- provide direct and remote clinical supervision and support to junior medical staff, students and nurses
-- teach health students, junior doctors and other health professionals
-- teaching patients eg how to use glucometer, puffers, administer injectable treatment, titrate their insulin
-- plan and deliver a learning activity
-- provide feedback to enhance learning and performance
+
+* provide direct and remote clinical supervision and support to junior medical staff, students and nurses
+* teach health students, junior doctors and other health professionals
+* teaching patients eg how to use glucometer, puffers, administer injectable treatment, titrate their insulin
+* plan and deliver a learning activity
+* provide feedback to enhance learning and performance
 
 #### CG.S.3
 
 Demonstrate evidence informed decision making, including:
-- identify, select, and navigate pre-appraised resources
-- critically appraise and apply relevant research
-- recognize practice uncertainty and knowledge gaps in clinical and other professional encounters and generate focused questions that address them
-- critically evaluate the integrity, reliability and applicability of health-related research and literature
-- integrate evidence into decision-making in practice
-- assist patients with sourcing and understanding evidence-based information
+
+* identify, select, and navigate pre-appraised resources
+* critically appraise and apply relevant research
+* recognize practice uncertainty and knowledge gaps in clinical and other professional encounters and generate focused questions that address them
+* critically evaluate the integrity, reliability and applicability of health-related research and literature
+* integrate evidence into decision-making in practice
+* assist patients with sourcing and understanding evidence-based information
 
 #### CG.S.4
 
