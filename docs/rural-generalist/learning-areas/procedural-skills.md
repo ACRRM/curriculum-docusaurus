@@ -1,11 +1,10 @@
 ---
 title: Procedural Skills
+sidebar_label: Core Generalist
 ---
-
-## Core Generalised
+## Core Generalist
 
 ### 💡 Knowledge
-
 
 #### CG.K.1
 
@@ -45,7 +44,6 @@ Describe other procedural related risks, such as the transmission of blood borne
 
 ### 🤹‍♀️ Skills
 
-
 #### CG.S.1
 
 Ensure that practice facilities are appropriately equipped and resourced to meet procedural task requirements
@@ -83,7 +81,6 @@ Accountability
 #### At.11
 
 Integrity
-
 
 <!-- TODO: fix this into table -->
 
@@ -233,4 +230,4 @@ Performed the procedure to the standard of a:
 A.	Practitioner operating independently – demonstrated on a real patient
 B.	Pass in an accredited course or certified satisfactory by a supervisor – demonstrated on a 	simulated 	patient
 C.	Practitioner under supervision – demonstrated on a real patient
-D.	Practitioner assisting an independent practitioner – demonstrated on a real patient 	
+D.	Practitioner assisting an independent practitioner – demonstrated on a real patient
