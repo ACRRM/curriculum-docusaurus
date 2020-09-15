@@ -1,8 +1,8 @@
 ---
 title: Obstetrics and Gynaecology
+sidebar_label: Core Generalist
 ---
-
-## Core Generalised
+## Core Generalist
 
 ### 💡 Knowledge
 
@@ -33,18 +33,20 @@ Demonstrate an understanding of the physical and emotional issues associated wit
 #### CG.K.7
 
 Discuss antenatal problems of specific high-risk groups including:
-- Aboriginal and Torres Strait Islander women 
-- migrant women 
-- women with a disability
-- women with a drug addiction and 
-- women over 35 years of age
+
+* Aboriginal and Torres Strait Islander women 
+* migrant women 
+* women with a disability
+* women with a drug addiction and 
+* women over 35 years of age
 
 #### CG.K.8
 
 Identify available community facilities/resources and means of access including: 
-- local antenatal classes 
-- breastfeeding support services 
-- midwife services
+
+* local antenatal classes 
+* breastfeeding support services 
+* midwife services
 
 #### CG.K.9
 
@@ -70,38 +72,41 @@ Skills
 #### CG.S.1
 
 Apply diagnostic reasoning to arrive at one or more provisional diagnoses, considering common gynaecological conditions including:
-- urinary tract infections 
-- genital tract infections
-- abnormal cervical screening results 
-- endometriosis 
-- pelvic pain 
-- pelvic inflammatory disease
-- Bartholin’s cysts/abscess
-- ovarian cysts 
-- uterine fibroids 
-- cervical and uterine polyps and
-- pelvic organ prolapses
-- post-menopausal bleeding
+
+* urinary tract infections 
+* genital tract infections
+* abnormal cervical screening results 
+* endometriosis 
+* pelvic pain 
+* pelvic inflammatory disease
+* Bartholin’s cysts/abscess
+* ovarian cysts 
+* uterine fibroids 
+* cervical and uterine polyps and
+* pelvic organ prolapses
+* post-menopausal bleeding
 
 #### CG.S.2
 
 Diagnose and manage common menstrual problems including: 
-- heavy menstrual bleeding (menorrhagia)
-- no menstrual bleeding (amenorrhea) 
-- bleeding between periods (intermenstrual bleeding) 
-- dysmenorrhea (painful menstrual periods) 
-- premenstrual syndrome (PMS) 
-- premenstrual dysphonic disorder (PMDD)
+
+* heavy menstrual bleeding (menorrhagia)
+* no menstrual bleeding (amenorrhea) 
+* bleeding between periods (intermenstrual bleeding) 
+* dysmenorrhea (painful menstrual periods) 
+* premenstrual syndrome (PMS) 
+* premenstrual dysphonic disorder (PMDD)
 
 #### CG.S.3
 
 Recognise and provide advice and treatment to women experiencing menopause in relation to:
-- the immediate symptoms of the menopause 
-- long term risks of the menopause 
-- management options, including lifestyle, hormonal and non-hormonal 
-- risks and benefits of the use of hormone replacement therapy (HRT) 
-- HRT options, combinations, delivery methods and appropriate investigation, if required
-- alternative options to HRT
+
+* the immediate symptoms of the menopause 
+* long term risks of the menopause 
+* management options, including lifestyle, hormonal and non-hormonal 
+* risks and benefits of the use of hormone replacement therapy (HRT) 
+* HRT options, combinations, delivery methods and appropriate investigation, if required
+* alternative options to HRT
 
 #### CG.S.4
 
@@ -110,12 +115,13 @@ Educate patients about choice of contraceptive methods and negotiating safe sex
 #### CG.S.5
 
 Perform the following procedures:
-- conduct a pelvic exam 
-- insert and remove implanon
-- insert and remove contraceptive intrauterine devices
-- pregnancy testing
-- fundal height assessment 
-- foetal heart sound detection using a Doppler or ultrasound
+
+* conduct a pelvic exam 
+* insert and remove implanon
+* insert and remove contraceptive intrauterine devices
+* pregnancy testing
+* fundal height assessment 
+* foetal heart sound detection using a Doppler or ultrasound
 
 #### CG.S.6
 
@@ -140,10 +146,11 @@ Undertake routine antenatal screening including testing for anaemia, Group B str
 #### CG.S.11
 
 Order and interpret routine screening tests and other investigations as necessary including: 
-- ultrasound +/- first trimester screening with NT
-- Non-Invasive Prenatal Testing (NIPT)
-- amniocentesis 
-- chorion villus sampling (CVS)
+
+* ultrasound +/- first trimester screening with NT
+* Non-Invasive Prenatal Testing (NIPT)
+* amniocentesis 
+* chorion villus sampling (CVS)
 
 #### CG.S.12
 
@@ -164,15 +171,16 @@ Recognise and manage important first trimester conditions including early bleedi
 #### CG.S.16
 
 Provide advice on the treatment of minor antenatal problems such as: 
-- nausea 
-- vomiting 
-- urinary frequency 
-- cramps
-- Braxton Hicks 
-- syncope 
-- musculoskeletal pain 
-- intercurrent infections (respiratory, urinary and vaginal)
-- recommend appropriate vaccinations in pregnancy eg influenza and pertussis
+
+* nausea 
+* vomiting 
+* urinary frequency 
+* cramps
+* Braxton Hicks 
+* syncope 
+* musculoskeletal pain 
+* intercurrent infections (respiratory, urinary and vaginal)
+* recommend appropriate vaccinations in pregnancy eg influenza and pertussis
 
 #### CG.S.17
 
@@ -181,14 +189,15 @@ Work with parents, families and other healthcare providers to develop mutually a
 #### CG.S.18
 
 Recognise and manage late trimester complications including: 
-- pre-eclampsia 
-- eclampsia 
-- foetal growth restriction
-- elevated blood pressure 
-- threatened pre-term labour 
-- antepartum haemorrhage 
-- placental complications
-- gestational diabetes
+
+* pre-eclampsia 
+* eclampsia 
+* foetal growth restriction
+* elevated blood pressure 
+* threatened pre-term labour 
+* antepartum haemorrhage 
+* placental complications
+* gestational diabetes
 
 #### CG.S.19
 
@@ -197,33 +206,36 @@ Manage normal labour and delivery under emergency circumstances in consultation 
 #### CG.S.20
 
 Recognise and participate in the management of birthing complications including:
-- haemorrhage 
-- pre-eclampsia 
-- eclampsia 
-- placental complications
-- failure to progress in labour
-- analgesia requirements
-- fever 
-- amnionitis
-- malpresentations such as breech, occipito-posterior (OP)
-- shoulder dystocia 
+
+* haemorrhage 
+* pre-eclampsia 
+* eclampsia 
+* placental complications
+* failure to progress in labour
+* analgesia requirements
+* fever 
+* amnionitis
+* malpresentations such as breech, occipito-posterior (OP)
+* shoulder dystocia 
 
 #### CG.S.21
 
 Perform the following procedures in an emergency:
-- Cardiotocography (CTG) interpretation
-- catheterise the urethra
-- manage shoulder dystocia 
-- episiotomy
-- repair of small perineal tear and genital trauma
+
+* Cardiotocography (CTG) interpretation
+* catheterise the urethra
+* manage shoulder dystocia 
+* episiotomy
+* repair of small perineal tear and genital trauma
 
 #### CG.S.22
 
 Recognise and respond early to the deteriorating condition of a woman or baby during labour and post-partum, including: 
-- inadequate uterine conditions 
-- abnormal bleeding 
-- high blood pressure
-- obstructed labour
+
+* inadequate uterine conditions 
+* abnormal bleeding 
+* high blood pressure
+* obstructed labour
 
 #### CG.S.23
 
@@ -236,41 +248,44 @@ Perform routine neonatal assessment
 #### CG.S.25
 
 Provide ongoing care for common neonatal problems including:
-- respiratory distress, secondary apnoea
-- meconium aspiration
-- asphyxia, cyanosis 
-- hypoglycaemia 
-- hypothermia 
-- vomiting 
-- failure to pass meconium
-- physiological and non-physiological jaundice 
-- intrapartum and neonatal infection
-- seizures
-- maternal infection including; syphilis, hepatitis B and C and HIV
-- feeding problems
-- drug withdrawal
+
+* respiratory distress, secondary apnoea
+* meconium aspiration
+* asphyxia, cyanosis 
+* hypoglycaemia 
+* hypothermia 
+* vomiting 
+* failure to pass meconium
+* physiological and non-physiological jaundice 
+* intrapartum and neonatal infection
+* seizures
+* maternal infection including; syphilis, hepatitis B and C and HIV
+* feeding problems
+* drug withdrawal
 
 #### CG.S.26
 
 Provide advice and support regarding conditions affecting breast feeding including: 
-- inverted and cracked nipples 
-- mastitis
-- breast engorgement 
-- misconceptions regarding lactation, supply and demand
-- decreased supply 
-- drug contraindications
+
+* inverted and cracked nipples 
+* mastitis
+* breast engorgement 
+* misconceptions regarding lactation, supply and demand
+* decreased supply 
+* drug contraindications
 
 #### CG.S.27
 
 Provide advice and counselling on the physical and emotional issues experienced by women in their first 12 months following childbirth including:
-- tone of pelvic floor and other muscles 
-- mastitis 
-- urinary tract infection (UTI)
-- perineal wound infections 
-- sexuality after childbirth 
-- stress and social demands 
-- depression
-- contraceptive options while lactating
+
+* tone of pelvic floor and other muscles 
+* mastitis 
+* urinary tract infection (UTI)
+* perineal wound infections 
+* sexuality after childbirth 
+* stress and social demands 
+* depression
+* contraceptive options while lactating
 
 #### CG.S.28
 
@@ -283,15 +298,15 @@ Undertake a six-week post-natal check for both mother and infant
 #### CG.S.30
 
 Provide initial counselling for families experiencing: 
-- perinatal death, still born or neonatal death 
-- child born with abnormalities
+
+* perinatal death, still born or neonatal death 
+* child born with abnormalities
 
 #### CG.S.31
 
 Work within National and state legislation relating to women’s health including legal responsibilities regarding notification of disease, birth, death and autopsy relevant to the state concerned.
 
 ### 🎭 Attributes
-
 
 #### At.6
 
@@ -308,7 +323,6 @@ Resourcefulness
 ## Advanced Specialised (based on DRANZCOG Advanced Curriculum)
 
 ### 💡 Knowledge
-  
 
 #### AS.K.1
 
@@ -317,12 +331,13 @@ Discuss the principles and use of regional analgesia, including the principles o
 #### AS.K.2
 
 Describe the principles of 
-- management of first and second trimester termination of pregnancy
-- elective breech delivery
-- twin delivery 
-- 3rd and 4th degree tear repair
-- repair of torn bladder
-- repair of lacerated cervix
+
+* management of first and second trimester termination of pregnancy
+* elective breech delivery
+* twin delivery 
+* 3rd and 4th degree tear repair
+* repair of torn bladder
+* repair of lacerated cervix
 
 #### AS.K.3
 
@@ -339,12 +354,13 @@ Describe the requirements of the sick neonate prior to transfer
 #### AS.K.6
 
 Discuss the principles of 
-- management of ectopic pregnancy
-- management of corpus luteum (CL) cyst, ruptured/torsion ovarian cyst 
-- pathological conditions of the cervix 
-- management of uterine contraceptive device complications
-- performing female sterilization at the time of Caesarean section
-Skills 
+
+* management of ectopic pregnancy
+* management of corpus luteum (CL) cyst, ruptured/torsion ovarian cyst 
+* pathological conditions of the cervix 
+* management of uterine contraceptive device complications
+* performing female sterilization at the time of Caesarean section
+  Skills 
 
 #### AS.S.1
 
@@ -465,9 +481,10 @@ Resuscitate a neonate, including endotracheal intubation
 #### AS.S.30
 
 In consultation with a specialist be able to:
-- recognise, provide immediate management, stabilise and arrange transfer as appropriate of sick neonates, including those with sepsis, respiratory distress, hypoglycaemia and failure to thrive 
-- evaluate a perinatal death in accordance with PSANZ guidelines 
-- perform basic grief counselling, including counselling parents after a perinatal death
+
+* recognise, provide immediate management, stabilise and arrange transfer as appropriate of sick neonates, including those with sepsis, respiratory distress, hypoglycaemia and failure to thrive 
+* evaluate a perinatal death in accordance with PSANZ guidelines 
+* perform basic grief counselling, including counselling parents after a perinatal death
 
 #### AS.S.31
 
