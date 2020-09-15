@@ -1,8 +1,8 @@
 ---
 title: Sexual Health
+sidebar_label: Core Generalist
 ---
-
-## Core Generalised
+## Core Generalist
 
 ### 💡 Knowledge
 
@@ -59,44 +59,49 @@ Incorporate sexual history taking into general medical history taking
 #### CG.S.2
 
 Counsel on sexual health issues including: 
-- normal sexual activity
-- gender and gender dysphoria
-- negotiating safe sex 
-- sexual rights
-- contraception
-- sexual aging
-- sexual dysfunction
+
+* normal sexual activity
+* gender and gender dysphoria
+* negotiating safe sex 
+* sexual rights
+* contraception
+* sexual aging
+* sexual dysfunction
 
 #### CG.S.3
 
 Diagnose and manage sexually transmitted infections including: 
-- Syphilis 
-- Gonorrhoea 
-- Chlamydia
-- Trichomoniasis 
-- Human Papillomavirus (HPV) and Genital Warts 
-- Herpes Simplex
-- HIV/AIDS
+
+* Syphilis 
+* Gonorrhoea 
+* Chlamydia
+* Trichomoniasis 
+* Human Papillomavirus (HPV) and Genital Warts 
+* Herpes Simplex
+* HIV/AIDS
 
 #### CG.S.4
 
 Provide opportunistic STI testing to patients at risk:
-- provide pre-test counselling and education for STIs
-- perform examinations in a sensitive manner
+
+* provide pre-test counselling and education for STIs
+* perform examinations in a sensitive manner
 
 #### CG.S.5
 
 Perform basic procedures for the diagnosis of STIs: 
-- specimen collection for screening test/s 
-- conducting an examination for STIs 
+
+* specimen collection for screening test/s 
+* conducting an examination for STIs 
 
 #### CG.S.6
 
 Provide in sexual assault cases:
-- evidence collecting
-- prophylactic treatment such as antiretrovirals
-- psychological safety
-- emergency contraception
+
+* evidence collecting
+* prophylactic treatment such as antiretrovirals
+* psychological safety
+* emergency contraception
 
 ### 🎭 Attributes
 
