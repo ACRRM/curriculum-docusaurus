@@ -1,11 +1,10 @@
 ---
 title: Collaborator
+sidebar_label: Core Generalist
 ---
-
-## Core Generalised
+## Core Generalist
 
 ### 💡 Knowledge
-
 
 #### CG.K.1
 
@@ -28,30 +27,27 @@ Identify referral networks
 #### CG.K.1
 
 Identify level of risk for patient, doctor, and community, including:
-- assessment of situational analysis: complexity, socio-economic factors, cultural and psychological factors, public health issues
-- resources: human, advice and information, technical
-- transport
-- support: psychological, management and organisational
+
+* assessment of situational analysis: complexity, socio-economic factors, cultural and psychological factors, public health issues
+* resources: human, advice and information, technical
+* transport
+* support: psychological, management and organisational
 
 #### CG.K.2
 
 Establish and maintain positive relationships with colleagues, other specialists’ doctors, and health care professions to support relationship-centred collaborative care
 
-
 #### CG.K.3
 
 Negotiate overlapping and shared responsibilities with other health care professions in episodic and ongoing care
-
 
 #### CG.K.4
 
 Engage in respectful shared decision-making with health care professions
 
-
 #### CG.K.5
 
 Implement strategies to promote understanding, manage differences, and resolve conflicts in a manner that supports a collaborative culture
-
 
 #### CG.K.6
 
