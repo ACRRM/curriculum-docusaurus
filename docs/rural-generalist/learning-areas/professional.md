@@ -1,8 +1,8 @@
 ---
 title: Professional
+sidebar_label: Core Generalist
 ---
-
-## Core Generalised
+## Core Generalist
 
 ### 💡 Knowledge
 
