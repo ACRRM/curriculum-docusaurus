@@ -1,8 +1,8 @@
 ---
 title: Investigations
+sidebar_label: Core Generalist
 ---
-
-## Core Generalised
+## Core Generalist
 
 ### 💡 Knowledge
 
@@ -97,14 +97,14 @@ Adaptability
 ### Investigations and reports
 
 Common and important investigations and reports include, but are not limited to:
-- Cardiovascular system: complex electrocardiograms (ECG) and chest X-ray, reports of echocardiograms, stress tests, myocardial perfusion scans, angiograms, duplex ultrasound scans, ankle-brachial pressure index (ABI), arterial dopplers
-- Endocrine and metabolic disorders: anthropometric assessment (body mass index (BMI), waist to hip ratio (WHR), triceps skinfold), basic endocrine testing (diagnosis of diabetes, thyroid function testing, cortisol, synacthen tests) and tests of bone and mineral metabolism (Ca/PO4/ PTH/VitD), reports of thyroid scans and bone densitometry, endocrine tissue biopsy, and specialised imaging
-- Gastrointestinal system: abdominal X-ray, abdominal CT scan, and laboratory tests (including liver function tests (LFT), liver screen, viral serology, coeliac serology, helicobacter testing, malabsorption tests, faecal microscopy and culture and toxin testing), reports of, abdominal ultrasound, upper and lower endoscopy, endoscopic retrograde cholangio-pancreatography (ERCP), magnetic resonance cholangiopancreatography (MRCP), magnetic resonance angiogram (MRA)
-- Haematological system: full blood count and film, coagulation profile, thrombophilia screens, reports of, bone marrow aspirate and trephine, cytogenesis
-- Immune system: laboratory investigations (full blood count (FBC), assays of HIV serology/viral load, immunoglobulins, protein electrophoresis, inflammatory markers, rheumatoid factor (RF), cyclic citrullinated peptide (CCP), Antinuclear antibody (ANA), deoxyribonucleic acid (DNA), extractable nuclear antigen (ENA) anti-neutrophil cytoplasmic antibodies (ANCA) complement profiles), reports of, tissue biopsies, specialised imaging
-- Neurological: reports of, electroencephalogram (EEG), nerve conduction study (NCS) and electromyography (EMG), autonomic function testing, CT head, perimetry, audiometry
-- Renal and genitourinary: laboratory tests (renal function, electrolytes, MSU, ABGs), reports of imaging (renal tract ultrasound, functional renal scans, renal angiograms, urograms), renal biopsies
-- Respiratory and sleep: imaging (chest X- ray, chest computed tomography (CT), computed tomography pulmonary angiography (CTPA), ventilation perfusion (VQ) scans, pulse oximetry, blood gases, basic pulmonary function tests, reports of bronchoscopy, tissue biopsy, sleep studies
-- Neoplastic disease: CXR, CT head, chest, abdomen, bone scan, laboratory tests (e.g. tumour markers, cytology, body fluid analysis), reports of more specialised imaging, predictive genetic testing
-- Infectious diseases: laboratory tests (FBC, inflammatory markers, microbiology, virology, serology), basic imaging (chest X-ray, CT head, CT abdo/pelvis), reports of complex investigations – nuclear medicine scanning, ultrasound scan
 
+* Cardiovascular system: complex electrocardiograms (ECG) and chest X-ray, reports of echocardiograms, stress tests, myocardial perfusion scans, angiograms, duplex ultrasound scans, ankle-brachial pressure index (ABI), arterial dopplers
+* Endocrine and metabolic disorders: anthropometric assessment (body mass index (BMI), waist to hip ratio (WHR), triceps skinfold), basic endocrine testing (diagnosis of diabetes, thyroid function testing, cortisol, synacthen tests) and tests of bone and mineral metabolism (Ca/PO4/ PTH/VitD), reports of thyroid scans and bone densitometry, endocrine tissue biopsy, and specialised imaging
+* Gastrointestinal system: abdominal X-ray, abdominal CT scan, and laboratory tests (including liver function tests (LFT), liver screen, viral serology, coeliac serology, helicobacter testing, malabsorption tests, faecal microscopy and culture and toxin testing), reports of, abdominal ultrasound, upper and lower endoscopy, endoscopic retrograde cholangio-pancreatography (ERCP), magnetic resonance cholangiopancreatography (MRCP), magnetic resonance angiogram (MRA)
+* Haematological system: full blood count and film, coagulation profile, thrombophilia screens, reports of, bone marrow aspirate and trephine, cytogenesis
+* Immune system: laboratory investigations (full blood count (FBC), assays of HIV serology/viral load, immunoglobulins, protein electrophoresis, inflammatory markers, rheumatoid factor (RF), cyclic citrullinated peptide (CCP), Antinuclear antibody (ANA), deoxyribonucleic acid (DNA), extractable nuclear antigen (ENA) anti-neutrophil cytoplasmic antibodies (ANCA) complement profiles), reports of, tissue biopsies, specialised imaging
+* Neurological: reports of, electroencephalogram (EEG), nerve conduction study (NCS) and electromyography (EMG), autonomic function testing, CT head, perimetry, audiometry
+* Renal and genitourinary: laboratory tests (renal function, electrolytes, MSU, ABGs), reports of imaging (renal tract ultrasound, functional renal scans, renal angiograms, urograms), renal biopsies
+* Respiratory and sleep: imaging (chest X- ray, chest computed tomography (CT), computed tomography pulmonary angiography (CTPA), ventilation perfusion (VQ) scans, pulse oximetry, blood gases, basic pulmonary function tests, reports of bronchoscopy, tissue biopsy, sleep studies
+* Neoplastic disease: CXR, CT head, chest, abdomen, bone scan, laboratory tests (e.g. tumour markers, cytology, body fluid analysis), reports of more specialised imaging, predictive genetic testing
+* Infectious diseases: laboratory tests (FBC, inflammatory markers, microbiology, virology, serology), basic imaging (chest X-ray, CT head, CT abdo/pelvis), reports of complex investigations – nuclear medicine scanning, ultrasound scan
