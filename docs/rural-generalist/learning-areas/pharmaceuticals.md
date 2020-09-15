@@ -1,48 +1,52 @@
 ---
 title: Pharmaceuticals
+sidebar_label: Core Generalist
 ---
-
-## Core Generalised
+## Core Generalist
 
 ### 💡 Knowledge
 
 #### CG.K.1
 
 Describe pharmacology basic science, including:
-- mechanism of drugs at the receptor and intracellular level 
-- principles of absorption, distribution, metabolism and excretion of drugs
-- effect of ageing, pregnancy and lactation on pharmacokinetics
-- importance of genetic alterations in drug metabolism
-- effect of climate and storage conditions
-- pharmacological basis of drug interactions, and
-- impact of organ dysfunction on pharmacokinetics and dose modification
+
+* mechanism of drugs at the receptor and intracellular level 
+* principles of absorption, distribution, metabolism and excretion of drugs
+* effect of ageing, pregnancy and lactation on pharmacokinetics
+* importance of genetic alterations in drug metabolism
+* effect of climate and storage conditions
+* pharmacological basis of drug interactions, and
+* impact of organ dysfunction on pharmacokinetics and dose modification
 
 #### CG.K.2
 
 Explain the principles of prescribing pharmaceuticals:
-- patient factors impacting on prescribing – allergy, age, pregnancy, over the counter (OTC) medications and nutraceuticals (eg fish oil, turmeric, glucosamine, vitamins etc) 
-- appropriate dose adjustments in disease, ageing, pregnancy and other medications
-- categories of drug safety in pregnancy and impact on prescribing
-- principles of dose titration, and
-- legislation regarding prescribing and controlled and restricted drugs
+
+* patient factors impacting on prescribing – allergy, age, pregnancy, over the counter (OTC) medications and nutraceuticals (eg fish oil, turmeric, glucosamine, vitamins etc) 
+* appropriate dose adjustments in disease, ageing, pregnancy and other medications
+* categories of drug safety in pregnancy and impact on prescribing
+* principles of dose titration, and
+* legislation regarding prescribing and controlled and restricted drugs
 
 #### CG.K.3
 
 Identify adverse reactions and interactions:
-- common and life-threatening drug interactions and common presentations of drug-induced disease, adverse drug reactions, and
-- common interactions between prescription and non-prescription and complementary therapies
+
+* common and life-threatening drug interactions and common presentations of drug-induced disease, adverse drug reactions, and
+* common interactions between prescription and non-prescription and complementary therapies
 
 #### CG.K.4
 
 Discuss the quality use of medicines:
-- factors affecting adherence
-- factors increasing risk of medication error
-- techniques for enhancing medication safety
-- factors predisposing to polypharmacy (therapeutic cascade) and reasons for over prescribing, and
-- delivery techniques for specific medicines
-- delivery devices e.g. pumps, syringe drivers
-- remember the recommendation to prescribe generically where possible
-- consider working with pharmacist eg Webster packing, medication reviews, and medication use or prescribing clinical audits re quality outcomes
+
+* factors affecting adherence
+* factors increasing risk of medication error
+* techniques for enhancing medication safety
+* factors predisposing to polypharmacy (therapeutic cascade) and reasons for over prescribing, and
+* delivery techniques for specific medicines
+* delivery devices e.g. pumps, syringe drivers
+* remember the recommendation to prescribe generically where possible
+* consider working with pharmacist eg Webster packing, medication reviews, and medication use or prescribing clinical audits re quality outcomes
 
 #### CG.K.5
 
