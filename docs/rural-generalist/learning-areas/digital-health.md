@@ -1,8 +1,8 @@
 ---
 title: Digital Health
+sidebar_label: Core Generalist
 ---
-
-## Core Generalised
+## Core Generalist
 
 ### 💡 Knowledge
 
@@ -128,7 +128,7 @@ Educate patients on digital healthcare
 
 Access online education
 
-#### CG.S.13	  
+#### CG.S.13
 
 Be able to use electronic health records for quality improvement eg clinical audits
 
