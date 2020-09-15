@@ -1,8 +1,8 @@
 ---
 title: Palliative Care
+sidebar_label: Core Generalist
 ---
-
-## Core Generalised
+## Core Generalist
 
 ### 💡 Knowledge
 
@@ -67,24 +67,25 @@ Undertake a comprehensive pain assessment including assessment of types of pain:
 #### CG.S.4
 
 Manage pain in palliative care patients, appropriately utilising:
-- pharmacological options:
-	non-opioid analgesics 
-	opioids 
-	adjuvants 
-	NSAIDS 
-	antidepressants 
-	local anaesthetic agents 
-	corticosteroids 
-	antispasmodics 
-	anticonvulsants 
-	antiarrhythmics 
-	anxiolytics
-	nerve-blocking procedures, epidural/spinal injections
-- non-pharmacological options
-- physical therapies (eg massage, heat and cold therapy, transcutaneous electrical nerve stimulation [TENS], physiotherapy)
-- mind-based techniques (eg relaxation, meditation, mindfulness, psychologist)
-- optimising environment (positioning, aromatherapy, music therapy, occupational therapy, diversional therapy)
-- radiotherapy
+
+* pharmacological options:
+  	non-opioid analgesics 
+  	opioids 
+  	adjuvants 
+  	NSAIDS 
+  	antidepressants 
+  	local anaesthetic agents 
+  	corticosteroids 
+  	antispasmodics 
+  	anticonvulsants 
+  	antiarrhythmics 
+  	anxiolytics
+  	nerve-blocking procedures, epidural/spinal injections
+* non-pharmacological options
+* physical therapies (eg massage, heat and cold therapy, transcutaneous electrical nerve stimulation \[TENS], physiotherapy)
+* mind-based techniques (eg relaxation, meditation, mindfulness, psychologist)
+* optimising environment (positioning, aromatherapy, music therapy, occupational therapy, diversional therapy)
+* radiotherapy
 
 #### CG.S.5
 
@@ -105,11 +106,12 @@ Determine the cause of, and manage common problems experienced by palliative car
 #### CG.S.9
 
 Perform the following:
-- CPAP/BIPAP	
-- Spirometry and peak flow measurement	
-- Nebulisation therapy	
-- Supplemental oxygen delivery devices
-- Oxygen concentrators
+
+* CPAP/BIPAP	
+* Spirometry and peak flow measurement	
+* Nebulisation therapy	
+* Supplemental oxygen delivery devices
+* Oxygen concentrators
 
 #### CG.S.10
 
@@ -195,7 +197,6 @@ Detail therapeutic interventions in minimising psychological distress including 
 
 ### 🤹‍♀️ Skills
 
-
 #### AS.S.1
 
 Integrate a supportive component into all aspects of providing palliative care
@@ -280,60 +281,60 @@ Commitment
 
 ### Common problems experienced by palliative care patients
 
-- Gastrointestinal tract problems: 
-- oesophageal problems 
-- dyspepsia 
-- ascites 
-- nausea and vomiting 
-- constipation 
-- bowel obstruction 
-- diarrhoea 
-- stomas
-- rectal discharge 
-- squashed stomach syndrome 
-- oral candidiasis 
-- dry mouth 
-- dysphagia 
-- cachexia
-- Respiratory system problems: 
-- cough 
-- dyspnoea 
-- superior vena cava obstruction 
-- death rattles 
-- choking 
-- tracheostomy 
-- hiccoughs
-- Genitourinary system problems: 
-- dysuria 
-- haematuria 
-- urinary tract infection 
-- incontinence 
-- fistulae 
-- uraemia 
-- contraception 
-- decreased urine output 
-- vaginal bleeding and discharge 
-- bladder innervation 
-- urinary frequency and urgency 
-- bladder spasms
-- Neurological disturbances: 
-- convulsions 
-- spinal cord compression 
-- twitching 
-- confusion 
-- delirium
-- hypercalcaemia
-- Psychological disturbances: 
-- anxiety/panic attacks 
-- insomnia 
-- depression 
-- suicide risk
-- terminal restlessness
-- Musculoskeletal system and skin problems: 
-- deep vein thromboses 
-- pathological fractures 
-- wounds and pressure areas 
-- pressure areas 
-- pruritus 
-- dry skin 
-- lymphoedema
+* Gastrointestinal tract problems: 
+* oesophageal problems 
+* dyspepsia 
+* ascites 
+* nausea and vomiting 
+* constipation 
+* bowel obstruction 
+* diarrhoea 
+* stomas
+* rectal discharge 
+* squashed stomach syndrome 
+* oral candidiasis 
+* dry mouth 
+* dysphagia 
+* cachexia
+* Respiratory system problems: 
+* cough 
+* dyspnoea 
+* superior vena cava obstruction 
+* death rattles 
+* choking 
+* tracheostomy 
+* hiccoughs
+* Genitourinary system problems: 
+* dysuria 
+* haematuria 
+* urinary tract infection 
+* incontinence 
+* fistulae 
+* uraemia 
+* contraception 
+* decreased urine output 
+* vaginal bleeding and discharge 
+* bladder innervation 
+* urinary frequency and urgency 
+* bladder spasms
+* Neurological disturbances: 
+* convulsions 
+* spinal cord compression 
+* twitching 
+* confusion 
+* delirium
+* hypercalcaemia
+* Psychological disturbances: 
+* anxiety/panic attacks 
+* insomnia 
+* depression 
+* suicide risk
+* terminal restlessness
+* Musculoskeletal system and skin problems: 
+* deep vein thromboses 
+* pathological fractures 
+* wounds and pressure areas 
+* pressure areas 
+* pruritus 
+* dry skin 
+* lymphoedema
