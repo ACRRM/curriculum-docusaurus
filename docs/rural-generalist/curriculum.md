@@ -1,7 +1,7 @@
 ---
 title: Curriculum
+sidebar_label: Development of the Curriculum
 ---
-
 ## Development of the Curriculum
 
 A comprehensive Prospectus1, and a Position Paper2, both published in 1997, established the
@@ -112,29 +112,21 @@ The eight domains of rural and remote practice describe the contexts of rural an
 practice.
 
 1. Provide expert medical care in all rural contexts: patient-centred approach, diagnosis,
-management and team work.
+   management and team work.
 2. Provide primary care: whole patient care, longitudinal care, first point of care,
-undifferentiated presentations, care across lifespan, acute and chronic care and
-preventive activities.
-
+   undifferentiated presentations, care across lifespan, acute and chronic care and
+   preventive activities.
 3. Provide secondary medical care: inpatient management, respond to deteriorating
-patient, handover, safe transfer and discharge planning.
-
+   patient, handover, safe transfer and discharge planning.
 4. Respond to medical emergencies: hospital & prehospital, resource organisation, initial
-assessment and triage, emergency medical intervention and patient evacuation.
-
+   assessment and triage, emergency medical intervention and patient evacuation.
 5. Apply a population health approach: community health assessment, population level
-health intervention, statutory reporting and disaster planning.
-
+   health intervention, statutory reporting and disaster planning.
 6. Work with Aboriginal, Torres Strait Islander, and other culturally diverse communities to
-improve health and wellbeing: strengths-based, respect and understanding
-
+   improve health and wellbeing: strengths-based, respect and understanding
 7. Practise medicine within an ethical, intellectual and professional framework: ethical
-practice, clinical documentation, quality and safety, professional obligations, continuous
-learning, leadership, teaching and research.
-
+   practice, clinical documentation, quality and safety, professional obligations, continuous
+   learning, leadership, teaching and research.
 8. Provide safe medical care while working in geographic and professional isolation:
-resourcefulness, independence, flexibility, technology, professional network and
-extended practice.
-
-
+   resourcefulness, independence, flexibility, technology, professional network and
+   extended practice..
