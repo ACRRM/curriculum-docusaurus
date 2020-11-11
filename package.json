@@ -5,12 +5,12 @@
   "scripts": {
     "clean": "shx rm -rf .docusaurus/ build/",
     "start": "docusaurus start",
-    "build": "yarn run clean && docusaurus build",
+    "build": "yarn run clean && docusaurus build && yarn create-pdf",
     "serve": "docusaurus serve",
     "swizzle": "docusaurus swizzle @docusaurus/theme-classic",
     "deploy": "docusaurus deploy",
     "move-pdf": "shx mv docusaurus.pdf build/generated.pdf && shx cp build/rural-generalist.pdf static/rural-generalist.pdf",
-    "create-pdf": "docusaurus-pdf from-build build /rural-generalist/introduction && yarn run move-pdf"
+    "create-pdf": "docusaurus-pdf from-build build /rural-generalist/introduction --output-file build/img/rural-generalist.pdf"
   },
   "dependencies": {
     "@docusaurus/core": "^2.0.0-alpha.66",

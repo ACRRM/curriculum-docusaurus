@@ -7,6 +7,7 @@ module.exports = {
   favicon: "img/favicon.ico",
   organizationName: "ACRRM",
   projectName: "curriculum",
+  onBrokenLinks: "warn",
   themeConfig: {
     navbar: {
       hideOnScroll: true,
