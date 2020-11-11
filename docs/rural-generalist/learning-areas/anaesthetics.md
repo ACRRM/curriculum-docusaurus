@@ -1,6 +1,6 @@
 ---
 title: Anaesthetics
-sidebar_label: Core Generalist
+sidebar_label: Anaesthetics
 ---
 ## Core Generalist
 

@@ -1,6 +1,6 @@
 ---
 title: History Taking
-sidebar_label: Core Generalist
+sidebar_label: History Taking
 ---
 ## Core Generalist
 

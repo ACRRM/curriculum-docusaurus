@@ -1,6 +1,6 @@
 ---
 title: Occupational Health
-sidebar_label: Core Generalist
+sidebar_label: Occupational Health
 ---
 ## Core Generalist
 

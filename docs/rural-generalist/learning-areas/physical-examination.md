@@ -1,6 +1,6 @@
 ---
 title: Physical Examination
-sidebar_label: Core Generalist
+sidebar_label: Physical Examination
 ---
 ## Core Generalist
 

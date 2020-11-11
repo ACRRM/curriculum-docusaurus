@@ -1,6 +1,6 @@
 ---
 title: Adult Internal Medicine
-sidebar_label: Core Generalist
+sidebar_label: Adult Internal Medicine
 ---
 ## Core Generalist
 

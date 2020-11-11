@@ -1,6 +1,6 @@
 ---
 title: Musculoskeletal
-sidebar_label: Core Generalist
+sidebar_label: Musculoskeletal
 ---
 ## Core Generalist
 

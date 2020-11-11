@@ -1,6 +1,6 @@
 ---
 title: Health Advocate
-sidebar_label: Core Generalist
+sidebar_label: Health Advocate
 ---
 ## Core Generalist
 

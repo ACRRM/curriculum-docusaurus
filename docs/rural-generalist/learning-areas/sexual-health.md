@@ -1,6 +1,6 @@
 ---
 title: Sexual Health
-sidebar_label: Core Generalist
+sidebar_label: Sexual Health
 ---
 ## Core Generalist
 

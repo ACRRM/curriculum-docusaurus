@@ -1,6 +1,6 @@
 ---
 title: Ophthalmology
-sidebar_label: Core Generalist
+sidebar_label: Ophthalmology
 ---
 ## Core Generalist
 

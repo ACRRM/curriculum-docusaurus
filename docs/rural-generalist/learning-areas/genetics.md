@@ -1,6 +1,6 @@
 ---
 title: Genetics
-sidebar_label: Core Generalist
+sidebar_label: Genetics
 ---
 ## Core Generalist
 

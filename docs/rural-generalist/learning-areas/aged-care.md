@@ -1,6 +1,6 @@
 ---
 title: Aged Care
-sidebar_label: Core Generalist
+sidebar_label: Aged Care
 ---
 ## Core Generalist
 

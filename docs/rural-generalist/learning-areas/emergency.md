@@ -1,6 +1,6 @@
 ---
 title: Emergency
-sidebar_label: Core Generalist
+sidebar_label: Emergency
 ---
 ## Core Generalist
 

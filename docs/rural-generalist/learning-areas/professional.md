@@ -1,6 +1,6 @@
 ---
 title: Professional
-sidebar_label: Core Generalist
+sidebar_label: Professional
 ---
 ## Core Generalist
 

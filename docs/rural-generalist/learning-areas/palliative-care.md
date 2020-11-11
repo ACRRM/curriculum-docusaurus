@@ -1,6 +1,6 @@
 ---
 title: Palliative Care
-sidebar_label: Core Generalist
+sidebar_label: Palliative Care
 ---
 ## Core Generalist
 

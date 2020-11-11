@@ -1,6 +1,6 @@
 ---
 title: Aboriginal and Torres Strait Islander Health
-sidebar_label: Core Generalist
+sidebar_label: Aboriginal and Torres Strait Islander Health
 ---
 ## Core Generalist
 

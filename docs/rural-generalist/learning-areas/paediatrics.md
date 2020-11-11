@@ -1,6 +1,6 @@
 ---
 title: Paediatrics
-sidebar_label: Core Generalist
+sidebar_label: Paediatrics
 ---
 ## Core Generalist
 

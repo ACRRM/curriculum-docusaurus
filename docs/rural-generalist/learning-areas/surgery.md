@@ -1,6 +1,6 @@
 ---
 title: Surgery
-sidebar_label: Core Generalist
+sidebar_label: Surgery
 ---
 ## Core Generalist
 

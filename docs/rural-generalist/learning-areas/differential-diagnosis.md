@@ -1,6 +1,6 @@
 ---
 title: Differential Diagnosis
-sidebar_label: Core Generalist
+sidebar_label: Differential Diagnosis
 ---
 ## Core Generalist
 

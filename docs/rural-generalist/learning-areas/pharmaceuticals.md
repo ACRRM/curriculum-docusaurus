@@ -1,6 +1,6 @@
 ---
 title: Pharmaceuticals
-sidebar_label: Core Generalist
+sidebar_label: Pharmaceuticals
 ---
 ## Core Generalist
 

@@ -1,6 +1,6 @@
 ---
 title: Communicator
-sidebar_label: Core Generalist
+sidebar_label: Communicator
 ---
 ## Core Generalist
 

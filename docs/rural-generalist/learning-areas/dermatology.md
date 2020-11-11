@@ -1,6 +1,6 @@
 ---
 title: Dermatology
-sidebar_label: Core Generalist
+sidebar_label: Dermatology
 ---
 ## Core Generalist
 

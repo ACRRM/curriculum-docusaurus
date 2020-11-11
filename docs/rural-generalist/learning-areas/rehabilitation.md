@@ -1,6 +1,6 @@
 ---
 title: Rehabilitation
-sidebar_label: Core Generalist
+sidebar_label: Rehabilitation
 ---
 ## Core Generalist
 

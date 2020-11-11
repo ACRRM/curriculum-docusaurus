@@ -1,6 +1,6 @@
 ---
 title: Scholar
-sidebar_label: Core Generalist
+sidebar_label: Scholar
 ---
 ## Core Generalist
 

@@ -1,6 +1,6 @@
 ---
 title: Collaborator
-sidebar_label: Core Generalist
+sidebar_label: Collaborator
 ---
 ## Core Generalist
 

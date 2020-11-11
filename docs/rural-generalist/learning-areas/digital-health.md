@@ -1,6 +1,6 @@
 ---
 title: Digital Health
-sidebar_label: Core Generalist
+sidebar_label: Digital Health
 ---
 ## Core Generalist
 

@@ -1,6 +1,6 @@
 ---
 title: Investigations
-sidebar_label: Core Generalist
+sidebar_label: Investigations
 ---
 ## Core Generalist
 

@@ -1,6 +1,6 @@
 ---
 title: Chronic Disease
-sidebar_label: Core Generalist
+sidebar_label: Chronic Disease
 ---
 ## Core Generalist
 

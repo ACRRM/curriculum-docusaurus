@@ -1,6 +1,6 @@
 ---
 title: Obstetrics and Gynaecology
-sidebar_label: Core Generalist
+sidebar_label: Obstetrics and Gynaecology
 ---
 ## Core Generalist
 

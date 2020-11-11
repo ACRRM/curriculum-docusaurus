@@ -1,6 +1,6 @@
 ---
 title: Mental Health
-sidebar_label: Core Generalist
+sidebar_label: Mental Health
 ---
 ## Core Generalist
 

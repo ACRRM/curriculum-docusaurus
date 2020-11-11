@@ -1,6 +1,6 @@
 ---
 title: Procedural Skills
-sidebar_label: Core Generalist
+sidebar_label: Procedural Skills
 ---
 ## Core Generalist
 

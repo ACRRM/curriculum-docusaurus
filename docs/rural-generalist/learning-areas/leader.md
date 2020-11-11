@@ -1,6 +1,6 @@
 ---
 title: Leader
-sidebar_label: Core Generalist
+sidebar_label: Leader
 ---
 ## Core Generalist
 

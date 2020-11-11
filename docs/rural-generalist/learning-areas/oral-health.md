@@ -1,6 +1,6 @@
 ---
 title: Oral Health
-sidebar_label: Core Generalist
+sidebar_label: Oral Health
 ---
 ## Core Generalist
 

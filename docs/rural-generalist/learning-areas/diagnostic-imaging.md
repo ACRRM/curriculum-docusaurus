@@ -1,6 +1,6 @@
 ---
 title: Diagnostic Imaging
-sidebar_label: Core Generalist
+sidebar_label: Diagnostic Imaging
 ---
 ## Core Generalist
 
