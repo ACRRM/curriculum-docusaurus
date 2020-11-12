@@ -5,7 +5,7 @@
   "scripts": {
     "clean": "shx rm -rf .docusaurus/ build/",
     "start": "docusaurus start",
-    "build": "yarn run clean && docusaurus build && yarn create-pdf",
+    "build": "yarn run clean && docusaurus build",
     "serve": "docusaurus serve",
     "swizzle": "docusaurus swizzle @docusaurus/theme-classic",
     "deploy": "docusaurus deploy",
