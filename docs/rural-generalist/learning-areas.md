@@ -1,8 +1,6 @@
 ---
 title: Learning Areas
 ---
-import Tabs from "@theme/Tabs";
-import TabItem from "@theme/TabItem";
 
 - [1. History Taking](learning-areas/history-taking.md)
 - [2. Physical Examination](learning-areas/physical-examination.md)

@@ -23,6 +23,7 @@
     "docusaurus-plugin-auto-sidebars": "^1.0.7",
     "docusaurus-plugin-sass": "^0.1.11",
     "netlify-cms": "^2.10.68",
+    "netlify-cms-widget-mdx": "^0.4.4",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
   },
