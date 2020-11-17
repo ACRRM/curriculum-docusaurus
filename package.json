@@ -10,7 +10,8 @@
     "swizzle": "docusaurus swizzle @docusaurus/theme-classic",
     "deploy": "docusaurus deploy",
     "move-pdf": "shx mv docusaurus.pdf build/generated.pdf && shx cp build/rural-generalist.pdf static/rural-generalist.pdf",
-    "create-pdf": "docusaurus-pdf from-build build /rural-generalist/introduction --output-file build/img/rural-generalist.pdf"
+    "create-pdf": "docusaurus-pdf from-build build /rural-generalist/introduction --output-file build/img/rural-generalist.pdf",
+    "postinstall": "patch-package"
   },
   "dependencies": {
     "@docusaurus/core": "^2.0.0-alpha.66",
@@ -24,6 +25,8 @@
     "docusaurus-plugin-sass": "^0.1.11",
     "netlify-cms": "^2.10.68",
     "netlify-cms-widget-mdx": "^0.4.4",
+    "patch-package": "^6.2.2",
+    "postinstall-postinstall": "^2.1.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
   },

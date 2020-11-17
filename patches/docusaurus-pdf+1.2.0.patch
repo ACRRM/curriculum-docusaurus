@@ -1,0 +1,330 @@
+diff --git a/node_modules/docusaurus-pdf/bin/index.js b/node_modules/docusaurus-pdf/bin/index.js
+index 2c24bc5..ce3c2c5 100644
+--- a/node_modules/docusaurus-pdf/bin/index.js
++++ b/node_modules/docusaurus-pdf/bin/index.js
+@@ -1,67 +1,89 @@
+ #!/usr/bin/env node
+ 
+-const chalk = require('chalk');
+-const program = require('commander');
+-const { generatePdf, generatePdfFromBuildSources, generatePdfFromBuildWithConfig } = require('../lib');
++/* eslint-disable no-process-exit */
++
++const chalk = require("chalk");
++const program = require("commander");
++const {
++  generatePdf,
++  generatePdfFromBuildSources,
++  generatePdfFromBuildWithConfig,
++} = require("../lib");
+ 
+ program
+-  .version(require('../package.json').version)
+-  .name('docusaurus-pdf')
+-  .usage('<initialDocsUrl> [filename]')
+-  .description('Generate PDF from initial docs url')
+-  .arguments('<initialDocsUrl> [filename]')
++  .version(require("../package.json").version)
++  .name("docusaurus-pdf")
++  .usage("<initialDocsUrl> [filename]")
++  .description("Generate PDF from initial docs url")
++  .arguments("<initialDocsUrl> [filename]")
+   .action((initialDocsUrl, filename) => {
+     generatePdf(initialDocsUrl, filename)
+-      .then((res) => {
+-        console.log(chalk.green('Finish generating PDF!'));
++      .then(() => {
++        console.log(chalk.green("Finish generating PDF!"));
+         process.exit(0);
+       })
+-      .catch(err => {
++      .catch((err) => {
+         console.error(chalk.red(err.stack));
+         process.exit(1);
+       });
+   });
+ 
+ program
+-  .command('from-build <dirPath> <firstDocPagePath> [baseUrl]')
+-  .description('Generate PDF from a docusaurus build artifact')
+-  .option('-o, --output-file <name>', 'Specify your file name.', 'docusaurus.pdf')
+-  .option('--no-sandbox', 'Start puppeteer with --no-sandbox flag')
++  .command("from-build <dirPath> <firstDocPagePath> [baseUrl]")
++  .description("Generate PDF from a docusaurus build artifact")
++  .option(
++    "-o, --output-file <name>",
++    "Specify your file name.",
++    "docusaurus.pdf"
++  )
++  .option("--no-sandbox", "Start puppeteer with --no-sandbox flag")
+   .action((dirPath, firstDocPagePath, baseUrl, options) => {
+-    const puppeteerArgs = options.sandbox ? [] : ['--no-sandbox'];
+-    generatePdfFromBuildSources(dirPath, firstDocPagePath, baseUrl, options.outputFile, puppeteerArgs)
+-      .then((res) => {
+-        console.log(chalk.green('Finish generating PDF!'));
++    const puppeteerArgs = options.sandbox ? [] : ["--no-sandbox"];
++    generatePdfFromBuildSources(
++      dirPath,
++      firstDocPagePath,
++      baseUrl,
++      options.outputFile,
++      puppeteerArgs
++    )
++      .then(() => {
++        console.log(chalk.green("Finish generating PDF!"));
+         process.exit(0);
+       })
+-      .catch(err => {
++      .catch((err) => {
+         console.error(chalk.red(err.stack));
+         process.exit(1);
+       });
+   });
+ 
+ program
+-  .command('from-build-config [dirPath]')
+-  .description("Generate PDF from a docusaurs build artifact, loading from a docusaurus.config.js file")
++  .command("from-build-config [dirPath]")
++  .description(
++    "Generate PDF from a docusaurs build artifact, loading from a docusaurus.config.js file"
++  )
++  .option(
++    "--site-dir <dir>",
++    "The full path for the docusuarus site directory, relative to the current workspace." +
++      " Equivalent to the siteDir in `npx docusaurus build`",
++    "./"
++  )
+   .option(
+-    '--site-dir <dir>',
+-    'The full path for the docusuarus site directory, relative to the current workspace.' +
+-    ' Equivalent to the siteDir in `npx docusaurus build`',
+-    './',
++    "-o, --output-file <name>",
++    "Specify your file name",
++    "docusaurus.pdf"
+   )
+-  .option('-o, --output-file <name>', 'Specify your file name', 'docusaurus.pdf')
+-  .option('--no-sandbox', 'Start puppeteer with --no-sandbox flag')
+-  .action((dirPath = "build", {siteDir, outputFile, sandbox}) => {
+-    const puppeteerArgs = sandbox ? [] : ['--no-sandbox'];
++  .option("--no-sandbox", "Start puppeteer with --no-sandbox flag")
++  .action((dirPath = "build", { siteDir, outputFile, sandbox }) => {
++    const puppeteerArgs = sandbox ? [] : ["--no-sandbox"];
+     generatePdfFromBuildWithConfig(siteDir, dirPath, outputFile, puppeteerArgs)
+-    .then(() => {
+-      console.log(chalk.green('Finish generating PDF!'));
+-      process.exit(0);
+-    })
+-    .catch(err => {
+-      console.error(chalk.red(err.stack));
+-      process.exit(1);
+-    });
++      .then(() => {
++        console.log(chalk.green("Finish generating PDF!"));
++        process.exit(0);
++      })
++      .catch((err) => {
++        console.error(chalk.red(err.stack));
++        process.exit(1);
++      });
+   });
+ 
+ program.parse(process.argv);
+diff --git a/node_modules/docusaurus-pdf/lib/index.js b/node_modules/docusaurus-pdf/lib/index.js
+index fbd45e9..0da214d 100644
+--- a/node_modules/docusaurus-pdf/lib/index.js
++++ b/node_modules/docusaurus-pdf/lib/index.js
+@@ -40,8 +40,8 @@ var chalk = require("chalk");
+ var puppeteer = require("puppeteer");
+ var express = require("express");
+ var pdf_lib_1 = require("pdf-lib");
+-var fs = require('fs');
+-var path = require('path');
++var fs = require("fs");
++var path = require("path");
+ var generatedPdfBuffers = [];
+ function mergePdfBuffers(pdfBuffers) {
+     return __awaiter(this, void 0, void 0, function () {
+@@ -75,9 +75,8 @@ function mergePdfBuffers(pdfBuffers) {
+         });
+     });
+ }
+-;
+ var getURL = function (origin, filePath) {
+-    return origin + "/" + filePath.substring(filePath.startsWith('/') ? 1 : 0);
++    return origin + "/" + filePath.substring(filePath.startsWith("/") ? 1 : 0);
+ };
+ var getStylesheetPathFromHTML = function (html, origin) {
+     var regExp = /(?:|<link.*){1}href="(.*styles.*?\.css){1}"/g;
+@@ -110,23 +109,32 @@ var getFirstCapturingGroup = function (regExp, text) {
+         throw new ReferenceError("No capture group found in the provided text.");
+     }
+ };
++function isObject(x) {
++    return x !== null && typeof x === "object";
++}
++function hasOwnProperty(obj, prop) {
++    return Object.prototype.hasOwnProperty.call(obj, prop);
++}
+ var isAddressInfo = function (arg) {
+-    return arg
+-        && arg.address && typeof (arg.address) == 'string'
+-        && arg.family && typeof (arg.family) == 'string'
+-        && arg.port && typeof (arg.port) == 'number';
++    return (isObject(arg) &&
++        hasOwnProperty(arg, "address") &&
++        typeof arg.address == "string" &&
++        hasOwnProperty(arg, "family") &&
++        typeof arg.family == "string" &&
++        hasOwnProperty(arg, "port") &&
++        typeof arg.port == "number");
+ };
+ function getPathSegment(path, endSlash) {
+     if (endSlash === void 0) { endSlash = true; }
+     var _a;
+     path = (_a = path === null || path === void 0 ? void 0 : path.trim()) !== null && _a !== void 0 ? _a : "";
+-    if (!path.startsWith('/')) {
++    if (!path.startsWith("/")) {
+         path = "/" + path;
+     }
+-    if (endSlash && !path.endsWith('/')) {
++    if (endSlash && !path.endsWith("/")) {
+         path = path + "/";
+     }
+-    else if (!endSlash && path.endsWith('/')) {
++    else if (!endSlash && path.endsWith("/")) {
+         path = path.substring(0, path.length - 1); // remove "/"
+     }
+     return path;
+@@ -135,7 +143,7 @@ exports.getPathSegment = getPathSegment;
+ function generatePdf(initialDocsUrl, filename, puppeteerArgs) {
+     if (filename === void 0) { filename = "docusaurus.pdf"; }
+     return __awaiter(this, void 0, void 0, function () {
+-        var browser, page, url, origin, stylePath, scriptPath, nextPageUrl, e_1, html, pdfBuffer, mergedPdfBuffer;
++        var browser, page, url, origin, stylePath, scriptPath, nextPageUrl, pdfBuffer, e_1, html, pdfBuffer_1, mergedPdfBuffer;
+         return __generator(this, function (_a) {
+             switch (_a.label) {
+                 case 0: return [4 /*yield*/, puppeteer.launch({ args: puppeteerArgs })];
+@@ -149,13 +157,37 @@ function generatePdf(initialDocsUrl, filename, puppeteerArgs) {
+                     stylePath = "";
+                     scriptPath = "";
+                     nextPageUrl = initialDocsUrl;
+-                    _a.label = 3;
++                    return [4 /*yield*/, page.setContent("\n    <!DOCTYPE html>\n    <html>\n    <head>\n        <style>\n            * {\n                margin: 0;\n                padding: 0;\n            }\n            .imgbox {\n                display: grid;\n                height: 100%;\n            }\n            .center-fit {\n                max-width: 100%;\n                max-height: 100vh;\n                margin: auto;\n            }\n        </style>\n    </head>\n    <body>\n    <div class=\"imgbox\">\n        <img class=\"center-fit\" src='https://curriculum.acrrm.org.au/frontpages/rural-generalist.png'>\n    </div>\n    </body>\n    </html>\n  ")];
+                 case 3:
+-                    if (!nextPageUrl) return [3 /*break*/, 14];
++                    _a.sent();
++                    return [4 /*yield*/, page.pdf({
++                            path: "",
++                            format: "A4",
++                            printBackground: true
++                        })];
++                case 4:
++                    pdfBuffer = _a.sent();
++                    generatedPdfBuffers.push(pdfBuffer);
++                    return [4 /*yield*/, page.setContent("\n    <!DOCTYPE html>\n    <html>\n    <head>\n        <style>\n           \n        </style>\n    </head>\n    <body>\n    <div>\n        <div style=\"margin-top: 700px\">\n          Australian College of Rural and Remote Medicine<br>\n          Level 2, 410 Queen Street<br>\n          GPO Box 2507<br>\n          Brisbane QLD 4001<br>\n          Ph: 07 3105 8200 Fax: 07 3105 8299<br>\n          Website: www.acrrm.org.au<br>\n          ABN: 12 078 081 848</p>\n        </div>\n        <p><b>Copyright</b></p>\n        <p>\u00A9 " + new Date().toISOString().substring(0, 4) + " Australian College of Rural and Remote Medicine. All rights reserved. No part of this\n        document may be reproduced by any means or in any form without express permission in\n        writing from the Australian College of Rural and Remote Medicine.</p>\n        <p>Last updated: " + new Date().toLocaleString('default', { month: 'long', year: 'numeric' }) + "</p>\n    </div>\n    </body>\n    </html>\n  ")];
++                case 5:
++                    _a.sent();
++                    return [4 /*yield*/, page.pdf({
++                            path: "",
++                            format: "A4",
++                            printBackground: true,
++                            margin: { top: 25, right: 100, left: 100, bottom: 50 },
++                        })];
++                case 6:
++                    pdfBuffer = _a.sent();
++                    generatedPdfBuffers.push(pdfBuffer);
++                    _a.label = 7;
++                case 7:
++                    if (!nextPageUrl) return [3 /*break*/, 18];
+                     console.log();
+                     console.log(chalk.cyan("Generating PDF of " + nextPageUrl));
+                     console.log();
+-                    return [4 /*yield*/, page.goto("" + nextPageUrl, { waitUntil: 'networkidle2' })
++                    return [4 /*yield*/, page
++                            .goto("" + nextPageUrl, { waitUntil: "networkidle2" })
+                             .then(function (resp) { return resp === null || resp === void 0 ? void 0 : resp.text(); })
+                             .then(function (html) {
+                             if (!html)
+@@ -163,46 +195,51 @@ function generatePdf(initialDocsUrl, filename, puppeteerArgs) {
+                             stylePath = getStylesheetPathFromHTML(html, origin);
+                             scriptPath = getScriptPathFromHTML(html, origin);
+                         })];
+-                case 4:
++                case 8:
+                     _a.sent();
+-                    _a.label = 5;
+-                case 5:
+-                    _a.trys.push([5, 7, , 8]);
+-                    return [4 /*yield*/, page.$eval('.pagination-nav__item--next > a', function (element) {
++                    _a.label = 9;
++                case 9:
++                    _a.trys.push([9, 11, , 12]);
++                    return [4 /*yield*/, page.$eval(".pagination-nav__item--next > a", function (element) {
+                             return element.href;
+                         })];
+-                case 6:
++                case 10:
+                     nextPageUrl = _a.sent();
+-                    return [3 /*break*/, 8];
+-                case 7:
++                    return [3 /*break*/, 12];
++                case 11:
+                     e_1 = _a.sent();
+                     nextPageUrl = "";
+-                    return [3 /*break*/, 8];
+-                case 8: return [4 /*yield*/, page.$eval('article', function (element) {
++                    return [3 /*break*/, 12];
++                case 12: return [4 /*yield*/, page.$eval("article", function (element) {
+                         return element.outerHTML;
+                     })];
+-                case 9:
++                case 13:
+                     html = _a.sent();
+                     return [4 /*yield*/, page.setContent(html)];
+-                case 10:
++                case 14:
+                     _a.sent();
+                     return [4 /*yield*/, page.addStyleTag({ url: stylePath })];
+-                case 11:
++                case 15:
+                     _a.sent();
+                     return [4 /*yield*/, page.addScriptTag({ url: scriptPath })];
+-                case 12:
++                case 16:
+                     _a.sent();
+-                    return [4 /*yield*/, page.pdf({ path: "", format: 'A4', printBackground: true, margin: { top: 25, right: 35, left: 35, bottom: 25 } })];
+-                case 13:
+-                    pdfBuffer = _a.sent();
+-                    generatedPdfBuffers.push(pdfBuffer);
++                    return [4 /*yield*/, page.pdf({
++                            path: "",
++                            format: "A4",
++                            printBackground: true,
++                            margin: { top: 40, right: 50, left: 50, bottom: 30 },
++                        })];
++                case 17:
++                    pdfBuffer_1 = _a.sent();
++                    generatedPdfBuffers.push(pdfBuffer_1);
+                     console.log(chalk.green("Success"));
+-                    return [3 /*break*/, 3];
+-                case 14: return [4 /*yield*/, browser.close()];
+-                case 15:
++                    return [3 /*break*/, 7];
++                case 18: return [4 /*yield*/, browser.close()];
++                case 19:
+                     _a.sent();
+                     return [4 /*yield*/, mergePdfBuffers(generatedPdfBuffers)];
+-                case 16:
++                case 20:
+                     mergedPdfBuffer = _a.sent();
+                     fs.writeFileSync("" + filename, mergedPdfBuffer);
+                     return [2 /*return*/];
+@@ -211,7 +248,6 @@ function generatePdf(initialDocsUrl, filename, puppeteerArgs) {
+     });
+ }
+ exports.generatePdf = generatePdf;
+-;
+ function loadConfig(siteDir) {
+     var _a, _b;
+     return __awaiter(this, void 0, void 0, function () {

@@ -3,33 +3,7 @@
  * Any CSS included here will be global. The classic template
  * bundles Infima by default. Infima is a CSS framework designed to
  * work well for content-centric websites.
- */
-
-/* You can override the default Infima variables here. */
-:root {
-  --ifm-color-primary: #e87500;
-  --ifm-color-primary-dark: #d16900;
-  --ifm-color-primary-darker: #c56300;
-  --ifm-color-primary-darkest: #a25200;
-  --ifm-color-primary-light: #ff8100;
-  --ifm-color-primary-lighter: #ff860c;
-  --ifm-color-primary-lightest: #ff982f;
-  /* --ifm-card-background-color: red; */
-  --ifm-code-font-size: 95%;
-  --ifm-navbar-height: 100px;
-  --ifm-global-shadow-lw: 0;
-  --ifm-global-shadow-md: 0;
-  --ifm-global-shadow-tl: 0;
-  font-family: "archiaregular", arial, sans-serif;
-  --docusaurus-announcement-bar-height: auto !important;
-}
-
-.docusaurus-highlight-code-line {
-  background-color: rgb(72, 77, 91);
-  display: block;
-  margin: 0 calc(-1 * var(--ifm-pre-padding));
-  padding: 0 var(--ifm-pre-padding);
-}
+ */ 
 
 /* custom css below */
 @font-face {
@@ -48,14 +22,49 @@
   font-style: normal;
 }
 
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #e87500;
+  --ifm-color-primary-dark: #d16900;
+  --ifm-color-primary-darker: #c56300;
+  --ifm-color-primary-darkest: #a25200;
+  --ifm-color-primary-light: #ff8100;
+  --ifm-color-primary-lighter: #ff860c;
+  --ifm-color-primary-lightest: #ff982f;
+  /* --ifm-card-background-color: red; */
+  --ifm-code-font-size: 95%;
+  --ifm-navbar-height: 100px;
+  --ifm-global-shadow-lw: 0;
+  --ifm-global-shadow-md: 0;
+  --ifm-global-shadow-tl: 0;
+  --docusaurus-announcement-bar-height: auto !important;
+}
+
+@media only screen {
+  html,
+  body {  
+    font-family: "archiaregular", arial, sans-serif;
+  }
+}
+
 @media only print {
-  :root {
-    font-family: "MuseoSans", arial, sans-serif;
+  html,
+  body {  
+    font-family: arial, sans-serif;
+    color: black;
   }
 
   .navbar {
     display: none;
   }
+}
+
+
+.docusaurus-highlight-code-line {
+  background-color: rgb(72, 77, 91);
+  display: block;
+  margin: 0 calc(-1 * var(--ifm-pre-padding));
+  padding: 0 var(--ifm-pre-padding);
 }
 
 
