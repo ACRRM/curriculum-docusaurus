@@ -15,6 +15,14 @@
 }
 
 @font-face {
+  font-family: "archiabold";
+  src: local("archiabold"),
+    url(/fonts/archia-bold-webfont.woff2) format("woff2");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
   font-family: "MuseoSans";
   src: local("MuseoSans"),
     url(/fonts/normal-500.woff2) format("woff2");
@@ -117,4 +125,7 @@ html {
 }
 .footer__logo {
   max-width: 20rem
+}
+.footer {
+  padding: 0;
 }
