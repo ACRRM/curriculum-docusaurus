@@ -14,6 +14,11 @@ module.exports = {
       "https://identity.netlify.com/v1/netlify-identity-widget.js",
       async: true,
     },
+    {
+      src:
+      "/netlifyIdentity.js",
+      defer: true,
+    },
   ],
   themeConfig: {
     navbar: {
