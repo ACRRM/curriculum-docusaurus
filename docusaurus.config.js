@@ -48,9 +48,7 @@ module.exports = {
     },
   },
   plugins: [
-    // path.resolve(__dirname, "./node_modules/docusaurus-lunr-search/"),
-    // "docusaurus-plugin-auto-sidebars"
-    // "docusaurus-plugin-sass",
+    path.resolve(__dirname, "./node_modules/docusaurus-lunr-search/"),
     [
       "@docusaurus/plugin-pwa",
       {

@@ -1,0 +1,76 @@
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+.containerFooter {
+  padding-right: 60px;
+  padding-left: 60px;
+}
+
+.row {
+  margin-right: -60px;
+  margin-left: -60px;
+}
+
+.left {
+  padding: 50px 60px;
+  background: #f7f4f1;
+  -webkit-box-flex: 0;
+  flex: 0 0 33.33333%;
+  max-width: 33.33333%;
+  position: relative;
+  width: 100%;
+}
+
+.left > p {
+  font-weight: 400;
+  text-align: left;
+  color: #535353;
+  font-family: "archiaregular", arial, sans-serif;
+  word-break: break-word;
+  box-sizing: border-box;
+  margin-top: 0;
+  margin-bottom: 1rem;
+  font-size: 11px;
+  line-height: 1.66666em;
+}
+
+.right {
+  padding: 60px 95px;
+  background: #283f3d;
+  color: #fff;
+  -webkit-box-flex: 0;
+  flex: 0 0 66.66667%;
+  max-width: 66.66667%;
+  position: relative;
+  width: 100%;
+}
+
+.right > p {
+  font-weight: bold;
+  font-size: 30px;
+  font-family: "archiabold";
+  line-height: 1.3em;
+}
+
+.right a {
+  text-decoration: none;
+  font-size: 14px;
+  position: relative;
+  padding-bottom: 3px;
+  color: #FF8200;
+  font-family: "archiabold",arial,sans-serif;
+  padding-right: 50px;
+}
+
+.footerLogoLink {
+  opacity: 0.5;
+  transition: opacity 0.15s ease-in-out;
+}
+
+.footerLogoLink:hover {
+  opacity: 1;
+}
