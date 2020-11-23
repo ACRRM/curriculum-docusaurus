@@ -4,7 +4,7 @@ sidebar_label: Communicator
 ---
 ## Core Generalist
 
-### 💡 Knowledge
+### Knowledge
 
 #### CG.K.1
 
@@ -30,7 +30,7 @@ Describe how to access an interpreter
 
 Discuss the safe use of social media 
 
-### 🤹‍♀️ Skills
+### Skills
 
 #### CG.S.1
 
@@ -81,7 +81,7 @@ Apply communication skills with the following groups:
 * other professions for example teachers and police
 * the media
 
-### 🎭 Attributes
+### Attributes
 
 #### At.7
 

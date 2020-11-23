@@ -4,7 +4,7 @@ sidebar_label: Musculoskeletal
 ---
 ## Core Generalist
 
-### 💡 Knowledge
+### Knowledge
 
 #### CG.K.1
 
@@ -127,7 +127,7 @@ Refer, facilitate and coordinate access to specialised support services as requi
 
 Recognise and manage abuse in its various forms including those at risk or in a situation of abuse, violence, neglect, homelessness or accidental injury
 
-### 🎭 Attributes
+### Attributes
 
 #### At.2
 

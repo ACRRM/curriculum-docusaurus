@@ -4,7 +4,7 @@ sidebar_label: Investigations
 ---
 ## Core Generalist
 
-### 💡 Knowledge
+### Knowledge
 
 #### CG.K.1
 
@@ -34,7 +34,7 @@ Explain the sensitivity, specificity, positive and negative predictive value, li
 
 Describe the impact of false negatives and false positives on patient care
 
-### 🤹‍♀️ Skills
+### Skills
 
 #### CG.S.1
 
@@ -80,7 +80,7 @@ Read and interpret reports
 
 Modify working diagnosis, subsequent investigations and treatment plan in response to investigation results and patient progress or clinical status
 
-### 🎭 Attributes
+### Attributes
 
 #### At.11
 

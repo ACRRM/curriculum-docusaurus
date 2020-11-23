@@ -4,7 +4,7 @@ sidebar_label: Emergency
 ---
 ## Core Generalist
 
-### 💡 Knowledge
+### Knowledge
 
 #### CG.K.1
 
@@ -68,7 +68,7 @@ Explain the principles of acute forensic presentation particularly with respect 
 
 Identify the disaster response plan for the hospital and community
 
-### 🤹‍♀️ Skills
+### Skills
 
 #### CG.S.1
 
@@ -121,7 +121,7 @@ Assist with response to a disaster or multi-trauma
 
 Perform emergency procedures as detailed in the Procedural Skills Logbook 
 
-### 🎭 Attributes
+### Attributes
 
 #### At.2
 
@@ -137,7 +137,7 @@ Resourceful
 
 ## Advanced Specialised
 
-### 💡 Knowledge
+### Knowledge
 
 #### AS.K.1
 
@@ -232,7 +232,7 @@ Discuss principles of injury prevention in rural and remote contexts, including 
 
 Discuss ethical issues around end of life presentations (either medical, surgical, oncological, geriatric based or trauma)
 
-### 🤹‍♀️ Skills
+### Skills
 
 #### AS.S.1
 
@@ -439,7 +439,7 @@ Establish and maintain appropriate emergency department systems and procedures
 
 Perform emergency procedures as detailed in the AST Emergency Medicine Procedural Skills Logbook
 
-### 🎭 Attributes
+### Attributes
 
 #### At.2
 

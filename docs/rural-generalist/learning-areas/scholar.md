@@ -4,7 +4,7 @@ sidebar_label: Scholar
 ---
 ## Core Generalist
 
-### 💡 Knowledge
+### Knowledge
 
 #### CG.K.1
 
@@ -38,7 +38,7 @@ Describe how the ‘average’ benefits and risks of treatments as measured and 
 
 Describe methods by which patients can better understand the evidence behind different management options and assist them in choosing one option over another.
 
-### 🤹‍♀️ Skills
+### Skills
 
 #### CG.S.1
 
@@ -79,7 +79,7 @@ Demonstrate use measures of relative risk, odd ratios and numbers needed to trea
 
 Contribute to research projects
 
-### 🎭 Attributes
+### Attributes
 
 #### At.15
 

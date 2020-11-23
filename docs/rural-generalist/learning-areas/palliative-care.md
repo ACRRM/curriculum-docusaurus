@@ -4,7 +4,7 @@ sidebar_label: Palliative Care
 ---
 ## Core Generalist
 
-### 💡 Knowledge
+### Knowledge
 
 #### CG.K.1
 
@@ -50,7 +50,7 @@ Identify the legal requirements for the certification of death, including burial
 
 Identify the legal (and ethical) provision of terminal care at end of life, including the ‘doctrine of double effect’, the illegal status of euthanasia, and the status of voluntary assisted dying (legal status differs in different States/Territories)
 
-### 🤹‍♀️ Skills
+### Skills
 
 #### CG.S.1
 
@@ -117,7 +117,7 @@ Perform the following:
 
 Continue to be responsible for the patient after death and be an advocate for the family and friends during their time of grief
 
-### 🎭 Attributes
+### Attributes
 
 At.6          Compassion
 At.7          Empathy
@@ -125,7 +125,7 @@ At.5          Commitment
 
 ## Advanced Specialised
 
-### 💡 Knowledge
+### Knowledge
 
 #### AS.K.1
 
@@ -195,7 +195,7 @@ Identify the needs of patients and families in regards illness, death and bereav
 
 Detail therapeutic interventions in minimising psychological distress including counselling, behavioural therapy, group activities, relaxation/meditation, imagery/visualisation and creative therapies
 
-### 🤹‍♀️ Skills
+### Skills
 
 #### AS.S.1
 
@@ -265,7 +265,7 @@ Stabilise critically ill patients and provide primary and secondary care if cons
 
 Develop and apply strategies for self-care, to manage the challenges of dealing with death and grief 
 
-### 🎭 Attributes
+### Attributes
 
 #### At.6
 

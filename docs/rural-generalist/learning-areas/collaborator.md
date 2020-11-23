@@ -4,7 +4,7 @@ sidebar_label: Collaborator
 ---
 ## Core Generalist
 
-### 💡 Knowledge
+### Knowledge
 
 #### CG.K.1
 
@@ -22,7 +22,7 @@ Describe an approach to conflict management
 
 Identify referral networks
 
-### 🤹‍♀️ Skills
+### Skills
 
 #### CG.K.1
 
@@ -61,7 +61,7 @@ Demonstrate safe handover of care, using both verbal and written communication, 
 
 Supervise and co-ordinate vertical integration where required eg clinical learners
 
-### 🎭 Attributes
+### Attributes
 
 #### At.4
 

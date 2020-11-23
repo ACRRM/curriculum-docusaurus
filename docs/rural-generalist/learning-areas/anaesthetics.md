@@ -4,7 +4,7 @@ sidebar_label: Anaesthetics
 ---
 ## Core Generalist
 
-### 💡 Knowledge
+### Knowledge
 
 #### CG.K.1
 
@@ -94,7 +94,7 @@ Explain the principles and indicators for mechanical ventilation, the pharmacolo
 
 Discuss the principles of transport of a patient with invasive ventilation
 
-### 🤹‍♀️ Skills
+### Skills
 
 #### CG.S.1
 
@@ -164,7 +164,7 @@ use of emergency department or transport mechanical ventilator for invasive vent
 * synchronised direct current (DC) cardioversion 
 * administer nitrous oxide (as analgesia)
 
-### 🎭 Attributes
+### Attributes
 
 At.1       Accountability
 At.17     Resourcefulness
@@ -172,7 +172,7 @@ At.19     Self-reliance
 
 ## Advanced Specialised (based on JCCA Curriculum)
 
-### 💡 Knowledge
+### Knowledge
 
 #### AS.K.1
 
@@ -420,7 +420,7 @@ Discuss the management of chronic cancer pain, including:
 * common methods of treating pain, drugs used, mode of administration, eg subcutaneous infusion
 * empathy and communication skills with patients and family
 
-### 🤹‍♀️ Skills
+### Skills
 
 #### AS.S.1
 
@@ -507,7 +507,7 @@ Identify and manage complications of anaesthesia, including:
 * acute pain and chronic pain
 * cancer and non-cancer pain
 
-### 🎭 Attributes
+### Attributes
 
 #### At.18
 

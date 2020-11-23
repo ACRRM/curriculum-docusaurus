@@ -4,7 +4,7 @@ sidebar_label: Dermatology
 ---
 ## Core Generalist
 
-### 💡 Knowledge
+### Knowledge
 
 #### CG.K.1
 
@@ -38,7 +38,7 @@ Identify and be able to distinguish between:
 * immune stimulant
 * topical cytotoxic
 
-### 🤹‍♀️ Skills
+### Skills
 
 #### CG.S.1
 
@@ -117,7 +117,7 @@ Incise and drain or excise cystic structures eg carbuncle, epidermal cyst, colle
 
 Perform and provide instruction for wound care
 
-### 🎭 Attributes
+### Attributes
 
 #### At.2
 

@@ -4,7 +4,7 @@ sidebar_label: Surgery
 ---
 ## Core Generalist
 
-### 💡 Knowledge
+### Knowledge
 
 #### CG.K.1
 
@@ -100,7 +100,7 @@ Manage the pre and post-operative care for a patient undergoing surgery locally
 
 Recognise, stabilise and, as appropriate, arrange transfer and evacuation of patients with surgical emergencies and severe trauma 
 
-### 🎭 Attributes
+### Attributes
 
 ### At.1
 
@@ -116,7 +116,7 @@ Reflection
 
 ## Advanced Specialised
 
-### 💡 Knowledge
+### Knowledge
 
 #### AS.K.1
 
@@ -145,7 +145,7 @@ Identify potential surgical complications including possible failure of the surg
 
 Discuss management plans and algorithms for common potential variations for common procedures eg when an ovarian pathology or bowel cancer is found for a case that was thought to be appendicitis  
 
-### 🤹‍♀️ Skills
+### Skills
 
 #### AS.S.1
 
@@ -270,7 +270,7 @@ Obtain specific approval and training from supervisor before undertaking new pro
 
 Undertake special training or accreditation as required to perform additional skills to address community needs
 
-### 🎭 Attributes
+### Attributes
 
 #### At.1
 

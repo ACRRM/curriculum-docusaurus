@@ -4,7 +4,7 @@ sidebar_label: Procedural Skills
 ---
 ## Core Generalist
 
-### 💡 Knowledge
+### Knowledge
 
 #### CG.K.1
 
@@ -42,7 +42,7 @@ Identify the presence of psychomotor impairment or medical conditions that may a
 
 Describe other procedural related risks, such as the transmission of blood borne viruses and their potential for transmission between patients and healthcare providers during procedures
 
-### 🤹‍♀️ Skills
+### Skills
 
 #### CG.S.1
 
@@ -68,7 +68,7 @@ Recognise and manage complications of procedures performed by self or others
 
 Document consent, procedure, after care and follow up appropriately 
 
-### 🎭 Attributes
+### Attributes
 
 #### At.20
 

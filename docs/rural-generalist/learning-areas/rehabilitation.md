@@ -4,7 +4,7 @@ sidebar_label: Rehabilitation
 ---
 ## Core Generalist
 
-### 💡 Knowledge
+### Knowledge
 
 #### CG.K.1
 
@@ -123,7 +123,7 @@ Competently perform the following skills:
 * write a medico-legal report
 * complete the relevant Centrelink, Medicare, NDIS, workers compensation, insurance and superannuation forms
 
-### 🎭 Attributes
+### Attributes
 
 #### At.12
 

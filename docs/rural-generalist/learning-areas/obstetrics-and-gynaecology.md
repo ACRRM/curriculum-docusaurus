@@ -4,7 +4,7 @@ sidebar_label: Obstetrics and Gynaecology
 ---
 ## Core Generalist
 
-### 💡 Knowledge
+### Knowledge
 
 #### CG.K.1
 
@@ -306,7 +306,7 @@ Provide initial counselling for families experiencing:
 
 Work within National and state legislation relating to women’s health including legal responsibilities regarding notification of disease, birth, death and autopsy relevant to the state concerned.
 
-### 🎭 Attributes
+### Attributes
 
 #### At.6
 
@@ -322,7 +322,7 @@ Resourcefulness
 
 ## Advanced Specialised (based on DRANZCOG Advanced Curriculum)
 
-### 💡 Knowledge
+### Knowledge
 
 #### AS.K.1
 

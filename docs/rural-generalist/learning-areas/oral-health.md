@@ -4,7 +4,7 @@ sidebar_label: Oral Health
 ---
 ## Core Generalist
 
-### 💡 Knowledge
+### Knowledge
 
 #### CG.K.1
 
@@ -20,7 +20,7 @@ Describe the main concepts and principles of:
 
 Explain the importance of dental hygiene and antibiotic prophylaxis for cardiac conditions and the link between poor dentition and other health problems eg malnutrition, geriatric lung disease
 
-### 🤹‍♀️ Skills
+### Skills
 
 #### CG.S.1
 
@@ -49,7 +49,7 @@ Ideally perform dental emergency procedures:
 * management of dental fractures 
 * dental blocks using different techniques
 
-### 🎭 Attributes
+### Attributes
 
 #### At.2
 

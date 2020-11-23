@@ -4,7 +4,7 @@ sidebar_label: Genetics
 ---
 ## Core Generalist
 
-### 💡 Knowledge
+### Knowledge
 
 #### CG.K.1
 
@@ -73,7 +73,7 @@ Explain newborn screening and which conditions are included
 
 Discuss the value and availability of pre-pregnancy counselling from a genetic perspective
 
-### 🤹‍♀️ Skills
+### Skills
 
 #### CG.S.1
 
@@ -83,7 +83,7 @@ Undertake a three-generation family history to recognise patterns of inherited d
 
 Apply screening guidelines for conditions
 
-### 🎭 Attributes
+### Attributes
 
 #### At.15
 

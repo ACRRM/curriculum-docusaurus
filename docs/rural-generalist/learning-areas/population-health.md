@@ -4,7 +4,7 @@ title: Population Health
 
 ## Advanced Specialised
 
-### 💡 Knowledge
+### Knowledge
 
 #### AS.K.1
 
@@ -82,7 +82,7 @@ Discuss population health principles in crisis situations, such as:
 - major trauma planning and response, and
 - pandemic or epidemic response.
 
-### 🤹‍♀️ Skills
+### Skills
 
 #### AS.S.1
 
@@ -172,7 +172,7 @@ Act as a medical advocate in the design, implementation and evaluation of interv
 - being aware of local community history, sensitivities and priorities
 - being multi-skilled and flexible
 
-### 🎭 Attributes
+### Attributes
 
 #### At.3
 

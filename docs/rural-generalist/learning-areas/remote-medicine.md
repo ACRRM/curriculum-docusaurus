@@ -4,7 +4,7 @@ title: Remote Medicine
 
 ## Advanced Specialised
 
-### 💡 Knowledge
+### Knowledge
 
 #### AS.K.1
 
@@ -51,7 +51,7 @@ Detail protocols for establishing a donor panel to use in an emergency, includin
 
 Identify how to arrange for locum cover for planned leave and emergencies.
 
-### 🤹‍♀️ Skills
+### Skills
 
 #### AS.S.1
 
@@ -113,7 +113,7 @@ Maintain a personal and professional balance in a remote context including;
 
 Competent and independent performance of the procedural skills listed in the Procedural Skills Logbook and those skills specific to individual remote community or type of health service
 
-### 🎭 Attributes
+### Attributes
 
 #### At.4
 

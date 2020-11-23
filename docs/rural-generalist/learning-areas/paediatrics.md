@@ -4,7 +4,7 @@ sidebar_label: Paediatrics
 ---
 ## Core Generalist
 
-### 💡 Knowledge
+### Knowledge
 
 #### CG.K.1
 
@@ -112,7 +112,7 @@ Describe how to plan emergencies at home and in the community including preparin
 
 Discuss mandatory reporting requirements for children, including child abuse and neglect
 
-### 🤹‍♀️ Skills
+### Skills
 
 #### CG.S.1
 
@@ -178,7 +178,7 @@ Perform emergency procedures specific to children and adolescents including
 * umbilical catheter (neonate)
 * intraosseous access
 
-### 🎭 Attributes
+### Attributes
 
 #### At.1
 
@@ -194,7 +194,7 @@ Empathy
 
 ## Advanced Specialised
 
-### 💡 Knowledge
+### Knowledge
 
 #### AS.K.1
 
@@ -382,7 +382,7 @@ Discuss characteristics of rural and remote settings and their implications for 
 
 Utilisation of technology where useful, including video/tele conferencing, video-otoscopy, picture archiving and communication system (PACS) utilisation including USS 'quality control', and microscopy of CSF
 
-### 🤹‍♀️ Skills
+### Skills
 
 #### AS.S.1
 
@@ -564,7 +564,7 @@ Manage conditions overrepresented in Aboriginal and Torres Strait Islander child
 
 Competent, confident and independent performance of the child and adolescent procedural logbook skills 
 
-### 🎭 Attributes
+### Attributes
 
 #### At.1
 

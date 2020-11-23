@@ -4,7 +4,7 @@ sidebar_label: Physical Examination
 ---
 ## Core Generalist
 
-### 💡 Knowledge
+### Knowledge
 
 #### CG.K.1
 
@@ -23,7 +23,7 @@ Construct an evidence base for physical signs (reliability, validity, sensitivit
 Describe functional/screening tests, including mini mental state examination,
 Glasgow coma scale (GCS), depression score
 
-### 🤹‍♀️ Skills
+### Skills
 
 #### CG.S.1
 
@@ -94,7 +94,7 @@ Undertake the following examinations:
 * mental health examination
 * skin
 
-### 🎭 Attributes
+### Attributes
 
 #### At.20
 

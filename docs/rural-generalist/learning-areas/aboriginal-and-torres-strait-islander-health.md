@@ -4,7 +4,7 @@ sidebar_label: Aboriginal and Torres Strait Islander Health
 ---
 ## Core Generalist
 
-### 💡 Knowledge
+### Knowledge
 
 #### CG.K.1
 
@@ -99,7 +99,7 @@ Discuss the health status of Aboriginal and Torres Strait Islander peoples, incl
 * the major current mortality and morbidity patterns of Aboriginal and Torres Strait Islander peoples particularly in relation to fertility rate, life expectancy, maternal mortality, infant mortality, age-specific mortality and morbidity
 * major regional differences in mortality and morbidity patterns, common age and sex specific causes of morbidity, mortality, clinic presentation and hospital admission for local Aboriginal and Torres Strait Islander peoples, linking them with the associated socio- economic, cultural and environmental factors
 
-### 🤹‍♀️ Skills
+### Skills
 
 #### CG.S.1
 
@@ -161,7 +161,7 @@ Select from Medicare Benefit Item numbers and other services available for Abori
 
 Contribute to research consulted with and lead by Aboriginal and Torres Strait Islander peoples
 
-### 🎭 Attributes
+### Attributes
 
 #### At.11
 
@@ -181,7 +181,7 @@ Accountability
 
 ## Advanced Specialised
 
-### 💡 Knowledge
+### Knowledge
 
 #### AS.K.1
 
@@ -218,7 +218,7 @@ Discuss the importance of working with patients’ families, appreciating variat
 
 Discuss own strengths, values and vulnerabilities in maintaining a personal and professional balance in a cross cultural, rural and remote context
 
-### 🤹‍♀️ Skills
+### Skills
 
 #### AS.S.1
 
@@ -258,7 +258,7 @@ Teach, mentor and clinically supervise doctors in training
 
 Address racism in the health care setting
 
-### 🎭 Attributes
+### Attributes
 
 #### At.11
 

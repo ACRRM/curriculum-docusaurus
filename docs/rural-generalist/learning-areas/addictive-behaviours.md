@@ -4,7 +4,7 @@ sidebar_label: Addictive Behaviours
 ---
 ## Core Generalist
 
-### 💡 Knowledge
+### Knowledge
 
 #### CG.K.1
 
@@ -38,7 +38,7 @@ Discuss alcohol, tobacco and other drug harm reduction practices
 
 Discuss the legal and ethical aspects of the decisions made in clinical practice within the context of treating patients with addictive behaviours
 
-### 🤹‍♀️ Skills
+### Skills
 
 #### CG.S.1
 
@@ -80,7 +80,7 @@ Manage dependence, support recovery and manage relapse
 
 Liaise with other addiction and support agencies at individual patient and community intervention levels
 
-### 🎭 Attributes
+### Attributes
 
 #### At.6
 
