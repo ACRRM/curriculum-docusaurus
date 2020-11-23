@@ -8,6 +8,13 @@ module.exports = {
   organizationName: "ACRRM",
   projectName: "curriculum",
   onBrokenLinks: "warn",
+  scripts: [
+    {
+      src:
+      "https://identity.netlify.com/v1/netlify-identity-widget.js",
+      async: true,
+    },
+  ],
   themeConfig: {
     navbar: {
       hideOnScroll: true,
