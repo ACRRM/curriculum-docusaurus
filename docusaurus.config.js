@@ -21,6 +21,10 @@ module.exports = {
     },
   ],
   themeConfig: {
+    colorMode: {      
+      disableSwitch: true,
+      respectPrefersColorScheme: true
+    },
     navbar: {
       hideOnScroll: true,
       title: "",
@@ -30,8 +34,8 @@ module.exports = {
       },
       items: [
         {
-          href: "tel:1800223226",
-          label: "📞 1800 223 226",
+          href: "https://mycollege.acrrm.org.au/contact-us",
+          label: "Contact",
           position: "right",
         },
       ],
@@ -60,6 +64,7 @@ module.exports = {
     },
   },
   plugins: [
+    'docusaurus-plugin-auto-sidebars',
     path.resolve(__dirname, "./node_modules/docusaurus-lunr-search/"),
     [
       "@docusaurus/plugin-pwa",

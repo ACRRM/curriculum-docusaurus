@@ -3,7 +3,7 @@
  * Any CSS included here will be global. The classic template
  * bundles Infima by default. Infima is a CSS framework designed to
  * work well for content-centric websites.
- */ 
+ */
 
 /* custom css below */
 @font-face {
@@ -24,8 +24,7 @@
 
 @font-face {
   font-family: "MuseoSans";
-  src: local("MuseoSans"),
-    url(/fonts/normal-500.woff2) format("woff2");
+  src: local("MuseoSans"), url(/fonts/normal-500.woff2) format("woff2");
   font-weight: normal;
   font-style: normal;
 }
@@ -50,14 +49,14 @@
 
 @media only screen {
   html,
-  body {  
+  body {
     font-family: "archiaregular", arial, sans-serif;
   }
 }
 
 @media only print {
   html,
-  body {  
+  body {
     font-family: arial, sans-serif;
     color: black;
   }
@@ -67,14 +66,12 @@
   }
 }
 
-
 .docusaurus-highlight-code-line {
   background-color: rgb(72, 77, 91);
   display: block;
   margin: 0 calc(-1 * var(--ifm-pre-padding));
   padding: 0 var(--ifm-pre-padding);
 }
-
 
 .card-demo-container {
   align-items: center;
@@ -89,8 +86,8 @@
 
 .card {
   max-width: 280px;
-  -webkit-box-shadow: 0 5px 5px 1px rgba(0,0,0,0.1);
-  box-shadow: 0 5px 5px 1px rgba(0,0,0,0.1);
+  -webkit-box-shadow: 0 5px 5px 1px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 5px 5px 1px rgba(0, 0, 0, 0.1);
 }
 
 /* HACK: https://stackoverflow.com/a/45883930/905571 */
@@ -101,16 +98,16 @@
 }
 
 html {
-	scroll-behavior: smooth;
+  scroll-behavior: smooth;
 }
 @media screen and (prefers-reduced-motion: reduce) {
-	html {
-		scroll-behavior: auto;
-	}
+  html {
+    scroll-behavior: auto;
+  }
 }
 
 .navbar {
-  box-shadow: 0 5px 10px 1px rgba(0,0,0,0.15);
+  box-shadow: 0 5px 10px 1px rgba(0, 0, 0, 0.15);
 }
 
 .sidebarLogo_node_modules-\@docusaurus-theme-classic-src-theme-DocSidebar- img {
@@ -121,11 +118,58 @@ html {
   height: 65px;
 }
 .navbar__logo {
-  margin-right: 1rem
+  margin-right: 1rem;
 }
 .footer__logo {
-  max-width: 20rem
+  max-width: 20rem;
 }
 .footer {
   padding: 0;
+}
+
+.navbar__item.navbar__link {
+  padding: 0;
+  margin: 4px 16px;
+  line-height: 1.66666em;
+  -webkit-box-direction: normal;
+  list-style: none;
+  box-sizing: border-box;
+  text-decoration: none;
+  background-color: transparent;
+  transition: all 0.2s ease;
+  font-weight: 700;
+  display: inline-block;
+  font-family: "archiabold", arial, sans-serif;
+  position: relative;
+  font-size: 16px;
+}
+
+.navbar__item.navbar__link:after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -3px;
+  background: #e87500;
+  height: 2px;
+  -webkit-transition-duration: 0.175s;
+  -o-transition-duration: 0.175s;
+  transition-duration: 0.175s;
+  -webkit-transition-timing-function: linear;
+  -o-transition-timing-function: linear;
+  transition-timing-function: linear;
+}
+
+.navbar__item.navbar__link:before {
+  content: "✉";
+  position: absolute;
+  top: 0px;
+  left: -20px;
+  width: 10px;
+  height: 13px;
+}
+
+.navbar__item.navbar__link:hover:after {
+  height: 13px;
+  background: rgba(251, 170, 88, 0.5);
 }
