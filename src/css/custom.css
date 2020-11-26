@@ -144,6 +144,10 @@ html {
   font-size: 16px;
 }
 
+.navbar__item.navbar__link:hover {
+  color: unset;
+}
+
 .navbar__item.navbar__link:after {
   content: "";
   position: absolute;
