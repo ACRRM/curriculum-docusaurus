@@ -3,14 +3,31 @@ module.exports = {
     "_index",
     {
       type: "ref",
-      id: "fellowship/standards",
+      id: "rural-generalist/introduction",
     },
     {
       type: "ref",
-      id: "rural-generalist/introduction",
+      id: "fellowship-training/standards",
+    },
+    {
+      type: "ref",
+      id: "fellowship-assessment/standards",
+    },
+    {
+      type: "ref",
+      id: "supervisors-training-posts/standards",
+    },
+    {
+      type: "ref",
+      id: "training-org/standards",
     },
   ],
-  Fellowship: ["fellowship/standards"],
+  "Fellowship Training": ["fellowship-training/standards"],
+  "Fellowship Assessment": ["fellowship-assessment/standards"],
+  "Supervisors and Training Posts Standards": [
+    "supervisors-training-posts/standards",
+  ],
+  "Training Organisations Standards": ["training-org/standards"],
   "Rural Generalist": [
     "rural-generalist/introduction",
     "rural-generalist/curriculum",
