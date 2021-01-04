@@ -44,7 +44,7 @@
   --ifm-global-shadow-lw: 0;
   --ifm-global-shadow-md: 0;
   --ifm-global-shadow-tl: 0;
-  --docusaurus-announcement-bar-height: auto !important;
+  /* --docusaurus-announcement-bar-height: auto !important; */
 }
 
 @media only screen {
@@ -64,6 +64,10 @@
   .navbar {
     display: none;
   }
+}
+
+#__docusaurus div[role="banner"] {
+  height: auto !important;
 }
 
 .docusaurus-highlight-code-line {
