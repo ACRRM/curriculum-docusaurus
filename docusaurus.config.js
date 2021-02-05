@@ -2,7 +2,7 @@ const path = require("path");
 
 module.exports = {
   title: "ACRRM Curriculum",
-  url: "https://acrrm-curriculum.netlify.com",
+  url: "https://curriculum.acrrm.org.com",
   baseUrl: "/",
   favicon: "img/favicon.ico",
   organizationName: "ACRRM",
