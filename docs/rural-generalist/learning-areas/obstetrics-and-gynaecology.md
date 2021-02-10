@@ -67,7 +67,9 @@ Describe normal antenatal and postnatal care
 #### CG.K.13
 
 Describe preventative health screening tests for women including mammography and cervical screening 
-Skills 
+
+
+### Skills 
 
 #### CG.S.1
 
@@ -232,7 +234,7 @@ Perform the following procedures in an emergency:
 
 Recognise and respond early to the deteriorating condition of a woman or baby during labour and post-partum, including: 
 
-* inadequate uterine conditions 
+* inadequate uterine contractions 
 * abnormal bleeding 
 * high blood pressure
 * obstructed labour
@@ -259,7 +261,7 @@ Provide ongoing care for common neonatal problems including:
 * physiological and non-physiological jaundice 
 * intrapartum and neonatal infection
 * seizures
-* maternal infection including; syphilis, hepatitis B and C and HIV
+* maternal infection including syphilis, hepatitis B and C and HIV
 * feeding problems
 * drug withdrawal
 
@@ -304,7 +306,7 @@ Provide initial counselling for families experiencing:
 
 #### CG.S.31
 
-Work within National and state legislation relating to women’s health including legal responsibilities regarding notification of disease, birth, death and autopsy relevant to the state concerned.
+Work within National and state legislation relating to women’s health including legal responsibilities regarding notification of disease, birth, death and autopsy relevant to the state concerned
 
 ### Attributes
 
