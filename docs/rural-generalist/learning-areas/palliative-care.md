@@ -119,9 +119,19 @@ Continue to be responsible for the patient after death and be an advocate for th
 
 ### Attributes
 
-At.6          Compassion
-At.7          Empathy
-At.5          Commitment
+#### At.6         
+
+ Compassion
+
+#### 
+At.7        
+
+  Empathy
+
+#### 
+At.5        
+
+  Commitment
 
 ## Advanced Specialised
 
@@ -189,7 +199,7 @@ Discuss the signs of approaching death
 
 #### AS.K.16
 
-Identify the needs of patients and families in regards illness, death and bereavement.
+Identify the needs of patients and families in regards illness, death and bereavement
 
 #### AS.K.17
 
