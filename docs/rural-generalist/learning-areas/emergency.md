@@ -442,7 +442,7 @@ Competent and confident paediatric and neonatal emergency care, including:
 
 #### AS.S.15
 
-Coordinate, work with and/or provide leadership (clinical and operational) as appropriate to multidisciplinary and/or inter-professional teams encompassing emergency services (police, fire brigade, ambulance), retrieval services, emergency department staff members, inpatient services and community members.
+Coordinate, work with and/or provide leadership (clinical and operational) as appropriate to multidisciplinary and/or inter-professional teams encompassing emergency services (police, fire brigade, ambulance), retrieval services, emergency department staff members, inpatient services and community members
 
 #### AS.S.16
 
@@ -460,7 +460,7 @@ Establish and maintain appropriate emergency department systems and procedures
 * staff management and communication skills
 * inter-professional co-operation skills
 * complaint management
-* occupational health and safety measures.
+* occupational health and safety measures
 
 #### AS.S.17
 
