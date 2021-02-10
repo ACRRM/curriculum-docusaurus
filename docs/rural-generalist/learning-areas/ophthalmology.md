@@ -21,7 +21,8 @@ Distinguish between the conditions of the eye and describe the treatment and ref
 #### CG.K.4
 
 Identify the role of other health care professionals, including ophthalmologists, optometrists in diagnosing and treating conditions of the eye
-Skills 
+
+### Skills 
 
 #### CG.S.1
 
@@ -64,7 +65,7 @@ Undertake initial assessment and triage patients with acute loss of vision
 
 Independently perform the following procedures:
 
-* instil eye drops and ointment 
+* instill eye drops and ointment 
 * tape lids to prevent corneal and conjunctival exposure
 * fluorescein staining of the cornea and sclera 
 * dilatation of the pupils
@@ -111,8 +112,8 @@ Integrity
 * blocked tear duct
 * amaurosis fugax 
 * hemianopia
-* conjunctivitis: viral, herpetic eye disease, bacterial, allergic, trachoma, trichiasis, conjunctival tumours 
-* corneal diseases: keratitis, corneal ulcers, conjunctival nevus, pterygium, pinguecula 
+* conjunctivitis viral, herpetic eye disease, bacterial, allergic, trachoma, trichiasis, conjunctival tumours 
+* corneal diseases keratitis, corneal ulcers, conjunctival nevus, pterygium, pinguecula 
 * uveitis 
 * drug allergy 
 * episcleritis/scleritis 
@@ -125,6 +126,6 @@ Integrity
 * stye 
 * chalazion
 * diabetic retinopathy, hypertensive retinopathy 
-* optic nerve and fundus conditions; optic disc abnormalities in glaucoma, optic disc swelling, optic atrophy 
+* optic nerve and fundus conditions optic disc abnormalities in glaucoma, optic disc swelling, optic atrophy 
 * eye injuries; chemical, blunt and penetrating trauma to eye and surrounding tissues, subtarsal and corneal foreign bodies, scratches and abrasions, hyphema, blowout fracture, signs of child abuse, ultra violet trauma, welders’ flash burns, snow blindness
 * acute loss of vision; vascular occlusion, giant cell arteritis, acute glaucoma, vitreous haemorrhage, retinal detachment, optic neuritis, papilloedema, proptosis
