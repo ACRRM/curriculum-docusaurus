@@ -24,8 +24,9 @@ Illustrate knowledge of anatomy, physiology and pathology for common surgical co
 
 #### CG.K.5
 
-Discuss common surgical procedures and techniques\
-Skills 
+Discuss common surgical procedures and techniques
+
+### Skills 
 
 #### CG.S.1
 
@@ -120,11 +121,11 @@ Reflection
 
 #### AS.K.1
 
-Detail anatomy and physiology relevant to domains of surgical practice in the curriculum.
+Detail anatomy and physiology relevant to domains of surgical practice in the curriculum
 
 #### AS.K.2
 
-Discuss selection criteria, protocols, principles and limitations of the diagnostic procedures tests and interpret their results.
+Discuss selection criteria, protocols, principles and limitations of the diagnostic procedures tests and interpret their results
 
 #### AS.K.3
 
@@ -218,7 +219,7 @@ Recognise and implement a management plan for surgical complications, including:
 * management for complications such as pulmonary embolus
 * perforation/obstruction, pneumothorax, spinal headache, pressure sores
 * medical complications following surgery – respiratory (eg infective pneumonia, aspiration), cardiac (eg arrhythmias, MI) renal (eg ARF, hyper and hypo kalemia), neurological (eg CVA, delirium), GI (eg ileus, constipation)
-* complications of therapeutics – allergy/anaphylaxis, toxicity, drug interactions, GI bleeding, dystonic reactions, neuroleptic malignant syndrome, transfusion reactions, under or over-hydration, over-anticoagulation.
+* complications of therapeutics – allergy/anaphylaxis, toxicity, drug interactions, GI bleeding, dystonic reactions, neuroleptic malignant syndrome, transfusion reactions, under or over-hydration, over-anticoagulation
 
 #### AS.S.9
 
@@ -241,14 +242,14 @@ Manage abdominal presentations:
 * Acute right and left lower quadrant pain: appendicitis, adnexal/ovarian disease, diverticular disease, constipation
 * Gastrointestinal bleeding (upper and lower)
 * Gastrointestinal screening and surveillance (upper and lower)
-* Perianal presentations: haemorrhoids, infections, warts, pilonidal sinuses, anal fissures 
+* Perianal presentations haemorrhoids, infections, warts, pilonidal sinuses, anal fissures 
 
 #### AS.S.11
 
 Manage non-abdominal presentations:
 
 * Integumentary lesions: skin, nail, subcutaneous lesions, ganglia, lipoma, digital amputation, burns cellulitis, skin flap and skin graft closure
-* Wounds: dressings, excision and suture, drainage and debridement, drainage and packing
+* Wound: dressings, excision and suture, drainage and debridement, drainage and packing
 * Fertility: vasectomy
 * Genitourinary disease: acute testicular torsion, epididymitis, phimosis, circumcision 
 * Breast lump: triple assessment and referral 
