@@ -75,7 +75,9 @@ Identify relevant national and state legislation related to the rights of people
 #### CG.K.6
 
 Discuss the importance of multi-disciplinary teamwork and the extended role of other health professionals in developing and implementing patient management
-Skills 
+
+
+### Skills 
 
 #### CG.S.1
 
@@ -335,7 +337,7 @@ Understands the importance of family issues/dysfunction and the broader social c
 
 #### AS.K.16
 
-Knows appropriate strategies and techniques for teaching mental health approaches to junior doctors and other health professionals.
+Knows appropriate strategies and techniques for teaching mental health approaches to junior doctors and other health professionals
 
 ### Skills
 
@@ -365,7 +367,7 @@ Recognise the signs of uncommon but serious mental health disorders, including:
 * severe somatoform disorders
 * toxic and organic brain syndromes
 * acute stress disorder and post-traumatic stress disorder (PTSD)
-* ADD/ADHD in adults.
+* ADD/ADHD in adults
 
 #### AS.S.4
 
@@ -437,7 +439,7 @@ Provide follow up and long-term care for patients with mental health conditions
 * relapse prevention – including prevention planning, relapse detection and relapse management 
 * appropriate participation in team-based care
 * patient advocacy
-* management of treatment completion.
+* management of treatment completion
 
 #### AS.S.14
 
@@ -449,7 +451,7 @@ Work in collaboration with other mental health care professionals and community 
 * mental health nurses or mental health practitioners
 * carer and self-help organisations
 * peer worker, advocacy services
-* online services and resources.
+* online services and resources
 
 #### AS.S.15
 
@@ -457,7 +459,7 @@ Respond to a mental health crisis or emergency, including assessment of potentia
 
 #### AS.S.16
 
-Assess the risk of: suicide/self-harm, violence to others, damage to property, drug overdose, severity of psychiatric illness, acute psychoses, toxic confusional states, acute withdrawal states, severe behaviours disturbance, availability of guns
+Assess the risk of suicide/self-harm, violence to others, damage to property, drug overdose, severity of psychiatric illness, acute psychoses, toxic confusional states, acute withdrawal states, severe behaviours disturbance, availability of guns
 
 #### AS.S.17
 
@@ -468,7 +470,7 @@ Techniques for aggression management, acute situational crisis counselling, conf
 Appropriately administer emergency pharmacotherapy, including:
 
 * understanding clinical practice guidelines
-* understanding the legal requirements for involuntary administration of emergency pharmacotherapy.
+* understanding the legal requirements for involuntary administration of emergency pharmacotherapy
 
 #### AS.S.19
 
@@ -476,7 +478,7 @@ Demonstrate forensic mental health skills, including:
 
 * initial response to cases of suspected abuse – including child abuse, domestic abuse and sexual assault
 * mental health assessment of offenders 
-* assessment of competence to consent and fitness to plead.
+* assessment of competence to consent and fitness to plead
 
 #### AS.S.20
 
@@ -484,7 +486,7 @@ Design and implement a community mental health initiative
 
 * mental health literacy education
 * adolescent mental health programs
-* preventive programs – e.g. Beyond Blue, Headspace or GP Network mental health activities within the registrar’s community.
+* preventive programs – e.g. Beyond Blue, Headspace or GP Network mental health activities within the registrar’s community
 
 ### Attributes
 
@@ -499,7 +501,3 @@ Empathy
 #### At.16
 
 Resilience
-
-#### At.
-
-Collaborative
