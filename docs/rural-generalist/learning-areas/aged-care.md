@@ -44,6 +44,8 @@ Describe issues that may affect treatment compliance in older people
 #### CG.K.5
 
 Explain national and state legislation related to the rights of elderly people
+
+### 
 Skills 
 
 #### CG.S.1
