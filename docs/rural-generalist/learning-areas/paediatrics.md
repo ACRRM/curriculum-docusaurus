@@ -327,7 +327,7 @@ Discuss growth and nutrition including:
 * growth faltering/failure to thrive,
 * overweight/obesity, 
 * specific nutritional deficiencies including iron deficiency,
-* vitamin D deficiency outside of the neonatal period.   
+* vitamin D deficiency outside of the neonatal period   
 
 #### AS.K.16
 
@@ -388,35 +388,21 @@ Utilisation of technology where useful, including video/tele conferencing, video
 
 For the less common or more serious conditions and presentations of childhood and adolescence with consideration of clinical services capability: 
 
+* recognise the presentation
+
+  establish a provisional diagnosis 
+
+  plan and arrange appropriate initial investigation 
+
+  initiate empiric therapy 
+
+  discuss broad therapeutic options
+
+  refer appropriately
+
+  provide ongoing management
+
 #### AS.S.2
-
-recognise the presentation
-
-#### AS.S.3
-
-establish a provisional diagnosis 
-
-#### AS.S.4
-
-plan and arrange appropriate initial investigation 
-
-#### AS.S.5
-
-initiate empiric therapy 
-
-#### AS.S.6
-
-discuss broad therapeutic options
-
-#### AS.S.7
-
-refer appropriately
-
-#### AS.S.8
-
-provide ongoing management
-
-#### AS.S.9
 
 Obtain a clinical history including:
 
@@ -431,7 +417,7 @@ Obtain a clinical history including:
 * environmental 
 * past medical 
 
-#### AS.S.10
+#### AS.S.3
 
  Engage with and perform a relevant physical examination and developmental assessment including:
 
@@ -445,7 +431,7 @@ Obtain a clinical history including:
 * identify physical signs and behaviour patterns associated with neglect and abuse
 * examination of all joints for differential diagnosis
 
-#### AS.S.11
+#### AS.S.4
 
 Order and/or perform diagnostic tests, including: 
 
@@ -464,7 +450,7 @@ Order and/or perform diagnostic tests, including:
 * bone marrow examination 
 * behavioural assessments and specialised developmental testing
 
-#### AS.S.12
+#### AS.S.5
 
 Manage abnormal results, including:
 
@@ -485,7 +471,7 @@ Manage abnormal results, including:
 * feeding of the newborn 
 * management of the infant of a diabetic mother
 
-#### AS.S.13
+#### AS.S.6
 
   Assess and manage children with psychosocial issues including:
 
@@ -500,7 +486,7 @@ Manage abnormal results, including:
 * grief responses
 * school performance issues
 
-#### AS.S.14
+#### AS.S.7
 
 Assess and manage mental health conditions, including:
 
@@ -510,11 +496,11 @@ Assess and manage mental health conditions, including:
 * intervening in a case where a child or adolescent is at risk for suicide
 * early psychosis with appropriate support or referral
 
-#### AS.S.15
+#### AS.S.8
 
 Identify early indicators of ‘at risk’ behaviours of adolescents and initiate harm minimisation strategies
 
-#### AS.S.16
+#### AS.S.9
 
   Use range of adolescent communication/assistance strategies including:
 
@@ -525,15 +511,15 @@ Identify early indicators of ‘at risk’ behaviours of adolescents and initiat
 * direct family counselling and 
 * assist in coping with imprisonment
 
-#### AS.S.17
+#### AS.S.10
 
 Prevent occurrence and recurrence of primary conditions and prevent secondary complications from primary conditions
 
-#### AS.S.18
+#### AS.S.11
 
 Recognise conditions in childhood that may only show their consequences in adulthood e.g. obesity, bone health, rapid weight gain in growth retarded infants
 
-#### AS.S.19
+#### AS.S.12
 
 Manage acute conditions requiring inpatient admission specific to children and adolescents include:
 
@@ -544,23 +530,23 @@ Manage acute conditions requiring inpatient admission specific to children and a
 * hypoxia and
 * blood transfusion
 
-#### AS.S.20
+#### AS.S.13
 
 Estimate and administer fluid requirements for ongoing maintenance 
 
-#### AS.S.21
+#### AS.S.14
 
 Manage neonates admitted with common neonatal medical conditions 
 
-#### AS.S.22
+#### AS.S.15
 
 Meet mandatory reporting requirements, as relevant to state or territory
 
-#### AS.S.23
+#### AS.S.16
 
 Manage conditions overrepresented in Aboriginal and Torres Strait Islander children 
 
-#### AS.S.24
+#### AS.S.17
 
 Competent, confident and independent performance of the child and adolescent procedural logbook skills 
 
