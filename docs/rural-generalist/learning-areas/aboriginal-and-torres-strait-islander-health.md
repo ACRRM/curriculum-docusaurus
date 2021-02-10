@@ -248,7 +248,7 @@ Assist with culturally sensitive research lead by Aboriginal and Torres Strait I
 * knowing where and how to find information
 * working as part of a cross cultural team
 * assisting with identifying processes, such as intervention studies rather than merely descriptive studies, that will assist in improving health outcomes, and 
-* being aware of, and using, the NHMRC ethical guidelines in Aboriginal and Torres Strait Islander research. 
+* being aware of, and using, the NHMRC ethical guidelines in Aboriginal and Torres Strait Islander research
 
 #### AS.S.5
 
