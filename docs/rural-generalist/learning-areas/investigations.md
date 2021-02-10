@@ -92,7 +92,7 @@ Adaptability
 
 #### At.17
 
-### Resourcefulness
+###### `Resourcefulness`
 
 ### Investigations and reports
 
