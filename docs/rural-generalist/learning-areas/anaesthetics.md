@@ -166,9 +166,17 @@ use of emergency department or transport mechanical ventilator for invasive vent
 
 ### Attributes
 
-At.1       Accountability
-At.17     Resourcefulness
-At.19     Self-reliance
+#### At.1      
+
+ Accountability
+
+#### At.17     
+
+Resourcefulness
+
+#### At.19    
+
+ Self-reliance
 
 ## Advanced Specialised (based on JCCA Curriculum)
 
