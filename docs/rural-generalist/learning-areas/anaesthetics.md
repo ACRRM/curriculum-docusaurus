@@ -201,7 +201,7 @@ Detail staff and patient hazards and plans to avoid, including hazards of:
 * the operating theatre
 * infection, (eg HIV, hepatitis B, C, or other blood borne infections) 
 * physical injury, electric shock, radiation, surgical and anaesthetic equipment and environmental pollution
-* cross infection, patient posture, and immobility and 
+* cross infection, patient posture, and immobility  
 
 #### AS.K.5
 
