@@ -10,7 +10,6 @@ module.exports = {
     "rural-generalist/introduction",
     "rural-generalist/curriculum",
     "rural-generalist/competency-domains",
-    "rural-generalist/learning-areas",
     {
       type: "category",
       label: "All Learning Areas",
