@@ -76,8 +76,7 @@ Identify relevant national and state legislation related to the rights of people
 
 Discuss the importance of multi-disciplinary teamwork and the extended role of other health professionals in developing and implementing patient management
 
-
-### Skills 
+### Skills
 
 #### CG.S.1
 
@@ -138,7 +137,9 @@ Consider the needs of those with existing co-morbidities including:
 * personality disorder 
 * trauma 
 * acquired brain injury
-* physical illness with which mental illnesses are commonly associated - e.g. Parkinson’s disease 
+* physical illness with which mental illnesses are commonly associated - e.g. Parkinson’s disease
+
+   mild cognitive impairment or dementia
 * hearing or sight impairment and 
 * co-existing psychiatric morbidities
 
@@ -204,6 +205,8 @@ Assess patients experiencing a mental health crisis including assessment of:
 * violence to others, 
 * damage to property 
 * availability of guns 
+
+  impact of young or old age
 
 #### CG.S.19
 
@@ -313,6 +316,8 @@ Explains the principles of management for complex pharmacotherapeutic scenarios,
 * prescribing for children and adolescents
 * prescribing for pregnant and breastfeeding women
 
+  prescribing in the very old
+
 #### AS.K.13
 
 Discusses the types and appropriate selection of counselling and psychosocial therapeutic techniques:
@@ -401,6 +406,8 @@ Diagnose mental health problems in specific age groups, including:
 * Young people: relationship problems at home, low self-esteem, peer group imitation, separation from cultural and family demands, oppositional behaviour, somatoform disorders, conversion disorder, ADHD, confusion about gender identity, self-harm, substance misuse (alcohol, marijuana, amphetamine derivatives, solvents, sedatives and others), depression, anxiety, attachment disorders, psychoses, teen pregnancy, eating disorders, loss and grief reaction, sexual abuse.
 * Adults: substance abuse, marriage/relationship problems, family conflict/parenting issues
 
+  Older people: depression, anxiety, adjustment disorder, grief, substance abuse, hoarding, psychoses, cognitive decline, internalised ageism, suicide
+
 #### AS.S.9
 
 Provide counselling therapies for example;
@@ -447,6 +454,8 @@ Work in collaboration with other mental health care professionals and community 
 
 * opportunities for shared care
 * specialist services
+
+  aged care services
 * tele-psychiatry
 * mental health nurses or mental health practitioners
 * carer and self-help organisations
@@ -471,6 +480,8 @@ Appropriately administer emergency pharmacotherapy, including:
 
 * understanding clinical practice guidelines
 * understanding the legal requirements for involuntary administration of emergency pharmacotherapy
+
+  adaptations required for comorbidities, young or old age
 
 #### AS.S.19
 
