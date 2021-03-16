@@ -401,15 +401,21 @@ Diagnose mental health problems in specific age groups, including:
 
 #### AS.S.9
 
-Provide counselling therapies for example:
+Provide counselling therapies for example;
 
-* Psycho-education (including motivational interviewing) 
+#### AS.S.10
+
+Psycho-education (including motivational interviewing) 
+
 * Cognitive-behavioural therapy including behavioural interventions, behaviour modification, exposure techniques, activity scheduling, cognitive interventions, cognitive therapy
 * Relaxation strategies: progressive muscle relaxation, controlled breathing
 * Skills training; problem solving skills and training, anger management, social skills training, communication training, stress management, parent management training
-* Interpersonal therapy (especially for depression)
 
-#### AS.S.10
+#### AS.S.11
+
+Interpersonal therapy (especially for depression)
+
+#### AS.S.12
 
 Manage pharmacotherapy for the full spectrum of mental illness including monitoring and managing adverse effects of medication
 
@@ -420,7 +426,7 @@ Manage pharmacotherapy for the full spectrum of mental illness including monitor
 * prescribing for drug and alcohol indications, including methadone and buprenorphine therapy for opioid dependence
 * co-prescribing of clozapine therapy, stimulants
 
-#### AS.S.11
+#### AS.S.13
 
 Provide follow up and long-term care for patients with mental health conditions
 
@@ -433,7 +439,7 @@ Provide follow up and long-term care for patients with mental health conditions
 * patient advocacy
 * management of treatment completion.
 
-#### AS.S.12
+#### AS.S.14
 
 Work in collaboration with other mental health care professionals and community and government organisations
 
@@ -445,26 +451,26 @@ Work in collaboration with other mental health care professionals and community 
 * peer worker, advocacy services
 * online services and resources.
 
-#### AS.S.13
+#### AS.S.15
 
 Respond to a mental health crisis or emergency, including assessment of potential risks and adverse reactions of patients, risk of damage to primary supporting relationship and/or accommodation eg parents of patient with psychosis, partner
 
-#### AS.S.14
+#### AS.S.16
 
 Assess the risk of: suicide/self-harm, violence to others, damage to property, drug overdose, severity of psychiatric illness, acute psychoses, toxic confusional states, acute withdrawal states, severe behaviours disturbance, availability of guns
 
-#### AS.S.15
+#### AS.S.17
 
 Techniques for aggression management, acute situational crisis counselling, conflict resolution, violence interventions, debriefing
 
-#### AS.S.16
+#### AS.S.18
 
 Appropriately administer emergency pharmacotherapy, including:
 
 * understanding clinical practice guidelines
 * understanding the legal requirements for involuntary administration of emergency pharmacotherapy.
 
-#### AS.S.17
+#### AS.S.19
 
 Demonstrate forensic mental health skills, including:
 
@@ -472,7 +478,7 @@ Demonstrate forensic mental health skills, including:
 * mental health assessment of offenders 
 * assessment of competence to consent and fitness to plead.
 
-#### AS.S.18
+#### AS.S.20
 
 Design and implement a community mental health initiative
 

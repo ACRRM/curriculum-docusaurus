@@ -223,14 +223,18 @@ Demonstrate knowledge and understanding of the causes of inter-uterine condition
 * foetal alcohol spectrum disorder (FASD) and maternal drug ingestion
 * orthopaedic abnormalities
 * poverty and maternal malnutrition
-* advanced understanding of the five domains of developmental disability:
+
+#### **AS.K.5**
+
+Demonstrate advanced understanding of the five domains of developmental disability:
+
 * speech and language delay
 * gross motor delay
 * fine motor delay
 * personal and social delay
 * global delay
 
-#### AS.K.5
+#### AS.K.6
 
 Discuss pervasive developmental disorders, including:
 
@@ -239,23 +243,23 @@ Discuss pervasive developmental disorders, including:
 * childhood disintegrative disorder
 * pervasive developmental delay not otherwise specified
 
-#### AS.K.6
+#### AS.K.7
 
 Describe learning disabilities and the protocols for administering and interpreting the results of the Wechsler Intelligence Scale for Children (WISC)
 
-#### AS.K.7
+#### AS.K.8
 
 Explain aspects relating to nutrition, including
 
 * causes and implications of low birth weight, prematurity and intrauterine growth retardation
-* the principles and issues associated with nutritional goals by age group including flexible feeding patterns, risk factors for deficiencies, as well as good allergy and sensitivity.
+* the principles and issues associated with nutritional goals by age group including flexible feeding patterns, risk factors for deficiencies, as well as food allergy and sensitivity.
 * the application of knowledge to age-specific exercise, recreation and fitness programs and reducing the risk of obesity and other related diseases
 
-#### AS.K.8
+#### AS.K.9
 
 Describe when a child can consent to medical treatment on their own behalf, and without their parents’ knowledge.
 
-#### AS.K.9
+#### AS.K.10
 
 Discuss issues relating to adolescents, including:
 
@@ -269,7 +273,7 @@ Discuss issues relating to adolescents, including:
 * financial and compliance issues when prescribing for adolescents
 * family development and dynamics affecting children including parental substance use, the effects of smoking, childhood caffeine use and high-risk families
 
-#### AS.K.10
+#### AS.K.11
 
 Discuss issues relating to Aboriginal and Torres Strait Islander children, including:
 
@@ -282,7 +286,7 @@ Discuss issues relating to Aboriginal and Torres Strait Islander children, inclu
 * understanding Guardianship within communities
 * understanding barriers to effective prevention, treatment, and compliance with advised care 
 
-#### AS.K.11
+#### AS.K.12
 
 Discuss sexual health issues, including:
 
@@ -293,7 +297,7 @@ Discuss sexual health issues, including:
 * know the local resources
 * know local treatment protocols
 
-#### AS.K.12
+#### AS.K.13
 
 Describe toxicology, poisoning and envenomation, including:
 
@@ -301,7 +305,7 @@ Describe toxicology, poisoning and envenomation, including:
 * know the treatment of common childhood poisons and overdoses and be competent in their treatment
 * be familiar with the Poisons Information Centre including the phone numbers
 
-#### AS.K.13
+#### AS.K.14
 
 Discuss palliative care in childhood, including:
 
@@ -311,7 +315,7 @@ Discuss palliative care in childhood, including:
 * understanding the importance of supporting the child and family in a culturally appropriate manner
 * pain management 
 
-#### AS.K.14
+#### AS.K.15
 
 Discuss vaccine preventable infectious diseases:
 
@@ -320,7 +324,7 @@ Discuss vaccine preventable infectious diseases:
 * ability to discuss the myths of immunisations
 * knowledge of the immunisation preventable diseases
 
-#### AS.K.15
+#### AS.K.16
 
 Discuss growth and nutrition including:
 
@@ -329,7 +333,7 @@ Discuss growth and nutrition including:
 * specific nutritional deficiencies including iron deficiency,
 * vitamin D deficiency outside of the neonatal period   
 
-#### AS.K.16
+#### AS.K.17
 
 Discuss diagnostic testing in children, including:
 
@@ -337,7 +341,7 @@ Discuss diagnostic testing in children, including:
 * how to arrange a wide range of paediatric tests and interpret their results, taking into consideration age variation and findings relevant to different age groups
 * explaining to parents and caregivers the relevance of the results
 
-#### AS.K.17
+#### AS.K.18
 
 Discuss principles and practices for pharmaceutical prescribing in children, including differences between paediatric and adult prescribing, including but not limited to:
 
@@ -351,11 +355,11 @@ Discuss principles and practices for pharmaceutical prescribing in children, inc
 * anticoagulation
 * mental health conditions
 
-#### AS.K.18
+#### AS.K.19
 
 Discuss the indications, contra-indications and techniques for an extended range of paediatric diagnostic investigations 
 
-#### AS.K.19
+#### AS.K.20
 
 Describe formulas for paediatric resuscitation, including:
 
@@ -365,11 +369,11 @@ Describe formulas for paediatric resuscitation, including:
 * dose of adrenaline
 * joules for electrical shock
 
-#### AS.K.20
+#### AS.K.21
 
 Describe appropriate pain relief: oral sucrose for infants, topical amethocaine
 
-#### AS.K.21
+#### AS.K.22
 
 Discuss characteristics of rural and remote settings and their implications for child and adolescent health practice, including:
 
@@ -378,7 +382,7 @@ Discuss characteristics of rural and remote settings and their implications for 
 * impact of distance – including delays in transport/referrals
 * impact of limited resource availability
 
-#### AS.K.22
+#### AS.K.23
 
 Utilisation of technology where useful, including video/tele conferencing, video-otoscopy, picture archiving and communication system (PACS) utilisation including USS 'quality control', and microscopy of CSF
 
