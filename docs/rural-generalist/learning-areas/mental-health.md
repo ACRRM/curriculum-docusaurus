@@ -75,8 +75,7 @@ Identify relevant national and state legislation related to the rights of people
 #### CG.K.6
 
 Discuss the importance of multi-disciplinary teamwork and the extended role of other health professionals in developing and implementing patient management
-
-### Skills
+Skills 
 
 #### CG.S.1
 
@@ -137,9 +136,7 @@ Consider the needs of those with existing co-morbidities including:
 * personality disorder 
 * trauma 
 * acquired brain injury
-* physical illness with which mental illnesses are commonly associated - e.g. Parkinson’s disease
-
-   mild cognitive impairment or dementia
+* physical illness with which mental illnesses are commonly associated - e.g. Parkinson’s disease 
 * hearing or sight impairment and 
 * co-existing psychiatric morbidities
 
@@ -205,8 +202,6 @@ Assess patients experiencing a mental health crisis including assessment of:
 * violence to others, 
 * damage to property 
 * availability of guns 
-
-  impact of young or old age
 
 #### CG.S.19
 
@@ -316,8 +311,6 @@ Explains the principles of management for complex pharmacotherapeutic scenarios,
 * prescribing for children and adolescents
 * prescribing for pregnant and breastfeeding women
 
-  prescribing in the very old
-
 #### AS.K.13
 
 Discusses the types and appropriate selection of counselling and psychosocial therapeutic techniques:
@@ -342,7 +335,7 @@ Understands the importance of family issues/dysfunction and the broader social c
 
 #### AS.K.16
 
-Knows appropriate strategies and techniques for teaching mental health approaches to junior doctors and other health professionals
+Knows appropriate strategies and techniques for teaching mental health approaches to junior doctors and other health professionals.
 
 ### Skills
 
@@ -372,7 +365,7 @@ Recognise the signs of uncommon but serious mental health disorders, including:
 * severe somatoform disorders
 * toxic and organic brain syndromes
 * acute stress disorder and post-traumatic stress disorder (PTSD)
-* ADD/ADHD in adults
+* ADD/ADHD in adults.
 
 #### AS.S.4
 
@@ -406,8 +399,6 @@ Diagnose mental health problems in specific age groups, including:
 * Young people: relationship problems at home, low self-esteem, peer group imitation, separation from cultural and family demands, oppositional behaviour, somatoform disorders, conversion disorder, ADHD, confusion about gender identity, self-harm, substance misuse (alcohol, marijuana, amphetamine derivatives, solvents, sedatives and others), depression, anxiety, attachment disorders, psychoses, teen pregnancy, eating disorders, loss and grief reaction, sexual abuse.
 * Adults: substance abuse, marriage/relationship problems, family conflict/parenting issues
 
-  Older people: depression, anxiety, adjustment disorder, grief, substance abuse, hoarding, psychoses, cognitive decline, internalised ageism, suicide
-
 #### AS.S.9
 
 Provide counselling therapies for example:
@@ -440,7 +431,7 @@ Provide follow up and long-term care for patients with mental health conditions
 * relapse prevention – including prevention planning, relapse detection and relapse management 
 * appropriate participation in team-based care
 * patient advocacy
-* management of treatment completion
+* management of treatment completion.
 
 #### AS.S.12
 
@@ -448,13 +439,11 @@ Work in collaboration with other mental health care professionals and community 
 
 * opportunities for shared care
 * specialist services
-
-  aged care services
 * tele-psychiatry
 * mental health nurses or mental health practitioners
 * carer and self-help organisations
 * peer worker, advocacy services
-* online services and resources
+* online services and resources.
 
 #### AS.S.13
 
@@ -462,7 +451,7 @@ Respond to a mental health crisis or emergency, including assessment of potentia
 
 #### AS.S.14
 
-Assess the risk of suicide/self-harm, violence to others, damage to property, drug overdose, severity of psychiatric illness, acute psychoses, toxic confusional states, acute withdrawal states, severe behaviours disturbance, availability of guns
+Assess the risk of: suicide/self-harm, violence to others, damage to property, drug overdose, severity of psychiatric illness, acute psychoses, toxic confusional states, acute withdrawal states, severe behaviours disturbance, availability of guns
 
 #### AS.S.15
 
@@ -473,9 +462,7 @@ Techniques for aggression management, acute situational crisis counselling, conf
 Appropriately administer emergency pharmacotherapy, including:
 
 * understanding clinical practice guidelines
-* understanding the legal requirements for involuntary administration of emergency pharmacotherapy
-
-  adaptations required for comorbidities, young or old age
+* understanding the legal requirements for involuntary administration of emergency pharmacotherapy.
 
 #### AS.S.17
 
@@ -483,7 +470,7 @@ Demonstrate forensic mental health skills, including:
 
 * initial response to cases of suspected abuse – including child abuse, domestic abuse and sexual assault
 * mental health assessment of offenders 
-* assessment of competence to consent and fitness to plead
+* assessment of competence to consent and fitness to plead.
 
 #### AS.S.18
 
@@ -491,7 +478,7 @@ Design and implement a community mental health initiative
 
 * mental health literacy education
 * adolescent mental health programs
-* preventive programs – e.g. Beyond Blue, Headspace or GP Network mental health activities within the registrar’s community
+* preventive programs – e.g. Beyond Blue, Headspace or GP Network mental health activities within the registrar’s community.
 
 ### Attributes
 
@@ -506,3 +493,7 @@ Empathy
 #### At.16
 
 Resilience
+
+#### At.
+
+Collaborative
