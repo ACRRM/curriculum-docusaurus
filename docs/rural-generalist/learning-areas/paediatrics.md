@@ -525,7 +525,7 @@ Recognise conditions in childhood that may only show their consequences in adult
 
 #### AS.S.12
 
-Manage acute conditions requiring inpatient admission specific to children and adolescents include:
+Manage acute conditions requiring inpatient admission specific to children and adolescents including:
 
 * head injury 
 * hypovolaemia 
