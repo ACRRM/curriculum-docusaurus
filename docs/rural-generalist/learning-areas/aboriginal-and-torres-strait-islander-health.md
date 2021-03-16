@@ -227,7 +227,7 @@ Develop a reflective, respectful and balanced relationship with the local commun
 * recognising the importance of spending time developing trust
 * understanding and respecting cultural difference and ways of knowing
 * identifying areas where there is potential for abuse of professional power and developing strategies to prevent such abuse
-* understand the role of key members in the community
+* understanding the role of key members in the community
 * understanding the role of the board, the CEO and others within the organisation
 * understanding own role
 * identifying and acting on opportunities for learning, engagement and negotiation, and
