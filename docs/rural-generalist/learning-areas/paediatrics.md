@@ -223,14 +223,18 @@ Demonstrate knowledge and understanding of the causes of inter-uterine condition
 * foetal alcohol spectrum disorder (FASD) and maternal drug ingestion
 * orthopaedic abnormalities
 * poverty and maternal malnutrition
-* advanced understanding of the five domains of developmental disability:
+
+#### **AS.K.5**
+
+Demonstrate advanced understanding of the five domains of developmental disability:
+
 * speech and language delay
 * gross motor delay
 * fine motor delay
 * personal and social delay
 * global delay
 
-#### AS.K.5
+#### AS.K.6
 
 Discuss pervasive developmental disorders, including:
 
@@ -239,23 +243,23 @@ Discuss pervasive developmental disorders, including:
 * childhood disintegrative disorder
 * pervasive developmental delay not otherwise specified
 
-#### AS.K.6
+#### AS.K.7
 
 Describe learning disabilities and the protocols for administering and interpreting the results of the Wechsler Intelligence Scale for Children (WISC)
 
-#### AS.K.7
+#### AS.K.8
 
 Explain aspects relating to nutrition, including
 
 * causes and implications of low birth weight, prematurity and intrauterine growth retardation
-* the principles and issues associated with nutritional goals by age group including flexible feeding patterns, risk factors for deficiencies, as well as good allergy and sensitivity.
+* the principles and issues associated with nutritional goals by age group including flexible feeding patterns, risk factors for deficiencies, as well as food allergy and sensitivity.
 * the application of knowledge to age-specific exercise, recreation and fitness programs and reducing the risk of obesity and other related diseases
 
-#### AS.K.8
+#### AS.K.9
 
 Describe when a child can consent to medical treatment on their own behalf, and without their parents’ knowledge.
 
-#### AS.K.9
+#### AS.K.10
 
 Discuss issues relating to adolescents, including:
 
@@ -269,7 +273,7 @@ Discuss issues relating to adolescents, including:
 * financial and compliance issues when prescribing for adolescents
 * family development and dynamics affecting children including parental substance use, the effects of smoking, childhood caffeine use and high-risk families
 
-#### AS.K.10
+#### AS.K.11
 
 Discuss issues relating to Aboriginal and Torres Strait Islander children, including:
 
@@ -282,7 +286,7 @@ Discuss issues relating to Aboriginal and Torres Strait Islander children, inclu
 * understanding Guardianship within communities
 * understanding barriers to effective prevention, treatment, and compliance with advised care 
 
-#### AS.K.11
+#### AS.K.12
 
 Discuss sexual health issues, including:
 
@@ -293,7 +297,7 @@ Discuss sexual health issues, including:
 * know the local resources
 * know local treatment protocols
 
-#### AS.K.12
+#### AS.K.13
 
 Describe toxicology, poisoning and envenomation, including:
 
@@ -301,7 +305,7 @@ Describe toxicology, poisoning and envenomation, including:
 * know the treatment of common childhood poisons and overdoses and be competent in their treatment
 * be familiar with the Poisons Information Centre including the phone numbers
 
-#### AS.K.13
+#### AS.K.14
 
 Discuss palliative care in childhood, including:
 
@@ -311,7 +315,7 @@ Discuss palliative care in childhood, including:
 * understanding the importance of supporting the child and family in a culturally appropriate manner
 * pain management 
 
-#### AS.K.14
+#### AS.K.15
 
 Discuss vaccine preventable infectious diseases:
 
@@ -320,16 +324,16 @@ Discuss vaccine preventable infectious diseases:
 * ability to discuss the myths of immunisations
 * knowledge of the immunisation preventable diseases
 
-#### AS.K.15
+#### AS.K.16
 
 Discuss growth and nutrition including:
 
 * growth faltering/failure to thrive,
 * overweight/obesity, 
 * specific nutritional deficiencies including iron deficiency,
-* vitamin D deficiency outside of the neonatal period.   
+* vitamin D deficiency outside of the neonatal period   
 
-#### AS.K.16
+#### AS.K.17
 
 Discuss diagnostic testing in children, including:
 
@@ -337,7 +341,7 @@ Discuss diagnostic testing in children, including:
 * how to arrange a wide range of paediatric tests and interpret their results, taking into consideration age variation and findings relevant to different age groups
 * explaining to parents and caregivers the relevance of the results
 
-#### AS.K.17
+#### AS.K.18
 
 Discuss principles and practices for pharmaceutical prescribing in children, including differences between paediatric and adult prescribing, including but not limited to:
 
@@ -351,11 +355,11 @@ Discuss principles and practices for pharmaceutical prescribing in children, inc
 * anticoagulation
 * mental health conditions
 
-#### AS.K.18
+#### AS.K.19
 
 Discuss the indications, contra-indications and techniques for an extended range of paediatric diagnostic investigations 
 
-#### AS.K.19
+#### AS.K.20
 
 Describe formulas for paediatric resuscitation, including:
 
@@ -365,11 +369,11 @@ Describe formulas for paediatric resuscitation, including:
 * dose of adrenaline
 * joules for electrical shock
 
-#### AS.K.20
+#### AS.K.21
 
 Describe appropriate pain relief: oral sucrose for infants, topical amethocaine
 
-#### AS.K.21
+#### AS.K.22
 
 Discuss characteristics of rural and remote settings and their implications for child and adolescent health practice, including:
 
@@ -378,7 +382,7 @@ Discuss characteristics of rural and remote settings and their implications for 
 * impact of distance – including delays in transport/referrals
 * impact of limited resource availability
 
-#### AS.K.22
+#### AS.K.23
 
 Utilisation of technology where useful, including video/tele conferencing, video-otoscopy, picture archiving and communication system (PACS) utilisation including USS 'quality control', and microscopy of CSF
 
@@ -388,35 +392,21 @@ Utilisation of technology where useful, including video/tele conferencing, video
 
 For the less common or more serious conditions and presentations of childhood and adolescence with consideration of clinical services capability: 
 
+* recognise the presentation
+
+  establish a provisional diagnosis 
+
+  plan and arrange appropriate initial investigation 
+
+  initiate empiric therapy 
+
+  discuss broad therapeutic options
+
+  refer appropriately
+
+  provide ongoing management
+
 #### AS.S.2
-
-recognise the presentation
-
-#### AS.S.3
-
-establish a provisional diagnosis 
-
-#### AS.S.4
-
-plan and arrange appropriate initial investigation 
-
-#### AS.S.5
-
-initiate empiric therapy 
-
-#### AS.S.6
-
-discuss broad therapeutic options
-
-#### AS.S.7
-
-refer appropriately
-
-#### AS.S.8
-
-provide ongoing management
-
-#### AS.S.9
 
 Obtain a clinical history including:
 
@@ -431,7 +421,7 @@ Obtain a clinical history including:
 * environmental 
 * past medical 
 
-#### AS.S.10
+#### AS.S.3
 
  Engage with and perform a relevant physical examination and developmental assessment including:
 
@@ -445,7 +435,7 @@ Obtain a clinical history including:
 * identify physical signs and behaviour patterns associated with neglect and abuse
 * examination of all joints for differential diagnosis
 
-#### AS.S.11
+#### AS.S.4
 
 Order and/or perform diagnostic tests, including: 
 
@@ -464,7 +454,7 @@ Order and/or perform diagnostic tests, including:
 * bone marrow examination 
 * behavioural assessments and specialised developmental testing
 
-#### AS.S.12
+#### AS.S.5
 
 Manage abnormal results, including:
 
@@ -485,7 +475,7 @@ Manage abnormal results, including:
 * feeding of the newborn 
 * management of the infant of a diabetic mother
 
-#### AS.S.13
+#### AS.S.6
 
   Assess and manage children with psychosocial issues including:
 
@@ -500,7 +490,7 @@ Manage abnormal results, including:
 * grief responses
 * school performance issues
 
-#### AS.S.14
+#### AS.S.7
 
 Assess and manage mental health conditions, including:
 
@@ -510,11 +500,11 @@ Assess and manage mental health conditions, including:
 * intervening in a case where a child or adolescent is at risk for suicide
 * early psychosis with appropriate support or referral
 
-#### AS.S.15
+#### AS.S.8
 
 Identify early indicators of ‘at risk’ behaviours of adolescents and initiate harm minimisation strategies
 
-#### AS.S.16
+#### AS.S.9
 
   Use range of adolescent communication/assistance strategies including:
 
@@ -525,15 +515,15 @@ Identify early indicators of ‘at risk’ behaviours of adolescents and initiat
 * direct family counselling and 
 * assist in coping with imprisonment
 
-#### AS.S.17
+#### AS.S.10
 
 Prevent occurrence and recurrence of primary conditions and prevent secondary complications from primary conditions
 
-#### AS.S.18
+#### AS.S.11
 
 Recognise conditions in childhood that may only show their consequences in adulthood e.g. obesity, bone health, rapid weight gain in growth retarded infants
 
-#### AS.S.19
+#### AS.S.12
 
 Manage acute conditions requiring inpatient admission specific to children and adolescents include:
 
@@ -544,23 +534,23 @@ Manage acute conditions requiring inpatient admission specific to children and a
 * hypoxia and
 * blood transfusion
 
-#### AS.S.20
+#### AS.S.13
 
 Estimate and administer fluid requirements for ongoing maintenance 
 
-#### AS.S.21
+#### AS.S.14
 
 Manage neonates admitted with common neonatal medical conditions 
 
-#### AS.S.22
+#### AS.S.15
 
 Meet mandatory reporting requirements, as relevant to state or territory
 
-#### AS.S.23
+#### AS.S.16
 
 Manage conditions overrepresented in Aboriginal and Torres Strait Islander children 
 
-#### AS.S.24
+#### AS.S.17
 
 Competent, confident and independent performance of the child and adolescent procedural logbook skills 
 
@@ -592,4 +582,4 @@ Empathy
 * Endocrine, including diabetes, thyroid disorder/s, short stature, abnormal puberty
 * Neonatal, including respiratory distress, asphyxia, cyanosis, hypoglycaemia, hypothermia, vomiting, failure to pass meconium, physiological jaundice, non-physiological jaundice, intraterm and neonatal infection, seizures, maternal syphilis, hepatitis B & C, HIV
 * General issues, including neonatal checks, Well/Normal baby/child checks, Growth problems, failure to thrive, obesity, behavioural issues, (normal versus 'problem'), the social context, developmental delay, disruptive children, attention deficit hyperactivity disorder (ADHD), autism spectrum disorder, sleep disorder, the crying baby, oppositional behaviour and alienation, disability, (learning: specific/general), intellectual disability (sub normality), physical disability, language disability, sudden infant death syndrome (SIDS) prevention and management
-* Over represented in Aboriginal and Torres Strait Islander children: diarrhoeal disease, chronic, malnutrition, Type II diabetes and insulin resistance, failure to thrive, urinary tract infections and renal stones, chronic suppurative otitis media and associated hearing loss, chronic suppurative lung disease/bronchiectasis, trachoma, iron deficiency, scabies, parasitic infestations, impetigo, rheumatic fever, post strep glomerulonephritis, and other infectious diseases such as parasitic diseases
+* Over represented in Aboriginal and Torres Strait Islander children, diarrhoeal disease, chronic, malnutrition, Type II diabetes and insulin resistance, failure to thrive, urinary tract infections and renal stones, chronic suppurative otitis media and associated hearing loss, chronic suppurative lung disease/bronchiectasis, trachoma, iron deficiency, scabies, parasitic infestations, impetigo, rheumatic fever, post strep glomerulonephritis, and other infectious diseases such as parasitic diseases

@@ -227,7 +227,7 @@ Develop a reflective, respectful and balanced relationship with the local commun
 * recognising the importance of spending time developing trust
 * understanding and respecting cultural difference and ways of knowing
 * identifying areas where there is potential for abuse of professional power and developing strategies to prevent such abuse
-* understanding the role of key members in the community
+* understand the role of key members in the community
 * understanding the role of the board, the CEO and others within the organisation
 * understanding own role
 * identifying and acting on opportunities for learning, engagement and negotiation, and
@@ -248,7 +248,7 @@ Assist with culturally sensitive research lead by Aboriginal and Torres Strait I
 * knowing where and how to find information
 * working as part of a cross cultural team
 * assisting with identifying processes, such as intervention studies rather than merely descriptive studies, that will assist in improving health outcomes, and 
-* being aware of, and using, the NHMRC ethical guidelines in Aboriginal and Torres Strait Islander research
+* being aware of, and using, the NHMRC ethical guidelines in Aboriginal and Torres Strait Islander research. 
 
 #### AS.S.5
 
