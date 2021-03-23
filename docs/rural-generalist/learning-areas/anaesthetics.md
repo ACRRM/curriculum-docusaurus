@@ -166,9 +166,17 @@ use of emergency department or transport mechanical ventilator for invasive vent
 
 ### Attributes
 
-At.1       Accountability
-At.17     Resourcefulness
-At.19     Self-reliance
+#### At.1      
+
+ Accountability
+
+#### At.17     
+
+Resourcefulness
+
+#### At.19    
+
+ Self-reliance
 
 ## Advanced Specialised (based on JCCA Curriculum)
 
@@ -201,7 +209,7 @@ Detail staff and patient hazards and plans to avoid, including hazards of:
 * the operating theatre
 * infection, (eg HIV, hepatitis B, C, or other blood borne infections) 
 * physical injury, electric shock, radiation, surgical and anaesthetic equipment and environmental pollution
-* cross infection, patient posture, and immobility and 
+* cross infection, patient posture, and immobility  
 
 #### AS.K.5
 
