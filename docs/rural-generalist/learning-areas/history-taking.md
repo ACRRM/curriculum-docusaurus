@@ -8,7 +8,7 @@ sidebar_label: History Taking
 
 #### CG.K.1
 
-Describe a structured approach to patient history, including systems review. 
+Describe a structured approach to patient history, including systems review 
 
 #### CG.K.2
 
