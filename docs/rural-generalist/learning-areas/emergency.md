@@ -290,12 +290,15 @@ Competent in techniques for vital signs monitoring including invasive; intra-art
 
 Stabilise critically ill patients and provide primary and secondary care for emergency conditions including:
 
-* Airway and respiratory emergencies: 
+Airway and respiratory emergencies: 
+
 * advanced airway management options and techniques
 * use of portable ventilators
 * use of non-invasive ventilation
 * techniques for pneumothorax drainage techniques including needle thoracostomy, Seldinger guided catheters and large intercostal catheters
-* Circulatory and cardiovascular emergencies:
+
+Circulatory and cardiovascular emergencies:
+
 * application of Advanced Cardiac Life Support (ACLS) algorithms
 * defibrillation, cardioversion and external cardiac pacing
 * advanced thrombolytic therapy, including management of complications
@@ -308,17 +311,23 @@ Stabilise critically ill patients and provide primary and secondary care for eme
 * principles of angioplasty and stenting
 * principles of occult blood loss in trauma
 * competent and confident fluid resuscitation including minimum volume fluid resuscitation, use of blood products and Massive Transfusion Protocol
-* Neurological emergencies:
+
+Neurological emergencies:
+
 * seizure monitoring and control
 * competent lumbar puncture for diagnostic and therapeutic procedures
 * basic surgical skills to undertake decompressive cranial burr holes with distant guidance from a neurosurgeon
-* Musculo-skeletal emergencies:
+
+Musculo-skeletal emergencies:
+
 * independent splinting, casting and reduction of simple fractures and dislocations
 * reduction of complex fractures/dislocations under distant or on-site guidance, including minimisation of neurovascular compromise
 * competent and confident initial management of compound wounds
 * competent and confident initial management of spinal injuries, including awareness of patterns of spinal injury without radiological abnormality 
 * independent joint aspiration
-* Soft tissue emergencies and burns:
+
+Soft tissue emergencies and burns:
+
 * removal of superficial foreign bodies
 * independent abscess drainage
 * independent wound management, including prophylactic antibiotic administration, local anaesthetic, tetanus injections, wound cleaning, debridement and complex wound closure techniques
@@ -328,7 +337,9 @@ Stabilise critically ill patients and provide primary and secondary care for eme
 * monitoring and management of compartment pressure, including escharotomy with distant or on-site guidance
 * pressure care of soft tissues at risk from ischaemia and infection
 * regulation of body temperature in patients with dermatological emergencies 
-* Obstetric and gynaecologic emergencies:
+
+Obstetric and gynaecologic emergencies:
+
 * competent and confident initial management of haemorrhage in early pregnancy
 * initial management of trauma in pregnancy
 * competent and confident management of miscarriage
@@ -337,43 +348,59 @@ Stabilise critically ill patients and provide primary and secondary care for eme
 * seizure control in eclampsia
 * management of precipitate delivery with distant guidance
 * initial management of post-partum problems
-* Abdominal and genitourinary emergencies:
+
+Abdominal and genitourinary emergencies:
+
 * competent and confident initial management of acute renal failure
 * recognition of gastrointestinal foreign bodies requiring removal
 * urethral and suprapubic catheterisation
 * control of oesophageal varices
 * drainage of abdominal ascites for symptom control
 * reduction of paraphimosis with on-site or distant guidance
-* Metabolic and endocrine emergencies:
+
+Metabolic and endocrine emergencies:
+
 * competent and independent insulin infusion
 * competent and independent intravenous potassium replacement 
 * competent and independent IV fluids for endocrine emergencies
-* Acute infections:
+
+Acute infections:
+
 * chemotherapeutics for undifferentiated sepsis
 * be aware of and able to follow protocol for management of needle stick injury and other body fluid exposure
 * competent and confident application of infection control procedures, public health reporting procedures and management of contact persons
-* Toxicologic and toxinological emergencies:
+
+Toxicologic and toxinological emergencies:
+
 * competent application of pressure immobilisation bandage
 * competent and independent antivenom and antidote administration
 * competent use of venom detection kit (VDK) with distance guidance
 * safety and decontamination procedures for deliberate CBR incidents – for patients, staff members and in an emergency department
-* Environmental emergencies:
+
+Environmental emergencies:
+
 * re-warming techniques 
 * cooling techniques
 * temperature monitoring
 * initial management of diving injuries, including hyperbaric medicine
-* Ophthalmological emergencies:
+
+Ophthalmological emergencies:
+
 * competent use of slit lamp
 * competent measurement of intra-ocular pressures
 * competent removal of simple superficial corneal foreign bodies
 * refer for removal of difficult foreign bodies
 * repair onsite or referral for repair peri-ocular lacerations
-* ENT and dental emergencies: 
+
+ENT and dental emergencies: 
+
 * tooth preservation techniques
 * infection prevention and management 
 * competent and independent management of anterior and posterior epistaxis
 * removal of simple nasal and aural foreign bodies and identification difficult foreign bodies 
-* Psychiatric emergencies:
+
+Psychiatric emergencies:
+
 * competent and confident differentiation between an acute severe behavioural disturbance due to acute delirium (including substance intoxication and withdrawal) and psychosis 
 * competent and confident risk assessment, engagement and acute counselling skill
 
@@ -415,7 +442,7 @@ Competent and confident paediatric and neonatal emergency care, including:
 
 #### AS.S.15
 
-Coordinate, work with and/or provide leadership (clinical and operational) as appropriate to multidisciplinary and/or inter-professional teams encompassing emergency services (police, fire brigade, ambulance), retrieval services, emergency department staff members, inpatient services and community members.
+Coordinate, work with and/or provide leadership (clinical and operational) as appropriate to multidisciplinary and/or inter-professional teams encompassing emergency services (police, fire brigade, ambulance), retrieval services, emergency department staff members, inpatient services and community members
 
 #### AS.S.16
 
@@ -433,7 +460,7 @@ Establish and maintain appropriate emergency department systems and procedures
 * staff management and communication skills
 * inter-professional co-operation skills
 * complaint management
-* occupational health and safety measures.
+* occupational health and safety measures
 
 #### AS.S.17
 
