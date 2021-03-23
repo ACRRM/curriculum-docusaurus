@@ -28,15 +28,15 @@ Illustrate basic knowledge of research methodologies
 
 #### CG.K.6
 
-Explain the concepts of relative risk reduction (RRR), absolute risk reduction (ARR), odds ratio (OR), number needed to treat (NNT), number needed to harm (NNH).
+Explain the concepts of relative risk reduction (RRR), absolute risk reduction (ARR), odds ratio (OR), number needed to treat (NNT), number needed to harm (NNH)
 
 #### CG.K.7
 
-Describe how the ‘average’ benefits and risks of treatments as measured and reported in clinical studies are individualised in caring for specific patients. 
+Describe how the ‘average’ benefits and risks of treatments as measured and reported in clinical studies are individualised in caring for specific patients
 
 #### CG.K.8
 
-Describe methods by which patients can better understand the evidence behind different management options and assist them in choosing one option over another.
+Describe methods by which patients can better understand the evidence behind different management options and assist them in choosing one option over another
 
 ### Skills
 
@@ -73,7 +73,7 @@ Demonstrate evidence informed decision making, including:
 
 #### CG.S.4
 
-Demonstrate use measures of relative risk, odd ratios and numbers needed to treat in relation to key therapies for common clinical conditions.
+Demonstrate use measures of relative risk, odd ratios and numbers needed to treat in relation to key therapies for common clinical conditions
 
 #### CG.S.5
 
