@@ -214,7 +214,7 @@ Reflection
   * meningococcaemia
   * infections in the immunocompromised host
   * necrotising fasciitis
-  * fever in the returning traveller – including malaria, dengue fever, parasitic infections.
+  * fever in the returning traveller – including malaria, dengue fever, parasitic infections
 * Gastroenterology conditions, including:
 
   * Common gastrointestinal symptoms including weight loss, abdominal pain, dysphagia, iron deficiency anaemia, acute/chronic diarrhoea, nausea and vomiting
