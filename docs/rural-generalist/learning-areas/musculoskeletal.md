@@ -26,7 +26,7 @@ Illustrate the mechanisms, characteristics and patterns of pain, including:
 * referred trigger point pain
 
 
-  #### Skills 
+### Skills 
 
 #### CG.S.1
 
