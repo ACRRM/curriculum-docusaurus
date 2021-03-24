@@ -122,7 +122,7 @@ component.
 ##### Achieved
 
 * Judiciously orders investigations with the risks and benefits of investigations explained to the patient
-* Able to explain how each investigate contributes to the patient’s management.
+* Explains how each investigate contributes to the patient’s management.
 * Assists with development of robust and efficient systems to ensure that results are interpreted and communicated to patients
 
 #### 1.7 Ensure safe and appropriate prescribing of medications and non-pharmacological treatment options
@@ -190,8 +190,8 @@ component.
 
 ##### Achieved
 
-* Demonstrates comfort with developing a management plan for patients with long-term undifferentiated signs, symptoms or health concerns
-* Demonstrates clinical decision making around choices of investigations and management that balances the potential risks against the benefits
+* Develops management plans for patients with long-term undifferentiated signs, symptoms or health concerns
+* Makes clinical decisions around choices of investigations and management that balances the potential risks against the benefits
 
 #### 2.2 Provide patient care across the lifespan from birth through to end of life
 
@@ -217,13 +217,13 @@ component.
 
 ##### Progressing
 
-* Proficient in managing the most common presentations and conditions in primary care
+* Manages the most common presentations and conditions in primary care
 * Building skills in managing the less common presentations and conditions in primary care
 * Consults with and refers to specialist medical services as appropriate
 
 ##### Achieved
 
-* Proficient in managing common and less common presentations and conditions in primary care
+* Manages common and less common presentations and conditions in primary care
 * Knows when and where to seek further help or to refer when additional,  secondary and/or tertiary care is required
 
 #### 2.4 Provide longitudinal care, managing individual’s diverse range of problems across extended time periods
@@ -252,11 +252,11 @@ component.
 
 ##### Progressing
 
-* Managing most typical diagnostic and therapeutic procedures independently and seeks help when required
+* Manages most typical diagnostic and therapeutic procedures independently and seeks help when required
 
 ##### Achieved
 
-* Managing all diagnostic and therapeutic procedures safely, and effectively
+* Manages all diagnostic and therapeutic procedures safely, and effectively
 
 #### 2.6 Effectively manage time pressure and decision fatigue during general practice consultations
 
@@ -275,8 +275,8 @@ component.
 ##### Achieved
 
 * Evaluates and adapts a model for GP consultation to consider time pressures
-* Able to manage varying degrees of patient needs in a highly efficient manner
-* Takes steps to mitigate the impact of decision fatigue in own practice
+* Manages varying degrees of patient needs in a highly efficient manner
+* Mitigates the impact of decision fatigue in own practice
 
 #### 2.7 Provide continuous, consistent and coordinated chronic disease management for individuals with chronic conditions
 
@@ -350,7 +350,7 @@ component.
 ##### Achieved
 
 * Provides honest assessment, including where the assessment outcome is not favourable for patient e.g. driver’s medical
-* Demonstrates the ability to communicate these outcomes to the patient
+* Communicates these outcomes to the patient
 
 ### Domain 3. Provide secondary medical care
 
@@ -433,7 +433,7 @@ component.
 
 ##### Achieved
 
-* Able to evaluate the key communication skills that are required to
+* Evaluates the key communication skills that are required to
           deliver effective handovers in clinical settings
 
 #### 3.6 Anticipate and judiciously arrange safe patient transfer to other facilities
@@ -549,7 +549,7 @@ component.
 ##### Beginning
 
 * Reads and interprets ECG, pathology and imaging reports 
-* Activate or support emergency patient retrieval, transport or
+* Activates or support emergency patient retrieval, transport or
           evacuation when needed
 
 ##### Progressing
@@ -577,9 +577,9 @@ component.
 
 ##### Achieved
 
-* Effectively evaluate the role of colleague support in managing patient
+* Effectively evaluates the role of colleague support in managing patient
           outcomes
-* Awareness of own skills/knowledge limitations and local resources
+* Aware of own skills/knowledge limitations and local resources
 
 #### 4.7 Utilise assistance and/or guidance from other specialist practitioners and services as required
 
@@ -622,17 +622,17 @@ component.
 
 ##### Beginning
 
-* Identify local and regional sources of community profile data 
+* Identifies local and regional sources of community profile data 
 
 ##### Progressing
 
-* Collate and synthesise appropriate data to describe the local
+* Collates and synthesises appropriate data to describe the local
           community profile
 
 ##### Achieved
 
-* Present and explain the implications of the local community profile
-* Monitor population health trends and recognise ‘red flags’ that
+* Presents and explains the implications of the local community profile
+* Monitors population health trends and recognises ‘red flags’ that
           require action
 
 #### 5.3 Apply a population health approach that is relevant to the community profile
@@ -678,7 +678,7 @@ component.
 
 ##### Beginning
 
-* Is aware of individual and systemic reporting requirements in relation
+* Aware of individual and systemic reporting requirements in relation
           to statutory notification
 
 ##### Progressing
@@ -695,11 +695,11 @@ component.
 
 ##### Beginning
 
-* Is aware of disaster plans in the region
+* Aware of disaster plans in the region
 
 ##### Progressing
 
-* Is prepared to act according to disaster plan if required
+* Prepared to act according to disaster plan if required
 
 ##### Achieved
 
@@ -720,7 +720,7 @@ component.
 
 ##### Progressing
 
-* Growing knowledges of health practices and their benefits
+* Growing knowledge of health practices and their benefits
 
 ##### Achieved
 
