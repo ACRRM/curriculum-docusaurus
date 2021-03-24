@@ -24,7 +24,9 @@ Illustrate the mechanisms, characteristics and patterns of pain, including:
 * radicular 
 * referred visceral 
 * referred trigger point pain
-  Skills 
+
+
+### Skills 
 
 #### CG.S.1
 
@@ -146,7 +148,7 @@ Integrity
 * Inflammatory conditions, including gout, pseudogout, osteoarthritis, rheumatoid arthritis, psoriatic arthritis, systemic lupus erythematosus, polymyalgia rheumatica, ankylosing spondylitis, Reiter’s disease, inflammatory bowel (disease related), fibromyalgia syndrome
 * Infections, including TB, other bacterial, herpes zoster, discitis, osteomyelitis, osteoporosis and spinal wedging, Paget’s disease 
 * Referred pain, including referred visceral and somatic pain both serious and benign, vascular claudication, migrainous phenomena, neurological conditions including Complex Regional Pain Syndromes, depression induced spinal pain, psychogenic pain, anticoagulant intraspinal haemorrhage, Raynaud’s phenomenon and other neurovascular disorders, sympathetic dystrophy (diabetics)
-* Cervical spine; including vertebral stiffening - age, ankylosis, spondylitis, postural syndromes, facet joint dysfunction, disc prolapse, disruption, foraminal obstruction, radiculopathy, myelopathy, torticollis (wry neck), trauma, sprain, ‘whiplash’, (fractures), cervical syndromes/cervicogenic headache
+* Cervical spine, including vertebral stiffening - age, ankylosis, spondylitis, postural syndromes, facet joint dysfunction, disc prolapse, disruption, foraminal obstruction, radiculopathy, myelopathy, torticollis (wry neck), trauma, sprain, ‘whiplash’, (fractures), cervical syndromes/cervicogenic headache
 * Temporomandibular conditions including dental malocclusion, stress-related tooth grinding, referred cervical (e.g. whiplash), temporomandibular joint dysfunction (TMJ) syndrome, locked jaw, sprains, arthritic conditions, trauma 
 * Shoulder conditions including capsulitis/frozen shoulder, subdeltoid bursitis/supraspinatus tendinitis, infraspinatus and other shoulder muscle conditions, rotator cuff syndromes, bicipital tendinitis, acromioclavicular conditions, sternoclavicular arthritis, psychogenic shoulder/arm syndromes, recurrent shoulder dislocations
 * Elbow and arm conditions including lateral elbow pain, medial elbow pain, toddler's pulled elbow, biceps lesions, olecranon bursitis, entrapment neuropathies, loose bodies, overuse syndromes, industrial, psychosomatic, thoracic outlet syndromes 
