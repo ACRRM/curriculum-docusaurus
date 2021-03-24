@@ -18,13 +18,14 @@ Describe a lesion, rash, ulcer, skin nail or mucous membrane change using conven
 
 Identify and be able to distinguish between:
 
-* Non-melanocytic 
-  •	benign: seborrheic keratosis, skin tags, haemangioma, dermatofibroma, pyogenic granuloma, naevi
-  •	premalignant: solar keratosis
-  •	malignant: basal cell carcinoma, squamous cell carcinoma, Bowen’s disease, keratoacanthoma 
+* Non-melanocytic
+
+  * benign: seborrheic keratosis, skin tags, haemangioma, dermatofibroma, pyogenic granuloma, naeviprem
+  * alignant: solar keratosis
+  * malignant: basal cell carcinoma, squamous cell carcinoma, Bowen’s disease, keratoacanthoma 
 * Melanocytic: melanocytic naevi, malignant melanoma
 
-#### CG.K.4	
+#### CG.K.4
 
   Identify sun damaged skin and distinguish between benign non-actinic lesions and:
 
@@ -34,7 +35,7 @@ Identify and be able to distinguish between:
 * solar keratoses 
 * sun related skin malignancies
 
-#### CG.K.5	
+#### CG.K.5
 
   Discuss indications and contraindications for treatment of dermatological conditions using common pharmacological agents, including"
 
