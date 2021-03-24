@@ -797,9 +797,9 @@ From the Medical Board of Australia, Good medical practice: a code of conduct fo
 * Behaves in a way that acknowledges the ethical complexity of practice
           & follows professional & ethical codes
 * Understands requirements for public health notifications 
-* Is familiar with the Medical Board of Australia’s Good Medical
+* Familiar with the Medical Board of Australia’s Good Medical
           Practice code of conduct.
-* Has awareness of ACRRM Academic Code of Conduct
+* Aware of ACRRM Academic Code of Conduct
 
 ##### Progressing
 
@@ -809,7 +809,7 @@ From the Medical Board of Australia, Good medical practice: a code of conduct fo
 
 ##### Achieved
 
-* Can make difficult decisions 
+* Makes difficult decisions 
 * Understands when Medical Defence Organisation advice is required
 * Provides accurate and appropriate certification; WorkCover,
           Centrelink, care plans, billing rules, notification requirements,
@@ -826,7 +826,7 @@ From the Medical Board of Australia, Good medical practice: a code of conduct fo
 ##### Progressing
 
 * Uses practice management software efficiently
-* Timely entry of consultation notes.
+* Timely entry of consultation notes
 * Records concise, with enough information on a patient consult to allow
           others to follow.
 
@@ -928,7 +928,7 @@ From the Medical Board of Australia, Good medical practice: a code of conduct fo
 
 * Develops own ability to identify and support practitioners in
           difficulty
-* Actively contributes to the improvement of processes for the early
+* Contributes to the improvement of processes for the early
           identification of unprofessional behaviour and support of
           practitioners in difficulty
 
@@ -1070,7 +1070,7 @@ From the Medical Board of Australia, Good medical practice: a code of conduct fo
 
 ##### Achieved
 
-* Has developed an ongoing support network
+* Developed an ongoing support network
 * Maintains regular contact with network through face to face and
           virtual means
 
@@ -1080,8 +1080,8 @@ From the Medical Board of Australia, Good medical practice: a code of conduct fo
 
 * Understands the factors that contribute to safe, effective provision
           of care when working in professional isolation
-* Is aware of own limitations and seeks assistance appropriately
-* Has knowledge of symptoms and treatment for conditions more commonly
+* Aware of own limitations and seeks assistance appropriately
+* Knowledge of symptoms and treatment for conditions more commonly
           encountered in rural areas including zoonoses, bites and stings.
 
 ##### Progressing
