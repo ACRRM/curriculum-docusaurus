@@ -198,9 +198,10 @@ Describe the evolution, philosophy and characteristics of health service deliver
 * the roles of Aboriginal and Torres Strait Islander employees and health workers
 * ‘self-determination’ as it is exercised in the context, operation and activity of community-controlled health services
 * the relationship between government health agencies and community-controlled health services, nationally, regionally and locally
-  	concepts of social justice, equity of health outcomes, and health rights in relation to Aboriginal and Torres Strait Islander peoples’ health care provision, and
-  	the integral role of intersectoral and interprofessional collaboration and the function of Aboriginal and Torres Strait Islander health workers in facilitating effective care of the individual and the community
-  	mainstream service provision, services and role in providing care to Aboriginal and Torres Strait Islander people
+
+  * concepts of social justice, equity of health outcomes, and health rights in relation to Aboriginal and Torres Strait Islander peoples’ health care provision, and
+  * the integral role of intersectoral and interprofessional collaboration and the function of Aboriginal and Torres Strait Islander health workers in facilitating effective care of the individual and the community
+  * mainstream service provision, services and role in providing care to Aboriginal and Torres Strait Islander people
 
 #### AS.K.3
 
