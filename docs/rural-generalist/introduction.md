@@ -3,6 +3,8 @@ id: introduction
 title: Rural Generalist
 sidebar_label: Rural Generalist
 ---
+### The Australian College of Rural and Remote Medicine 
+
 The Australian College of Rural and Remote Medicine (ACRRM) was formed in 1997 as an
 acknowledgment of: 
 
@@ -14,15 +16,11 @@ acknowledgment of:
   them with a separate and distinctive professional body
 
 ACRRM is a professional college accredited by the Australian Medical Council to define
-standards and deliver training in the medical specialty of general pr actice.
+standards and deliver training in the medical specialty of general practice.
 
 At the time of writing this document, an application to have Rural Generalist medicine
 recognised as a protected title and as a specialised field within the speciality of general practice
 is being progressed.
-
-:::info PDF version
-<a href="/img/rural-generalist.pdf" target="_blank">Click here to download the Rural Generalist curriculum</a>
-:::
 
 ## What is a General Practitioner?
 
