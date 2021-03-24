@@ -1,5 +1,6 @@
 ---
-title: Competencies of a Rural Generalist Medical Practitioner
+title: "Competencies "
+sidebar_label: Competencies
 ---
 
 Rural Generalist medical practitioner competencies are grouped under the eight domains of rural and remote practice. They describe the key competencies that are required in each context of practice.
