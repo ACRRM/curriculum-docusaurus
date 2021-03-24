@@ -75,6 +75,31 @@ This involves being able to:
   diverse groups; and
 * apply a population approach to community needs.
 
+## Attributes of a Rural Generalist Medical Practitioner
+
+The following attributes or expected behaviours are required of a Rural Generalist medical practitioner. Each Learning Area details attributes specific to the Learning Area. 
+
+**At.1     	Accountability:** Accept responsibility for your actions.
+**At.2     	Adaptability:** Respond quickly to change and take advice from others where necessary.
+**At.3     	Agency:** Take ownership and responsibility for professional decisions and behaviour.
+**At.4     	Clinical courage**: Back your clinical judgement in circumstances where urgent clinical decisions need to    be made.
+**At.5     	Commitment:** Be dedicated to task.
+**At.6     	Compassion:** Recognise sufferings and misfortunes of others and have sympathy for them.
+**At.7     	Empathy:** Understand and share the feelings of another.
+**At.8     	Honesty:** Open and transparent with all parties about clinical decision making.
+**At.9     	Humility:** Have a modest view of one’s importance.
+**At.10     	Initiative:** Assess and initiate things independently.
+**At.11     	Integrity:** Maintain high levels of professional and ethical behaviour.
+**At.12     	Patience:** Accept or tolerate delays and problems without becoming annoyed or anxious.
+**At.13     	Pragmatism:** Work within the constraints of your environment.
+**At.14     	Receptivity:** Be open and responsive to ideas and suggestions.
+**At.15     	Reflection:** Review outcomes of professional behaviours and, if necessary, make changes.
+**At.16     	Resilience:** Continue to perform at a high professional level with positive adaptive changes despite adverse personal or professional circumstances.
+**At.17     	Resourcefulness:** Judge what needs to be done and act. 
+**At.18     	Self-knowledge:** Know your own limitations.
+**At.19     	Self-reliance:** Rely on one's own powers and resources rather than those of others.
+**At.20     	Sensitivity:** Show consideration, care and tact.
+
 ## Domains of Rural and Remote Practice
 
 The eight domains of rural and remote practice describe the contexts of rural and remote
