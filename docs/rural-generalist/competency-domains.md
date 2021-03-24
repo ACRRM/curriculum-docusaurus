@@ -64,103 +64,80 @@ component.
 
 ##### Beginning
 
-* Synthesises clinical information to generate a ranked problem list
-          containing appropriate provisional diagnosis
-* Implements and evaluates a management plan relevant to the patient for
-          common problems and conditions
+* Synthesises clinical information to generate a ranked problem list containing appropriate provisional diagnosis
+* Implements and evaluates a management plan relevant to the patient for common problems and conditions
 
 ##### Progressing
 
-* Refines diagnostic skills, fewer diagnostic dilemmas, differential
-          diagnoses are risk stratified, differential list is better prioritised
-          and defended
-* Implements and evaluates a management plan in concert with patient or
-          carer
+* Refines diagnostic skills, fewer diagnostic dilemmas, differential diagnoses are risk stratified, differential list is better prioritised and defended
+* Implements and evaluates a management plan in concert with patient or carer
 
 ##### Achieved
 
-* Provides patient with most plausible diagnoses based on evidence
-          gathered
-* Negotiates individual evidence-based management plan, considering
-          impact of the condition and proposed management on the patient's
-          lifestyle/function
+* Provides patient with most plausible diagnoses based on evidence gathered
+* Negotiates individual evidence-based management plan, considering impact of the condition and proposed management on the patient's lifestyle/function
 
 #### 1.4 Obtain a relevant and focused history using a logical and structured approach aiming to rule in and rule out relevant differential diagnoses within a patient’s presentation
 
 ##### Beginning
 
-* Takes a history of the presenting complaint with an appropriate review
-          of systems, using biopsychosocial model
+* Takes a history of the presenting complaint with an appropriate review of systems, using biopsychosocial model
 
 ##### Progressing
 
-* Takes a relevant, focused history of the presenting complaint with an
-          appropriate review of systems, using biopsychosocial model
+* Takes a relevant, focused history of the presenting complaint with an appropriate review of systems, using biopsychosocial model
 
 ##### Achieved
 
-* Integrates comprehensive but focused history of presenting problem
-          into consultation
+* Integrates comprehensive but focused history of presenting problem into consultation
 
 #### 1.5 Perform an appropriate physical examination, across all age groups, elicit clinical signs and interpret physical findings
 
 ##### Beginning
 
 * Conducts an appropriate physical examination
-* Identifies when physical examination signs are inconsistent with the
-          history
+* Identifies when physical examination signs are inconsistent with the history
 
 ##### Progressing
 
-* Conducts a relevant and focussed physical examination, using clinical
-          tools and correct technique
+* Conducts a relevant and focussed physical examination, using clinical tools and correct technique
 
 ##### Achieved
 
-* Conducts relevant examination in organised, logical and efficient
-          manner, including all key differentials
+* Conducts relevant examination in organised, logical and efficient manner, including all key differentials
 * Elicits links to function during examination.
 
 #### 1.6 Appropriately order, perform and interpret diagnostic investigations
 
 ##### Beginning
 
-* Selects, requests and can justify investigations in the context of a
-          patient presentation
+* Selects, requests and can justify investigations in the context of a patient presentation
 * Follows facility protocols to communicate test results to patient
 
 ##### Progressing
 
-* Judiciously orders investigations with an understanding of the risks
-          and benefits of investigations
-* Communicates test results to patients and checks patient understanding
-          of the results
+* Judiciously orders investigations with an understanding of the risks and benefits of investigations
+* Communicates test results to patients and checks patient understanding of the results
 
 ##### Achieved
 
-* Judiciously orders investigations with the risks and benefits of
-          investigations explained to the patient
-* Able to explain how each investigate contributes to the patient’s
-          management.
-* Assists with development of robust and efficient systems to ensure
-          that results are interpreted and communicated to patients
+* Judiciously orders investigations with the risks and benefits of investigations explained to the patient
+* Able to explain how each investigate contributes to the patient’s management.
+* Assists with development of robust and efficient systems to ensure that results are interpreted and communicated to patients
 
 #### 1.7 Ensure safe and appropriate prescribing of medications and non-pharmacological treatment options
 
 ##### Beginning
 
-* Identifies key factors to consider when choosing most effective
-          treatment
+* Identifies key factors to consider when choosing most effective treatment
 
 ##### Progressing
 
-* Identifies and utilises quality and unbiased resources to assist in
-          appropriate prescribing of treatments
+* Identifies and utilises quality and unbiased resources to assist in appropriate prescribing of treatments
 
 ##### Achieved
 
-* Reviews and revises own patterns of prescribing to improve quality and
-          safety
+* Reviews and revises own patterns of prescribing to improve quality and safety
 
 #### 1.8 Formulate an appropriate management plan, incorporate specialist practitioner’s advice or referral where applicable
 
@@ -174,21 +151,18 @@ component.
 
 ##### Achieved
 
-* Arranges referrals in concert with the patient and/or carer
-          considering the balance of potential benefits, harms and costs
+* Arranges referrals in concert with the patient and/or carer considering the balance of potential benefits, harms and costs
 
 #### 1.9 Demonstrate commitment to teamwork, collaboration, coordination and continuity of care
 
 ##### Beginning
 
-* Understands the roles of team members and participates as a respectful
-          and effective team member
+* Understands the roles of team members and participates as a respectful and effective team member
 * Provides appropriate handover
 
 ##### Progressing
 
-* Engages the appropriate team to provide safe, efficient, effective
-          patient centred care
+* Engages the appropriate team to provide safe, efficient, effective patient centred care
 * Facilitates seamless transitions of care
 * Sustains appropriate respectful, relationships with team members
 * Communicates effectively with health care team
@@ -197,10 +171,8 @@ component.
 
 ##### Achieved
 
-* Provides leadership and participates as a respectful team member with
-          local and distant teams to optimise quality patient care
-* Works collaboratively, including during challenging situations and
-          transitions of care
+* Provides leadership and participates as a respectful team member with local and distant teams to optimise quality patient care
+* Works collaboratively, including during challenging situations and transitions of care
 * Negotiates and manages conflict amongst the healthcare team
 
 ### Domain 2. Provide primary care
@@ -211,19 +183,15 @@ component.
 
 ##### Progressing
 
-* Develops management plans that support the early identification of
-          evolving conditions
+* Develops management plans that support the early identification of evolving conditions
 * Considers key conditions that are important to exclude
 * Communicates uncertainties to the patient
-* Ensures safety netting is in place through provision of patient
-          information and ongoing review of patient outcomes
+* Ensures safety netting is in place through provision of patient information and ongoing review of patient outcomes
 
 ##### Achieved
 
-* Demonstrates comfort with developing a management plan for patients
-          with long-term undifferentiated signs, symptoms or health concerns
-* Demonstrates clinical decision making around choices of investigations
-          and management that balances the potential risks against the benefits
+* Demonstrates comfort with developing a management plan for patients with long-term undifferentiated signs, symptoms or health concerns
+* Demonstrates clinical decision making around choices of investigations and management that balances the potential risks against the benefits
 
 #### 2.2 Provide patient care across the lifespan from birth through to end of life
 
@@ -237,41 +205,33 @@ component.
 
 ##### Achieved
 
-* Manages common and less common conditions in all age groups, including
-          those at the end of life
+* Manages common and less common conditions in all age groups, including those at the end of life
 
 #### 2.3 Manage common presentations and conditions in primary care
 
 ##### Beginning
 
-* Developing skills in managing the most common presentations and
-          conditions in primary care
+* Developing skills in managing the most common presentations and conditions in primary care
 * Seeks help when required
-* Developing a collection of resources to assist with managing common
-          presentations
+* Developing a collection of resources to assist with managing common presentations
 
 ##### Progressing
 
-* Proficient in managing the most common presentations and conditions in
-          primary care
-* Building skills in managing the less common presentations and
-          conditions in primary care
+* Proficient in managing the most common presentations and conditions in primary care
+* Building skills in managing the less common presentations and conditions in primary care
 * Consults with and refers to specialist medical services as appropriate
 
 ##### Achieved
 
-* Proficient in managing common and less common presentations and
-          conditions in primary care
-* Knows when and where to seek further help or to refer when additional,
-          secondary and/or tertiary care is required
+* Proficient in managing common and less common presentations and conditions in primary care
+* Knows when and where to seek further help or to refer when additional,  secondary and/or tertiary care is required
 
 #### 2.4 Provide longitudinal care, managing individual’s diverse range of problems across extended time periods
 
 ##### Beginning
 
 * Understands the difference between episodic and longitudinal care
-* Identifies the role of the primary care doctor in managing the
-          patient’s life journey
+* Identifies the role of the primary care doctor in managing the patient’s life journey
 
 ##### Progressing
 
@@ -281,8 +241,7 @@ component.
 ##### Achieved
 
 * Provides longitudinal care that is holistic, dynamic and integrated
-* Demonstrates clear understanding and takes leadership roles in
-          delivering health care to patients across their lifespan
+* Demonstrates clear understanding and takes leadership roles in delivering health care to patients across their lifespan
 
 #### 2.5 Perform primary care diagnostic and therapeutic procedures
 
@@ -851,7 +810,6 @@ Culturally safe practice is the ongoing critical reflection of health practition
   d.	Foster a safe working environment through leadership to support the rights and dignity of Aboriginal and Torres Strait Islander people and colleagues.
 
  Culturally safe and respectful practice is also important for all communities.
- 
 
 From the Medical Board of Australia, Good medical practice: a code of conduct for doctors in Australia: October 2020
 
