@@ -393,18 +393,12 @@ Utilisation of technology where useful, including video/tele conferencing, video
 For the less common or more serious conditions and presentations of childhood and adolescence with consideration of clinical services capability: 
 
 * recognise the presentation
-
-  establish a provisional diagnosis 
-
-  plan and arrange appropriate initial investigation 
-
-  initiate empiric therapy 
-
-  discuss broad therapeutic options
-
-  refer appropriately
-
-  provide ongoing management
+* establish a provisional diagnosis 
+* plan and arrange appropriate initial investigation 
+* initiate empiric therapy 
+* discuss broad therapeutic options
+* refer appropriately
+* provide ongoing management
 
 #### AS.S.2
 
