@@ -1099,7 +1099,7 @@ From the Medical Board of Australia, Good medical practice: a code of conduct fo
 * Manages time and patient priorities working across facilities such as
           general practice, hospital, nursing home, ED
 * Recognises and manages conditions more commonly found in rural
-          environments{" "}
+          environments
 
 #### 8.6 Use information and communication technology to assist in diagnosis, monitoring and provision of medical care or to facilitate access to specialised care for patients
 
@@ -1111,7 +1111,7 @@ From the Medical Board of Australia, Good medical practice: a code of conduct fo
 
 * Collaborates with colleagues to use information and communication
           technology to provide medical care or to facilitate access to
-          specialised care for patients{" "}
+          specialised care for patients
 
 ##### Achieved
 
