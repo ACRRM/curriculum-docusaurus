@@ -252,13 +252,11 @@ component.
 
 ##### Progressing
 
-* Managing most typical diagnostic and therapeutic procedures
-          independently and seeks help when required
+* Managing most typical diagnostic and therapeutic procedures independently and seeks help when required
 
 ##### Achieved
 
-* Managing all diagnostic and therapeutic procedures safely, and
-          effectively
+* Managing all diagnostic and therapeutic procedures safely, and effectively
 
 #### 2.6 Effectively manage time pressure and decision fatigue during general practice consultations
 
@@ -271,16 +269,13 @@ component.
 ##### Progressing
 
 * Implements a model for GP consultations
-* Manages a patient consultation in an effective and time efficient
-          manner
+* Manages a patient consultation in an effective and time efficient manner
 * Recognises the signs of decision fatigue in own practice
 
 ##### Achieved
 
-* Evaluates and adapts a model for GP consultation to consider time
-          pressures
-* Able to manage varying degrees of patient needs in a highly efficient
-          manner
+* Evaluates and adapts a model for GP consultation to consider time pressures
+* Able to manage varying degrees of patient needs in a highly efficient manner
 * Takes steps to mitigate the impact of decision fatigue in own practice
 
 #### 2.7 Provide continuous, consistent and coordinated chronic disease management for individuals with chronic conditions
@@ -288,22 +283,18 @@ component.
 ##### Beginning
 
 * Recognises chronic conditions
-* Follows established management plans and contributes to shared health
-          summaries
+* Follows established management plans and contributes to shared health summaries
 
 ##### Progressing
 
 * Applies appropriate clinical guidelines for chronic conditions
-* Develops individualised management plans for patients with chronic
-          conditions in consultation with patient
+* Develops individualised management plans for patients with chronic conditions in consultation with patient
 * Ensures shared records are maintained 
 
 ##### Achieved
 
-* Develops and implements a management plan for patients with multiple
-          chronic conditions in consultation with patient
-* Facilitates patient’s and family’s self-management of their chronic
-          conditions
+* Develops and implements a management plan for patients with multiple chronic conditions in consultation with patient
+* Facilitates patient’s and family’s self-management of their chronic conditions
 * Undertakes regular review of management plan with patient
 
 #### 2.8 Undertake preventive activities such as screening, immunisation and health education in opportunistic and programmatic ways
@@ -317,49 +308,39 @@ component.
 ##### Progressing
 
 * Implements screening and immunisation according to practice protocols
-* Provides patients with health education information relevant to
-          consultation
-* Provides immunisation counselling including benefits and risks of
-          immunisation
+* Provides patients with health education information relevant to consultation
+* Provides immunisation counselling including benefits and risks of immunisation
 
 ##### Achieved
 
-* Integrates disease prevention and health promotion seamlessly into the
-          ongoing care of all patients
+* Integrates disease prevention and health promotion seamlessly into the ongoing care of all patients
 
 #### 2.9 Provide cost conscious care for patients, the service and the health care system
 
 ##### Beginning
 
-* Knows how to access the Medical Benefits Schedule (MBS) and
-          Pharmaceutical Benefits Schedule (PBS)
+* Knows how to access the Medical Benefits Schedule (MBS) and Pharmaceutical Benefits Schedule (PBS)
 * Knows the relevant local and regional patient support processes
 * Identifies cost implications for patient of treatment options
 * Identifies potential low-value practices 
 
 ##### Progressing
 
-* Uses and interprets the MBS and PBS in a manner that meets patient
-          needs and complies with legal and professional requirements
-* Provides clear and timely information to patients on cost implications
-          and support processes
+* Uses and interprets the MBS and PBS in a manner that meets patient needs and complies with legal and professional requirements
+* Provides clear and timely information to patients on cost implications and support processes
 * Manages patient expectations around the use of low-value practices
 
 ##### Achieved
 
-* Partners with the patient to consistently use resources efficiently
-          and cost effectively
-* Integrates patient needs, financial capabilities and support systems
-          into the patient management plan
-* Evaluates and adapts own practice to identify and eliminate the use of
-          low-value practices
+* Partners with the patient to consistently use resources efficiently and cost effectively
+* Integrates patient needs, financial capabilities and support systems into the patient management plan
+* Evaluates and adapts own practice to identify and eliminate the use of low-value practices
 
 #### 2.10 Provide general and specific health checks, medical assessments and travel medicine consultations
 
 ##### Beginning
 
-* Describes where to find information on requirements for medical
-          assessments
+* Describes where to find information on requirements for medical assessments
 
 ##### Progressing
 
@@ -368,8 +349,7 @@ component.
 
 ##### Achieved
 
-* Provides honest assessment, including where the assessment outcome is
-          not favourable for patient e.g. driver’s medical
+* Provides honest assessment, including where the assessment outcome is not favourable for patient e.g. driver’s medical
 * Demonstrates the ability to communicate these outcomes to the patient
 
 ### Domain 3. Provide secondary medical care
@@ -382,13 +362,11 @@ component.
 
 ##### Progressing
 
-* Develops and implements secondary care management plans for patients
-          with common conditions
+* Develops and implements secondary care management plans for patients with common conditions
 
 ##### Achieved
 
-* Develops, implements, monitors and modifies secondary care management
-          plans for patients
+* Develops, implements, monitors and modifies secondary care management plans for patients
 * Consults with colleagues as required
 
 #### 3.2 Maintain a clinically relevant plan of fluid, electrolyte and blood product use with relevant pathology testing
@@ -406,8 +384,7 @@ component.
 ##### Achieved
 
 * Monitors and adjusts fluid and electrolyte orders
-* Seeks assistance from colleagues as required especially for complex
-          cases
+* Seeks assistance from colleagues as required especially for complex cases
 
 #### 3.3 Perform secondary care diagnostic and therapeutic procedures
 
