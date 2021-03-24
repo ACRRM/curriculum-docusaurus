@@ -69,18 +69,19 @@ Undertake a comprehensive pain assessment including assessment of types of pain:
 Manage pain in palliative care patients, appropriately utilising:
 
 * pharmacological options:
-  	non-opioid analgesics 
-  	opioids 
-  	adjuvants 
-  	NSAIDS 
-  	antidepressants 
-  	local anaesthetic agents 
-  	corticosteroids 
-  	antispasmodics 
-  	anticonvulsants 
-  	antiarrhythmics 
-  	anxiolytics
-  	nerve-blocking procedures, epidural/spinal injections
+
+  * non-opioid analgesics 
+  * opioids 
+  * adjuvants
+  * NSAIDS 
+  * antidepressants 
+  * local anaesthetic agents 
+  * corticosteroids 
+  * antispasmodics 
+  * anticonvulsants 
+  * antiarrhythmics 
+  * anxiolytics
+  * nerve-blocking procedures, epidural/spinal injections
 * non-pharmacological options
 * physical therapies (eg massage, heat and cold therapy, transcutaneous electrical nerve stimulation \[TENS], physiotherapy)
 * mind-based techniques (eg relaxation, meditation, mindfulness, psychologist)
@@ -119,17 +120,15 @@ Continue to be responsible for the patient after death and be an advocate for th
 
 ### Attributes
 
-#### At.6         
+#### At.6
 
  Compassion
 
-#### 
-At.7        
+#### At.7        
 
   Empathy
 
-#### 
-At.5        
+#### At.5        
 
   Commitment
 
