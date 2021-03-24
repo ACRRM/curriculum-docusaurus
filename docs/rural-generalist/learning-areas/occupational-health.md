@@ -45,7 +45,9 @@ Discuss personal safety responsibilities and limitations if attending an emergen
 #### CG.K.10
 
 Identify medical capabilities of emergency services at scene – police, fire, medical, specialist rescue and voluntary emergency services at a prehospital scene or incident 
-Skills 
+
+
+### Skills 
 
 #### CG.S.1
 
