@@ -1,5 +1,6 @@
 ---
-title: Curriculum
+title: Introduction
+sidebar_label: Introduction
 ---
 
 ## Development of the Curriculum
