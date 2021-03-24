@@ -397,13 +397,11 @@ component.
 
 * Performs most diagnostic and therapeutic procedures independently
 * Seeks assistance when required
-* Orders appropriate procedures taking into consideration what is
-          available locally
+* Orders appropriate procedures taking into consideration what is available locally
 
 ##### Achieved
 
-* Performs all essential diagnostic and therapeutic procedures in the
-          logbook independently
+* Performs all essential diagnostic and therapeutic procedures in the logbook independently
 
 #### 3.4 Recognise and respond early to the deteriorating patient
 
