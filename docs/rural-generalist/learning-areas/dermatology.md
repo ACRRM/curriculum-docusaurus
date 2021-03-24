@@ -37,7 +37,7 @@ Identify and be able to distinguish between:
 
 #### CG.K.5
 
-  Discuss indications and contraindications for treatment of dermatological conditions using common pharmacological agents, including"
+Discuss indications and contraindications for treatment of dermatological conditions using common pharmacological agents, including"
 
 * topical corticosteroids 
 * moisturisers and emollients 
