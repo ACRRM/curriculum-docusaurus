@@ -812,7 +812,7 @@ component.
 
 * Works alongside culturally diverse groups to address health issues
 
-#### 6.3 Deliver culturally safe care to Aboriginal and Torres Strait Islander peoples and other cultural groups
+#### 6.3 Deliver culturally safe care (3) to Aboriginal and Torres Strait Islander peoples and other cultural groups
 
 ##### Beginning
 
@@ -835,7 +835,25 @@ component.
           values and those of different cultural groups
 * Reflects and seeks feedback on own provision of culturally safe care
 * Engages interpreters and community contacts as appropriate 
-    
+
+##### Footnote
+
+**(3) Cultural safety for Aboriginal and Torres Strait Islander Peoples**
+
+Cultural safety is determined by Aboriginal and Torres Strait Islander individuals, families and communities. 
+
+Culturally safe practice is the ongoing critical reflection of health practitioner knowledge, skills, attitudes, practising behaviours and power differentials in delivering safe, accessible and responsive healthcare free of racism.
+
+  To ensure culturally safe and respectful practice, medical practitioners must:
+  a.	Acknowledge colonisation and systemic racism, social, cultural, behavioural and economic factors which impact individual and community health
+  b.	Acknowledge and address individual racism, their own biases, assumptions, stereotypes and prejudices and provide care that is holistic, free of bias and racism
+  c.	Recognise the importance of self-determined decision-making, partnership and collaboration in healthcare which is driven by the individual, family and community
+  d.	Foster a safe working environment through leadership to support the rights and dignity of Aboriginal and Torres Strait Islander people and colleagues.
+
+ Culturally safe and respectful practice is also important for all communities.
+ 
+
+From the Medical Board of Australia, Good medical practice: a code of conduct for doctors in Australia: October 2020
 
 ### Domain 7. Practise medicine within an ethical, intellectual and professional framework
 
