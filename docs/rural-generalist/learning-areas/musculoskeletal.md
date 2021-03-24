@@ -34,9 +34,9 @@ Take an accurate and relevant musculoskeletal history including:
 
 * a general history
 * history of the presenting complaint including: 
-  	mode and context of onset 
-  	detailed characteristics of the pain\
-  	effects on the patient's life and work 
+  *	mode and context of onset 
+  *	detailed characteristics of the pain\
+  *	effects on the patient's life and work 
 
 #### CG.S.2
 
