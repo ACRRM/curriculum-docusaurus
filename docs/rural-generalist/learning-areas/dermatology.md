@@ -24,18 +24,20 @@ Identify and be able to distinguish between:
   •	malignant: basal cell carcinoma, squamous cell carcinoma, Bowen’s disease, keratoacanthoma 
 * Melanocytic: melanocytic naevi, malignant melanoma
 
-  #### CG.K.4	
+#### CG.K.4	
 
-  Identify sun damaged skin and distinguish between benign non-actinic lesions and: 
+  Identify sun damaged skin and distinguish between benign non-actinic lesions and:
+
 * ephelides 
 * solar lentigines 
 * solar elastosis 
 * solar keratoses 
 * sun related skin malignancies
 
-  #### CG.K.5	
+#### CG.K.5	
 
-  Discuss indications and contraindications for treatment of dermatological conditions using common pharmacological agents, including;
+  Discuss indications and contraindications for treatment of dermatological conditions using common pharmacological agents, including"
+
 * topical corticosteroids 
 * moisturisers and emollients 
 * antibacterials 
