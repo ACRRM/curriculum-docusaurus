@@ -3,6 +3,28 @@ id: introduction
 title: Standards for Supervisors and Training Posts
 sidebar_label: Supervisors and Training Posts
 ---
+Australian College of Rural and Remote Medicine 
+Level 2, 410 Queen Street
+GPO Box 2507
+Brisbane QLD 4001
+Ph: 07 3105 8200 Fax: 07 3105 8299
+Website: www.acrrm.org.au
+ABN: 12 078 081 848
+
+
+##### Copyright
+
+© 2020 Australian College of Rural and Remote Medicine. All rights reserved. No part of this document may be reproduced by any means or in any form without express permission in writing from the Australian College of Rural and Remote Medicine.
+
+
+##### Version 1.0/2020
+
+Date published: 	December 2020
+Date implemented: 	January 2021
+Date for review: 	December 2023
+
+*ACRRM acknowledges Australian Aboriginal People and Torres Strait Islander People as the first inhabitants of the nation.  We respect the traditional owners of lands across Australia in which our members and staff work and live and pay respect to their elders past present and future.*
+
 ## Introduction
 
 These Standards apply to supervisors and training posts training registrars on the ACRRM Fellowship
@@ -48,13 +70,11 @@ An *Additional Supervisor* contributes to the clinical and educational supervisi
 additional supervisor provides supervision at times when the registrar cannot access the principal
 supervisor.
 
-## Domain 1 Promotes the health, welfare and interests of trainees 
+## Domain 1 Promotes the health, welfare and interests of trainees
 
-### 
-Standard 1.1 Governance, safety and quality assurance 
+### Standard 1.1 Governance, safety and quality assurance 
 
-#### 
-Criterion 1.1.1 A training site has clear governance structures which support: 
+#### Criterion 1.1.1 A training site has clear governance structures which support: 
 
 **Education and training** 
 Evidence that demonstrates training systems are established, including documentation relating to:
@@ -98,7 +118,7 @@ Evidence of clear and adequate organisational management arrangements for regist
 •	appropriate medical registration is held by registrars and supervisors and doctors are aware they have a duty to disclose if charged with a criminal offence, or receive notice of review or changes to medical registration status 
 •	appropriate insurance is held by registrars, supervisors and the training post 
 
-#### Criterion 1.1.3 There are appropriate quality assurances in place 
+#### Criterion 1.1.3 There are appropriate quality assurances in place
 
 Evidence that the health service is suitably equipped and has access to diagnostic and medical services to allow the registrar to practise safely, including 
 •	holding accreditation relevant to type of health service 
@@ -107,9 +127,9 @@ Evidence that the health service is suitably equipped and has access to diagnost
 •	showing how information is gathered, analysed and acted upon to improve the quality of the health service
 •	demonstrating quality assurance processes appropriate to the type of health service for example: quality audits, mortality and morbidity meetings, significant event management systems 
 
-### Standard 1.2 Infrastructure, facilities and educational resources 
+### Standard 1.2 Infrastructure, facilities and educational resources
 
-#### Criterion 1.2.1 There are appropriate educational resources, and these are available to trainees 
+#### Criterion 1.2.1 There are appropriate educational resources, and these are available to trainees
 
 Evidence of relevant, current resources, for registrars, including
 •	clinical and decision support resources that are accessible while working and
@@ -123,9 +143,9 @@ Evidence of the physical environment providing the registrar
 
 ## Domain 2 Ensure trainees have the appropriate knowledge, skills and supervision to deliver quality patient care
 
-### Standard 2.1 Training post specialist staffing and supervision 
+### Standard 2.1 Training post specialist staffing and supervision
 
-#### Criterion 2.1.1 There are appropriate staff to ensure effective supervision of trainees at all times 
+#### Criterion 2.1.1 There are appropriate staff to ensure effective supervision of trainees at all times
 
 Evidence that demonstrates all the following
 •	Registrars have a nominated, documented supervisor who is responsible for their overall clinical and educational supervision 
@@ -148,7 +168,7 @@ o	a volume of experience relevant to the level of training; core generalist or a
 o	positive references
 o	positive registrar feedback 
 
-#### Criterion 2.1.2 Supervisory staff understand their roles and responsibilities and are supported in their supervisory roles 
+#### Criterion 2.1.2 Supervisory staff understand their roles and responsibilities and are supported in their supervisory roles
 
 Evidence that supervisors demonstrate all the following:
 •	Knowledge of the requirements for supervisors
@@ -161,7 +181,7 @@ Evidence that supervisors demonstrate all the following:
 •	Use of a range of teaching methods
 •	Use of a range of educational resources 
 
-### Standard 2.2 The provision of clinical experience and work is relevant 
+### Standard 2.2 The provision of clinical experience and work is relevant
 
 #### Criterion 2.2.1 The training site and/or training network provides the appropriate breadth and volume of clinical experience
 
@@ -189,11 +209,11 @@ Evidence that Advanced Specialised Training (AST) posts provide relevant clinica
 •	Remote Medicine
 •	Surgery
 
-## Domain 3 Supports a wide range of educational and training opportunities aligned to the curriculum requirements 
+## Domain 3 Supports a wide range of educational and training opportunities aligned to the curriculum requirements
 
-### Standard 3.1 Education, training, teaching and learning opportunities 
+### Standard 3.1 Education, training, teaching and learning opportunities
 
-#### Criterion 3.1.1 Teaching and learning opportunities in the workplace are targeted and enable exposure to the breadth of experience in the learning environment 
+#### Criterion 3.1.1 Teaching and learning opportunities in the workplace are targeted and enable exposure to the breadth of experience in the learning environment
 
 Evidence that the registrar is provided with opportunities
 •	for exposure to the breadth of experience provided by training post eg after hours, home, nursing home, secondary care
@@ -201,7 +221,7 @@ Evidence that the registrar is provided with opportunities
 •	to be involved in teaching and mentoring others 
 •	to take on positions of community advocacy and leadership as appropriate 
 
-#### Criterion 3.1.2 Structured education programs and continuing medical education sessions are accessible to the trainees 
+#### Criterion 3.1.2 Structured education programs and continuing medical education sessions are accessible to the trainees
 
 Evidence that demonstrates registrars 
 •	have a learning plan that is reviewed regularly
@@ -210,25 +230,25 @@ Evidence that demonstrates registrars
 •	are released to attend activities to meet training program requirements
 •	have a record of education activities attended
 
-### Standard 3.2 Multidisciplinary clinical support services and equipment 
+### Standard 3.2 Multidisciplinary clinical support services and equipment
 
-#### Criterion 3.2.1 Information on relevant supporting services and specialties to support the delivery of the specialty service 
+#### Criterion 3.2.1 Information on relevant supporting services and specialties to support the delivery of the specialty service
 
 Evidence that registrars are made aware of and can access networks for consultation, referral and support. 
 
-#### Criterion 3.2.2 Equipment is available to provide the specialty service 
+#### Criterion 3.2.2 Equipment is available to provide the specialty service
 
 Evidence is provided of timely access to the essential clinical equipment as appropriate for the:
 •	type, size and location of health service
 •	Core Generalist or Advanced Specialised component of training
 
-### Standard 3.3 Research opportunities are promoted and facilitated 
+### Standard 3.3 Research opportunities are promoted and facilitated
 
-#### Criterion 3.3.1 The training site and/or training network facilitates and supports specialty specific research activity 
+#### Criterion 3.3.1 The training site and/or training network facilitates and supports specialty specific research activity
 
 Evidence that registrars have opportunities to become familiar with and take part in quality assurance and research activities.
 
-### Standard 3.4 Accreditation by others where required 
+### Standard 3.4 Accreditation by others where required
 
 #### Criterion 3.4.1 Accreditation by other relevant recognised accreditation bodies provides supporting information
 
