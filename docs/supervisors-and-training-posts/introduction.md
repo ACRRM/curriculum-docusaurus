@@ -1,6 +1,6 @@
 ---
 id: introduction
-title: Supervisors and Training Posts
+title: Standards for Supervisors and Training Posts
 sidebar_label: Supervisors and Training Posts
 ---
 ### Introduction
@@ -10,15 +10,15 @@ Training Program. The Standards apply to Core Generalist and Advanced Specialise
 disciplines. They apply to primary, secondary, emergency and retrieval services providing ACRRM
 training.
 
-The domains, standards and criteria are the Accreditation of Training Sites for Specialist Medical
-Training: AHMAC agreed standards
+The domains, standards and criteria are the [Accreditation of Training Sites for Specialist Medical
+Training: AHMAC agreed standards](https://cpmc.edu.au/special-projects/accreditation-of-training-sites-for-specialist-medical-training-ahmac-agreed-standards/)
 
 These standards are outcome standards and do not prescribe inputs, such as number of hours,
 percentages, etc. The description of evidence is outlined by ACRRM; it provides guidance around the
 College expectations for the ACRRM Fellowship Training Program.
 
 The competencies, knowledge, skills and attributes to be gained through training in these posts are
-described in the Rural Generalist Curriculum.
+described in the [Rural Generalist Curriculum.](https://www.acrrm.org.au/resources/training/curriculum)
 
 ## Definitions
 
