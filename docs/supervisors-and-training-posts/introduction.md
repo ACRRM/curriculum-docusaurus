@@ -117,3 +117,122 @@ Evidence of relevant, current resources, for registrars, including
 •	education and training resources available and how they can be accessed 
 
 #### Criterion 1.2.2 The training site provides a physical environment that supports trainees
+
+Evidence of the physical environment providing the registrar
+•	with a quiet space with computer and internet access for teaching, learning and study 
+•	in primary care with a suitably equipped dedicated patient consultation room or with resources that can be easily moved to available patient consultation room
+
+## Domain 2 Ensure trainees have the appropriate knowledge, skills and supervision to deliver quality patient care
+
+### Standard 2.1 Training post specialist staffing and supervision 
+
+#### Criterion 2.1.1 There are appropriate staff to ensure effective supervision of trainees at all times 
+
+Evidence that demonstrates all the following
+•	Registrars have a nominated, documented supervisor who is responsible for their overall clinical and educational supervision 
+•	An accredited supervisor is accessible either face to face, or virtually when a registrar is working, including when providing telehealth
+•	Other health professionals contribute to the supervision of registrars 
+•	The level of supervision is tailored to individual registrar needs 
+o	a supervision plan is documented and accessible to the registrar
+o	supervision plans that involve off site and team supervision are agreed by the registrar and are submitted to the training organisation and College for approval\
+•	Supervisors 
+o	are professional and clinical role models, exhibiting a high standard of clinical competence and professional values in relation to patient care
+o	possess personal attributes suited to undertaking a supervisor role, including well developed communication and interpersonal skills, self-awareness, open mindedness, reliability, innovation, resourcefulness, flexibility and an understanding of their limitations
+
+These supervisor qualities may be evidenced in a combination of ways, for example, having: 
+o	current registration with the Medical Board of Australia 
+o	specialist registration in a discipline relevant to the type of health service 
+o	compliance with the professional development requirements of their College
+o	other qualifications relevant to the supervisor role 
+o	the type of experience relevant to the type of health service 
+o	a volume of experience relevant to the level of training; core generalist or advanced specialist training
+o	positive references
+o	positive registrar feedback 
+
+#### Criterion 2.1.2 Supervisory staff understand their roles and responsibilities and are supported in their supervisory roles 
+
+Evidence that supervisors demonstrate all the following:
+•	Knowledge of the requirements for supervisors
+•	Knowledge of the ACRRM Fellowship Training Program
+•	Completion of initial and ongoing training as a supervisor 
+•	Skills in assessing and providing feedback on performance 
+•	Provision of the required level of supervision and support
+•	Completion of required workplace based assessments and supervisor reports
+•	Collaboration with the registrar to plan graduated exposure to activities 
+•	Use of a range of teaching methods
+•	Use of a range of educational resources 
+
+### Standard 2.2 The provision of clinical experience and work is relevant 
+
+#### Criterion 2.2.1 The training site and/or training network provides the appropriate breadth and volume of clinical experience
+
+Evidence that demonstrates the training post
+•	is in a regional, rural or remote location (MM2-7) or demonstrates clinical experience appropriate for rural generalist training
+•	occupies the registrar with clinical work for most of the working day 
+•	manages the patient workload for the registrar
+•	adjusts the number of patients seen per hour according to the experience and competency of a registrar
+Evidence that Core Generalist Training posts provide clinical experience in one or more of the following Rural Generalist Curriculum domains:
+•	Primary care
+•	Secondary care
+•	Emergency care
+•	Rural or remote practice, be categorised
+o	Modified Monash Model Category (MMM) 4-7 or 
+o	MMM3 and provide relevant experience.
+Evidence that Advanced Specialised Training (AST) posts provide relevant clinical experience for an AST in: 
+•	Aboriginal and Torres Strait Islander Health
+•	Academic Practice
+•	Adult Internal Medicine
+•	Emergency Medicine
+•	Mental Health
+•	Paediatrics
+•	Palliative Care
+•	Population Health
+•	Remote Medicine
+•	Surgery
+
+## Domain 3 Supports a wide range of educational and training opportunities aligned to the curriculum requirements 
+
+### Standard 3.1 Education, training, teaching and learning opportunities 
+
+#### Criterion 3.1.1 Teaching and learning opportunities in the workplace are targeted and enable exposure to the breadth of experience in the learning environment 
+
+Evidence that the registrar is provided with opportunities
+•	for exposure to the breadth of experience provided by training post eg after hours, home, nursing home, secondary care
+•	to work with and be part of the broader health care team, including nurses, consultant medical services, (including Telehealth options) hospitals, allied health professionals, diagnostic services, Aboriginal Health Services and other community services
+•	to be involved in teaching and mentoring others 
+•	to take on positions of community advocacy and leadership as appropriate 
+
+#### Criterion 3.1.2 Structured education programs and continuing medical education sessions are accessible to the trainees 
+
+Evidence that demonstrates registrars 
+•	have a learning plan that is reviewed regularly
+•	have access to curriculum aligned education activities
+•	are aware of education activities available to them
+•	are released to attend activities to meet training program requirements
+•	have a record of education activities attended
+
+### Standard 3.2 Multidisciplinary clinical support services and equipment 
+
+#### Criterion 3.2.1 Information on relevant supporting services and specialties to support the delivery of the specialty service 
+
+Evidence that registrars are made aware of and can access networks for consultation, referral and support. 
+
+#### Criterion 3.2.2 Equipment is available to provide the specialty service 
+
+Evidence is provided of timely access to the essential clinical equipment as appropriate for the:
+•	type, size and location of health service
+•	Core Generalist or Advanced Specialised component of training
+
+### Standard 3.3 Research opportunities are promoted and facilitated 
+
+#### Criterion 3.3.1 The training site and/or training network facilitates and supports specialty specific research activity 
+
+Evidence that registrars have opportunities to become familiar with and take part in quality assurance and research activities.
+
+### Standard 3.4 Accreditation by others where required 
+
+#### Criterion 3.4.1 Accreditation by other relevant recognised accreditation bodies provides supporting information
+
+Evidence of other accreditations, as relevant
+•	Accreditation as a health service
+•	Accreditation as a training post by Medical Colleges or Post Graduate Medical Councils.
