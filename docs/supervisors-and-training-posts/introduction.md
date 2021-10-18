@@ -3,7 +3,7 @@ id: introduction
 title: Standards for Supervisors and Training Posts
 sidebar_label: Supervisors and Training Posts
 ---
-### Introduction
+## Introduction
 
 These Standards apply to supervisors and training posts training registrars on the ACRRM Fellowship
 Training Program. The Standards apply to Core Generalist and Advanced Specialised Training in all
@@ -82,7 +82,6 @@ Evidence of effective systems to measure and improve training safety and quality
 •	safe ways for registrars to provide feedback on the training post
 •	ensuring an adequate volume and standard of staffing to ensure appropriate levels of registrar support 
 •	critical incidents and adverse events identification, management and reporting to relevant organisations including training organisation/s
-
 
 **Trainee participation in governance**
 Evidence that the registrar is involved in the health services team, for example\
