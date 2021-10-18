@@ -106,4 +106,14 @@ Evidence that the health service is suitably equipped and has access to diagnost
 •	demonstrating essential clinical equipment, systems for clinical records and registers, access to diagnostic and medical services as appropriate for type of health service
 •	demonstrating that the equipment, records and services can be accessed whenever/wherever the registrar is working including when providing telehealth and working away from the main health service
 •	showing how information is gathered, analysed and acted upon to improve the quality of the health service
-•	demonstrating quality assurance processes appropriate to the type of health service for example: quality audits, mortality and morbidity meetings, significant event management systems
+•	demonstrating quality assurance processes appropriate to the type of health service for example: quality audits, mortality and morbidity meetings, significant event management systems 
+
+### Standard 1.2 Infrastructure, facilities and educational resources 
+
+#### Criterion 1.2.1 There are appropriate educational resources, and these are available to trainees 
+
+Evidence of relevant, current resources, for registrars, including
+•	clinical and decision support resources that are accessible while working and
+•	education and training resources available and how they can be accessed 
+
+#### Criterion 1.2.2 The training site provides a physical environment that supports trainees
