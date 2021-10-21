@@ -11,11 +11,9 @@ Ph: 07 3105 8200 Fax: 07 3105 8299
 Website: www.acrrm.org.au
 ABN: 12 078 081 848
 
-
 ##### Copyright
 
 © 2020 Australian College of Rural and Remote Medicine. All rights reserved. No part of this document may be reproduced by any means or in any form without express permission in writing from the Australian College of Rural and Remote Medicine.
-
 
 ##### Version 1.0/2020
 
@@ -72,9 +70,9 @@ supervisor.
 
 ## Domain 1 Promotes the health, welfare and interests of trainees
 
-### Standard 1.1 Governance, safety and quality assurance 
+### Standard 1.1 Governance, safety and quality assurance
 
-#### Criterion 1.1.1 A training site has clear governance structures which support: 
+#### Criterion 1.1.1 A training site has clear governance structures which support:
 
 **Education and training** 
 Evidence that demonstrates training systems are established, including documentation relating to:
@@ -87,14 +85,15 @@ reporting and engagement with associated training organisation/s
 
 **Workplace health, safety and welfare of trainees** 
 Evidence of documentation and implementation of policies and processes that cover the following areas for registrars 
-•	wellbeing support
-•	respectful workplaces 
-•	cultural safety
-•	registrar grievances/complaints
-•	safety: including physical safety at the health service, during travel, home visits and after-hours, fatigue management and safe working hours 
-•	responding to emergencies 
-•	specification of issues that require urgent and non-urgent notification
-•	how to contact supervisory/support staff including during and after hours, during telehealth consultations and the process for when contact cannot be made with supervisor for an urgent matter
+
+* wellbeing support
+* respectful workplaces 
+* cultural safety
+* registrar grievances/complaints
+* safety: including physical safety at the health service, during travel, home visits and after-hours, fatigue management and safe working hours 
+* responding to emergencies 
+* specification of issues that require urgent and non-urgent notification
+* how to contact supervisory/support staff including during and after hours, during telehealth consultations and the process for when contact cannot be made with supervisor for an urgent matter
 
 **Improved training safety and quality** 
 Evidence of effective systems to measure and improve training safety and quality, including:
