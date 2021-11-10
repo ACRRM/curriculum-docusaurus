@@ -3,124 +3,274 @@ id: introduction
 title: Fellowship Training
 sidebar_label: Fellowship Training
 ---
-### The Australian College of Rural and Remote Medicine
+##### Contact details
 
-The Australian College of Rural and Remote Medicine (ACRRM) was formed in 1997 as an
-acknowledgment of: 
+Australian College of Rural and Remote Medicine\
+Level 1, 324 Queen Street\
+GPO Box 2507\
+Brisbane QLD 4000\
+P: (+61) 7 3105 8200 or 1800 223 226\
+F: (+61) 7 3105 8299\
+E: training@acrrm.org.au\
+Ph: 07 3105 8200\
+Fax: 07 3105 8299\
+Website: www.acrrm.org.au\
+ABN: 12 078 081 848
 
-* the importance of rural and remote medicine as a broad and distinctive form of general
-  practice
-* the need for well-designed vocational preparation and continuing medical education for
-  rural doctors, and
-* the need to address the shortage of rural and remote doctors in Australia, by providing
-  them with a separate and distinctive professional body
+##### Copyright
 
-ACRRM is a professional college accredited by the Australian Medical Council to define
-standards and deliver training in the medical specialty of general practice.
+© 2021 Australian College of Rural and Remote Medicine. All rights reserved. No part of this document may be reproduced by any means or in any form without express permission in writing from the Australian College of Rural and Remote Medicine.
 
-At the time of writing this document, an application to have Rural Generalist medicine
-recognised as a protected title and as a specialised field within the speciality of general practice
-is being progressed.
+##### Version 6.3/2021
 
-## What is a General Practitioner?
+Date published: January 2021\
+Date implemented: January 2021\
+Date for review: December 2021
 
-The General Practitioner is the doctor with core responsibility for providing comprehensive and
-continuing medical care to individuals, families and the broader community. Competent to
-provide the greater part of medical care, the General Practitioner can deliver services in the
-primary care setting, the secondary care setting, the home, long-term residential care facilities
-or by electronic means – wherever and however services are needed by the patient within their
-safe scope of practice.
+*ACRRM acknowledges Australian Aboriginal People and Torres Strait Islander People as the first inhabitants of the nation.  We respect the traditional owners of lands across Australia in which our members and staff work and live and pay respect to their elders past present and future.*
 
-Fellows of ACRRM receive specialist registration as a General Practitioner with the Medical
-Board of Australia and can practise in any location throughout Australia.
+## Introduction
 
-ACRRM’s curriculum and training program also prepares doctors to be Rural Generalist medical
-practitioners. test
+Welcome to the Australian College of Rural and Remote Medicine (ACRRM), the home of the Rural Generalist. 
 
-## What is a Rural Generalist Medical Practitioner?
+ACRRM is a professional college accredited by the Australian Medical Council to define standards and deliver training in the medical specialty of general practice. 
 
-A Rural Generalist medical practitioner is a General Practitioner who has specific expertise in
-providing medical care for rural and remote or isolated communities. A Rural Generalist medical
-practitioner understands and responds to the diverse needs of rural communities: this includes
-applying a population approach, providing safe primary, secondary and emergency care,
-culturally engaged Aboriginal and Torres Strait Islander peoples’ health care as required, and
-providing specialised medical care in at least one additional discipline.
+ACRRM’s standards and training program prepares medical practitioners to practise safely and confidently as rural generalists.  Attainment of Fellowship (FACRRM) leads to specialist registration as a general practitioner with the Medical Board of Australia.
 
-## What is Rural Generalist Medicine?
+Being a rural generalist means you have specific expertise in providing medical care for rural and remote or isolated communities. As a rural generalist you understand and respond to the diverse needs of rural communities including; applying a population health approach, providing safe primary, secondary and emergency care, culturally safe Aboriginal and Torres Strait Islander people’s health care and providing specialised medical care in one or more of the Advanced Specialised Training disciplines offered by ACRRM. 
 
-Rural Generalist Medicine is the provision of a broad scope of medical care by a doctor in the rural context that encompasses the following:
+This handbook has been designed to support ACRRM’s training program policies and provide you with comprehensive information to enable you to plan and tailor your training and education needs to attain Fellowship.
 
-* Comprehensive primary care for individuals, families and communities
-* Hospital in-patient care and/or related secondary medical care in the institutional, home
-  or ambulatory setting
-* Emergency care
-* Extended and evolving service in one or more areas of focused cognitive and/or
-  procedural practice as required to sustain needed health services locally among a
-  network of colleagues
-* A population health approach that is relevant to the community working as part of a multi-professional and multi-disciplinary team of colleagues, both
-  local and distant, to provide services within a ‘system of care’ that is aligned and
-  responsive to community needs. (World Summit on Rural Generalist Medicine, Cairns, 2014).
+## Curriculum
 
-## What is a Fellow of ACRRM?
+The [Rural Generalist Curriculum](https://www.acrrm.org.au/resources/training/curriculum) provides a definition of Rural Generalist Medicine and describes the competencies, knowledge, skills and attributes required to be a rural generalist medical practitioner. 
 
-A Fellow of ACRRM (FACRRM) is a medical specialist who has been assessed as meeting the
-requisite standards for providing high-quality Rural Generalist medical practice.
-This involves being able to:
+The curriculum informs the training, education and assessment requirements to achieve Fellowship. Therefore, an understanding of the curriculum is essential for all registrars.
 
-* provide and adapt expert primary, secondary, emergency and specialised medical care
-  to community needs;
-* provide safe, effective medical care while working in geographic and professional
-  isolation;
-* work in partnership with Aboriginal, Torres Strait Islander peoples and other culturally
-  diverse groups; and
-* apply a population approach to community needs.
+The Curriculum competencies are structured under the eight domains of rural and remote practice. 
 
-## Attributes of a Rural Generalist Medical Practitioner
+1. Provide expert medical care in all rural contexts
+2. Provide primary care
+3. Provide secondary medical care
+4. Respond to medical emergencies
+5. Apply a population health approach
+6. Work with Aboriginal, Torres Strait Islander, and other culturally diverse communities to improve health and wellbeing 
+7. Practise medicine within an ethical, intellectual and professional framework
+8. Provide safe medical care while working in geographic and professional isolation
 
-The following attributes or expected behaviours are required of a Rural Generalist medical practitioner. Each Learning Area details attributes specific to the Learning Area. 
+The curriculum consists of Core Generalist and Advanced Specialised components. Registrars must demonstrate meeting all competencies at the Core Generalist standard and choose one specialised area in which they demonstrate meeting the competencies at the Advanced Specialised standard. 
 
-**At.1     	Accountability:** Accept responsibility for your actions.
-**At.2     	Adaptability:** Respond quickly to change and take advice from others where necessary.
-**At.3     	Agency:** Take ownership and responsibility for professional decisions and behaviour.
-**At.4     	Clinical courage**: Back your clinical judgement in circumstances where urgent clinical decisions need to    be made.
-**At.5     	Commitment:** Be dedicated to task.
-**At.6     	Compassion:** Recognise sufferings and misfortunes of others and have sympathy for them.
-**At.7     	Empathy:** Understand and share the feelings of another.
-**At.8     	Honesty:** Open and transparent with all parties about clinical decision making.
-**At.9     	Humility:** Have a modest view of one’s importance.
-**At.10     	Initiative:** Assess and initiate things independently.
-**At.11     	Integrity:** Maintain high levels of professional and ethical behaviour.
-**At.12     	Patience:** Accept or tolerate delays and problems without becoming annoyed or anxious.
-**At.13     	Pragmatism:** Work within the constraints of your environment.
-**At.14     	Receptivity:** Be open and responsive to ideas and suggestions.
-**At.15     	Reflection:** Review outcomes of professional behaviours and, if necessary, make changes.
-**At.16     	Resilience:** Continue to perform at a high professional level with positive adaptive changes despite adverse personal or professional circumstances.
-**At.17     	Resourcefulness:** Judge what needs to be done and act. 
-**At.18     	Self-knowledge:** Know your own limitations.
-**At.19     	Self-reliance:** Rely on one's own powers and resources rather than those of others.
-**At.20     	Sensitivity:** Show consideration, care and tact.
+These standards are described in the curriculum. The Curriculum also details the knowledge, skills and attributes in 37 clinical and non-clinical Learning Areas. The Learning Areas all include Core Generalised content and Advanced Specialised content is included for the approved AST disciplines. 
 
-## Domains of Rural and Remote Practice
+## Fellowship Training Program
 
-The eight domains of rural and remote practice describe the contexts of rural and remote
-practice.
+### Components of training
 
-1. Provide expert medical care in all rural contexts: patient-centred approach, diagnosis,
-   management and team work.
-2. Provide primary care: whole patient care, longitudinal care, first point of care,
-   undifferentiated presentations, care across lifespan, acute and chronic care and
-   preventive activities.
-3. Provide secondary medical care: inpatient management, respond to deteriorating
-   patient, handover, safe transfer and discharge planning.
-4. Respond to medical emergencies: hospital & prehospital, resource organisation, initial
-   assessment and triage, emergency medical intervention and patient evacuation.
-5. Apply a population health approach: community health assessment, population level
-   health intervention, statutory reporting and disaster planning.
-6. Work with Aboriginal, Torres Strait Islander, and other culturally diverse communities to
-   improve health and wellbeing: strengths-based, respect and understanding
-7. Practise medicine within an ethical, intellectual and professional framework: ethical
-   practice, clinical documentation, quality and safety, professional obligations, continuous
-   learning, leadership, teaching and research.
-8. Provide safe medical care while working in geographic and professional isolation:
-   resourcefulness, independence, flexibility, technology, professional network and
-   extended practice.
+The training program is aligned to the eight domains of Rural Generalist Curriculum and underpins the learning areas included in the Core Generalist and Advanced Specialised components of the Curriculum.
+
+#### Core Generalist Training
+
+Core Generalist Training (CGT) covers three years of training
+
+* developing broad generalist knowledge, skills and attributes in primary, secondary and emergency care in a rural and remote context, and 
+* fostering essential rural generalist knowledge and skills in paediatrics, obstetrics and anaesthetics.
+
+#### Advanced Specialised Training
+
+Advanced Specialised Training (AST) covers one year of training
+
+* building on the core generalist competencies and increasing knowledge and skills in a procedural or non-procedural discipline 
+* in a specialised area relevant to the needs of rural communities
+* to allow autonomous delivery in a defined scope of specialist clinical practice.
+
+### Training program summary
+
+The table 1 below provides a summary of the training program requirements. 
+
+# INSERT TABLE HERE
+
+#### Commencement of training
+
+Registrars who hold general registration and are in post graduate year (PGY) 2 must commence with CGT and undertake the first 12 months full time equivalent (FTE) in a Postgraduate Medical Council (PMC) accredited post. Those who are PGY 3 or above may undertake the first 12 months FTE in a PMC accredited post.
+
+Registrars who hold general registration and are PGY3 or above may commence training with CGT or AST in an ACRRM accredited primary or secondary care training post as applicable.
+
+Registrars who hold limited or provisional registration require an individual training plan approved by the Director of Training at the commencement of training. 
+
+#### Order of training
+
+CGT and AST can be completed:
+
+* Sequentially in either order, providing that prerequisites for the AST have been met or
+* concurrently, undertaking CGT and AST part-time.
+
+If AST is undertaken at the beginning of training, a registrar must maintain currency in the discipline until the completion of training.
+
+It is important to plan timing and sequencing of training, education and assessment activities. This training plan should be started at the beginning of training and reviewed regularly throughout training.
+
+## Core Generalist Training
+
+Core Generalist Training (CGT) may be started at PGY 2 or above. Training program requirements must be met in four areas: time, training, education and assessment.\
+
+### Time
+
+CGT requires a minimum of three years full time equivalent (FTE) as described in the [Training Time policy](https://www.acrrm.org.au/docs/default-source/all-files/training-time-policy.pdf?sfvrsn=9e425ba0_8).
+
+### Training
+
+All training must take place in accredited training posts. Training placements must provide the opportunity to gain the required scope, type and volume of clinical experience, at an appropriate level of responsibility. 
+
+ACRRM accredits training posts for CGT in regional, rural or remote areas of Australia. Accredited posts include general practices, Aboriginal and Torres Strait Islander medical services, hospitals, emergency departments and retrieval services. 
+
+ACRRM accredited training posts are generally suited to doctors who can function competently, with significant responsibility for making patient care decisions, under broad supervision. 
+
+ACRRM recognises training posts accredited by state or territory Postgraduate Medical Council (PMC) as training placements for CGT. These posts are suitable for doctors requiring higher levels of supervision for example doctors who commence training in PGY2.
+
+ACRRM also recognises training posts accredited by other specialist colleges as suitable for short term placements up to three months to fulfil mandatory training requirements. Posts accredited by other specialist colleges may also be suitable for long term placements such as for an AST, however ACRRM accreditation is required. See [Training Placements policy](https://www.acrrm.org.au/docs/default-source/all-files/training-placements-policy.pdf?sfvrsn=ff541e56_8).
+
+#### Regional, rural and remote placements
+
+Registrars are required to work in regional, rural and remote locations and gain experience across primary, secondary and emergency care in rural practice in order to gain the competencies, knowledge, skills and attributes described in the Core Generalist curriculum. All registrars must demonstrate minimum training requirements in these rural contexts. 
+
+While training requirements for primary, hospital and emergency care and rural and remote practice are defined separately they are designed to be covered concurrently. The ideal training placement involves working in a rural general practice, admitting into the local hospital, providing inpatient care and after hours cover in the emergency department. Experience in rural primary, secondary and emergency contexts can also be gained through several training placements.
+
+Example:
+
+*You have worked for 12 months in a rural location in general practice at 0.5 FTE and at the local hospital at 0.5 FTE providing inpatient and emergency care.*
+
+*As such you have now met your minimum training requirements of 12 months rural and remote training as well as six months primary care, three months emergency care and three months inpatient care.*
+
+*You may then to build on your rural primary care and/or rural hospital experience and skills for the remainder of your CGT.*
+
+#### Tertiary hospital placements
+
+Doctors undertaking hospital placements in their junior doctor years must seek a combination of placements that provide generalist skills relevant to rural practice, including where possible the following placements: 
+
+* General medicine
+* General surgery
+* Emergency
+* Paediatrics
+* Obstetrics and gynaecology; and
+* Anaesthetics.
+
+Other generalist placements that would be helpful to include are:
+
+* Rehabilitation
+* Aged care
+* Palliative care
+* Intensive care 
+* Psychiatry
+* Emergency (additional placement)
+
+Experienced doctors seeking to meet secondary care requirements must seek placements in rural hospitals where care is provided by generalists rather than large hospitals where care is provided primarily by specialists. 
+For further information see [Training Placements policy](https://www.acrrm.org.au/docs/default-source/all-files/training-placements-policy.pdf?sfvrsn=ff541e56_8).
+
+#### *Training requirements*
+
+The training requirements as described in the [Training Program Requirements policy](https://www.acrrm.org.au/docs/default-source/all-files/training-program-requirements-policy.pdf?sfvrsn=ae2186e7_8).
+ensure that training is undertaken in all rural contexts. Registrars are encouraged to maximise their training time to gain the required competencies articulated in the [Rural Generalist Curriculum](https://www.acrrm.org.au/resources/training/curriculum). 
+
+#### Evidence explanation
+
+Where the training occurred in a regular training placement, the regular six monthly supervisor report is acceptable evidence. Where a specific training placement was undertaken, a supervisor report is required for the placement. The [Verification of Clinical Experience](https://www.acrrm.org.au/docs/default-source/all-files/verification-of-clinical-experience-proformaec6a3019286b473baada4b19cd4d341a.pdf?sfvrsn=7eedd769_2) proforma, End of Term Assessment report, or other supervisor report is acceptable. 
+
+Where a [case log](https://www.acrrm.org.au/docs/default-source/all-files/case-log-proforma.docx?sfvrsn=c8109feb_12) is provided as evidence, it is anticipated that all cases have been conducted by the registrar. To meet the training requirement, 50% or more cases must be conducted by the registrar.
+
+# INSERT TABLE HERE
+
+### Education
+
+#### *Education program*
+
+All registrars are required to actively participate in and complete a structured education program mapped to the Core Generalist component of the Curriculum, provided by an ACRRM accredited training organisation.
+
+Registrars should refer to the College or their training organisation for details of the education program and the requirements for participation.
+
+Participation in the education program counts towards Training Time.
+
+#### *Emergency medicine courses*
+
+All registrars must successfully complete:
+
+* Rural Emergency Skills Training (REST), provided by ACRRM
+
+  * completed by the end of second year CGT, and 
+* One Tier 1 course or two Tier 2 courses, approved by ACRRM
+
+All courses must be completed within the 10 years prior to Completion of Training. 
+
+One approved Advanced Life Support course must be within three years prior to Completion of Training.
+
+<u>*Emergency course criteria*</u>
+
+Tier 1:
+
+* Highly relevant emergency medicine content applicable in a rural context.
+* Not less than 12 hours duration over two days.
+* Rigorously assessed using MCQ, skills station and scenario assessment.
+* Recognised at national or international level.
+
+Tier 2:
+
+* Highly relevant emergency medicine content applicable in a rural context.
+* Not less than eight hours duration or one day.
+* Taught using interactive learning techniques, including simulation.
+* Recognised at state or national level.
+
+<u>*Approved Tier 1 courses*</u>
+
+# INSERT TABLE HERE
+
+<u>*Approved Tier 2 courses*</u>
+
+# INSERT TABLE HERE
+
+Overseas courses that are equivalent to approved courses will also count.
+
+Many of the Tier 1 courses are also EM courses required for AST programs. 
+
+Courses must be selected from the currently approved courses. Non approved courses that have been already completed may be considered case by case. Email [training@acrrm.org.au](mailto:training@acrrm.org.au). Details of the course program and instructors must be provided. 
+
+#### *ACRRM Online Courses*
+
+All registrars are required to complete at least four approved ACRRM Online Courses as part of their education requirement; these are marked in the online library as ‘FACRRM recommended” courses.
+
+Participation in Tele-Derm National, 150 Shades of Radiology online and ruralEM forum can count towards education requirements. 
+
+To be considered as equivalent to one course, for:
+
+* Tele-Derm National: registrars are required to, either:
+
+  * submit five of their own cases for review and discussion, or 
+  * complete 10 case studies with multiple-choice questions successfully completed 
+* 150 Shades of Radiology online, registrars are required to: 
+
+  * complete 10 case studies with multiple-choice questions successfully completed 
+* ruralEM forum, registrars are required to 
+
+  * complete 10 case studies with multiple-choice questions successfully completed 
+   
+The College's Online Courses can be accessed through the [ACRRM website](https://www.acrrm.org.au/courses/discover-our-courses/online).
+
+The library contains interactive courses that are mapped to the curriculum including case studies, in-depth content and discussion boards covering a diverse and expanding range of topics, such as:
+* dermatology (Tele-Derm)
+* palliative care
+* ruralEM forum
+* skin surgery (a user's guide to skin surgery); and
+* radiology (basics of radiology series)
+
+#### *Other courses*
+
+Courses that are undertaken by registrars relating to the Rural Generalist Curriculum, that are five or more days in duration, may be approved to count towards Training Time.
+
+The following courses are approved for ADF registrars:
+* Medical Officer Introductory Course
+* RAAF Operational Health Support Course
+* Medical Officers Underwater Medicine (MOUM) Course
+* Rotary Wing Aeromedical Evacuation (RWAME) Course
+* ADF Aeromedical Evacuation Course
+* ADF Aviation Medical Officer (AVMO) Course 
+* Occupational Medicine Course
+* Joint Health Planning Course
+
+
