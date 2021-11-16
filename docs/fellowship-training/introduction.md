@@ -263,14 +263,17 @@ Train in a post holding one of the following accreditations:
 * ACRRM AST Paediatrics
 
 **Training option**:
+
 * 10 weeks or more FTE Paediatrics placement
 
 **Evidence required**:
+
 * End of Term Assessment
 
 OR
 
 **Training option**:
+
 * Six months or more FTE emergency department placement, (where at least 25% of presentations are children)
 
 **Evidence required**:
@@ -301,7 +304,7 @@ Plus, for the three options above two educational activities in paediatrics, the
 
 OR
 
-**
+\*\*
 **Training option**: 
 **Evidence required**: 
 
@@ -351,9 +354,7 @@ Tier 2:
 * Taught using interactive learning techniques, including simulation.
 * Recognised at state or national level.
 
-<u>*Approved Tier 1 courses*</u>
-
-### Tier 1 courses, approved by ACRRM
+#### Tier 1 courses, approved by ACRRM
 
 **Course**:  Advanced Life Support in Obstetrics (ALSO)\
 **Provider**: American Academy of Family Physicians
@@ -397,9 +398,38 @@ Tier 2:
 **Course**: Clinical Emergency Management Program (CEMP) Advanced Workshop\
 **Provider**: Royal Australian College of General Practitioners
 
-<u>*Approved Tier 2 courses*</u>
+#### Tier 2 courses, provided by the College
 
-# INSERT TABLE HERE
+**Course**: Advanced Life Support (ALS)\
+**Provider**: Australian College of Rural and Remote Medicine
+
+**Course**: Pre-Hospital and Emergency Care (PHEC)\
+**Provider**: Australian College of Rural and Remote Medicine
+
+**Course**: Rural Emergency Obstetrics Training (REOT)\
+**Provider**: Australian College of Rural and Remote Medicine
+
+**Course**: Rural Anaesthetic Crisis Management (RACM)\
+**Provider**: Australian College of Rural and Remote Medicine
+
+#### Tier 2 courses, approved by ACRRM and accredited for PDP
+
+[search the catalogue](https://mycollege.acrrm.org.au/search?query=Tier%202%20&collection=acrrm-meta-public)
+
+**Course**: Advanced and Complex Medical Emergencies\
+**Provider**: ACME approved providers
+
+**Course**: Advanced Life Support (ALS) Level 1\
+**Provider**: Australian Resuscitation Council accredited
+
+**Course**: ALS Emergency Medicine Course for GP Registrars\
+**Provider**: GPEx Regional Training Organisation
+
+**Course**: Approach to Medical Emergencies (AME)\
+**Provider**: General Practice Training Tasmania
+
+**Course**: Clinical Emergency Management Program (CEMP) Intermediate Workshop\
+**Provider**: Royal Australian College of General Practitioners
 
 Overseas courses that are equivalent to approved courses will also count.
 
