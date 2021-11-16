@@ -262,28 +262,55 @@ Train in a post holding one of the following accreditations:
 * ACRRM CGT or 
 * ACRRM AST Paediatrics
 
-**Training option**: 10 weeks or more FTE Paediatrics placement\
-**Evidence required**: End of Term Assessment
+**Training option**:
+* 10 weeks or more FTE Paediatrics placement
 
-or
+**Evidence required**:
+* End of Term Assessment
 
-**Training option**: Six months or more FTE emergency department placement, (where at least 25% of presentations are children)\
-**Evidence required**: 
+OR
+
+**Training option**:
+* Six months or more FTE emergency department placement, (where at least 25% of presentations are children)
+
+**Evidence required**:
+
 * End of Term Assessment or
 * Supervisor report or [Verification of Clinical Experience proforma](https://www.acrrm.org.au/docs/default-source/all-files/verification-of-clinical-experience-proformaec6a3019286b473baada4b19cd4d341a.pdf?sfvrsn=7eedd769_2)
 * Case log of 50 paediatric cases (16 years and under)
 
-or
+OR
+
+**Training option**:
+
+* General Practice placement, or
+* Integrated rural hospital placement eg PIERCE*, or
+* Paediatrics outreach service placement, assisting a paediatrician (or paediatrics team) 
+
+Plus, for the three options above two educational activities in paediatrics, these may be online courses or workshops.
+
+**Evidence required**: 
+
+* End of Term Assessment, or
+* Supervisor report, or
+* [Verification of Clinical Experience proforma](https://www.acrrm.org.au/docs/default-source/all-files/verification-of-clinical-experience-proformaec6a3019286b473baada4b19cd4d341a.pdf?sfvrsn=7eedd769_2)
+  (if reports do not include dates and location this must be provided separately)
+* Case log of 50 paediatric cases (16 years and under)
+* Complete paediatrics component of Procedural Skills Logbook 
+* Evidence of two education activities
+
+OR
+
+**
+**Training option**: 
+**Evidence required**: 
+
+OR
 
 **Training option**: 
 **Evidence required**: 
 
-or
-
-**Training option**: 
-**Evidence required**: 
-
-or
+OR
 
 ### Education
 
