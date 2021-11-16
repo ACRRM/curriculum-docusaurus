@@ -83,11 +83,85 @@ Advanced Specialised Training (AST) covers one year of training
 * in a specialised area relevant to the needs of rural communities
 * to allow autonomous delivery in a defined scope of specialist clinical practice.
 
-### Training program summary
+## Training program summary
 
 The table 1 below provides a summary of the training program requirements. 
 
-# INSERT TABLE HERE
+### Fellowship Training Program
+
+**Duration**: Minimum 4 years
+
+**Core Generalist Training (CGT) Requirements**
+
+**Time**: Minimum 3 years
+
+**Training**\
+Commence at post graduate year (PGY) 2 or above.\
+Train in regional, rural and remote general practices, hospitals, Aboriginal and Torres Strait Islander health services and retrieval services.
+
+Complete the minimum training requirements in the following:
+
+* primary care - six months 
+* secondary care - three months 
+* emergency care - three months
+* rural or remote practice -12 months
+* paediatrics 
+* obstetrics 
+* anaesthetics 
+
+**Education**\
+Successfully complete:
+
+* the education program as outlined and delivered by the College or training organisation 
+* Rural Emergency Skills Training (REST) and another emergency course/s 
+* a minimum of four “FACRRM recommended” online learning courses
+
+**Assessment**\
+Successfully complete:
+
+* Six monthly supervisor reports
+* Nine formative mini Clinical Evaluation Exercises (miniCEXs)
+* Multi-Source Feedback (MSF)
+* Multiple Choice Question (MCQ) assessment
+* Cased Based Discussion (CBD)
+* Structured Assessment using Multiple Patient Scenarios (StAMPS)
+* Procedural Skill Logbook (logbook) 
+
+**Advanced Specialised Training (AST) Requirements**
+
+**Time**: Minimum 1 years
+
+**Training**\
+Commence at PGY 3 or above.
+
+Train in regional, rural, remote, or city health services as appropriate to the chosen discipline.
+
+Complete training in at least one of the AST disciplines:
+
+* Aboriginal and Torres Strait Islander Health
+* Academic Practice
+* Adult Internal Medicine
+* Anaesthetics
+* Emergency Medicine
+* Mental Health
+* Obstetrics and Gynaecology
+* Paediatrics
+* Palliative Care
+* Population Health
+* Remote Medicine, and
+* Surgery.
+
+**Education**\
+Successfully complete:
+
+* education provided by the training post, and 
+* specific courses as outlined for each of the AST
+
+**Assessment**\
+Successfully complete:
+
+* three monthly reports
+* workplace based and standardised assessments as specified for each AST  
 
 #### Commencement of training
 
@@ -176,7 +250,70 @@ Where the training occurred in a regular training placement, the regular six mon
 
 Where a [case log](https://www.acrrm.org.au/docs/default-source/all-files/case-log-proforma.docx?sfvrsn=c8109feb_12) is provided as evidence, it is anticipated that all cases have been conducted by the registrar. To meet the training requirement, 50% or more cases must be conducted by the registrar.
 
-# INSERT TABLE HERE
+### Paediatrics requirement
+
+Completed at PGY1 or above through one of the options below.
+
+**Accreditation options**\
+Train in a post holding one of the following accreditations:
+
+* Post Graduate Medical Council (PMC) or
+* RACP basic training or 
+* ACRRM CGT or 
+* ACRRM AST Paediatrics
+
+**Training option**:
+
+* 10 weeks or more FTE Paediatrics placement
+
+**Evidence required**:
+
+* End of Term Assessment
+
+OR
+
+**Training option**:
+
+* Six months or more FTE emergency department placement, (where at least 25% of presentations are children)
+
+**Evidence required**:
+
+* End of Term Assessment or
+* Supervisor report or [Verification of Clinical Experience proforma](https://www.acrrm.org.au/docs/default-source/all-files/verification-of-clinical-experience-proformaec6a3019286b473baada4b19cd4d341a.pdf?sfvrsn=7eedd769_2)
+* Case log of 50 paediatric cases (16 years and under)
+
+OR
+
+**Training option**:
+
+* General Practice placement, or
+* Integrated rural hospital placement eg PIERCE*, or
+* Paediatrics outreach service placement, assisting a paediatrician (or paediatrics team) 
+
+Plus, for the three options above two educational activities in paediatrics, these may be online courses or workshops.
+
+**Evidence required**: 
+
+* End of Term Assessment, or
+* Supervisor report, or
+* [Verification of Clinical Experience proforma](https://www.acrrm.org.au/docs/default-source/all-files/verification-of-clinical-experience-proformaec6a3019286b473baada4b19cd4d341a.pdf?sfvrsn=7eedd769_2)
+  (if reports do not include dates and location this must be provided separately)
+* Case log of 50 paediatric cases (16 years and under)
+* Complete paediatrics component of Procedural Skills Logbook 
+* Evidence of two education activities
+
+OR
+
+\*\*
+**Training option**: 
+**Evidence required**: 
+
+OR
+
+**Training option**: 
+**Evidence required**: 
+
+OR
 
 ### Education
 
@@ -217,13 +354,82 @@ Tier 2:
 * Taught using interactive learning techniques, including simulation.
 * Recognised at state or national level.
 
-<u>*Approved Tier 1 courses*</u>
+#### Tier 1 courses, approved by ACRRM
 
-# INSERT TABLE HERE
+**Course**:  Advanced Life Support in Obstetrics (ALSO)\
+**Provider**: American Academy of Family Physicians
 
-<u>*Approved Tier 2 courses*</u>
+**Course**: Advanced Life Support (ALS) Level 2\
+**Provider**: Australian Resuscitation Council accredited
 
-# INSERT TABLE HERE
+**Course**: Advanced Paediatric Life Support (APLS)\
+**Provider**: APLS Australia & New Zealand
+
+**Course**: Australian and New Zealand Surgical Skills Education and Training (ASSET)\
+**Provider**: Royal Australasian College of Surgeons
+
+**Course**: Care of the Critically Ill Surgical Patient (CCrISP)\
+**Provider**: Royal Australasian College of Surgeons
+
+**Course**: Early Management of Severe Trauma (EMST)\
+**Provider**: Royal Australasian College of Surgeons
+
+**Course**: Advanced Trauma Life Support (ATLS)\
+**Provider**: American College of Surgeons
+
+**Course**: Emergency Trauma Management Course (ETM)\
+**Provider**: Emergency Trauma Management Pty Ltd
+
+**Course**: Effective Management of Anaesthetics Crises (EMAC)\
+**Provider**: Australian and NZ College of Anaesthetists
+
+**Course**: Major Incident Medical Management and Support (MIMMS) Advanced Course\
+**Provider**: Australia MIMMS
+
+**Course**: Managing Obstetric Emergencies & Trauma Course (MOET)\
+**Provider**: MOET Australia
+
+**Course**: Pre-Hospital Trauma Life Support (PHTLS)\
+**Provider**: NAEMT/American College of Surgeons
+
+**Course**: Rural Emergency Skills Program (RESP)\
+**Provider**: LearnEM
+
+**Course**: Clinical Emergency Management Program (CEMP) Advanced Workshop\
+**Provider**: Royal Australian College of General Practitioners
+
+#### Tier 2 courses, provided by the College
+
+**Course**: Advanced Life Support (ALS)\
+**Provider**: Australian College of Rural and Remote Medicine
+
+**Course**: Pre-Hospital and Emergency Care (PHEC)\
+**Provider**: Australian College of Rural and Remote Medicine
+
+**Course**: Rural Emergency Obstetrics Training (REOT)\
+**Provider**: Australian College of Rural and Remote Medicine
+
+**Course**: Rural Anaesthetic Crisis Management (RACM)\
+**Provider**: Australian College of Rural and Remote Medicine
+
+#### Tier 2 courses, approved by ACRRM and accredited for PDP
+
+[search the catalogue](https://mycollege.acrrm.org.au/search?query=Tier%202%20&collection=acrrm-meta-public)
+
+**Course**: Advanced and Complex Medical Emergencies\
+**Provider**: ACME approved providers
+
+**Course**: Advanced Life Support (ALS) Level 1\
+**Provider**: Australian Resuscitation Council accredited
+
+**Course**: ALS Emergency Medicine Course for GP Registrars\
+**Provider**: GPEx Regional Training Organisation
+
+**Course**: Approach to Medical Emergencies (AME)\
+**Provider**: General Practice Training Tasmania
+
+**Course**: Clinical Emergency Management Program (CEMP) Intermediate Workshop\
+**Provider**: Royal Australian College of General Practitioners
 
 Overseas courses that are equivalent to approved courses will also count.
 
@@ -249,10 +455,11 @@ To be considered as equivalent to one course, for:
 * ruralEM forum, registrars are required to 
 
   * complete 10 case studies with multiple-choice questions successfully completed 
-   
+
 The College's Online Courses can be accessed through the [ACRRM website](https://www.acrrm.org.au/courses/discover-our-courses/online).
 
 The library contains interactive courses that are mapped to the curriculum including case studies, in-depth content and discussion boards covering a diverse and expanding range of topics, such as:
+
 * dermatology (Tele-Derm)
 * palliative care
 * ruralEM forum
@@ -264,6 +471,7 @@ The library contains interactive courses that are mapped to the curriculum inclu
 Courses that are undertaken by registrars relating to the Rural Generalist Curriculum, that are five or more days in duration, may be approved to count towards Training Time.
 
 The following courses are approved for ADF registrars:
+
 * Medical Officer Introductory Course
 * RAAF Operational Health Support Course
 * Medical Officers Underwater Medicine (MOUM) Course
@@ -273,4 +481,150 @@ The following courses are approved for ADF registrars:
 * Occupational Medicine Course
 * Joint Health Planning Course
 
+### Assessment
 
+Registrars must satisfactorily complete the following assessments during CGT:
+
+* Supervisor reports, each six months, or at the end of a training placement if less than six months
+* Nine mini Clinical Evaluation Exercises (miniCEXs), conducted by supervisors, medical educators and other Fellows of ACRRM
+* Certification of the Procedural Logbook skills 
+* Multi-Source Feedback (MSF), early in training, ideally while working in primary care.
+
+Obtain a pass grade in the following assessment by the end of training:
+
+* Multiple Choice Questions (MCQ) 
+* Case Based Discussion (CBD)
+* Structured Assessment using Multiple Patient Scenarios (StAMPS)
+
+Information on these assessment and resources available to assist with preparing for assessment are provided in the [Fellowship Assessment Handbook](https://www.acrrm.org.au/resources/assessment/handbooks-guides).
+
+Assessment eligibility requirements must be met prior to enrolling into an assessment see the [Assessment Eligibility policy](https://www.acrrm.org.au/docs/default-source/all-files/assessment-eligibility-policy.pdf?sfvrsn=bcf9fecc_14).
+
+## Advanced Specialised Training
+
+Advanced Specialised Training (AST) may be undertaken at any stage of training providing that registrars are at least postgraduate year three or above. It is expected that registrars have core generalist knowledge and skills in the discipline prior to commencing AST. 
+
+### Training
+
+AST may be undertaken as full time or part time training or in two or more blocks as appropriate to the discipline. Training must be undertaken in a training post accredited by ACRRM and be supervised by ACRRM accredited supervisors.
+
+### Education
+
+Registrars are expected to average a minimum of four hours per week engaged in educational activities related to the AST. A record of education must be kept by the registrar and discussed with the Supervisor and Medical Educator regularly throughout training. 
+
+Registrars are expected to participate in the relevant Specialist College registrar education program where this is provided by the Training Post. The Specialist College education program should be supplemented with (or when a program is not provided, replaced with) education activities tailored to the AST curriculum. These education activities may come from a variety of sources. Courses that are provided or accredited by ACRRM are mapped to the Rural Generalist Curriculum to enable relevant courses to be identified. [Search ](https://mycollege.acrrm.org.au/search?query=&clive=acrrm-event-public&collection=acrrm-meta-public)under Online Learning for the relevant curriculum Learning Area provided by ACRRM.
+
+Registrars are encouraged to consider working towards related academic qualifications while undertaking their Advanced Specialised Training; especially when undertaking an AST in Population Health, Remote Medicine, Aboriginal and Torres Strait Islander Health, Academic Practice and Mental Health. This may include work towards Graduate Certificate, Graduate Diploma, or master’s level qualifications in a related area. See Appendix 3.
+
+### Assessment
+
+The following changes apply to registrars who commence an AST in 2021. Registrars who commenced an AST in 2020 or earlier are required to complete the requirements that applied when their AST commenced.
+
+The supervisor report is replaced by a [Plan and Progress Report](https://www.acrrm.org.au/docs/default-source/all-files/plan-and-progress-report-advanced-specialised-training.docx?sfvrsn=d722b3cc_2) which begins with a training plan and is updated by the registrar and supervisor every three months. The report is submitted to the training organisation and ACRRM at [training@acrrm.org.au](mailto:training@acrrm.org.au) along with completed workplace based assessments and course certificates.
+
+Registrars are strongly encouraged to complete and submit case based discussions conducted by a supervisor in addition to miniCEXs conducted by their supervisor. In the procedural ASTs some miniCEXs may be replaced by Direct Observation of Procedural Skills (DOPS). Formative workplace based assessments forms may be found [here](https://www.acrrm.org.au/resources/assessment/forms).
+
+Information and requirements for each type of assessment are provided in the [Assessment Handbook](https://www.acrrm.org.au/docs/default-source/documents/training-towards-fellowship/handbook-fellowship-assessment.pdf?sfvrsn=42ba86eb_36).
+
+### AST options
+
+There are twelve AST disciplines to choose from that will meet AST requirements. The time, training, education and assessment requirements for each AST disciplines are provided below.
+
+### Aboriginal and Torres Strait Islander Health
+
+#### Time
+
+Minimum 12 months FTE. 
+
+#### Training
+
+Train in Aboriginal Community Controlled Health Services accredited by ACRRM.
+
+#### Education
+
+Registrars participate in education sessions provided by the training post.
+
+Registrars will supplement their learning by completing ACRRM online courses which have content relevant to the AST for example:
+
+* Cultural Awareness module accredited for the Practice Incentive Payment (PIP) Indigenous Health Incentives or other cultural awareness training program accredited for PIP 
+* Effective Communication Skills
+* Youth Friendly Consultation Skills
+* Approach to Care courses 
+* Introduction to Population Health 
+* Rural Sexual Health courses
+* Alcohol and Other Drugs courses
+* Rural Doctors Family and Domestic Violence Education Package
+
+#### Assessment
+
+Registrars must submit to their training organisation and ACRRM: 
+
+* AST Plan and Progress Report completed by registrar and supervisor every three months 
+* Academic supervisor reports with project proposal and completed project
+* Five miniCEXs conducted by a supervisor 
+* Five Case Based Discussions conducted by a supervisor (strongly encouraged)
+
+Registrars must successfully complete a Project, during AST, that relates to Aboriginal and Torres Strait Islander Health that meets the requirements as documented in the Assessment Handbook.
+
+### Academic Practice
+
+#### Time
+
+Minimum 12 months FTE. 
+
+#### Training
+
+Train in ACRRM accredited placements that integrate academic practice (teaching and research) with a clinical workload.
+
+#### Education
+
+Registrars participate in education sessions provided by the training post related to Research and Clinical Education. It is expected that some courses at Graduate Certificate level or higher are completed. Other education activities may include attending conferences or completing practical courses such as Train the Trainer, Teaching on the Run, Teach the Teacher.
+
+The courses will be discussed with and guided by the Academic Supervisor. 
+
+#### Assessment
+
+Registrars must submit to their training organisation and ACRRM: 
+
+* AST Plan and Progress Report completed by registrar and supervisor every three months 
+* Academic supervisor reports with project proposal and completed project
+* Report on the observation and feedback of five teaching/assessment activities (comparable to miniCEX requirement, for academic activities)
+
+Registrars must successfully complete a Project, during the AST, that relates to Academic Practice that meets the requirements as documented in the Assessment Handbook.
+
+### Adult Internal Medicine
+
+#### Time
+
+Minimum 12 months FTE.
+
+#### Training
+
+Train in ACRRM accredited AIM AST posts, ideally in a regional or rural hospital. 
+
+Placements to include inpatient, outpatient and community based facilities. 
+
+Employed as registrar or equivalent position.
+
+#### Education
+
+Registrars participate in the RACP registrar education program and education tailored to the AST curriculum.
+
+Registrars must successfully complete or be a recognised instructor in one of the following adult EM courses:
+
+* Rural Emergency Skills Training (REST), or
+* Adult Life Support Australian Resuscitation Council Level 2 (ALS2), or
+* Emergency Life Support (ELS), or
+* Advanced and Complex Medical Emergencies (ACME)
+
+Registrars must attain one or more advanced diagnostic and/or therapeutic procedures eg exercise stress testing, Holter monitoring, ultrasound, endoscopy. 
+
+#### Assessment
+
+Registrars must submit to their training organisation and ACRRM: 
+
+* AST Plan and Progress Report completed by registrar and supervisor every three months 
+* Five miniCEXs conducted by a supervisor 
+* Five formative Case Based Discussions conducted by a supervisor (strongly encouraged)
+
+Registrars must gain a pass in AST AIM StAMPS.
