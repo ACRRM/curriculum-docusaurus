@@ -83,11 +83,85 @@ Advanced Specialised Training (AST) covers one year of training
 * in a specialised area relevant to the needs of rural communities
 * to allow autonomous delivery in a defined scope of specialist clinical practice.
 
-### Training program summary
+## Training program summary
 
 The table 1 below provides a summary of the training program requirements. 
 
-# INSERT TABLE HERE
+### Fellowship Training Program
+
+**Duration**: Minimum 4 years
+
+**Core Generalist Training (CGT) Requirements**
+
+**Time**: Minimum 3 years
+
+**Training**\
+Commence at post graduate year (PGY) 2 or above.\
+Train in regional, rural and remote general practices, hospitals, Aboriginal and Torres Strait Islander health services and retrieval services.
+
+Complete the minimum training requirements in the following:
+
+* primary care - six months 
+* secondary care - three months 
+* emergency care - three months
+* rural or remote practice -12 months
+* paediatrics 
+* obstetrics 
+* anaesthetics 
+
+**Education**\
+Successfully complete:
+
+* the education program as outlined and delivered by the College or training organisation 
+* Rural Emergency Skills Training (REST) and another emergency course/s 
+* a minimum of four “FACRRM recommended” online learning courses
+
+**Assessment**\
+Successfully complete:
+
+* Six monthly supervisor reports
+* Nine formative mini Clinical Evaluation Exercises (miniCEXs)
+* Multi-Source Feedback (MSF)
+* Multiple Choice Question (MCQ) assessment
+* Cased Based Discussion (CBD)
+* Structured Assessment using Multiple Patient Scenarios (StAMPS)
+* Procedural Skill Logbook (logbook) 
+
+**Advanced Specialised Training (AST) Requirements**
+
+**Time**: Minimum 1 years
+
+**Training**\
+Commence at PGY 3 or above.
+
+Train in regional, rural, remote, or city health services as appropriate to the chosen discipline.
+
+Complete training in at least one of the AST disciplines:
+
+* Aboriginal and Torres Strait Islander Health
+* Academic Practice
+* Adult Internal Medicine
+* Anaesthetics
+* Emergency Medicine
+* Mental Health
+* Obstetrics and Gynaecology
+* Paediatrics
+* Palliative Care
+* Population Health
+* Remote Medicine, and
+* Surgery.
+
+**Education**\
+Successfully complete:
+
+* education provided by the training post, and 
+* specific courses as outlined for each of the AST
+
+**Assessment**\
+Successfully complete:
+
+* three monthly reports
+* workplace based and standardised assessments as specified for each AST  
 
 #### Commencement of training
 
@@ -176,7 +250,40 @@ Where the training occurred in a regular training placement, the regular six mon
 
 Where a [case log](https://www.acrrm.org.au/docs/default-source/all-files/case-log-proforma.docx?sfvrsn=c8109feb_12) is provided as evidence, it is anticipated that all cases have been conducted by the registrar. To meet the training requirement, 50% or more cases must be conducted by the registrar.
 
-# INSERT TABLE HERE
+### Paediatrics requirement
+
+Completed at PGY1 or above through one of the options below.
+
+**Accreditation options**\
+Train in a post holding one of the following accreditations:
+
+* Post Graduate Medical Council (PMC) or
+* RACP basic training or 
+* ACRRM CGT or 
+* ACRRM AST Paediatrics
+
+**Training option**: 10 weeks or more FTE Paediatrics placement\
+**Evidence required**: End of Term Assessment
+
+or
+
+**Training option**: Six months or more FTE emergency department placement, (where at least 25% of presentations are children)\
+**Evidence required**: 
+* End of Term Assessment or
+* Supervisor report or [Verification of Clinical Experience proforma](https://www.acrrm.org.au/docs/default-source/all-files/verification-of-clinical-experience-proformaec6a3019286b473baada4b19cd4d341a.pdf?sfvrsn=7eedd769_2)
+* Case log of 50 paediatric cases (16 years and under)
+
+or
+
+**Training option**: 
+**Evidence required**: 
+
+or
+
+**Training option**: 
+**Evidence required**: 
+
+or
 
 ### Education
 
@@ -325,14 +432,21 @@ Information and requirements for each type of assessment are provided in the [As
 There are twelve AST disciplines to choose from that will meet AST requirements. The time, training, education and assessment requirements for each AST disciplines are provided below.
 
 ### Aboriginal and Torres Strait Islander Health
+
 #### Time
+
 Minimum 12 months FTE. 
+
 #### Training
+
 Train in Aboriginal Community Controlled Health Services accredited by ACRRM.
+
 #### Education
+
 Registrars participate in education sessions provided by the training post.
 
 Registrars will supplement their learning by completing ACRRM online courses which have content relevant to the AST for example:
+
 * Cultural Awareness module accredited for the Practice Incentive Payment (PIP) Indigenous Health Incentives or other cultural awareness training program accredited for PIP 
 * Effective Communication Skills
 * Youth Friendly Consultation Skills
@@ -341,8 +455,11 @@ Registrars will supplement their learning by completing ACRRM online courses whi
 * Rural Sexual Health courses
 * Alcohol and Other Drugs courses
 * Rural Doctors Family and Domestic Violence Education Package
+
 #### Assessment
+
 Registrars must submit to their training organisation and ACRRM: 
+
 * AST Plan and Progress Report completed by registrar and supervisor every three months 
 * Academic supervisor reports with project proposal and completed project
 * Five miniCEXs conducted by a supervisor 
@@ -351,16 +468,25 @@ Registrars must submit to their training organisation and ACRRM:
 Registrars must successfully complete a Project, during AST, that relates to Aboriginal and Torres Strait Islander Health that meets the requirements as documented in the Assessment Handbook.
 
 ### Academic Practice
-#### Time 
+
+#### Time
+
 Minimum 12 months FTE. 
+
 #### Training
+
 Train in ACRRM accredited placements that integrate academic practice (teaching and research) with a clinical workload.
+
 #### Education
+
 Registrars participate in education sessions provided by the training post related to Research and Clinical Education. It is expected that some courses at Graduate Certificate level or higher are completed. Other education activities may include attending conferences or completing practical courses such as Train the Trainer, Teaching on the Run, Teach the Teacher.
 
 The courses will be discussed with and guided by the Academic Supervisor. 
+
 #### Assessment
+
 Registrars must submit to their training organisation and ACRRM: 
+
 * AST Plan and Progress Report completed by registrar and supervisor every three months 
 * Academic supervisor reports with project proposal and completed project
 * Report on the observation and feedback of five teaching/assessment activities (comparable to miniCEX requirement, for academic activities)
@@ -368,27 +494,36 @@ Registrars must submit to their training organisation and ACRRM:
 Registrars must successfully complete a Project, during the AST, that relates to Academic Practice that meets the requirements as documented in the Assessment Handbook.
 
 ### Adult Internal Medicine
+
 #### Time
+
 Minimum 12 months FTE.
+
 #### Training
+
 Train in ACRRM accredited AIM AST posts, ideally in a regional or rural hospital. 
 
 Placements to include inpatient, outpatient and community based facilities. 
 
 Employed as registrar or equivalent position.
 
-#### Education 
+#### Education
+
 Registrars participate in the RACP registrar education program and education tailored to the AST curriculum.
 
 Registrars must successfully complete or be a recognised instructor in one of the following adult EM courses:
+
 * Rural Emergency Skills Training (REST), or
 * Adult Life Support Australian Resuscitation Council Level 2 (ALS2), or
 * Emergency Life Support (ELS), or
 * Advanced and Complex Medical Emergencies (ACME)
 
 Registrars must attain one or more advanced diagnostic and/or therapeutic procedures eg exercise stress testing, Holter monitoring, ultrasound, endoscopy. 
+
 #### Assessment
+
 Registrars must submit to their training organisation and ACRRM: 
+
 * AST Plan and Progress Report completed by registrar and supervisor every three months 
 * Five miniCEXs conducted by a supervisor 
 * Five formative Case Based Discussions conducted by a supervisor (strongly encouraged)
