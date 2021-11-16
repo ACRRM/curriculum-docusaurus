@@ -353,7 +353,49 @@ Tier 2:
 
 <u>*Approved Tier 1 courses*</u>
 
-# INSERT TABLE HERE
+### Tier 1 courses, approved by ACRRM
+
+**Course**:  Advanced Life Support in Obstetrics (ALSO)\
+**Provider**: American Academy of Family Physicians
+
+**Course**: Advanced Life Support (ALS) Level 2\
+**Provider**: Australian Resuscitation Council accredited
+
+**Course**: Advanced Paediatric Life Support (APLS)\
+**Provider**: APLS Australia & New Zealand
+
+**Course**: Australian and New Zealand Surgical Skills Education and Training (ASSET)\
+**Provider**: Royal Australasian College of Surgeons
+
+**Course**: Care of the Critically Ill Surgical Patient (CCrISP)\
+**Provider**: Royal Australasian College of Surgeons
+
+**Course**: Early Management of Severe Trauma (EMST)\
+**Provider**: Royal Australasian College of Surgeons
+
+**Course**: Advanced Trauma Life Support (ATLS)\
+**Provider**: American College of Surgeons
+
+**Course**: Emergency Trauma Management Course (ETM)\
+**Provider**: Emergency Trauma Management Pty Ltd
+
+**Course**: Effective Management of Anaesthetics Crises (EMAC)\
+**Provider**: Australian and NZ College of Anaesthetists
+
+**Course**: Major Incident Medical Management and Support (MIMMS) Advanced Course\
+**Provider**: Australia MIMMS
+
+**Course**: Managing Obstetric Emergencies & Trauma Course (MOET)\
+**Provider**: MOET Australia
+
+**Course**: Pre-Hospital Trauma Life Support (PHTLS)\
+**Provider**: NAEMT/American College of Surgeons
+
+**Course**: Rural Emergency Skills Program (RESP)\
+**Provider**: LearnEM
+
+**Course**: Clinical Emergency Management Program (CEMP) Advanced Workshop\
+**Provider**: Royal Australian College of General Practitioners
 
 <u>*Approved Tier 2 courses*</u>
 
