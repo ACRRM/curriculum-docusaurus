@@ -85,7 +85,7 @@ Advanced Specialised Training (AST) covers one year of training
 
 ## Training program summary
 
-The table 1 below provides a summary of the training program requirements. 
+The training program requirements are summarised below.
 
 ### Fellowship Training Program
 
@@ -262,21 +262,21 @@ Train in a post holding one of the following accreditations:
 * ACRRM CGT or 
 * ACRRM AST Paediatrics
 
-**Training option**:
+**Training option 1**:
 
 * 10 weeks or more FTE Paediatrics placement
 
-**Evidence required**:
+Evidence required:
 
 * End of Term Assessment
 
 OR
 
-**Training option**:
+**Training option 2**:
 
 * Six months or more FTE emergency department placement, (where at least 25% of presentations are children)
 
-**Evidence required**:
+Evidence required:
 
 * End of Term Assessment or
 * Supervisor report or [Verification of Clinical Experience proforma](https://www.acrrm.org.au/docs/default-source/all-files/verification-of-clinical-experience-proformaec6a3019286b473baada4b19cd4d341a.pdf?sfvrsn=7eedd769_2)
@@ -284,7 +284,7 @@ OR
 
 OR
 
-**Training option**:
+**Training option 3**:
 
 * General Practice placement, or
 * Integrated rural hospital placement eg PIERCE*, or
@@ -292,7 +292,7 @@ OR
 
 Plus, for the three options above two educational activities in paediatrics, these may be online courses or workshops.
 
-**Evidence required**: 
+Evidence required: 
 
 * End of Term Assessment, or
 * Supervisor report, or
@@ -356,11 +356,8 @@ Tier 2:
 
 #### Tier 1 courses, approved by ACRRM
 
-**Course**:  Advanced Life Support in Obstetrics (ALSO)\
-**Provider**: American Academy of Family Physicians
-
-**Course**: Advanced Life Support (ALS) Level 2\
-**Provider**: Australian Resuscitation Council accredited
+*  Advanced Life Support in Obstetrics (ALSO): American Academy of Family Physicians
+* Advanced Life Support (ALS) Level 2: Australian Resuscitation Council accredited
 
 **Course**: Advanced Paediatric Life Support (APLS)\
 **Provider**: APLS Australia & New Zealand
@@ -532,7 +529,7 @@ There are twelve AST disciplines to choose from that will meet AST requirements.
 
 ### Aboriginal and Torres Strait Islander Health
 
-#### Time
+#### Time 
 
 Minimum 12 months FTE. 
 
