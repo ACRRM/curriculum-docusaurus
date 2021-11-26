@@ -1200,12 +1200,67 @@ Registrars must successfully complete the following courses:
 * Care of the Critically Ill Patient (CCrISP)
 
 Candidates are required to undertake Gastroscopy & Colonoscopy training that meets the requirements of the [Conjoint Committee for Recognition of Training in Gastrointestinal Endoscopy](https://www.conjoint.org.au/) (CCRTGE). Candidates provide confirmation from the Conjoint Committee that the application for recognition has been approved and the CCRTGE certificate will be issued once Fellowship is awarded.
-Assessment
+
+**Assessment**
+
 Registrars must submit to their training organisation and ACRRM: 
-•	AST Plan and Progress Report completed by registrar and supervisor every three months 
-•	A log of surgical procedures 
-•	Ten miniCEXs conducted by their supervisor (five miniCEXs may be replaced by Direct Observation of Procedural Skills (DOPS))
-•	Five Case Based Discussions conducted by their supervisor (strongly encouraged) 
+* AST Plan and Progress Report completed by registrar and supervisor every three months 
+* A log of surgical procedures 
+* Ten miniCEXs conducted by their supervisor (five miniCEXs may be replaced by Direct Observation of Procedural Skills (DOPS))
+* Five Case Based Discussions conducted by their supervisor (strongly encouraged) 
+
 Registrars must gain a pass in AST Surgery StAMPS. 
-Training Program Policies 
-View training program policies
+
+### Training Program Policies 
+[View training program policies](https://www.acrrm.org.au/resources/training/policies)
+
+## Training
+**Eligibility for Training**
+
+This policy describes the eligibility requirements to apply to the ACRRM Training Program. It covers eligibility for first time applicants, repeat applicants and applicants who have previously been accepted for training but not completed.
+
+**Recognition of Prior Learning**
+
+This policy aims to provide guidelines for the granting of recognition of prior learning that is deemed comparable to the training program requirements for training, education and assessment program. Recognition of prior learning is assessed in consideration of currency of experience, skills, knowledge and time.
+
+**Training Program Requirements**
+
+This policy defines the requirements that must be met to complete the ACRRM Training Program. 
+
+**Performance and Progression** 
+
+This policy sets the requirement for registrars to demonstrate progression through training and to improve the level of performance during training. Registrars must achieve Fellowship within 10 calendar years from the commencement of training unless there are extenuating and unforeseen circumstances.
+
+**Training Time** 
+
+This policy defines the minimum Training Time for registrars on the ACRRM Training Program. It defines how training time is accrued and provisions for part-time training. 
+
+**Training Placements**
+
+This policy sets the requirements that need to be met to have a placement count towards Training Time.
+
+**Overseas Training Placements**
+
+This policy sets the requirements that need to be met for training placements to be undertaken outside Australia. 
+
+**Medicare Provider Number** 
+
+The policy defines the situations where ACRRM will support an application to be placed on the Register of Approved Placements while in training, and when advice will be provided to Department of Human Services (DHS) to remove a registrar from the Register of Approved Placements. This policy applies to IP registrars only.
+
+**Registrar in Difficulty**
+
+This policy defines ‘a registrar in difficulty’ in the context of the Training Program and defines the responsibilities for the registrar, training post, training organisation and the college when a difficulty is identified.
+ 
+**Leave from Training**
+
+This policy defines leave that can be taken while on the Training Program, including statutory and additional leave. Additional leave provisions are specific to the training pathway, links are provided to relevant policies.
+
+**Training Pathway Transfer**
+
+This describes the policy to transfer from AGPT or RVTS training pathways to IP.
+
+**Withdrawal from Training**
+
+This policy defines voluntary and involuntary withdrawal from training, the reasons for actioning involuntary withdrawal and the actions that follow withdrawal.
+Doctors who have withdrawn either voluntarily or involuntarily may apply for re-entry to training, acceptance is at the discretion of the College.
+
