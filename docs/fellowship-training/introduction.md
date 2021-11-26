@@ -85,7 +85,7 @@ Advanced Specialised Training (AST) covers one year of training
 
 ## Training program summary
 
-The table 1 below provides a summary of the training program requirements. 
+The training program requirements are summarised below.
 
 ### Fellowship Training Program
 
@@ -254,6 +254,9 @@ Where a [case log](https://www.acrrm.org.au/docs/default-source/all-files/case-l
 
 Completed at PGY1 or above through one of the options below.
 
+**Competencies**
+The knowledge, skills and attributes that are being worked towards are defined in the Rural Generalist Curriculum: Paediatrics learning area.
+
 **Accreditation options**\
 Train in a post holding one of the following accreditations:
 
@@ -262,21 +265,21 @@ Train in a post holding one of the following accreditations:
 * ACRRM CGT or 
 * ACRRM AST Paediatrics
 
-**Training option**:
+**Training option 1**:
 
 * 10 weeks or more FTE Paediatrics placement
 
-**Evidence required**:
+Evidence required:
 
 * End of Term Assessment
 
 OR
 
-**Training option**:
+**Training option 2**:
 
 * Six months or more FTE emergency department placement, (where at least 25% of presentations are children)
 
-**Evidence required**:
+Evidence required:
 
 * End of Term Assessment or
 * Supervisor report or [Verification of Clinical Experience proforma](https://www.acrrm.org.au/docs/default-source/all-files/verification-of-clinical-experience-proformaec6a3019286b473baada4b19cd4d341a.pdf?sfvrsn=7eedd769_2)
@@ -284,7 +287,7 @@ OR
 
 OR
 
-**Training option**:
+**Training option 3**:
 
 * General Practice placement, or
 * Integrated rural hospital placement eg PIERCE*, or
@@ -292,7 +295,7 @@ OR
 
 Plus, for the three options above two educational activities in paediatrics, these may be online courses or workshops.
 
-**Evidence required**: 
+Evidence required: 
 
 * End of Term Assessment, or
 * Supervisor report, or
@@ -302,18 +305,342 @@ Plus, for the three options above two educational activities in paediatrics, the
 * Complete paediatrics component of Procedural Skills Logbook 
 * Evidence of two education activities
 
-OR
-
-\*\*
-**Training option**: 
-**Evidence required**: 
+*\*PIERCE A Queensland Rural Generalist Program, Prevocational Integrated Extended Rural Clinical Experience. May cover anaesthetics, paediatrics and obstetrics providing enough cases are seen.*
 
 OR
 
-**Training option**: 
-**Evidence required**: 
+**Training option 4**: 
+
+* Sydney Child Health Program
+
+Evidence required: 
+
+* Evidence of completion
 
 OR
+
+**Training option 5**: 
+
+* AST Paediatrics
+
+Evidence required: 
+
+* Letter of completion
+
+### Obstetrics requirement
+
+Completed at PGY1 or above through one of the options below.
+
+**Competencies**
+The knowledge, skills and attributes that are being worked towards are defined in the Rural Generalist Curriculum: Obstetrics and Gynaecology learning area.
+
+**Accreditation options**
+Train in a post holding one of the following accreditations:
+
+* PMC 
+* RANZCOG Fellowship training, or 
+* RANZCOG Advanced Diploma training 
+* ACRRM CGT
+
+**Training option 1**:
+
+* 10 weeks or more FTE O&G placement
+
+Evidence required:
+
+* End of Term Assessment
+
+OR
+
+**Training option 2**: 
+
+* Clinical attachment or work with a Specialist or GP obstetrician (minimum of 10 half day sessions over no more than 6 months), or
+* General Practice placement, or
+* Integrated rural hospital placement eg PIERCE*
+
+Plus for the three options above, demonstrate intrapartum care either:
+
+* through deliveries, or
+* through simulation by completing one of the following courses
+
+  * Rural Emergency Obstetrics Training (REOT), or
+  * Preparation in Maternity Safety (PIMS), or
+  * RVTS workshops, or 
+  * CRANA Maternity Emergency care course
+
+Evidence required: 
+
+* Confirmation of 10 sessions (if relevant) 
+* End of Term Assessment or
+  Supervisor report or [Verification of Clinical Experience proforma](https://www.acrrm.org.au/docs/default-source/all-files/verification-of-clinical-experience-proformaec6a3019286b473baada4b19cd4d341a.pdf?sfvrsn=7eedd769_2) (if reports do not include dates and location this must be provided separately)
+* Case log of 25 antenatal and 25 postnatal cases 
+* Complete O&G component of Procedural Skills Logbook (including manage normal delivery)
+* Course certificate
+
+*\*PIERCE A Queensland Rural Generalist Program, Prevocational Integrated Extended Rural Clinical Experience. May cover anaesthetics, paediatrics and obstetrics providing enough cases are seen.*
+
+OR
+
+**Training option 3**: 
+
+* [Certificate in Women's Health](https://www.ranzcog.edu.au/Training/Certificate-Diploma)
+* [DRANZCOG](https://www.ranzcog.edu.au/Training/Certificate-Diploma), or
+* [DRANZCOG Advanced](https://www.ranzcog.edu.au/Training/Certificate-Diploma)
+
+Evidence required: 
+
+* Evidence of completion
+
+### Anaesthetic requirement
+
+Completed at PGY1 or above through one of the options below.
+
+**Competencies**
+The knowledge, skills and attributes that are being worked towards are defined in the Rural Generalist Curriculum: Anaesthetics learning area.
+
+**Accreditation options**
+Train in a post holding one of the following accreditations:
+
+* PMC
+* ANZCA training, or
+* JCAA training, or
+* Supervisor with appropriate anaesthetic qualification/credentialing when undertaking sessions
+
+**Training options**
+
+**Training option 1**: 
+
+* 10-weeks or more FTE anaesthetics placements
+
+Evidence required:
+
+* End of Term Assessment
+
+OR
+
+**Training option 2**: 
+
+* Six months or more FTE in a combination of placements providing anaesthetics skills (e.g.  ICU, emergency, or retrieval) 
+* Integrated rural hospital placement eg PIERCE* 
+
+Evidence required:
+
+* End of Term Assessment, or Supervisor report, or [Verification of Clinical Experience proforma](https://www.acrrm.org.au/docs/default-source/all-files/verification-of-clinical-experience-proformaec6a3019286b473baada4b19cd4d341a.pdf?sfvrsn=7eedd769_2)
+  (if reports do not include dates and location this must be provided separately)
+* Complete Anaesthetics component of Procedural Skills Logbook
+* Log 50 procedures selected from the Anaesthetic component in the Procedural Skills Logbook 
+
+*\*PIERCE A Queensland Rural Generalist Program, Prevocational Integrated Extended Rural Clinical Experience. May cover anaesthetics, paediatrics and obstetrics providing enough cases are seen.*
+
+OR
+
+**Training option 3**: 
+
+* Clinical attachment or work with a Specialist or GP anaesthetist minimum of 10 anaesthetic half day sessions.
+
+Plus, an advanced airways skills workshop, for example:
+
+* Rural Anaesthetics Crisis Management (RACM), which will also count as Tier 2 EM course,
+  or
+* RVTS workshop (RVTS registrars only)
+
+Evidence required:
+
+* Confirmation of 10 sessions 
+* Supervisor report, or [Verification of Clinical Experience proforma](https://www.acrrm.org.au/docs/default-source/all-files/verification-of-clinical-experience-proformaec6a3019286b473baada4b19cd4d341a.pdf?sfvrsn=7eedd769_2)
+* Log 50 procedures selected from the Anaesthetic component in the Procedural Skills Logbook 
+* Complete Anaesthetics component of Procedural Skills Logbook 
+* Evidence of workshop completion
+
+OR
+
+**Training option 4**: 
+
+* ProStart Anaesthetics program\
+  This requires undertaking sessions with an anaesthetist while working through the program
+
+Evidence required:
+
+* Course logbook and supervisor sign off
+* Complete Anaesthetics component of Procedural Skills Logbook 
+
+OR
+
+**Training option 5**: 
+
+* AST in Anaesthetics (JCAA)
+
+Evidence required:
+
+* Letter of completion
+
+### Primary Care requirement
+
+Primary care training of six months or more FTE at PGY 2 or above
+
+**Competencies**
+The competencies required are defined in Rural Generalist Curriculum:
+
+* Domain 2: Provide primary care
+* Domain 1: Provide expert medical care in all rural contexts
+* Domain 7: Practise medicine within an ethical, intellectual and professional framework
+
+**Accreditation options**
+
+* Train in a post holding ACRRM accreditation for CGT, to cover primary care
+
+**Training option 1**:
+
+* Six months or more FTE, or
+* Prorated over a longer period for part time
+
+To demonstrate continuity of care, primary care training must be undertaken:
+
+* no less than two days per week (averaged over one month), or
+* in FTE blocks, of no less that three months duration
+
+Evidence requirement:
+
+* Supervisor reports
+* Training organisation records
+
+### Secondary care requirement
+
+Secondary care training of three months or more FTE at PGY 2 or above.
+
+**Competencies**
+The competencies required are defined in Rural Generalist Curriculum:
+
+* Domain 3: Provide secondary medical care
+* Domain 1: Provide expert medical care in all rural contexts
+* Domain 7: Practise medicine within an ethical, intellectual and professional framework
+
+**Accreditation options**
+Train in a post holding one of the following accreditations:
+
+* ACRRM CGT, to cover secondary care
+* ACRRM AST
+* PMC, or
+* Specialist College Accreditation 
+
+**Training option 1**:
+
+* Three months or more FTE of hospital placements providing skills relevant to rural practice, (see Tertiary hospital placements section page 7), or
+* Minimum of 60 inpatient rural generalist hospital shifts (minimum eight hours), or
+* Visiting Medical Officer (VMO) with admitting rights, admitting and managing care, for an average of three inpatients per week, over a period of at least 12 months
+
+Evidence requirement:
+
+* End of Term Assessment, or Supervisor report, or [Verification of Clinical Experience proforma](https://www.acrrm.org.au/docs/default-source/all-files/verification-of-clinical-experience-proformaec6a3019286b473baada4b19cd4d341a.pdf?sfvrsn=7eedd769_2)
+* Confirmation that time or number of shifts has been completed (if relevant)
+* Training organisation records
+
+OR
+
+**Training option 2**:
+
+* Advanced Specialised Training in AIM, Mental Health, O&G, Paediatrics or Surgery
+
+Evidence requirement:
+
+* Evidence of completion
+
+### Emergency care requirement
+
+Emergency care training of three months or more FTE at PGY2 or above
+
+**Competencies**
+
+The competencies required are defined in Rural Generalist Curriculum:
+
+* Domain 4:  Respond to medical emergencies 
+* Domain 1: Provide expert medical care in all rural contexts
+* Domain 7: Practise medicine within an ethical, intellectual and professional framework
+
+**Accreditation options**
+Train in a post holding one of the following accreditations:
+
+* ACRRM CGT to cover EM or
+* PMC or
+* ACEM Fellowship or Diploma, Certificate training, or
+* AST EM training
+
+**Training option 1**:
+
+* Three months or more FTE emergency placement, or
+* Minimum of 60, (minimum eight hour) shifts in an emergency department, or
+* Minimum 12 months FTE in an integrated rural hospital or hospital that provides 24/7 emergency cover, (demonstrating a minimum of 60 shifts), or 
+* Minimum of 12 months of providing one in four after hours or weekend cover in an emergency department in a hospital that provides 24/7 emergency cover
+
+Evidence requirement:
+
+* End of Term Assessment, or Supervisor reports, or [Verification of Clinical Experience proforma](https://www.acrrm.org.au/docs/default-source/all-files/verification-of-clinical-experience-proformaec6a3019286b473baada4b19cd4d341a.pdf?sfvrsn=7eedd769_2)
+* Confirmation that time or number of shifts has been completed (if relevant)
+* Training organisation records
+
+OR
+
+**Training option 2**:
+
+* Advanced Specialised Training in Emergency Medicine
+
+Evidence requirement:
+
+* Evidence of completion
+
+### Rural and remote practice requirement
+
+Rural and remote practice training of 12 months or more FTE at PGY2 or above
+
+**Competencies**
+The competencies required are defined in Rural Generalist Curriculum:
+
+* Domain 8: Provide safe medical care while working in geographic and professional isolation
+* Domain 1: Provide expert medical care in all rural contexts
+* Domain 5: Apply a population health approach
+* Domain 6: Work with Aboriginal, Torres Strait Islander, and other culturally diverse communities to improve health and wellbeing
+* Domain 7: Practise medicine within an ethical, intellectual and professional framework
+
+**Accreditation options**
+
+* Train in a post holding accreditation for ACRRM CGT, to cover R&R
+
+**Training option 1**:
+
+* 12 months FTE living and working in rural or remote community (MM 4-7, or 3 case by case).
+* May live and work in different communities providing they are both rural. 
+
+The following options providing they total 12 months FTE are suitable: 
+
+* living and working in the rural location averaging four or more days per week, for example regular fly in fly out arrangements 
+* living and working FTE in rural location in blocks, each of at least three months duration 
+
+Evidence requirement:
+
+* Supervisor reports
+* Training organisation records
+
+**Training option 2**:
+(Prospective approval where time permits, retrospective for short notice deployments)
+
+ADF registrars may include up to six months FTE for the following deployments:
+
+* at sea aboard a Navy ship
+* leading the treatment team in remote field environment
+* in a military field hospital
+* in an aeromedical evacuation
+* or other types of work as approved
+
+This applies to deployments as a medical officer of 14 or more continuous days, including pre-activity preparation and post activity refurbishment, but not travel.
+
+Evidence requirement:
+
+* Supervisor report
+* Evidence of:
+
+  * time and
+  * role and
+  * case/treatment log
 
 ### Education
 
@@ -356,80 +683,37 @@ Tier 2:
 
 #### Tier 1 courses, approved by ACRRM
 
-**Course**:  Advanced Life Support in Obstetrics (ALSO)\
-**Provider**: American Academy of Family Physicians
-
-**Course**: Advanced Life Support (ALS) Level 2\
-**Provider**: Australian Resuscitation Council accredited
-
-**Course**: Advanced Paediatric Life Support (APLS)\
-**Provider**: APLS Australia & New Zealand
-
-**Course**: Australian and New Zealand Surgical Skills Education and Training (ASSET)\
-**Provider**: Royal Australasian College of Surgeons
-
-**Course**: Care of the Critically Ill Surgical Patient (CCrISP)\
-**Provider**: Royal Australasian College of Surgeons
-
-**Course**: Early Management of Severe Trauma (EMST)\
-**Provider**: Royal Australasian College of Surgeons
-
-**Course**: Advanced Trauma Life Support (ATLS)\
-**Provider**: American College of Surgeons
-
-**Course**: Emergency Trauma Management Course (ETM)\
-**Provider**: Emergency Trauma Management Pty Ltd
-
-**Course**: Effective Management of Anaesthetics Crises (EMAC)\
-**Provider**: Australian and NZ College of Anaesthetists
-
-**Course**: Major Incident Medical Management and Support (MIMMS) Advanced Course\
-**Provider**: Australia MIMMS
-
-**Course**: Managing Obstetric Emergencies & Trauma Course (MOET)\
-**Provider**: MOET Australia
-
-**Course**: Pre-Hospital Trauma Life Support (PHTLS)\
-**Provider**: NAEMT/American College of Surgeons
-
-**Course**: Rural Emergency Skills Program (RESP)\
-**Provider**: LearnEM
-
-**Course**: Clinical Emergency Management Program (CEMP) Advanced Workshop\
-**Provider**: Royal Australian College of General Practitioners
+* Advanced Life Support in Obstetrics (ALSO): American Academy of Family Physicians
+* Advanced Life Support (ALS) Level 2: Australian Resuscitation Council accredited
+* Advanced Paediatric Life Support (APLS): APLS Australia & New Zealand
+* Australian and New Zealand Surgical Skills Education and Training (ASSET): Royal *Australasian College of Surgeons
+* Care of the Critically Ill Surgical Patient (CCrISP): Royal Australasian College of Surgeons
+* Early Management of Severe Trauma (EMST): Royal Australasian College of Surgeons
+* Advanced Trauma Life Support (ATLS): American College of Surgeons
+* Emergency Trauma Management Course (ETM): Emergency Trauma Management Pty Ltd
+* Effective Management of Anaesthetics Crises (EMAC): Australian and NZ College of Anaesthetists
+* Major Incident Medical Management and Support (MIMMS) Advanced Course: Australia MIMMS
+* Managing Obstetric Emergencies & Trauma Course (MOET): MOET Australia
+* Pre-Hospital Trauma Life Support (PHTLS): NAEMT/American College of Surgeons
+* Rural Emergency Skills Program (RESP): LearnEM
+* Clinical Emergency Management Program (CEMP) Advanced Workshop: Royal Australian College of General Practitioners
 
 #### Tier 2 courses, provided by the College
 
-**Course**: Advanced Life Support (ALS)\
-**Provider**: Australian College of Rural and Remote Medicine
-
-**Course**: Pre-Hospital and Emergency Care (PHEC)\
-**Provider**: Australian College of Rural and Remote Medicine
-
-**Course**: Rural Emergency Obstetrics Training (REOT)\
-**Provider**: Australian College of Rural and Remote Medicine
-
-**Course**: Rural Anaesthetic Crisis Management (RACM)\
-**Provider**: Australian College of Rural and Remote Medicine
+* Advanced Life Support (ALS): Australian College of Rural and Remote Medicine
+* Pre-Hospital and Emergency Care (PHEC): Australian College of Rural and Remote Medicine
+* Rural Emergency Obstetrics Training (REOT): Australian College of Rural and Remote Medicine
+* Rural Anaesthetic Crisis Management (RACM): Australian College of Rural and Remote Medicine
 
 #### Tier 2 courses, approved by ACRRM and accredited for PDP
 
 [search the catalogue](https://mycollege.acrrm.org.au/search?query=Tier%202%20&collection=acrrm-meta-public)
 
-**Course**: Advanced and Complex Medical Emergencies\
-**Provider**: ACME approved providers
-
-**Course**: Advanced Life Support (ALS) Level 1\
-**Provider**: Australian Resuscitation Council accredited
-
-**Course**: ALS Emergency Medicine Course for GP Registrars\
-**Provider**: GPEx Regional Training Organisation
-
-**Course**: Approach to Medical Emergencies (AME)\
-**Provider**: General Practice Training Tasmania
-
-**Course**: Clinical Emergency Management Program (CEMP) Intermediate Workshop\
-**Provider**: Royal Australian College of General Practitioners
+* Advanced and Complex Medical Emergencies: ACME approved providers
+* Advanced Life Support (ALS) Level 1: Australian Resuscitation Council accredited
+* ALS Emergency Medicine Course for GP Registrars: GPEx Regional Training Organisation
+* Approach to Medical Emergencies (AME): General Practice Training Tasmania
+* Clinical Emergency Management Program (CEMP) Intermediate Workshop: Royal Australian College of General Practitioners
 
 Overseas courses that are equivalent to approved courses will also count.
 
@@ -526,21 +810,19 @@ Registrars are strongly encouraged to complete and submit case based discussions
 
 Information and requirements for each type of assessment are provided in the [Assessment Handbook](https://www.acrrm.org.au/docs/default-source/documents/training-towards-fellowship/handbook-fellowship-assessment.pdf?sfvrsn=42ba86eb_36).
 
-### AST options
+## AST options
 
 There are twelve AST disciplines to choose from that will meet AST requirements. The time, training, education and assessment requirements for each AST disciplines are provided below.
 
 ### Aboriginal and Torres Strait Islander Health
 
-#### Time
+**Time:** Minimum 12 months FTE. 
 
-Minimum 12 months FTE. 
-
-#### Training
+**Training** 
 
 Train in Aboriginal Community Controlled Health Services accredited by ACRRM.
 
-#### Education
+**Education**
 
 Registrars participate in education sessions provided by the training post.
 
@@ -555,7 +837,7 @@ Registrars will supplement their learning by completing ACRRM online courses whi
 * Alcohol and Other Drugs courses
 * Rural Doctors Family and Domestic Violence Education Package
 
-#### Assessment
+**Assessment**
 
 Registrars must submit to their training organisation and ACRRM: 
 
@@ -568,21 +850,17 @@ Registrars must successfully complete a Project, during AST, that relates to Abo
 
 ### Academic Practice
 
-#### Time
+**Time:** Minimum 12 months FTE. 
 
-Minimum 12 months FTE. 
+**Training:** Train in ACRRM accredited placements that integrate academic practice (teaching and research) with a clinical workload.
 
-#### Training
-
-Train in ACRRM accredited placements that integrate academic practice (teaching and research) with a clinical workload.
-
-#### Education
+**Education**
 
 Registrars participate in education sessions provided by the training post related to Research and Clinical Education. It is expected that some courses at Graduate Certificate level or higher are completed. Other education activities may include attending conferences or completing practical courses such as Train the Trainer, Teaching on the Run, Teach the Teacher.
 
 The courses will be discussed with and guided by the Academic Supervisor. 
 
-#### Assessment
+**Assessment**
 
 Registrars must submit to their training organisation and ACRRM: 
 
@@ -594,11 +872,9 @@ Registrars must successfully complete a Project, during the AST, that relates to
 
 ### Adult Internal Medicine
 
-#### Time
+**Time:** Minimum 12 months FTE.
 
-Minimum 12 months FTE.
-
-#### Training
+**Training** 
 
 Train in ACRRM accredited AIM AST posts, ideally in a regional or rural hospital. 
 
@@ -606,7 +882,7 @@ Placements to include inpatient, outpatient and community based facilities.
 
 Employed as registrar or equivalent position.
 
-#### Education
+**Education**
 
 Registrars participate in the RACP registrar education program and education tailored to the AST curriculum.
 
@@ -619,7 +895,7 @@ Registrars must successfully complete or be a recognised instructor in one of th
 
 Registrars must attain one or more advanced diagnostic and/or therapeutic procedures eg exercise stress testing, Holter monitoring, ultrasound, endoscopy. 
 
-#### Assessment
+**Assessment**
 
 Registrars must submit to their training organisation and ACRRM: 
 
@@ -628,3 +904,363 @@ Registrars must submit to their training organisation and ACRRM:
 * Five formative Case Based Discussions conducted by a supervisor (strongly encouraged)
 
 Registrars must gain a pass in AST AIM StAMPS.
+
+### Anaesthetics
+
+**Time:** Minimum 12 months FTE
+
+**Training** 
+
+Registrars undertake the [Joint Consultative Committee on Anaesthesia (JCCA)](https://www.racgp.org.au/the-racgp/governance/committees/joint-consultative-committees/jcca) training program.
+
+Train in Anaesthetics posts accredited by Joint Consultative Committee on Anaesthesia (JCCA). 
+
+**Education**
+
+Registrars participate in the ANZCA registrar education program and education tailored to the AST curriculum.
+
+Registrars must successfully complete mandatory courses.  
+
+**Assessment**
+
+* Complete JCCA assessment. 
+* Submit a current JCCA statement of completion to ACRRM.
+
+### Emergency Medicine
+
+**Time:** Minimum 12 months FTE
+
+**Training**
+
+Train in an Emergency Department accredited by ACRRM. Employed as a registrar or equivalent position.
+
+**Education**
+
+Registrars participate in the ACEM registrar education program and education tailored to the AST curriculum.
+
+Registrars must successfully complete or be a recognised instructor in one course from each of three categories below:
+
+* Trauma: 
+
+  * Early Management of Severe Trauma (EMST), or (ATLS American equivalent) or
+  * Emergency Trauma Management Course (ETM) 
+* Adult: 
+
+  * Rural Emergency Skills Training (REST), or
+  * Adult Life Support Australian Resuscitation Council Level 2 (ALS2), or
+  * Emergency Life Support (ELS), or
+  * Advanced and Complex Medical Emergencies (ACME), or
+  * Effective Management of Anaesthetics Crises (EMAC)
+* Paediatrics: 
+
+  * Advanced Paediatrics Life Support (APLS) course, or 
+  * Paediatric Emergency Medicine course (PEM)
+
+An adult and a paediatrics course must have been undertaken in the five years prior to completing the AST.
+
+Candidates are also recommended to undertake an emergency obstetric course such as Rural Emergency Obstetric Training (REOT) or Preparation in Maternity Safety (PIMS).
+
+The following definitive texts are used in this AST:
+
+* Cameron, P et al: Textbook of Adult Emergency Medicine, Edinburgh - Churchill Livingstone.
+* Cameron, P et al: Textbook of Paediatric Emergency Medicine, Edinburgh - Churchill Livingstone. 
+
+**Assessment**
+
+Registrars must submit to their training organisation and ACRRM: 
+
+* AST Plan and Progress Report completed by registrar and supervisor every three months 
+* Five miniCEXs conducted by their supervisor (two miniCEXs may be replaced by Direct Observation of Procedural Skills (DOPS))
+* Five Case Based Discussions conducted by their supervisor (strongly encouraged)
+* AST EM Procedural Skills logbook
+
+Registrars must gain a pass in AST EM StAMPS.
+
+### Obstetrics and Gynaecology
+
+**Time:** Minimum 12 months FTE
+
+**Training**
+
+Registrars undertake the [Advanced Diploma of the Royal Australian and NZ College of Obstetricians and Gynaecologists](https://ranzcog.edu.au/training/certificate-diploma) (DRANZCOG Advanced) program.
+
+Placements in O&G posts accredited by RANZCOG. 
+
+**Education**
+
+Registrars participate in education provided by training post.
+
+Registrars must complete education modules specified by RANZCOG.
+
+**Assessment**
+
+* Complete DRANZCOG Advanced assessment. 
+* Submit a current DRANZCOG Advanced Certificate to ACRRM.
+
+### Mental Health
+
+**Time:** Minimum 12 months FTE
+
+**Training**
+
+Train in a mental health service in a regional or rural hospital accredited by ACRRM. 
+Placements in inpatient, outpatient and community based care. Ideally include a short-term placement in an addiction medicine service.
+
+Employed as a registrar or equivalent position. 
+
+**Education**
+
+Registrars participate in the RANZCP registrar education program and education tailored to the AST curriculum.
+
+Registrars must successfully complete the following course:
+
+* an GPMHSC approved Level 2 Focussed Psychological Strategies Skills Training (FPS ST) 
+
+**Assessment**
+
+Registrars must submit to their training organisation and ACRRM: 
+
+* AST Plan and Progress Report completed by registrar and supervisor every three months 
+* Five miniCEXs conducted by their supervisor 
+* Five Case Based Discussions conducted by their supervisor (strongly encouraged)
+
+Registrars must gain a pass in AST Mental Health StAMPS.
+
+### Paediatrics
+
+**Time:** Minimum 12 months FTE
+
+**Training**
+
+Train an ACRRM accredited paediatric service in regional or rural hospitals. 
+
+Placements ideally include paediatric acute care, community and child psychiatry.
+
+Employed as a registrar or equivalent position. 
+
+**Education**
+
+Registrars participate in the RACP registrar education program and education tailored to the AST curriculum.
+
+Registrars must successfully complete the following courses:
+
+* Advanced Paediatric Life Support (APLS) course
+* Neonatal resuscitation course and 
+* Child protection course covering:
+
+  * identifying and responding to children and young people at risk 
+  * jurisdiction reporting requirements (many short online courses are available).
+
+**Assessment**
+
+Registrars must submit to their training organisation and ACRRM: 
+
+* AST Plan and Progress Report completed by registrar and supervisor every three months 
+* Five miniCEXs conducted by their supervisor
+* Five Case Based Discussions conducted by their supervisor (strongly encouraged)
+
+Registrars must gain a pass in AST Paediatric StAMPS.
+
+### Palliative Care
+
+**Time:** Minimum 12 months FTE
+
+**Training**
+
+Train in a Palliative Care service accredited by ACRRM. Ideally in a regional location.
+
+Placements will ideally include inpatient, outpatient and community based care.
+
+Employed as a registrar or equivalent position.
+
+**Education**
+
+Registrars are required to participate in the education program provided by the training post.
+
+Registrars will supplement their learning by completing ACRRM online courses which have content relevant to the AST for example:
+
+* Palliative Care - A doctor’s bag
+* Palliative care - choose your own journey
+
+Candidates are encouraged to complete the [Clinical Diploma in Palliative Care - RACP](https://www.racp.edu.au/trainees/advanced-training/advanced-training-programs/clinical-diploma-of-palliative-medicine).
+
+**Assessment**
+
+Registrars must submit to their training organisation and ACRRM: 
+
+* AST Plan and Progress Report completed by registrar and supervisor every three months 
+* Five miniCEXs conducted by their supervisor 
+* Five Case Based Discussions conducted by their supervisor (strongly encouraged)
+
+Registrars must gain a pass in the Palliative Care Case Based Discussion assessment conducted by a College assessor.
+
+### Population Health
+
+**Time:** Minimum 12 months FTE
+
+**Training** 
+
+Train in a dedicated public population health service accredited by ACRRM or in a post accredited by ACRRM for CGT. 
+
+**Education**
+
+Registrars are expected to participate in the education program provided by the training post.
+
+Registrars must successfully complete an Epidemiology course at Graduate Certificate level or higher, covering: 
+
+* fundamental principles of epidemiology
+* critical appraisal of epidemiological publications 
+* application of study design to a research situation and
+* the strengths and weaknesses of the main study designs.
+
+Registrars are also encouraged to consider working towards related academic qualifications while undertaking their Advanced Specialised Training in Population Health. See Appendix 3 for related programs.
+
+Registrars will supplement their learning by completing ACRRM online courses which have content relevant to Population Health, for example:
+
+* Introduction to Population Health
+* Approach to Care courses 
+* Effective Communication Skills
+* Youth Friendly Consultation Skills
+* Digital Health Rural Australia - Better Health, Easier to Deliver
+* Clinical Bytes
+* Alcohol and other Drugs courses
+* Rural Doctors Family and Domestic Violence Education Package
+* Rural Sexual Health 1, 2 & 3
+* Q Fever - Early Diagnosis and Vaccination
+* Tuberculosis in Australia
+* Yellow Fever Vaccination Course
+
+**Assessment**
+
+Registrars must submit to their training organisation and ACRRM: 
+
+* AST Plan and Progress Report completed by registrar and supervisor every three months 
+* Academic supervisor reports with project proposal and completed project
+
+Registrars must successfully complete a Project, during AST, that relates to Population Health that meets the requirements as documented in the Assessment Handbook.
+
+### Remote Medicine
+
+**Time:** Minimum 12 months FTE
+
+**Training** 
+
+Placements in an ACRRM accredited post in a MM 6-7 location or MM 5 approved case by case.  
+
+**Education**
+
+Registrars must participate in the education program provided by the training post.
+
+Registrars will supplement their learning by completing ACRRM online courses which have content relevant to remote medicine, for example:
+
+* Retrieval Medicine Basic and Advanced
+* Rural EM forum
+* Clinical Bytes courses
+* Alcohol and Other Drugs - Driving Change in the Community
+* Approach to Care courses 
+* Introduction to Population Health
+* Effective Communications Skills
+* Digital Health Rural Australia - Better Health, Easier to Deliver
+* eHealth Module 1, 2 & 3
+* Getting started with Telehealth Introductions
+* Managing eHealth Work for Your General Practice
+
+**Assessment**
+
+
+Registrars must submit to their training organisation and ACRRM: 
+
+* AST Plan and Progress Report completed by registrar and supervisor every three months 
+* Academic supervisor reports with project proposal and completed project
+* Five miniCEXs conducted by their supervisor 
+* Five Case Based Discussions conducted by their supervisor (strongly encouraged)
+
+Registrars must successfully complete a Project, during AST, that relates to Remote Medicine that meets the requirements as documented in the Assessment Handbook.
+
+### Surgery
+
+**Time:** Minimum 24 months FTE
+
+**Training** 
+
+Train in a regional secondary or tertiary referral hospital with general surgical services, accredited by ACRRM. 
+
+Work in general surgical services, ideally with short-term placements in orthopaedic trauma, O&G, burns, vascular and plastics.
+
+Employed as a registrar or equivalent position. 
+
+**Education**
+
+Registrars participate in the RACS registrar education program and education sessions tailored to the AST curriculum.
+
+Registrars must successfully complete the following courses:
+
+* RACS Australian and New Zealand Surgical Skills Education and Training (ASSET) course or RANZCOG Basic Surgical Skills Workshop 
+* Early Management of Severe Trauma (EMST) or (ATLS American equivalent)
+* Care of the Critically Ill Patient (CCrISP)
+
+Candidates are required to undertake Gastroscopy & Colonoscopy training that meets the requirements of the [Conjoint Committee for Recognition of Training in Gastrointestinal Endoscopy](https://www.conjoint.org.au/) (CCRTGE). Candidates provide confirmation from the Conjoint Committee that the application for recognition has been approved and the CCRTGE certificate will be issued once Fellowship is awarded.
+
+**Assessment**
+
+Registrars must submit to their training organisation and ACRRM: 
+* AST Plan and Progress Report completed by registrar and supervisor every three months 
+* A log of surgical procedures 
+* Ten miniCEXs conducted by their supervisor (five miniCEXs may be replaced by Direct Observation of Procedural Skills (DOPS))
+* Five Case Based Discussions conducted by their supervisor (strongly encouraged) 
+
+Registrars must gain a pass in AST Surgery StAMPS. 
+
+### Training Program Policies 
+[View training program policies](https://www.acrrm.org.au/resources/training/policies)
+
+## Training
+**Eligibility for Training**
+
+This policy describes the eligibility requirements to apply to the ACRRM Training Program. It covers eligibility for first time applicants, repeat applicants and applicants who have previously been accepted for training but not completed.
+
+**Recognition of Prior Learning**
+
+This policy aims to provide guidelines for the granting of recognition of prior learning that is deemed comparable to the training program requirements for training, education and assessment program. Recognition of prior learning is assessed in consideration of currency of experience, skills, knowledge and time.
+
+**Training Program Requirements**
+
+This policy defines the requirements that must be met to complete the ACRRM Training Program. 
+
+**Performance and Progression** 
+
+This policy sets the requirement for registrars to demonstrate progression through training and to improve the level of performance during training. Registrars must achieve Fellowship within 10 calendar years from the commencement of training unless there are extenuating and unforeseen circumstances.
+
+**Training Time** 
+
+This policy defines the minimum Training Time for registrars on the ACRRM Training Program. It defines how training time is accrued and provisions for part-time training. 
+
+**Training Placements**
+
+This policy sets the requirements that need to be met to have a placement count towards Training Time.
+
+**Overseas Training Placements**
+
+This policy sets the requirements that need to be met for training placements to be undertaken outside Australia. 
+
+**Medicare Provider Number** 
+
+The policy defines the situations where ACRRM will support an application to be placed on the Register of Approved Placements while in training, and when advice will be provided to Department of Human Services (DHS) to remove a registrar from the Register of Approved Placements. This policy applies to IP registrars only.
+
+**Registrar in Difficulty**
+
+This policy defines ‘a registrar in difficulty’ in the context of the Training Program and defines the responsibilities for the registrar, training post, training organisation and the college when a difficulty is identified.
+ 
+**Leave from Training**
+
+This policy defines leave that can be taken while on the Training Program, including statutory and additional leave. Additional leave provisions are specific to the training pathway, links are provided to relevant policies.
+
+**Training Pathway Transfer**
+
+This describes the policy to transfer from AGPT or RVTS training pathways to IP.
+
+**Withdrawal from Training**
+
+This policy defines voluntary and involuntary withdrawal from training, the reasons for actioning involuntary withdrawal and the actions that follow withdrawal.
+Doctors who have withdrawn either voluntarily or involuntarily may apply for re-entry to training, acceptance is at the discretion of the College.
+
