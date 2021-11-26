@@ -675,21 +675,11 @@ Tier 2:
 
 * Advanced Life Support in Obstetrics (ALSO): American Academy of Family Physicians
 * Advanced Life Support (ALS) Level 2: Australian Resuscitation Council accredited
-
-**Course**: Advanced Paediatric Life Support (APLS)
-**Provider**: APLS Australia & New Zealand
-
-**Course**: Australian and New Zealand Surgical Skills Education and Training (ASSET)\
-**Provider**: Royal Australasian College of Surgeons
-
-**Course**: Care of the Critically Ill Surgical Patient (CCrISP)\
-**Provider**: Royal Australasian College of Surgeons
-
-**Course**: Early Management of Severe Trauma (EMST)\
-**Provider**: Royal Australasian College of Surgeons
-
-**Course**: Advanced Trauma Life Support (ATLS)\
-**Provider**: American College of Surgeons
+* Advanced Paediatric Life Support (APLS): APLS Australia & New Zealand
+* Australian and New Zealand Surgical Skills Education and Training (ASSET): Royal *Australasian College of Surgeons
+* Care of the Critically Ill Surgical Patient (CCrISP): Royal Australasian College of Surgeons
+* Early Management of Severe Trauma (EMST): Royal Australasian College of Surgeons
+Advanced Trauma Life Support (ATLS): American College of Surgeons
 
 **Course**: Emergency Trauma Management Course (ETM)\
 **Provider**: Emergency Trauma Management Pty Ltd
