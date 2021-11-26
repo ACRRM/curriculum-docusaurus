@@ -934,34 +934,141 @@ Registrars must successfully complete mandatory courses.
 
 
 ### Emergency Medicine
+
+**Time:** Minimum 12 months FTE
+
+
+**Training**
+
+Train in an Emergency Department accredited by ACRRM. Employed as a registrar or equivalent position.
+
+
+**Education**
+
+Registrars participate in the ACEM registrar education program and education tailored to the AST curriculum.
+
+Registrars must successfully complete or be a recognised instructor in one course from each of three categories below:
+* Trauma: 
+  * Early Management of Severe Trauma (EMST), or (ATLS American equivalent) or
+  * Emergency Trauma Management Course (ETM) 
+* Adult: 
+  * Rural Emergency Skills Training (REST), or
+  * Adult Life Support Australian Resuscitation Council Level 2 (ALS2), or
+  * Emergency Life Support (ELS), or
+  * Advanced and Complex Medical Emergencies (ACME), or
+  * Effective Management of Anaesthetics Crises (EMAC)
+* Paediatrics: 
+  * Advanced Paediatrics Life Support (APLS) course, or 
+  * Paediatric Emergency Medicine course (PEM)
+
+An adult and a paediatrics course must have been undertaken in the five years prior to completing the AST.
+
+
+Candidates are also recommended to undertake an emergency obstetric course such as Rural Emergency Obstetric Training (REOT) or Preparation in Maternity Safety (PIMS).
+
+The following definitive texts are used in this AST:
+* Cameron, P et al: Textbook of Adult Emergency Medicine, Edinburgh - Churchill Livingstone.
+* Cameron, P et al: Textbook of Paediatric Emergency Medicine, Edinburgh - Churchill Livingstone. 
+
+**Assessment**
+
+Registrars must submit to their training organisation and ACRRM: 
+* AST Plan and Progress Report completed by registrar and supervisor every three months 
+* Five miniCEXs conducted by their supervisor (two miniCEXs may be replaced by Direct Observation of Procedural Skills (DOPS))
+* Five Case Based Discussions conducted by their supervisor (strongly encouraged)
+* AST EM Procedural Skills logbook
+
+Registrars must gain a pass in AST EM StAMPS.
+
+### Obstetrics and Gynaecology
+
+**Time:** Minimum 12 months FTE
+
+**Training**
+
+
+Registrars undertake the Advanced Diploma of the Royal Australian and NZ College of Obstetricians and Gynaecologists (DRANZCOG Advanced) program.
+
+Placements in O&G posts accredited by RANZCOG. 
+
+**Education**
+
+Registrars participate in education provided by training post.
+
+Registrars must complete education modules specified by RANZCOG.
+
+**Assessment**
+
+* Complete DRANZCOG Advanced assessment. 
+* Submit a current DRANZCOG Advanced Certificate to ACRRM.
+
+### Mental Health
+**Time:** Minimum 12 months FTE
+
+**Training**
+
+
+Train in a mental health service in a regional or rural hospital accredited by ACRRM. 
+Placements in inpatient, outpatient and community based care. Ideally include a short-term placement in an addiction medicine service.
+
+
+Employed as a registrar or equivalent position. 
+
+**Education**
+
+Registrars participate in the RANZCP registrar education program and education tailored to the AST curriculum.
+
+Registrars must successfully complete the following course:
+* an GPMHSC approved Level 2 Focussed Psychological Strategies Skills Training (FPS ST) 
+
+**Assessment**
+
+Registrars must submit to their training organisation and ACRRM: 
+* AST Plan and Progress Report completed by registrar and supervisor every three months 
+* Five miniCEXs conducted by their supervisor 
+* Five Case Based Discussions conducted by their supervisor (strongly encouraged)
+
+Registrars must gain a pass in AST Mental Health StAMPS.
+
+### Paediatrics
+**Time:** Minimum 12 months FTE
+
+**Training**
+
+Train an ACRRM accredited paediatric service in regional or rural hospitals. 
+Placements ideally include paediatric acute care, community and child psychiatry.
+Employed as a registrar or equivalent position. 
+Education 
+Registrars participate in the RACP registrar education program and education tailored to the AST curriculum.
+Registrars must successfully complete the following courses:
+•	Advanced Paediatric Life Support (APLS) course
+•	Neonatal resuscitation course and 
+•	Child protection course covering:
+o	identifying and responding to children and young people at risk 
+o	jurisdiction reporting requirements (many short online courses are available).
+Assessment
+Registrars must submit to their training organisation and ACRRM: 
+•	AST Plan and Progress Report completed by registrar and supervisor every three months 
+•	Five miniCEXs conducted by their supervisor
+•	Five Case Based Discussions conducted by their supervisor (strongly encouraged)
+
+Registrars must gain a pass in AST Paediatric StAMPS.
+Palliative Care
 Time 
 Minimum 12 months FTE.
 Training 
-Train in an Emergency Department accredited by ACRRM. Employed as a registrar or equivalent position.
-Education 
-Registrars participate in the ACEM registrar education program and education tailored to the AST curriculum.
-Registrars must successfully complete or be a recognised instructor in one course from each of three categories below:
-•	Trauma: 
-o	Early Management of Severe Trauma (EMST), or (ATLS American equivalent) or
-o	Emergency Trauma Management Course (ETM) 
-•	Adult: 
-o	Rural Emergency Skills Training (REST), or
-o	Adult Life Support Australian Resuscitation Council Level 2 (ALS2), or
-o	Emergency Life Support (ELS), or
-o	Advanced and Complex Medical Emergencies (ACME), or
-o	Effective Management of Anaesthetics Crises (EMAC)
-•	Paediatrics: 
-o	Advanced Paediatrics Life Support (APLS) course, or 
-o	Paediatric Emergency Medicine course (PEM)
-An adult and a paediatrics course must have been undertaken in the five years prior to completing the AST.
-Candidates are also recommended to undertake an emergency obstetric course such as Rural Emergency Obstetric Training (REOT) or Preparation in Maternity Safety (PIMS).
-The following definitive texts are used in this AST:
-•	Cameron, P et al: Textbook of Adult Emergency Medicine, Edinburgh - Churchill Livingstone.
-•	Cameron, P et al: Textbook of Paediatric Emergency Medicine, Edinburgh - Churchill Livingstone. 
+Train in a Palliative Care service accredited by ACRRM. Ideally in a regional location.
+Placements will ideally include inpatient, outpatient and community based care.
+Employed as a registrar or equivalent position.
+Education
+Registrars are required to participate in the education program provided by the training post.
+Registrars will supplement their learning by completing ACRRM online courses which have content relevant to the AST for example:
+•	Palliative Care - A doctor’s bag
+•	Palliative care - choose your own journey
+Candidates are encouraged to complete the Clinical Diploma in Palliative Care - RACP.
 Assessment 
 Registrars must submit to their training organisation and ACRRM: 
 •	AST Plan and Progress Report completed by registrar and supervisor every three months 
-•	Five miniCEXs conducted by their supervisor (two miniCEXs may be replaced by Direct Observation of Procedural Skills (DOPS))
+•	Five miniCEXs conducted by their supervisor 
 •	Five Case Based Discussions conducted by their supervisor (strongly encouraged)
-•	AST EM Procedural Skills logbook
-Registrars must gain a pass in AST EM StAMPS.
+Registrars must gain a pass in the Palliative Care Case Based Discussion assessment conducted by a College assessor.
