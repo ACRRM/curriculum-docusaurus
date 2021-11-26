@@ -254,6 +254,9 @@ Where a [case log](https://www.acrrm.org.au/docs/default-source/all-files/case-l
 
 Completed at PGY1 or above through one of the options below.
 
+**Competencies**
+The knowledge, skills and attributes that are being worked towards are defined in the Rural Generalist Curriculum: Paediatrics learning area.
+
 **Accreditation options**\
 Train in a post holding one of the following accreditations:
 
@@ -302,16 +305,298 @@ Evidence required:
 * Complete paediatrics component of Procedural Skills Logbook 
 * Evidence of two education activities
 
-OR
-
-\*\*
-**Training option**: 
-**Evidence required**: 
+*\*PIERCE A Queensland Rural Generalist Program, Prevocational Integrated Extended Rural Clinical Experience. May cover anaesthetics, paediatrics and obstetrics providing enough cases are seen.*
 
 OR
 
-**Training option**: 
-**Evidence required**: 
+**Training option 4**: 
+
+* Sydney Child Health Program
+
+Evidence required: 
+
+* Evidence of completion
+
+OR
+
+**Training option 5**: 
+
+* AST Paediatrics
+
+Evidence required: 
+
+* Letter of completion
+
+### Obstetrics requirement
+
+Completed at PGY1 or above through one of the options below.
+
+**Competencies**
+The knowledge, skills and attributes that are being worked towards are defined in the Rural Generalist Curriculum: Obstetrics and Gynaecology learning area.
+
+**Accreditation options**
+Train in a post holding one of the following accreditations:
+
+* PMC 
+* RANZCOG Fellowship training, or 
+* RANZCOG Advanced Diploma training 
+* ACRRM CGT
+
+**Training option 1**:
+
+* 10 weeks or more FTE O&G placement
+
+Evidence required:
+
+* End of Term Assessment
+
+OR
+
+**Training option 2**: 
+
+* Clinical attachment or work with a Specialist or GP obstetrician (minimum of 10 half day sessions over no more than 6 months), or
+* General Practice placement, or
+* Integrated rural hospital placement eg PIERCE*
+
+Plus for the three options above, demonstrate intrapartum care either:
+
+* through deliveries, or
+* through simulation by completing one of the following courses
+
+  * Rural Emergency Obstetrics Training (REOT), or
+  * Preparation in Maternity Safety (PIMS), or
+  * RVTS workshops, or 
+  * CRANA Maternity Emergency care course
+
+Evidence required: 
+
+* Confirmation of 10 sessions (if relevant) 
+* End of Term Assessment or
+  Supervisor report or [Verification of Clinical Experience proforma](https://www.acrrm.org.au/docs/default-source/all-files/verification-of-clinical-experience-proformaec6a3019286b473baada4b19cd4d341a.pdf?sfvrsn=7eedd769_2) (if reports do not include dates and location this must be provided separately)
+* Case log of 25 antenatal and 25 postnatal cases 
+* Complete O&G component of Procedural Skills Logbook (including manage normal delivery)
+* Course certificate
+
+*\*PIERCE A Queensland Rural Generalist Program, Prevocational Integrated Extended Rural Clinical Experience. May cover anaesthetics, paediatrics and obstetrics providing enough cases are seen.*
+
+OR
+
+**Training option 3**: 
+
+* [Certificate in Women's Health](https://www.ranzcog.edu.au/Training/Certificate-Diploma)
+* [DRANZCOG](https://www.ranzcog.edu.au/Training/Certificate-Diploma), or
+* [DRANZCOG Advanced](https://www.ranzcog.edu.au/Training/Certificate-Diploma)
+
+Evidence required: 
+
+* Evidence of completion
+
+### Anaesthetic requirement
+
+Completed at PGY1 or above through one of the options below.
+
+**Competencies**
+The knowledge, skills and attributes that are being worked towards are defined in the Rural Generalist Curriculum: Anaesthetics learning area.
+
+**Accreditation options**
+Train in a post holding one of the following accreditations:
+
+* PMC
+* ANZCA training, or
+* JCAA training, or
+* Supervisor with appropriate anaesthetic qualification/credentialing when undertaking sessions
+
+**Training options**
+
+**Training option 1**: 
+
+* 10-weeks or more FTE anaesthetics placements
+
+Evidence required:
+
+* End of Term Assessment
+
+OR
+
+**Training option 2**: 
+
+* Six months or more FTE in a combination of placements providing anaesthetics skills (e.g.  ICU, emergency, or retrieval) 
+* Integrated rural hospital placement eg PIERCE* 
+
+Evidence required:
+
+* End of Term Assessment, or Supervisor report, or [Verification of Clinical Experience proforma](https://www.acrrm.org.au/docs/default-source/all-files/verification-of-clinical-experience-proformaec6a3019286b473baada4b19cd4d341a.pdf?sfvrsn=7eedd769_2)
+  (if reports do not include dates and location this must be provided separately)
+* Complete Anaesthetics component of Procedural Skills Logbook
+* Log 50 procedures selected from the Anaesthetic component in the Procedural Skills Logbook 
+
+*\*PIERCE A Queensland Rural Generalist Program, Prevocational Integrated Extended Rural Clinical Experience. May cover anaesthetics, paediatrics and obstetrics providing enough cases are seen.*
+
+OR
+
+**Training option 3**: 
+
+* Clinical attachment or work with a Specialist or GP anaesthetist minimum of 10 anaesthetic half day sessions.
+
+Plus, an advanced airways skills workshop, for example:
+
+* Rural Anaesthetics Crisis Management (RACM), which will also count as Tier 2 EM course,
+  or
+* RVTS workshop (RVTS registrars only)
+
+Evidence required:
+
+* Confirmation of 10 sessions 
+* Supervisor report, or [Verification of Clinical Experience proforma](https://www.acrrm.org.au/docs/default-source/all-files/verification-of-clinical-experience-proformaec6a3019286b473baada4b19cd4d341a.pdf?sfvrsn=7eedd769_2)
+* Log 50 procedures selected from the Anaesthetic component in the Procedural Skills Logbook 
+* Complete Anaesthetics component of Procedural Skills Logbook 
+* Evidence of workshop completion
+
+OR
+
+**Training option 4**: 
+
+* ProStart Anaesthetics program\
+  This requires undertaking sessions with an anaesthetist while working through the program
+
+Evidence required:
+
+* Course logbook and supervisor sign off
+* Complete Anaesthetics component of Procedural Skills Logbook 
+
+OR
+
+**Training option 5**: 
+
+* AST in Anaesthetics (JCAA)
+
+Evidence required:
+
+* Letter of completion
+
+### Primary Care requirement
+
+Primary care training of six months or more FTE at PGY 2 or above
+
+**Competencies**
+The competencies required are defined in Rural Generalist Curriculum:
+
+* Domain 2: Provide primary care
+* Domain 1: Provide expert medical care in all rural contexts
+* Domain 7: Practise medicine within an ethical, intellectual and professional framework
+
+**Accreditation options**
+
+* Train in a post holding ACRRM accreditation for CGT, to cover primary care
+
+**Training option 1**:
+
+* Six months or more FTE, or
+* Prorated over a longer period for part time
+
+To demonstrate continuity of care, primary care training must be undertaken:
+
+* no less than two days per week (averaged over one month), or
+* in FTE blocks, of no less that three months duration
+
+Evidence requirement:
+
+* Supervisor reports
+* Training organisation records
+
+### Secondary care requirement
+
+Secondary care training of three months or more FTE at PGY 2 or above.
+
+**Competencies**
+The competencies required are defined in Rural Generalist Curriculum:
+
+* Domain 3: Provide secondary medical care
+* Domain 1: Provide expert medical care in all rural contexts
+* Domain 7: Practise medicine within an ethical, intellectual and professional framework
+
+**Accreditation options**
+Train in a post holding one of the following accreditations:
+
+* ACRRM CGT, to cover secondary care
+* ACRRM AST
+* PMC, or
+* Specialist College Accreditation 
+
+**Training option 1**:
+
+* Three months or more FTE of hospital placements providing skills relevant to rural practice, (see Tertiary hospital placements section page 7), or
+* Minimum of 60 inpatient rural generalist hospital shifts (minimum eight hours), or
+* Visiting Medical Officer (VMO) with admitting rights, admitting and managing care, for an average of three inpatients per week, over a period of at least 12 months
+
+Evidence requirement:
+
+* End of Term Assessment, or Supervisor report, or [Verification of Clinical Experience proforma](https://www.acrrm.org.au/docs/default-source/all-files/verification-of-clinical-experience-proformaec6a3019286b473baada4b19cd4d341a.pdf?sfvrsn=7eedd769_2)
+* Confirmation that time or number of shifts has been completed (if relevant)
+* Training organisation records
+
+OR
+
+**Training option 2**:
+
+* Advanced Specialised Training in AIM, Mental Health, O&G, Paediatrics or Surgery
+
+Evidence requirement:
+
+* Evidence of completion
+
+### Emergency care requirement
+
+Emergency care training of three months or more FTE at PGY2 or above
+
+**Competencies**
+
+The competencies required are defined in Rural Generalist Curriculum:
+
+* Domain 4:  Respond to medical emergencies 
+* Domain 1: Provide expert medical care in all rural contexts
+* Domain 7: Practise medicine within an ethical, intellectual and professional framework
+
+**Accreditation options**
+Train in a post holding one of the following accreditations:
+
+* ACRRM CGT to cover EM or
+* PMC or
+* ACEM Fellowship or Diploma, Certificate training, or
+* AST EM training
+
+**Training option 1**:
+
+* Three months or more FTE emergency placement, or
+* Minimum of 60, (minimum eight hour) shifts in an emergency department, or
+* Minimum 12 months FTE in an integrated rural hospital or hospital that provides 24/7 emergency cover, (demonstrating a minimum of 60 shifts), or 
+* Minimum of 12 months of providing one in four after hours or weekend cover in an emergency department in a hospital that provides 24/7 emergency cover
+
+Evidence requirement:
+
+* End of Term Assessment, or Supervisor reports, or [Verification of Clinical Experience proforma](https://www.acrrm.org.au/docs/default-source/all-files/verification-of-clinical-experience-proformaec6a3019286b473baada4b19cd4d341a.pdf?sfvrsn=7eedd769_2)
+* Confirmation that time or number of shifts has been completed (if relevant)
+* Training organisation records
+
+OR
+
+**Training option 2**:
+* Advanced Specialised Training in Emergency Medicine
+
+Evidence requirement:
+* Evidence of completion
+
+OR
+
+**Training option #**:
+
+Evidence requirement:
+
+OR
+
+**Training option #**:
+
+Evidence requirement:
 
 OR
 
@@ -356,7 +641,7 @@ Tier 2:
 
 #### Tier 1 courses, approved by ACRRM
 
-*  Advanced Life Support in Obstetrics (ALSO): American Academy of Family Physicians
+* Advanced Life Support in Obstetrics (ALSO): American Academy of Family Physicians
 * Advanced Life Support (ALS) Level 2: Australian Resuscitation Council accredited
 
 **Course**: Advanced Paediatric Life Support (APLS)\
@@ -529,7 +814,7 @@ There are twelve AST disciplines to choose from that will meet AST requirements.
 
 ### Aboriginal and Torres Strait Islander Health
 
-#### Time 
+#### Time
 
 Minimum 12 months FTE. 
 
