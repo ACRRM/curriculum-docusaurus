@@ -816,15 +816,11 @@ There are twelve AST disciplines to choose from that will meet AST requirements.
 
 ### Aboriginal and Torres Strait Islander Health
 
-#### Time
+**Time:** Minimum 12 months FTE. 
 
-Minimum 12 months FTE. 
+**Training:** Train in Aboriginal Community Controlled Health Services accredited by ACRRM.
 
-#### Training
-
-Train in Aboriginal Community Controlled Health Services accredited by ACRRM.
-
-#### Education
+**Education**
 
 Registrars participate in education sessions provided by the training post.
 
@@ -839,7 +835,7 @@ Registrars will supplement their learning by completing ACRRM online courses whi
 * Alcohol and Other Drugs courses
 * Rural Doctors Family and Domestic Violence Education Package
 
-#### Assessment
+**Assessment**
 
 Registrars must submit to their training organisation and ACRRM: 
 
