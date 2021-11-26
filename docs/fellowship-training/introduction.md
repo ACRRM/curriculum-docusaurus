@@ -907,72 +907,68 @@ Registrars must gain a pass in AST AIM StAMPS.
 
 ### Anaesthetics
 
-
 **Time:** Minimum 12 months FTE
 
-**Training **
+**Training** 
 
-Registrars undertake the Joint Consultative Committee on Anaesthesia (JCCA) training program.
-
+Registrars undertake the [Joint Consultative Committee on Anaesthesia (JCCA)](https://www.racgp.org.au/the-racgp/governance/committees/joint-consultative-committees/jcca) training program.
 
 Train in Anaesthetics posts accredited by Joint Consultative Committee on Anaesthesia (JCCA). 
 
-
 **Education**
 
-
 Registrars participate in the ANZCA registrar education program and education tailored to the AST curriculum.
-
 
 Registrars must successfully complete mandatory courses.  
 
 **Assessment**
 
-
 * Complete JCCA assessment. 
 * Submit a current JCCA statement of completion to ACRRM.
-
 
 ### Emergency Medicine
 
 **Time:** Minimum 12 months FTE
 
-
 **Training**
 
 Train in an Emergency Department accredited by ACRRM. Employed as a registrar or equivalent position.
-
 
 **Education**
 
 Registrars participate in the ACEM registrar education program and education tailored to the AST curriculum.
 
 Registrars must successfully complete or be a recognised instructor in one course from each of three categories below:
+
 * Trauma: 
+
   * Early Management of Severe Trauma (EMST), or (ATLS American equivalent) or
   * Emergency Trauma Management Course (ETM) 
 * Adult: 
+
   * Rural Emergency Skills Training (REST), or
   * Adult Life Support Australian Resuscitation Council Level 2 (ALS2), or
   * Emergency Life Support (ELS), or
   * Advanced and Complex Medical Emergencies (ACME), or
   * Effective Management of Anaesthetics Crises (EMAC)
 * Paediatrics: 
+
   * Advanced Paediatrics Life Support (APLS) course, or 
   * Paediatric Emergency Medicine course (PEM)
 
 An adult and a paediatrics course must have been undertaken in the five years prior to completing the AST.
 
-
 Candidates are also recommended to undertake an emergency obstetric course such as Rural Emergency Obstetric Training (REOT) or Preparation in Maternity Safety (PIMS).
 
 The following definitive texts are used in this AST:
+
 * Cameron, P et al: Textbook of Adult Emergency Medicine, Edinburgh - Churchill Livingstone.
 * Cameron, P et al: Textbook of Paediatric Emergency Medicine, Edinburgh - Churchill Livingstone. 
 
 **Assessment**
 
 Registrars must submit to their training organisation and ACRRM: 
+
 * AST Plan and Progress Report completed by registrar and supervisor every three months 
 * Five miniCEXs conducted by their supervisor (two miniCEXs may be replaced by Direct Observation of Procedural Skills (DOPS))
 * Five Case Based Discussions conducted by their supervisor (strongly encouraged)
@@ -986,8 +982,7 @@ Registrars must gain a pass in AST EM StAMPS.
 
 **Training**
 
-
-Registrars undertake the Advanced Diploma of the Royal Australian and NZ College of Obstetricians and Gynaecologists (DRANZCOG Advanced) program.
+Registrars undertake the [Advanced Diploma of the Royal Australian and NZ College of Obstetricians and Gynaecologists](https://ranzcog.edu.au/training/certificate-diploma) (DRANZCOG Advanced) program.
 
 Placements in O&G posts accredited by RANZCOG. 
 
@@ -1003,14 +998,13 @@ Registrars must complete education modules specified by RANZCOG.
 * Submit a current DRANZCOG Advanced Certificate to ACRRM.
 
 ### Mental Health
+
 **Time:** Minimum 12 months FTE
 
 **Training**
 
-
 Train in a mental health service in a regional or rural hospital accredited by ACRRM. 
 Placements in inpatient, outpatient and community based care. Ideally include a short-term placement in an addiction medicine service.
-
 
 Employed as a registrar or equivalent position. 
 
@@ -1019,11 +1013,13 @@ Employed as a registrar or equivalent position.
 Registrars participate in the RANZCP registrar education program and education tailored to the AST curriculum.
 
 Registrars must successfully complete the following course:
+
 * an GPMHSC approved Level 2 Focussed Psychological Strategies Skills Training (FPS ST) 
 
 **Assessment**
 
 Registrars must submit to their training organisation and ACRRM: 
+
 * AST Plan and Progress Report completed by registrar and supervisor every three months 
 * Five miniCEXs conducted by their supervisor 
 * Five Case Based Discussions conducted by their supervisor (strongly encouraged)
@@ -1031,44 +1027,185 @@ Registrars must submit to their training organisation and ACRRM:
 Registrars must gain a pass in AST Mental Health StAMPS.
 
 ### Paediatrics
+
 **Time:** Minimum 12 months FTE
 
 **Training**
 
 Train an ACRRM accredited paediatric service in regional or rural hospitals. 
+
 Placements ideally include paediatric acute care, community and child psychiatry.
+
 Employed as a registrar or equivalent position. 
-Education 
+
+**Education**
+
 Registrars participate in the RACP registrar education program and education tailored to the AST curriculum.
+
 Registrars must successfully complete the following courses:
-•	Advanced Paediatric Life Support (APLS) course
-•	Neonatal resuscitation course and 
-•	Child protection course covering:
-o	identifying and responding to children and young people at risk 
-o	jurisdiction reporting requirements (many short online courses are available).
+
+* Advanced Paediatric Life Support (APLS) course
+* Neonatal resuscitation course and 
+* Child protection course covering:
+
+  * identifying and responding to children and young people at risk 
+  * jurisdiction reporting requirements (many short online courses are available).
+
+**Assessment**
+
+Registrars must submit to their training organisation and ACRRM: 
+
+* AST Plan and Progress Report completed by registrar and supervisor every three months 
+* Five miniCEXs conducted by their supervisor
+* Five Case Based Discussions conducted by their supervisor (strongly encouraged)
+
+Registrars must gain a pass in AST Paediatric StAMPS.
+
+### Palliative Care
+
+**Time:** Minimum 12 months FTE
+
+**Training**
+
+Train in a Palliative Care service accredited by ACRRM. Ideally in a regional location.
+
+Placements will ideally include inpatient, outpatient and community based care.
+
+Employed as a registrar or equivalent position.
+
+**Education**
+
+Registrars are required to participate in the education program provided by the training post.
+
+Registrars will supplement their learning by completing ACRRM online courses which have content relevant to the AST for example:
+
+* Palliative Care - A doctor’s bag
+* Palliative care - choose your own journey
+
+Candidates are encouraged to complete the [Clinical Diploma in Palliative Care - RACP](https://www.racp.edu.au/trainees/advanced-training/advanced-training-programs/clinical-diploma-of-palliative-medicine).
+
+**Assessment**
+
+Registrars must submit to their training organisation and ACRRM: 
+
+* AST Plan and Progress Report completed by registrar and supervisor every three months 
+* Five miniCEXs conducted by their supervisor 
+* Five Case Based Discussions conducted by their supervisor (strongly encouraged)
+
+Registrars must gain a pass in the Palliative Care Case Based Discussion assessment conducted by a College assessor.
+
+### Population Health
+
+**Time:** Minimum 12 months FTE
+
+**Training** 
+
+Train in a dedicated public population health service accredited by ACRRM or in a post accredited by ACRRM for CGT. 
+
+**Education**
+
+Registrars are expected to participate in the education program provided by the training post.
+
+Registrars must successfully complete an Epidemiology course at Graduate Certificate level or higher, covering: 
+
+* fundamental principles of epidemiology
+* critical appraisal of epidemiological publications 
+* application of study design to a research situation and
+* the strengths and weaknesses of the main study designs.
+
+Registrars are also encouraged to consider working towards related academic qualifications while undertaking their Advanced Specialised Training in Population Health. See Appendix 3 for related programs.
+
+Registrars will supplement their learning by completing ACRRM online courses which have content relevant to Population Health, for example:
+
+* Introduction to Population Health
+* Approach to Care courses 
+* Effective Communication Skills
+* Youth Friendly Consultation Skills
+* Digital Health Rural Australia - Better Health, Easier to Deliver
+* Clinical Bytes
+* Alcohol and other Drugs courses
+* Rural Doctors Family and Domestic Violence Education Package
+* Rural Sexual Health 1, 2 & 3
+* Q Fever - Early Diagnosis and Vaccination
+* Tuberculosis in Australia
+* Yellow Fever Vaccination Course
+
+**Assessment**
+
+Registrars must submit to their training organisation and ACRRM: 
+
+* AST Plan and Progress Report completed by registrar and supervisor every three months 
+* Academic supervisor reports with project proposal and completed project
+
+Registrars must successfully complete a Project, during AST, that relates to Population Health that meets the requirements as documented in the Assessment Handbook.
+
+### Remote Medicine
+
+**Time:** Minimum 12 months FTE
+
+**Training** 
+
+Placements in an ACRRM accredited post in a MM 6-7 location or MM 5 approved case by case.  
+
+**Education**
+
+Registrars must participate in the education program provided by the training post.
+
+Registrars will supplement their learning by completing ACRRM online courses which have content relevant to remote medicine, for example:
+
+* Retrieval Medicine Basic and Advanced
+* Rural EM forum
+* Clinical Bytes courses
+* Alcohol and Other Drugs - Driving Change in the Community
+* Approach to Care courses 
+* Introduction to Population Health
+* Effective Communications Skills
+* Digital Health Rural Australia - Better Health, Easier to Deliver
+* eHealth Module 1, 2 & 3
+* Getting started with Telehealth Introductions
+* Managing eHealth Work for Your General Practice
+
+**Assessment**
+
+
+Registrars must submit to their training organisation and ACRRM: 
+
+* AST Plan and Progress Report completed by registrar and supervisor every three months 
+* Academic supervisor reports with project proposal and completed project
+* Five miniCEXs conducted by their supervisor 
+* Five Case Based Discussions conducted by their supervisor (strongly encouraged)
+
+Registrars must successfully complete a Project, during AST, that relates to Remote Medicine that meets the requirements as documented in the Assessment Handbook.
+
+### Surgery
+
+**Time:** Minimum 24 months FTE
+
+**Training** 
+
+Train in a regional secondary or tertiary referral hospital with general surgical services, accredited by ACRRM. 
+
+Work in general surgical services, ideally with short-term placements in orthopaedic trauma, O&G, burns, vascular and plastics.
+
+Employed as a registrar or equivalent position. 
+
+**Education**
+
+Registrars participate in the RACS registrar education program and education sessions tailored to the AST curriculum.
+
+Registrars must successfully complete the following courses:
+
+* RACS Australian and New Zealand Surgical Skills Education and Training (ASSET) course or RANZCOG Basic Surgical Skills Workshop 
+* Early Management of Severe Trauma (EMST) or (ATLS American equivalent)
+* Care of the Critically Ill Patient (CCrISP)
+
+Candidates are required to undertake Gastroscopy & Colonoscopy training that meets the requirements of the [Conjoint Committee for Recognition of Training in Gastrointestinal Endoscopy](https://www.conjoint.org.au/) (CCRTGE). Candidates provide confirmation from the Conjoint Committee that the application for recognition has been approved and the CCRTGE certificate will be issued once Fellowship is awarded.
 Assessment
 Registrars must submit to their training organisation and ACRRM: 
 •	AST Plan and Progress Report completed by registrar and supervisor every three months 
-•	Five miniCEXs conducted by their supervisor
-•	Five Case Based Discussions conducted by their supervisor (strongly encouraged)
-
-Registrars must gain a pass in AST Paediatric StAMPS.
-Palliative Care
-Time 
-Minimum 12 months FTE.
-Training 
-Train in a Palliative Care service accredited by ACRRM. Ideally in a regional location.
-Placements will ideally include inpatient, outpatient and community based care.
-Employed as a registrar or equivalent position.
-Education
-Registrars are required to participate in the education program provided by the training post.
-Registrars will supplement their learning by completing ACRRM online courses which have content relevant to the AST for example:
-•	Palliative Care - A doctor’s bag
-•	Palliative care - choose your own journey
-Candidates are encouraged to complete the Clinical Diploma in Palliative Care - RACP.
-Assessment 
-Registrars must submit to their training organisation and ACRRM: 
-•	AST Plan and Progress Report completed by registrar and supervisor every three months 
-•	Five miniCEXs conducted by their supervisor 
-•	Five Case Based Discussions conducted by their supervisor (strongly encouraged)
-Registrars must gain a pass in the Palliative Care Case Based Discussion assessment conducted by a College assessor.
+•	A log of surgical procedures 
+•	Ten miniCEXs conducted by their supervisor (five miniCEXs may be replaced by Direct Observation of Procedural Skills (DOPS))
+•	Five Case Based Discussions conducted by their supervisor (strongly encouraged) 
+Registrars must gain a pass in AST Surgery StAMPS. 
+Training Program Policies 
+View training program policies
