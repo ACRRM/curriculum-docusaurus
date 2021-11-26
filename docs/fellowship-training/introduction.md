@@ -581,16 +581,20 @@ Evidence requirement:
 OR
 
 **Training option 2**:
+
 * Advanced Specialised Training in Emergency Medicine
 
 Evidence requirement:
+
 * Evidence of completion
 
 ### Rural and remote practice requirement
+
 Rural and remote practice training of 12 months or more FTE at PGY2 or above
 
 **Competencies**
 The competencies required are defined in Rural Generalist Curriculum:
+
 * Domain 8: Provide safe medical care while working in geographic and professional isolation
 * Domain 1: Provide expert medical care in all rural contexts
 * Domain 5: Apply a population health approach
@@ -598,17 +602,21 @@ The competencies required are defined in Rural Generalist Curriculum:
 * Domain 7: Practise medicine within an ethical, intellectual and professional framework
 
 **Accreditation options**
+
 * Train in a post holding accreditation for ACRRM CGT, to cover R&R
 
 **Training option 1**:
+
 * 12 months FTE living and working in rural or remote community (MM 4-7, or 3 case by case).
 * May live and work in different communities providing they are both rural. 
 
 The following options providing they total 12 months FTE are suitable: 
+
 * living and working in the rural location averaging four or more days per week, for example regular fly in fly out arrangements 
 * living and working FTE in rural location in blocks, each of at least three months duration 
 
 Evidence requirement:
+
 * Supervisor reports
 * Training organisation records
 
@@ -616,18 +624,20 @@ Evidence requirement:
 (Prospective approval where time permits, retrospective for short notice deployments)
 
 ADF registrars may include up to six months FTE for the following deployments:
+
 * at sea aboard a Navy ship
 * leading the treatment team in remote field environment
 * in a military field hospital
 * in an aeromedical evacuation
 * or other types of work as approved
 
-
 This applies to deployments as a medical officer of 14 or more continuous days, including pre-activity preparation and post activity refurbishment, but not travel.
 
 Evidence requirement:
+
 * Supervisor report
 * Evidence of:
+
   * time and
   * role and
   * case/treatment log
@@ -679,61 +689,31 @@ Tier 2:
 * Australian and New Zealand Surgical Skills Education and Training (ASSET): Royal *Australasian College of Surgeons
 * Care of the Critically Ill Surgical Patient (CCrISP): Royal Australasian College of Surgeons
 * Early Management of Severe Trauma (EMST): Royal Australasian College of Surgeons
-Advanced Trauma Life Support (ATLS): American College of Surgeons
-
-**Course**: Emergency Trauma Management Course (ETM)\
-**Provider**: Emergency Trauma Management Pty Ltd
-
-**Course**: Effective Management of Anaesthetics Crises (EMAC)\
-**Provider**: Australian and NZ College of Anaesthetists
-
-**Course**: Major Incident Medical Management and Support (MIMMS) Advanced Course\
-**Provider**: Australia MIMMS
-
-**Course**: Managing Obstetric Emergencies & Trauma Course (MOET)\
-**Provider**: MOET Australia
-
-**Course**: Pre-Hospital Trauma Life Support (PHTLS)\
-**Provider**: NAEMT/American College of Surgeons
-
-**Course**: Rural Emergency Skills Program (RESP)\
-**Provider**: LearnEM
-
-**Course**: Clinical Emergency Management Program (CEMP) Advanced Workshop\
-**Provider**: Royal Australian College of General Practitioners
+* Advanced Trauma Life Support (ATLS): American College of Surgeons
+* Emergency Trauma Management Course (ETM): Emergency Trauma Management Pty Ltd
+* Effective Management of Anaesthetics Crises (EMAC): Australian and NZ College of Anaesthetists
+* Major Incident Medical Management and Support (MIMMS) Advanced Course: Australia MIMMS
+* Managing Obstetric Emergencies & Trauma Course (MOET): MOET Australia
+* Pre-Hospital Trauma Life Support (PHTLS): NAEMT/American College of Surgeons
+* Rural Emergency Skills Program (RESP): LearnEM
+* Clinical Emergency Management Program (CEMP) Advanced Workshop: Royal Australian College of General Practitioners
 
 #### Tier 2 courses, provided by the College
 
-**Course**: Advanced Life Support (ALS)\
-**Provider**: Australian College of Rural and Remote Medicine
-
-**Course**: Pre-Hospital and Emergency Care (PHEC)\
-**Provider**: Australian College of Rural and Remote Medicine
-
-**Course**: Rural Emergency Obstetrics Training (REOT)\
-**Provider**: Australian College of Rural and Remote Medicine
-
-**Course**: Rural Anaesthetic Crisis Management (RACM)\
-**Provider**: Australian College of Rural and Remote Medicine
+* Advanced Life Support (ALS): Australian College of Rural and Remote Medicine
+* Pre-Hospital and Emergency Care (PHEC): Australian College of Rural and Remote Medicine
+* Rural Emergency Obstetrics Training (REOT): Australian College of Rural and Remote Medicine
+* Rural Anaesthetic Crisis Management (RACM): Australian College of Rural and Remote Medicine
 
 #### Tier 2 courses, approved by ACRRM and accredited for PDP
 
 [search the catalogue](https://mycollege.acrrm.org.au/search?query=Tier%202%20&collection=acrrm-meta-public)
 
-**Course**: Advanced and Complex Medical Emergencies\
-**Provider**: ACME approved providers
-
-**Course**: Advanced Life Support (ALS) Level 1\
-**Provider**: Australian Resuscitation Council accredited
-
-**Course**: ALS Emergency Medicine Course for GP Registrars\
-**Provider**: GPEx Regional Training Organisation
-
-**Course**: Approach to Medical Emergencies (AME)\
-**Provider**: General Practice Training Tasmania
-
-**Course**: Clinical Emergency Management Program (CEMP) Intermediate Workshop\
-**Provider**: Royal Australian College of General Practitioners
+* Advanced and Complex Medical Emergencies: ACME approved providers
+* Advanced Life Support (ALS) Level 1: Australian Resuscitation Council accredited
+* ALS Emergency Medicine Course for GP Registrars: GPEx Regional Training Organisation
+* Approach to Medical Emergencies (AME): General Practice Training Tasmania
+* Clinical Emergency Management Program (CEMP) Intermediate Workshop: Royal Australian College of General Practitioners
 
 Overseas courses that are equivalent to approved courses will also count.
 
