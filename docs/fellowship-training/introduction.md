@@ -810,7 +810,7 @@ Registrars are strongly encouraged to complete and submit case based discussions
 
 Information and requirements for each type of assessment are provided in the [Assessment Handbook](https://www.acrrm.org.au/docs/default-source/documents/training-towards-fellowship/handbook-fellowship-assessment.pdf?sfvrsn=42ba86eb_36).
 
-### AST options
+## AST options
 
 There are twelve AST disciplines to choose from that will meet AST requirements. The time, training, education and assessment requirements for each AST disciplines are provided below.
 
@@ -818,7 +818,9 @@ There are twelve AST disciplines to choose from that will meet AST requirements.
 
 **Time:** Minimum 12 months FTE. 
 
-**Training:** Train in Aboriginal Community Controlled Health Services accredited by ACRRM.
+**Training** 
+
+Train in Aboriginal Community Controlled Health Services accredited by ACRRM.
 
 **Education**
 
@@ -848,21 +850,17 @@ Registrars must successfully complete a Project, during AST, that relates to Abo
 
 ### Academic Practice
 
-#### Time
+**Time:** Minimum 12 months FTE. 
 
-Minimum 12 months FTE. 
+**Training:** Train in ACRRM accredited placements that integrate academic practice (teaching and research) with a clinical workload.
 
-#### Training
-
-Train in ACRRM accredited placements that integrate academic practice (teaching and research) with a clinical workload.
-
-#### Education
+**Education**
 
 Registrars participate in education sessions provided by the training post related to Research and Clinical Education. It is expected that some courses at Graduate Certificate level or higher are completed. Other education activities may include attending conferences or completing practical courses such as Train the Trainer, Teaching on the Run, Teach the Teacher.
 
 The courses will be discussed with and guided by the Academic Supervisor. 
 
-#### Assessment
+**Assessment**
 
 Registrars must submit to their training organisation and ACRRM: 
 
@@ -874,11 +872,9 @@ Registrars must successfully complete a Project, during the AST, that relates to
 
 ### Adult Internal Medicine
 
-#### Time
+**Time:** Minimum 12 months FTE.
 
-Minimum 12 months FTE.
-
-#### Training
+**Training** 
 
 Train in ACRRM accredited AIM AST posts, ideally in a regional or rural hospital. 
 
@@ -886,7 +882,7 @@ Placements to include inpatient, outpatient and community based facilities.
 
 Employed as registrar or equivalent position.
 
-#### Education
+**Education**
 
 Registrars participate in the RACP registrar education program and education tailored to the AST curriculum.
 
@@ -899,7 +895,7 @@ Registrars must successfully complete or be a recognised instructor in one of th
 
 Registrars must attain one or more advanced diagnostic and/or therapeutic procedures eg exercise stress testing, Holter monitoring, ultrasound, endoscopy. 
 
-#### Assessment
+**Assessment**
 
 Registrars must submit to their training organisation and ACRRM: 
 
@@ -908,3 +904,64 @@ Registrars must submit to their training organisation and ACRRM:
 * Five formative Case Based Discussions conducted by a supervisor (strongly encouraged)
 
 Registrars must gain a pass in AST AIM StAMPS.
+
+### Anaesthetics
+
+
+**Time:** Minimum 12 months FTE
+
+**Training **
+
+Registrars undertake the Joint Consultative Committee on Anaesthesia (JCCA) training program.
+
+
+Train in Anaesthetics posts accredited by Joint Consultative Committee on Anaesthesia (JCCA). 
+
+
+**Education**
+
+
+Registrars participate in the ANZCA registrar education program and education tailored to the AST curriculum.
+
+
+Registrars must successfully complete mandatory courses.  
+
+**Assessment**
+
+
+* Complete JCCA assessment. 
+* Submit a current JCCA statement of completion to ACRRM.
+
+
+### Emergency Medicine
+Time 
+Minimum 12 months FTE.
+Training 
+Train in an Emergency Department accredited by ACRRM. Employed as a registrar or equivalent position.
+Education 
+Registrars participate in the ACEM registrar education program and education tailored to the AST curriculum.
+Registrars must successfully complete or be a recognised instructor in one course from each of three categories below:
+•	Trauma: 
+o	Early Management of Severe Trauma (EMST), or (ATLS American equivalent) or
+o	Emergency Trauma Management Course (ETM) 
+•	Adult: 
+o	Rural Emergency Skills Training (REST), or
+o	Adult Life Support Australian Resuscitation Council Level 2 (ALS2), or
+o	Emergency Life Support (ELS), or
+o	Advanced and Complex Medical Emergencies (ACME), or
+o	Effective Management of Anaesthetics Crises (EMAC)
+•	Paediatrics: 
+o	Advanced Paediatrics Life Support (APLS) course, or 
+o	Paediatric Emergency Medicine course (PEM)
+An adult and a paediatrics course must have been undertaken in the five years prior to completing the AST.
+Candidates are also recommended to undertake an emergency obstetric course such as Rural Emergency Obstetric Training (REOT) or Preparation in Maternity Safety (PIMS).
+The following definitive texts are used in this AST:
+•	Cameron, P et al: Textbook of Adult Emergency Medicine, Edinburgh - Churchill Livingstone.
+•	Cameron, P et al: Textbook of Paediatric Emergency Medicine, Edinburgh - Churchill Livingstone. 
+Assessment 
+Registrars must submit to their training organisation and ACRRM: 
+•	AST Plan and Progress Report completed by registrar and supervisor every three months 
+•	Five miniCEXs conducted by their supervisor (two miniCEXs may be replaced by Direct Observation of Procedural Skills (DOPS))
+•	Five Case Based Discussions conducted by their supervisor (strongly encouraged)
+•	AST EM Procedural Skills logbook
+Registrars must gain a pass in AST EM StAMPS.
