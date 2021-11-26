@@ -586,19 +586,51 @@ OR
 Evidence requirement:
 * Evidence of completion
 
-OR
+### Rural and remote practice requirement
+Rural and remote practice training of 12 months or more FTE at PGY2 or above
 
-**Training option #**:
+**Competencies**
+The competencies required are defined in Rural Generalist Curriculum:
+* Domain 8: Provide safe medical care while working in geographic and professional isolation
+* Domain 1: Provide expert medical care in all rural contexts
+* Domain 5: Apply a population health approach
+* Domain 6: Work with Aboriginal, Torres Strait Islander, and other culturally diverse communities to improve health and wellbeing
+* Domain 7: Practise medicine within an ethical, intellectual and professional framework
+
+**Accreditation options**
+* Train in a post holding accreditation for ACRRM CGT, to cover R&R
+
+**Training option 1**:
+* 12 months FTE living and working in rural or remote community (MM 4-7, or 3 case by case).
+* May live and work in different communities providing they are both rural. 
+
+The following options providing they total 12 months FTE are suitable: 
+* living and working in the rural location averaging four or more days per week, for example regular fly in fly out arrangements 
+* living and working FTE in rural location in blocks, each of at least three months duration 
 
 Evidence requirement:
+* Supervisor reports
+* Training organisation records
 
-OR
+**Training option 2**:
+(Prospective approval where time permits, retrospective for short notice deployments)
 
-**Training option #**:
+ADF registrars may include up to six months FTE for the following deployments:
+* at sea aboard a Navy ship
+* leading the treatment team in remote field environment
+* in a military field hospital
+* in an aeromedical evacuation
+* or other types of work as approved
+
+
+This applies to deployments as a medical officer of 14 or more continuous days, including pre-activity preparation and post activity refurbishment, but not travel.
 
 Evidence requirement:
-
-OR
+* Supervisor report
+* Evidence of:
+  * time and
+  * role and
+  * case/treatment log
 
 ### Education
 
@@ -644,7 +676,7 @@ Tier 2:
 * Advanced Life Support in Obstetrics (ALSO): American Academy of Family Physicians
 * Advanced Life Support (ALS) Level 2: Australian Resuscitation Council accredited
 
-**Course**: Advanced Paediatric Life Support (APLS)\
+**Course**: Advanced Paediatric Life Support (APLS)
 **Provider**: APLS Australia & New Zealand
 
 **Course**: Australian and New Zealand Surgical Skills Education and Training (ASSET)\
