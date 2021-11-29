@@ -1598,5 +1598,330 @@ Possible courses include any Master of Public Health (MPH) programmes, particula
 * Graduate Certificate, Graduate Diploma and Masters of Psychiatric Medicine (Rural and Remote Medicine specialisation) courses, HETI Higher Education  <https://heti.edu.au/our-courses/psychiatric-medicine>
 
 ## Appendix 4 Table of changes to training requirements
+
 The core components for training have remained relatively constant since training was implemented. However there have been several adjustments to make requirements more explicit or to articulate flexibility. The table below describes changes made and when they were introduced. 
+
 Registrars are required to meet the training requirements in place at the time of enrolment but may choose to move to revised requirements.
+
+
+**Year Training Commenced: 2007**
+
+**CCT 12 months:**
+Rotations:
+* AIM
+* Surgery
+* Emergency Medicine
+* Paediatrics, and recommend
+* Anaesthetics
+* O&G
+
+**PRRT 24 months:**
+Range of rural posts including:
+* GP
+* hospitals
+* AMS
+* retrieval must be accredited
+
+**AST 12 months:**
+* Ten disciplines named
+* Individual training plans
+
+**Online Learning modules:**
+* Any four modules
+
+**EM courses:**
+* Two EMST
+* APLS
+* ELS
+* ALSO, or equivalent
+
+**Year Training Commenced: 2008** 
+
+**CCT 12 months:**
+* No change
+
+**PRRT 24 months:**
+* No change
+
+**AST 12 months:**
+* No change
+
+**Online Learning modules:**
+* No change
+
+**EM courses:**
+* No change
+
+**Year Training Commenced: 2009** 
+
+**CCT 12 months:**
+Rotation:
+* AIM
+* Surgery
+* Emergency Medicine
+* Paediatrics
+* Anaesthetics, and
+* O&G 
+
+**PRRT 24 months:**
+* No change
+
+**AST 12 months:**
+* No change
+
+**Online Learning modules:**
+* No change
+
+**EM courses:**
+* 2 tier 1
+OR
+* 1 tier 1, and 2 tier 2
+
+**Year Training Commenced: 2010** 
+
+**CCT 12 months:**
+* Alternatives to rotations described
+
+**PRRT 24 months:**
+* No change
+
+**AST 12 months:**
+
+Curricula published:
+* Emergency Medicine
+* Remote Health
+* ATSI
+
+Assessments required for these ASTs
+
+**Online Learning modules:**
+* No change
+
+**EM courses:**
+* No change
+
+**Year Training Commenced: 2011** 
+
+**CCT 12 months:**
+* No change
+
+**PRRT 24 months:**
+* No change
+
+**AST 12 months:**
+
+Curricula published:
+* AIM
+* Mental Health
+* Surgery
+* Paediatrics
+
+Assessments required for these ASTs
+
+**Online Learning modules:**
+* Only those with a green flag
+
+**EM courses:**
+* No change
+
+**Year Training Commenced: 2012** 
+
+**CCT 12 months:**
+* No change
+
+**PRRT 24 months:**
+* 6 months community primary care, and
+* 6 months rural
+* Formative miniCEX required
+
+**AST 12 months:**
+* No change
+
+**Online Learning modules:**
+* No change
+
+**EM courses:**
+* No change
+
+**Year Training Commenced: 2013** 
+
+**CCT 12 months:**
+* No change
+
+**PRRT 24 months:**
+* No change
+
+**AST 12 months:**
+* Academic practice names as a discipline
+* Registrars apply under individual training plan
+
+**Online Learning modules:**
+* No change
+
+**EM courses:**
+* No change
+
+**Year Training Commenced: 2014** 
+
+**CCT 12 months:**
+* No change
+
+**PRRT 24 months:**
+* 6 months community primary care
+* 6 months hospital emergency care, and
+* 12 months rural
+
+**AST 12 months:**
+* No change
+
+**Online Learning modules:**
+* No change
+
+**EM courses:**
+* Courses must be within 10 years of Fellowship, providing one ALS is within three years of Fellowship
+
+**Year Training Commenced: 2015** 
+
+**CCT 12 months:**
+* No change
+
+**PRRT 24 months:**
+* No change
+
+**AST 12 months:**
+* 
+
+**Online Learning modules:**
+* No change
+
+**EM courses:**
+* No change
+
+**Year Training Commenced: 2016** 
+
+**CCT 12 months:**
+* Alternatives increased
+* Evidence to demonstrate completion of skills sets defied
+  * logbook, and
+  * supervisors report
+
+**PRRT 24 months:**
+* Definition of requirements for:
+  * hospital and emergency care
+  * community primary care and population health, and
+  * rural and remote
+
+* Case Based Discussion replaced MiniCEX as a summative assessment - applied to all registrars commencing training in 2016
+
+* MiniCEX maintained as formative assessment requirement
+
+**AST 12 months:**
+* Academic Practice added as an AST option
+* Revised curricula:
+  * Emergency Medicine
+  * Paediatrics
+  * Mental Health
+  * Population Health
+  * Remote 
+  * ATSI
+* Minor changes to prerequisites and formative miniCEX required for all clinical ASTs
+
+**Online Learning modules:**
+* Now referred to as FACRRM recommended modules
+
+**EM courses:**
+* REST mandated as one of the tier 1 courses
+
+**Year Training Commenced: 2017** 
+
+**CCT 12 months:**
+* No change
+* Training plan required
+* Maximum RPL reduced to 2 years on AGPT and RVTS and 3 years for IP
+  * Training plan must be submitted with RPL application
+
+**PRRT 24 months:**
+* Options for flexibility defined
+
+**AST 12 months:**
+* No change
+
+**Online Learning modules:**
+* No change
+
+**EM courses:**
+* No change
+
+**Year Training Commenced: 2018** 
+
+**CCT 12 months:**
+* No change
+* Currency of experience required to apply for RPL reduced to:
+  * CCT within past seven years
+  * PRRT within past five years, and
+  * AST within past two years
+
+**PRRT 24 months:**
+* No change
+
+**AST 12 months:**
+* No change
+
+**Online Learning modules:**
+* No change
+
+**EM courses:**
+* No change
+
+**Year Training Commenced: 2019** 
+
+**CCT 12 months:**
+* No change
+
+**PRRT 24 months:**
+* Time restrictions removed from PRRT posts
+* Registrar must continue to meet mandatory requirements for experience in domains of rural practice
+* Minor changes to Procedural Skills Logbook
+  * 100% essential skills must be completed and at least 75% of important skills
+
+**AST 12 months:**
+* No change
+
+**Online Learning modules:**
+* No change
+
+**EM courses:**
+* No change
+
+**Year Training Commenced: 2020** 
+
+**Core Generalist Training (CGT)**
+* CCT and PRRT merged into Core Generalist Training
+* No change to requirements, but there is more flexibility for experienced doctors to commence training in either hospital or general practice.
+* Continued refinements in options and evidence to meet Paediatrics, Obstetrics and Anaesthetics
+
+**AST 12 months:**
+* Palliative care added as an AST option
+
+**Online Learning modules:**
+* No change
+
+**EM courses:**
+* No change
+
+**Year Training Commenced: 2021** 
+
+**Core Generalist Training (CGT)**
+* No changes
+
+**AST 12 months:**
+* 6 monthly Supervisor reports replaced with the:  
+  * 3 monthly plan, and
+  * Progress Report
+
+**Online Learning modules:**
+* No change
+
+**EM courses:**
+* No change
+
