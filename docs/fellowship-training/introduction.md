@@ -719,7 +719,7 @@ Overseas courses that are equivalent to approved courses will also count.
 
 Many of the Tier 1 courses are also EM courses required for AST programs. 
 
-Courses must be selected from the currently approved courses. Non approved courses that have been already completed may be considered case by case. Email [training@acrrm.org.au](mailto:training@acrrm.org.au). Details of the course program and instructors must be provided. 
+Courses must be selected from the currently approved courses. Non approved courses that have been already completed may be considered case by case. Email training@acrrm.org.au. Details of the course program and instructors must be provided. 
 
 #### *ACRRM Online Courses*
 
@@ -1167,7 +1167,6 @@ Registrars will supplement their learning by completing ACRRM online courses whi
 
 **Assessment**
 
-
 Registrars must submit to their training organisation and ACRRM: 
 
 * AST Plan and Progress Report completed by registrar and supervisor every three months 
@@ -1204,6 +1203,7 @@ Candidates are required to undertake Gastroscopy & Colonoscopy training that mee
 **Assessment**
 
 Registrars must submit to their training organisation and ACRRM: 
+
 * AST Plan and Progress Report completed by registrar and supervisor every three months 
 * A log of surgical procedures 
 * Ten miniCEXs conducted by their supervisor (five miniCEXs may be replaced by Direct Observation of Procedural Skills (DOPS))
@@ -1211,10 +1211,12 @@ Registrars must submit to their training organisation and ACRRM:
 
 Registrars must gain a pass in AST Surgery StAMPS. 
 
-### Training Program Policies 
+## Training Program Policies
+
 [View training program policies](https://www.acrrm.org.au/resources/training/policies)
 
-## Training
+### Training
+
 **Eligibility for Training**
 
 This policy describes the eligibility requirements to apply to the ACRRM Training Program. It covers eligibility for first time applicants, repeat applicants and applicants who have previously been accepted for training but not completed.
@@ -1250,7 +1252,7 @@ The policy defines the situations where ACRRM will support an application to be 
 **Registrar in Difficulty**
 
 This policy defines ‘a registrar in difficulty’ in the context of the Training Program and defines the responsibilities for the registrar, training post, training organisation and the college when a difficulty is identified.
- 
+
 **Leave from Training**
 
 This policy defines leave that can be taken while on the Training Program, including statutory and additional leave. Additional leave provisions are specific to the training pathway, links are provided to relevant policies.
@@ -1264,3 +1266,337 @@ This describes the policy to transfer from AGPT or RVTS training pathways to IP.
 This policy defines voluntary and involuntary withdrawal from training, the reasons for actioning involuntary withdrawal and the actions that follow withdrawal.
 Doctors who have withdrawn either voluntarily or involuntarily may apply for re-entry to training, acceptance is at the discretion of the College.
 
+### Assessment
+
+**Assessment Eligibility**
+
+This policy defines eligibility requirements to enrol in and undertake assessments, rules around reattempting assessments and undertaking assessments while on leave from training.
+
+**Special Consideration policy** 
+
+This policy describes the criteria by which candidates may apply for reasonable adjustments to accommodate for circumstances beyond their control and which is likely to affect participation in assessment.
+
+### Conduct, behaviour and access
+
+**Academic Code of Conduct**
+
+The Code of Conduct aims to provide a clear statement of the College’s expectations of doctors participating in education or training programs in respect to personal and professional conduct and a duty to disclose a review of or changes to medical registration. 
+
+**Academic Misconduct** 
+
+The Academic Misconduct Policy defines how alleged breaches of the Academic Code of Conduct are investigated and the penalties that may be applied for proven misconduct. 
+
+**Access to Training**
+
+This policy describes how the College seeks to ensure that doctors with a disability can access and participate in the ACRRM Training Program on the same basis as other doctors. It applies to selection into training and training.
+
+**Complaints** 
+
+The complaints policy outlines the principles and processes for handling complaints. It is applicable to any person accessing College services or programs.
+
+**Reconsideration, Review and Appeals** 
+
+This policy defines College decisions that can be reconsidered, reviewed, or appealed. The policy defines the processes and timeframes and the possible outcomes. 
+
+The policy also applies to decisions made by Regional Training Organisations, delivering ACRRM training. All disputes relating to a decision made by a Regional Training Organisation (RTO) must first be considered through the RTO’s dispute resolution and/or appeals process before an application for Review can be submitted to the College.
+
+**Refund** 
+
+This policy details the circumstances under which refunds are paid. 
+
+## Information, support and advocacy
+
+While ACRRM training requirements are outlined in this handbook and the policies are the same nationally, there are differences regionally in the delivery of the program. There are also requirements that may be specific to your training pathway or Training Organisation. Therefore, you should contact your training organisation delivering your training first for specific advice. 
+
+ACRRM is also available to provide information about training and assessment. 
+
+You may contact the College at any time by phone on 1800 223 226 or (07) 3105 8200 or email. If your query relates to:
+
+* Training, your training officer will be your best contact. If emailing [training@acrrm.org.au](mailto:training@acrrm.org.au), your email will be directed to your training officer.
+* Assessment, the assessment team will be your best contact. Email: [assessment@acrrm.org.au](mailto:assessment@acrrm.org.au) or 
+* Membership, ask for the Member Engagement Team when you call the College or email:  [membership@acrrm.org.au](mailto:membership@acrrm.org.au)
+
+There is a range of available resources, communities and groups through the College and externally for you to connect and network, share your views and find support, including:
+
+**Rural Medicine Australia conference**
+
+ACRRM and Rural Doctors Association host the Rural Medicine Australia (RMA) annual conference and scientific forum each October.  The conference includes a wide range of presentations and workshops relevant to rural and remote practice. 
+
+**Registrar Committee Assessment Guides**
+
+The [ACRRM Registrars' Committee Assessment Guides](https://www.acrrm.org.au/resources/assessment/handbooks-guides) provide a quick reference, tips and tricks to all the ACRRM assessments. 
+
+**Research Grants**
+
+Registrars training on the AGPT pathway who wish to undertake research as part of training may apply for a funded [Academic Post](https://www.acrrm.org.au/support/grants/academic-posts). A registrar in an academic post will work 0.5 FTE in an academic institution and 0.5 FTE in a clinical position in an accredited training post. Registrars may choose to undertake Advanced Specialised Training in Academic Practice, Population Health, Aboriginal and Torres Strait Islander Health or Remote Medicine. The topic of the research and the post where clinical work is undertaken will determine which AST is appropriate.
+
+**ACRRM Registrar Committee**
+
+The committee provides registrars of the College with an opportunity to provide feedback, suggestions, and advice to the ACRRM Board and Council, which ultimately determines College policy and direction. The Registrar Committee aims to have membership from all training pathways. The Committee represents the views of registrars in Committees of the College including the College Board, College Council, Education Council, Education and Training Committee and Assessment Committee. 
+
+The Registrar Committee also represents and advocates for ACRRM registrars on a range of external national fora.
+
+If you have any suggestions or feedback for the committee, or would like to join the committee, or get more involved – please email: [registrarchair@acrrm.org.au](mailto:registrarchair@acrrm.org.au).
+
+**Registrars Online Community** 
+
+Registrars have access to their own exclusive community on [Connect@ACRRM](https://connect.acrrm.org.au/home). Connect@ACRRM is an online forum where you can communicate, collaborate and connect with fellow registrars across Australia. Through the dedicated Registrars Community, you can engage in conversation about member-driven topics regarding your education and training journey, work life balance, or life as a Fellow.
+
+Now available on desktop and mobile devices! Conveniently access [Connect@ACRRM](https://connect.acrrm.org.au/home) on the go by downloading the new app. Anywhere, anytime, all the features now fit into your back-pocket. [Google Play](https://play.google.com/store/apps/details?id=net.rd.android.membercentric.acrrm)  (Android) [App Store](https://apps.apple.com/au/app/connect-acrrm/id1547864708)  (Apple iOS)
+
+Industry-relevant resources, professional learning opportunities, and other members’ insights on industry-specific topics are just a click away. To find out more, please visit <https://connect.acrrm.org.au/home>.
+
+**General Practice Registrars Australia**
+
+General Practice Registrars Australia (GPRA) is an independent, not-for-profit organisation.  It is funded by the federal government to provide advocacy services for registrars on employment and policy issues in general practice.  For further information see: <https://gpra.org.au/>.
+
+**Employee Assistance Program**
+
+If you are experiencing workplace, training, exam, or other stresses or issues that are impacting your personal well-being you can call ACRRM’s Employee Assistance Program.
+
+ACRRM's Employee Assistance Program is available to any registrar and provides immediate confidential phone counselling support 24 hours, 7 days a week in Australia & Overseas. Phone 1800 818 728.
+
+Counselling aims to resolve work or personal problems before they adversely impact general well-being.
+
+Additional resources and practical advice are available on the Employee Assistance Program [website](https://www.accesseap.com.au/). 
+
+**Doctors Health Advisory Service (DHAS)** 
+
+DHAS operate a telephone Help Line and are available to provide confidential personal advice to practitioners facing difficulties. They also provide health promotion and educational information through their website and they provide lectures to interested groups. 
+
+The advice is used mostly in relation to stress and mental illness, drug and alcohol problems, or personal and financial difficulties. More information is available here: <http://dhas.org.au/contact/contact-dhas-in-other-states-territories-and-new-zealand.html>.
+
+**CRANAPlus Bush Crisis Line**
+
+This service has a trained psychologist available 24 hours, 7 days a week through a phone counselling service to all remote and rural registrars, health workers and their families who may be in distress with support and assistance every day of the year at 1800 805 391. More information is available here: <https://crana.org.au/support>.
+
+**DRS4DRS**
+
+The Drs4Drs website is provided by Doctors Health Services and offers doctors and medical students access to resources to support their own health and wellbeing, as well as training modules to support doctors who treat other doctors. More information is available here: <https://www.drs4drs.com.au/>.
+
+**Beyond Blue**
+
+Beyond Blue provides free, confidential, 24 hours, 7 days a week phone counselling services for people experiencing mental stress or illness at 1300 22 4636. Further information regarding these and other national services is available here: <https://www.beyondblue.org.au/>.
+
+### Building respectful workplaces
+
+ACRRM is committed to promoting and upholding safe and respectful workplaces and communities with a culture of belonging; where diversity is celebrated, and people can reach their full potential. 
+
+Accordingly, the College framework to address issues of Bullying, Discrimination, Harassment and Racism is based on a resilience paradigm, emphasising proactive and preventive approaches to encourage positive behaviours across entire workplace cultures. 
+
+While regulatory processes are in place our focus is on creating training and work environments for our members which understand and value respectful behaviours and which enable the individuals within them to learn, improve, and support their peers towards creating a better workplace
+
+An overview of the College framework for preventing and addressing bullying, discrimination, racism and harassment is provided [here](https://www.acrrm.org.au/docs/default-source/all-files/respectful-workplaces.pdf?sfvrsn=5f7e58c0_2).
+
+### Comments, compliments and complaints
+
+ACRRM welcomes all feedback from registrars and others to enable continued improvement of training. Any formal complaints received by the College will be managed appropriately and will also be de-identified and considered for the purposes of ongoing program improvement. Feedback is encouraged anytime:
+
+* by phoning 1800 223 226 or emailing our training team [training@acrrm.org.au](mailto:training@acrrm.org.au); or 
+* by emailing the Registrar committee [registrarchair@acrrm.org.au](mailto:registrarchair@acrrm.org.au)
+
+ACRRM invites registrars to provide feedback via online surveys:
+
+* following education or assessment events
+* training program feedback surveys, and
+* as required around specific areas. 
+
+#### Resolving problems
+
+If you have a problem or concern during training the following general principles should assist you to resolve the concern. 
+
+* Direct contact is usually the quickest and most effective way to resolve an issue. Raise the issue with the person involved and explain your point of view. Under normal circumstances, this discussion should occur as close to the time of the relevant event as possible. 
+* If you feel that the issue was not dealt with appropriately as a result of speaking with the person most directly involved, or if you feel uncomfortable speaking with the direct contact, then you should speak with the next senior person of responsibility. 
+* If you still feel that the issue has not been resolved satisfactorily, you should speak with someone in a senior management position in the organisation responsible. 
+* If you feel that the issue has not been resolved satisfactorily, lodge a formal complaint in writing.
+
+There are many organisations involved in general practice training and it may not always be clear where to direct your concern. You may wish to seek guidance on where to direct your concern from your training organisation or from ACRRM. As a general guide, the areas of responsibility for the College include the following:
+
+* on all ACRRM training pathways – delivery of assessment 
+* on the Independent Pathway - delivery of education and support
+* on the AGPT and RVTS pathways – ensuring training organisations uphold the College Standards for Supervisors and Teaching Posts and Standards for Training Organisations and deliver training in accordance with the ACRRM curriculum.
+
+Areas in which the College does not have direct responsibility include, on AGPT and RVTS:
+
+* the delivery of education
+* placement of registrars
+* identifying, supporting and monitoring supervisors and teaching posts.
+
+ACRRM, AGPT and all the training organisations will have a complaints policy to guide the process. 
+
+Where all efforts to resolve the Complaint at the local level have been exhausted, the registrars can refer the matter to the College for consideration.
+[ACRRM’s complaint policy](https://www.acrrm.org.au/docs/default-source/all-files/complaints-policy.pdf?sfvrsn=3d606745_8).
+
+## Appendix 1 Glossary
+
+**Additional leave**
+
+Leave taken by a registrar not working, or undertaking work that is not able to count towards Training Time.
+
+**Advanced Life Support (ALS)**
+
+ALS skills and knowledge must include:
+
+* An understanding of, and practical competence in, one-person and two-person expired air resuscitation and external cardiac compression
+* Competence in airway management techniques that include Guedel airway, bag and mask, oxygen therapy and either laryngeal mask or intubation
+* Demonstrated ability to efficiently use automated external defibrillators (AEDs) and/or biphasic defibrillators
+* Demonstrated ability to identify and manage basic arrhythmias; and
+* Competence in intravenous access and drug therapy.
+
+**Candidates**
+
+Doctors enrolled to undertake an assessment.
+
+**Competency**
+
+Observable abilities that require the integration of multiple knowledge, skills and attributes.
+
+**Education program**
+
+The education that is provided during training; this may be provided by the training post, training organisation or the College.
+
+**MMM**
+
+The Modified Monash Model is a geographic classification system that categorises metropolitan, regional, rural and remote areas. For more information on the MM system see:
+<http://www.doctorconnect.gov.au/internet/otd/publishing.nsf/Content/Classification-changes>.
+
+**Formative assessments**
+
+This includes supervisor reports, miniCEX and other assessments undertaken by supervisors or medical educators.
+
+**Non-VR Support Funding**
+
+Funding provided by the Commonwealth to assist non vocationally registered doctors to achieve a general practice Fellowship.
+
+**Remediation Program**
+
+Formal program of work that is documented and agreed by registrar, remediator and Director of Training.
+
+**Show cause**
+
+Provide justification explaining why the application should be considered.
+
+**Summative assessments**
+
+Multi Choice Question exam, Multi-source Feedback, Case Based Discussion, Procedural Skills Logbook, Project and StAMPS for Core Generalist Training and as relevant for Advanced Specialised Training.
+
+**Training**
+
+Working in an accredited training post under supervision.
+
+**Training Placement**
+
+Placements that count towards Training Time and may meet Training Program Requirements.
+
+**Training plan**
+
+A prospective map of the training journey, planning when and where Training Program Requirements will be met.
+
+**Training Pathway**
+
+One of the three pathways accredited to deliver the ACRRM Training Program: AGPT, IP and RVTS.
+
+**Training Posts**
+
+Facilities accredited by ACRRM to provide training on the ACRRM Training Program.
+
+**Training Region**
+
+A defined and agreed are in Australia within which a Regional Training Organisation is required to deliver training to registrars enrolled on the AGPT Program.
+
+**Training Program Requirements**
+
+Requirements that must be med to complete the ACRRM Training Program.
+
+**Training Organisation**
+
+A training organisation is the organisation that is responsible for training delivery and ensuring that training requirements are met. On AGPT this is the Regional Training Organisation, on RVTS this is RVTS and on IP this is ACRRM.
+
+**Training Time**
+
+Minimum training time required to meet Training Program Requirements.
+
+## Appendix 2 Acronyms
+
+**ACRRM:** Australian College of Rural and Remote Medicine
+\
+**AGPT:** Australian General Practice Training 
+\
+**AHPRA:** Australian Health Practitioner Regulation Agency
+\
+**ALSO:** Advanced Life Support in Obstetrics\
+**AMC:** Australian Medical Council\
+**AMS:** Aboriginal Medical Service\
+**AST:** Advanced Specialised Training\
+**CBD:** Case Based Discussion\
+**CGT:** Core Generalist Training\
+**CRANA:** Council of Remote Area Nurses of Australia\
+**DHAS:** Doctors Health Advisory Service\
+**DRANZCOG:** Diploma of the Royal Australian and New Zealand College of Obstetricians and Gynaecologists\
+**FACRRM:** Fellowship of Australian College of Rural and Remote Medicine\
+**GPRA:** General Practice Registrars Australia\
+**IMG:** International Medical Graduate\
+**IP:** Independent Pathway\
+**JCCA:** Joint Consultative Committee for Anaesthesia\
+**MCQ:** Multiple Choice Questions\
+**MSRPP:** Medical Superintendent with Right of Private Practice\
+**MMM:** Modified Monash Model\
+**MSF:** Multi-Source Feedback\
+**PGY:** Post graduate year\
+**PMC:** Post Graduate Medical Council\
+**RANZCOG:** Royal Australian and New Zealand College of Obstetricians and Gynaecologists\
+**REOT:** Rural Emergency Obstetrics Training\
+**REST:** Rural Emergency Skills Training\
+**RFDS:** Rural Flying Doctors Service\
+**RGTS:** Rural Generalist Training Scheme\
+**RPL:** Recognition of Prior Learning\
+**RTO:** Regional Training Organisation\
+**RVTS:** Remote Vocational Training Scheme\
+**StAMPS:** Structured Assessment using Multiple Patient Scenarios\
+**TO:** Training Organisation\
+**VMO:** Visiting Medical Officer\
+
+## Appendix 3 Tertiary Courses
+
+Courses that may articulate with Advanced Specialised Training programs include, but are not limited to:
+
+**Advanced Specialised Training in Public Health, Remote Medicine, Aboriginal and Torres Strait Islander Health:**
+
+* Master of Public Health and Tropical Medicine – James Cook University: [https://www.jcu.edu.au/courses-and-study/courses/master-of-public-health-and-tropical-medicine ](https://www.jcu.edu.au/courses-and-study/courses/master-of-public-health-and-tropical-medicine)
+* Master of Rural and Remote Medicine – James Cook University: [https://www.jcu.edu.au/courses-and-study/courses/master-of-rural-and-remote-medicine ](https://www.jcu.edu.au/courses-and-study/courses/master-of-rural-and-remote-medicine)
+* Master of Public Health – Menzies School of Health Research in Darwin, [www.menzies.edu.au ](http://www.menzies.edu.au/)
+* Master of Public Health - University of Queensland, [www.uq.edu.au ](www.uq.edu.au)
+* Master of Public Health - Griffith University, Griffith also offers speciality in Agricultural health which can be done externally <https://degrees.griffith.edu.au/Program/5263>
+* The Graduate Certificate of Agricultural Health and Medicine - Deakin University [http://www.deakin.edu.au/future-students/courses/course.php?course=H522 ](http://www.deakin.edu.au/future-students/courses/course.php?course=H522)
+* Postgraduate courses in public health and health promotion offered by Swansea University, <http://www.swansea.ac.uk/postgraduate/taught/humanandhealthsciences/public-health-and-health-promotion/>
+* The Master of Remote Health Practice Program conducted by Flinders University’s Centre for Remote Heath in Alice Springs, [http://crh.flinders.edu.au](http://crh.flinders.edu.au/)   
+* Graduate Diploma in Indigenous and Remote Child Health – Flinders University: [http://www.flinders.edu.au/courses/rules/postgrad/gdpirch.cfm ](http://www.flinders.edu.au/courses/rules/postgrad/gdpirch.cfm)
+* The Master of Public Health and Tropical Medicine conducted by James Cook University in Townsville, [www.jcu.edu.au ](http://www.jcu.edu.au/)
+* The Master of Rural and Remote Medicine conducted by James Cook University in Townsville, [www.jcu.edu.au ](http://www.jcu.edu.au/)
+* The Master of Public Health (Remote and Polar Health) conducted by University of Tasmania and Australian Antarctic Division,  [www.utas.edu.au](<\\acrrm.org.au\dfs\Data\Education Services\Handbooks\Training Handbook\www.utas.edu.au>)
+* The Master of Public Health conducted by Menzies School of Health Research in Darwin, [www.menzies.edu.au](http://www.menzies.edu.au/) 
+
+**Advanced Specialised Training in Academic Practice:**
+
+Possible courses include any Master of Public Health (MPH) programmes, particularly those incorporating a research component, and a range of other options, such as:
+
+* Masters of Clinical Education by Flinders University  [http://www.flinders.edu.au/courses/rules/postgrad/mce/ ](http://www.flinders.edu.au/courses/rules/postgrad/mce/)
+* Masters of Rural and Remote Medicine by James Cook University
+  <https://www.jcu.edu.au/courses-and-study/courses/master-of-rural-and-remote-medicine>
+* Graduate Diploma of Rural and Remote Medicine by James Cook University [https://www.jcu.edu.au/courses-and-study/courses/graduate-diploma-of-rural-and-remote-medicine ](https://www.jcu.edu.au/courses-and-study/courses/graduate-diploma-of-rural-and-remote-medicine)
+* Masters of Health Professional Education by James Cook University [https://www.jcu.edu.au/courses-and-study/courses/master-of-health-professional-education ](https://www.jcu.edu.au/courses-and-study/courses/master-of-health-professional-education)
+* Masters of Clinical Leadership by University of Tasmania <http://www.utas.edu.au/courses/hsi/courses/m7m-master-of-clinical-leadership>
+* Masters of Health Professional Education by Monash University [https://www.monash.edu.au/study/coursefinder/course/3860/ ](https://www.monash.edu.au/study/coursefinder/course/3860/)
+
+**Advanced Specialised Training in Mental Health:**
+
+* Master of Mental Health – University of Queensland:  [https://www.uq.edu.au/study/program.html?acad_prog=5151 ](https://www.uq.edu.au/study/program.html?acad_prog=5151)
+* Master of Mental Health Science - Monash University: [https://www.monash.edu.au/study/coursefinder/course/4508/ ](https://www.monash.edu.au/study/coursefinder/course/4508/)
+* Master of Mental Health Sciences - Flinders University: [http://www.flinders.edu.au/courses/rules/postgrad/mmhs.cfm ](http://www.flinders.edu.au/courses/rules/postgrad/mmhs.cfm)
+* Master of Science in Addiction Studies - University of Adelaide: <https://www.adelaide.edu.au/addiction>
+* Master of Health Studies (Addiction Sciences) - University of Queensland School of Public Health [http://www.sph.uq.edu.au/ ](http://www.sph.uq.edu.au/)
+* Graduate Certificate, Graduate Diploma and Masters of Psychiatric Medicine (Rural and Remote Medicine specialisation) courses, HETI Higher Education  <https://heti.edu.au/our-courses/psychiatric-medicine>
+
+## Appendix 4 Table of changes to training requirements
+The core components for training have remained relatively constant since training was implemented. However there have been several adjustments to make requirements more explicit or to articulate flexibility. The table below describes changes made and when they were introduced. 
+Registrars are required to meet the training requirements in place at the time of enrolment but may choose to move to revised requirements.
