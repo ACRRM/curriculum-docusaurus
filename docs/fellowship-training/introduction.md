@@ -5,16 +5,14 @@ sidebar_label: Fellowship Training
 ---
 ##### Contact details
 
-Australian College of Rural and Remote Medicine  
-Level 1, 324 Queen Street  
-GPO Box 2507  
-Brisbane QLD 4000  
-P: (+61) 7 3105 8200 or 1800 223 226  
-F: (+61) 7 3105 8299  
-E: training@acrrm.org.au  
-Ph: 07 3105 8200  
-Fax: 07 3105 8299  
-Website: www.acrrm.org.au  
+Australian College of Rural and Remote Medicine\
+Level 1, 324 Queen Street\
+GPO Box 2507\
+Brisbane QLD 4000\
+P: (+61) 7 3105 8200 or 1800 223 226\
+F: (+61) 7 3105 8299\
+E: training@acrrm.org.au\
+Website: www.acrrm.org.au\
 ABN: 12 078 081 848
 
 ##### Copyright
@@ -23,8 +21,8 @@ ABN: 12 078 081 848
 
 ##### Version 6.3/2021
 
-Date published: January 2021  
-Date implemented: January 2021  
+Date published: January 2021\
+Date implemented: January 2021\
 Date for review: December 2021
 
 *ACRRM acknowledges Australian Aboriginal People and Torres Strait Islander People as the first inhabitants of the nation.  We respect the traditional owners of lands across Australia in which our members and staff work and live and pay respect to their elders past present and future.*
@@ -95,8 +93,8 @@ The training program requirements are summarised below.
 
 **Time**: Minimum 3 years
 
-**Training**  
-Commence at post graduate year (PGY) 2 or above.  
+**Training**\
+Commence at post graduate year (PGY) 2 or above.\
 Train in regional, rural and remote general practices, hospitals, Aboriginal and Torres Strait Islander health services and retrieval services.
 
 Complete the minimum training requirements in the following:
@@ -109,14 +107,14 @@ Complete the minimum training requirements in the following:
 * obstetrics 
 * anaesthetics 
 
-**Education**  
+**Education**\
 Successfully complete:
 
 * the education program as outlined and delivered by the College or training organisation 
 * Rural Emergency Skills Training (REST) and another emergency course/s 
 * a minimum of four “FACRRM recommended” online learning courses
 
-**Assessment**  
+**Assessment**\
 Successfully complete:
 
 * Six monthly supervisor reports
@@ -131,7 +129,7 @@ Successfully complete:
 
 **Time**: Minimum 1 years
 
-**Training**  
+**Training**\
 Commence at PGY 3 or above.
 
 Train in regional, rural, remote, or city health services as appropriate to the chosen discipline.
@@ -151,13 +149,13 @@ Complete training in at least one of the AST disciplines:
 * Remote Medicine, and
 * Surgery.
 
-**Education**  
+**Education**\
 Successfully complete:
 
 * education provided by the training post, and 
 * specific courses as outlined for each of the AST
 
-**Assessment**  
+**Assessment**\
 Successfully complete:
 
 * three monthly reports
@@ -184,7 +182,7 @@ It is important to plan timing and sequencing of training, education and assessm
 
 ## Core Generalist Training
 
-Core Generalist Training (CGT) may be started at PGY 2 or above. Training program requirements must be met in four areas: time, training, education and assessment.  
+Core Generalist Training (CGT) may be started at PGY 2 or above. Training program requirements must be met in four areas: time, training, education and assessment.\
 
 ### Time
 
@@ -257,7 +255,7 @@ Completed at PGY1 or above through one of the options below.
 **Competencies**
 The knowledge, skills and attributes that are being worked towards are defined in the Rural Generalist Curriculum: Paediatrics learning area.
 
-**Accreditation options**  
+**Accreditation options**\
 Train in a post holding one of the following accreditations:
 
 * Post Graduate Medical Council (PMC) or
@@ -456,7 +454,7 @@ OR
 
 **Training option 4**: 
 
-* ProStart Anaesthetics program  
+* ProStart Anaesthetics program\
   This requires undertaking sessions with an anaesthetist while working through the program
 
 Evidence required:
@@ -1519,42 +1517,42 @@ Minimum training time required to meet Training Program Requirements.
 ## Appendix 2 Acronyms
 
 **ACRRM:** Australian College of Rural and Remote Medicine
-  
+\
 **AGPT:** Australian General Practice Training 
-  
+\
 **AHPRA:** Australian Health Practitioner Regulation Agency
-  
-**ALSO:** Advanced Life Support in Obstetrics  
-**AMC:** Australian Medical Council  
-**AMS:** Aboriginal Medical Service  
-**AST:** Advanced Specialised Training  
-**CBD:** Case Based Discussion  
-**CGT:** Core Generalist Training  
-**CRANA:** Council of Remote Area Nurses of Australia  
-**DHAS:** Doctors Health Advisory Service  
-**DRANZCOG:** Diploma of the Royal Australian and New Zealand College of Obstetricians and Gynaecologists  
-**FACRRM:** Fellowship of Australian College of Rural and Remote Medicine  
-**GPRA:** General Practice Registrars Australia  
-**IMG:** International Medical Graduate  
-**IP:** Independent Pathway  
-**JCCA:** Joint Consultative Committee for Anaesthesia  
-**MCQ:** Multiple Choice Questions  
-**MSRPP:** Medical Superintendent with Right of Private Practice  
-**MMM:** Modified Monash Model  
-**MSF:** Multi-Source Feedback  
-**PGY:** Post graduate year  
-**PMC:** Post Graduate Medical Council  
-**RANZCOG:** Royal Australian and New Zealand College of Obstetricians and Gynaecologists  
-**REOT:** Rural Emergency Obstetrics Training  
-**REST:** Rural Emergency Skills Training  
-**RFDS:** Rural Flying Doctors Service  
-**RGTS:** Rural Generalist Training Scheme  
-**RPL:** Recognition of Prior Learning  
-**RTO:** Regional Training Organisation  
-**RVTS:** Remote Vocational Training Scheme  
-**StAMPS:** Structured Assessment using Multiple Patient Scenarios  
-**TO:** Training Organisation  
-**VMO:** Visiting Medical Officer  
+\
+**ALSO:** Advanced Life Support in Obstetrics\
+**AMC:** Australian Medical Council\
+**AMS:** Aboriginal Medical Service\
+**AST:** Advanced Specialised Training\
+**CBD:** Case Based Discussion\
+**CGT:** Core Generalist Training\
+**CRANA:** Council of Remote Area Nurses of Australia\
+**DHAS:** Doctors Health Advisory Service\
+**DRANZCOG:** Diploma of the Royal Australian and New Zealand College of Obstetricians and Gynaecologists\
+**FACRRM:** Fellowship of Australian College of Rural and Remote Medicine\
+**GPRA:** General Practice Registrars Australia\
+**IMG:** International Medical Graduate\
+**IP:** Independent Pathway\
+**JCCA:** Joint Consultative Committee for Anaesthesia\
+**MCQ:** Multiple Choice Questions\
+**MSRPP:** Medical Superintendent with Right of Private Practice\
+**MMM:** Modified Monash Model\
+**MSF:** Multi-Source Feedback\
+**PGY:** Post graduate year\
+**PMC:** Post Graduate Medical Council\
+**RANZCOG:** Royal Australian and New Zealand College of Obstetricians and Gynaecologists\
+**REOT:** Rural Emergency Obstetrics Training\
+**REST:** Rural Emergency Skills Training\
+**RFDS:** Rural Flying Doctors Service\
+**RGTS:** Rural Generalist Training Scheme\
+**RPL:** Recognition of Prior Learning\
+**RTO:** Regional Training Organisation\
+**RVTS:** Remote Vocational Training Scheme\
+**StAMPS:** Structured Assessment using Multiple Patient Scenarios\
+**TO:** Training Organisation\
+**VMO:** Visiting Medical Officer\
 
 ## Appendix 3 Tertiary Courses
 
@@ -1624,8 +1622,7 @@ Range of rural posts including:
 
 **AST 12 months:**
 * Ten disciplines named
-
-* Individual training plans
+* Individual training plans
 
 **Online Learning modules:**
 * Any four modules
