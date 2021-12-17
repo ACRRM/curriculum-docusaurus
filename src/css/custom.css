@@ -1,194 +1,207 @@
 /* stylelint-disable docusaurus/copyright-header */
+
+
 /**
  * Any CSS included here will be global. The classic template
  * bundles Infima by default. Infima is a CSS framework designed to
  * work well for content-centric websites.
  */
 
+
 /* custom css below */
+
 @font-face {
-  font-family: "archiaregular";
-  src: local("archiaregular"),
-    url(/fonts/archia-regular-webfont.woff2) format("woff2");
-  font-weight: normal;
-  font-style: normal;
+    font-family: "archiaregular";
+    src: local("archiaregular"), url(/fonts/archia-regular-webfont.woff2) format("woff2");
+    font-weight: normal;
+    font-style: normal;
 }
 
 @font-face {
-  font-family: "archiabold";
-  src: local("archiabold"),
-    url(/fonts/archia-bold-webfont.woff2) format("woff2");
-  font-weight: bold;
-  font-style: normal;
+    font-family: "archiabold";
+    src: local("archiabold"), url(/fonts/archia-bold-webfont.woff2) format("woff2");
+    font-weight: bold;
+    font-style: normal;
 }
 
 @font-face {
-  font-family: "MuseoSans";
-  src: local("MuseoSans"), url(/fonts/normal-500.woff2) format("woff2");
-  font-weight: normal;
-  font-style: normal;
+    font-family: "MuseoSans";
+    src: local("MuseoSans"), url(/fonts/normal-500.woff2) format("woff2");
+    font-weight: normal;
+    font-style: normal;
 }
+
 
 /* You can override the default Infima variables here. */
+
 :root {
-  --ifm-color-primary: #e87500;
-  --ifm-color-primary-dark: #d16900;
-  --ifm-color-primary-darker: #c56300;
-  --ifm-color-primary-darkest: #a25200;
-  --ifm-color-primary-light: #ff8100;
-  --ifm-color-primary-lighter: #ff860c;
-  --ifm-color-primary-lightest: #ff982f;
-  /* --ifm-card-background-color: red; */
-  --ifm-code-font-size: 95%;
-  --ifm-navbar-height: 100px;
-  --ifm-global-shadow-lw: 0;
-  --ifm-global-shadow-md: 0;
-  --ifm-global-shadow-tl: 0;
-  /* --docusaurus-announcement-bar-height: auto !important; */
+    --ifm-color-primary: #e87500;
+    --ifm-color-primary-dark: #d16900;
+    --ifm-color-primary-darker: #c56300;
+    --ifm-color-primary-darkest: #a25200;
+    --ifm-color-primary-light: #ff8100;
+    --ifm-color-primary-lighter: #ff860c;
+    --ifm-color-primary-lightest: #ff982f;
+    /* --ifm-card-background-color: red; */
+    --ifm-code-font-size: 95%;
+    --ifm-navbar-height: 100px;
+    --ifm-global-shadow-lw: 0;
+    --ifm-global-shadow-md: 0;
+    --ifm-global-shadow-tl: 0;
+    /* --docusaurus-announcement-bar-height: auto !important; */
 }
 
 @media only screen {
-  html,
-  body {
-    font-family: "archiaregular", arial, sans-serif;
-  }
+    html,
+    body {
+        font-family: "archiaregular", arial, sans-serif;
+    }
 }
 
 @media only print {
-  html,
-  body {
-    font-family: arial, sans-serif;
-    color: black;
-  }
-
-  .navbar {
-    display: none;
-  }
+    html,
+    body {
+        font-family: arial, sans-serif;
+        color: black;
+    }
+    .navbar {
+        display: none;
+    }
 }
 
 #__docusaurus div[role="banner"] {
-  height: auto !important;
+    height: auto !important;
 }
 
 .docusaurus-highlight-code-line {
-  background-color: rgb(72, 77, 91);
-  display: block;
-  margin: 0 calc(-1 * var(--ifm-pre-padding));
-  padding: 0 var(--ifm-pre-padding);
+    background-color: rgb(72, 77, 91);
+    display: block;
+    margin: 0 calc(-1 * var(--ifm-pre-padding));
+    padding: 0 var(--ifm-pre-padding);
 }
 
 .card-demo-container {
-  align-items: center;
-  background-color: var(--ifm-color-black-alpha-05);
-  border-radius: var(--ifm-global-radius);
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: space-around;
-  padding: 2rem;
+    align-items: center;
+    background-color: var(--ifm-color-black-alpha-05);
+    border-radius: var(--ifm-global-radius);
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 2rem;
 }
 
-.card-demo-container > .row:nth-of-type(2) {
-  padding-top: 2rem;
+.card-demo-container>.row:nth-of-type(2) {
+    padding-top: 2rem;
+}
+
+.card-demo-container>.row:nth-of-type(3) {
+    padding-top: 2rem;
 }
 
 .card-demo {
-  height: 100%;
+    height: 100%;
 }
 
 .card {
-  height: 100%;
-  /* margin-left: auto;
+    height: 100%;
+    /* margin-left: auto;
   margin-right: auto; */
-  max-width: 280px;
-  -webkit-box-shadow: 0 5px 5px 1px rgba(0, 0, 0, 0.1);
-  box-shadow: 0 5px 5px 1px rgba(0, 0, 0, 0.1);
+    max-width: 280px;
+    -webkit-box-shadow: 0 5px 5px 1px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 5px 5px 1px rgba(0, 0, 0, 0.1);
 }
 
+
 /* HACK: https://stackoverflow.com/a/45883930/905571 */
+
 .printfont {
-  font-family: "MuseoSans", serif;
-  position: absolute;
-  visibility: hidden;
+    font-family: "MuseoSans", serif;
+    position: absolute;
+    visibility: hidden;
 }
 
 html {
-  scroll-behavior: smooth;
+    scroll-behavior: smooth;
 }
+
 @media screen and (prefers-reduced-motion: reduce) {
-  html {
-    scroll-behavior: auto;
-  }
+    html {
+        scroll-behavior: auto;
+    }
 }
 
 .navbar {
-  box-shadow: 0 5px 10px 1px rgba(0, 0, 0, 0.15);
+    box-shadow: 0 5px 10px 1px rgba(0, 0, 0, 0.15);
 }
 
 .sidebarLogo_node_modules-\@docusaurus-theme-classic-src-theme-DocSidebar- img {
-  height: auto !important;
+    height: auto !important;
 }
 
 .navbar__brand {
-  height: 65px;
+    height: 65px;
 }
+
 .navbar__logo {
-  margin-right: 1rem;
+    margin-right: 1rem;
 }
+
 .footer__logo {
-  max-width: 20rem;
+    max-width: 20rem;
 }
+
 .footer {
-  padding: 0;
+    padding: 0;
 }
 
 .navbar__item.navbar__link {
-  padding: 0;
-  margin: 4px 16px;
-  line-height: 1.66666em;
-  -webkit-box-direction: normal;
-  list-style: none;
-  box-sizing: border-box;
-  text-decoration: none;
-  background-color: transparent;
-  transition: all 0.2s ease;
-  font-weight: 700;
-  display: inline-block;
-  font-family: "archiabold", arial, sans-serif;
-  position: relative;
-  font-size: 16px;
+    padding: 0;
+    margin: 4px 16px;
+    line-height: 1.66666em;
+    -webkit-box-direction: normal;
+    list-style: none;
+    box-sizing: border-box;
+    text-decoration: none;
+    background-color: transparent;
+    transition: all 0.2s ease;
+    font-weight: 700;
+    display: inline-block;
+    font-family: "archiabold", arial, sans-serif;
+    position: relative;
+    font-size: 16px;
 }
 
 .navbar__item.navbar__link:hover {
-  color: unset;
+    color: unset;
 }
 
 .navbar__item.navbar__link:after {
-  content: "";
-  position: absolute;
-  left: 0;
-  right: 0;
-  bottom: -3px;
-  background: #e87500;
-  height: 2px;
-  -webkit-transition-duration: 0.175s;
-  -o-transition-duration: 0.175s;
-  transition-duration: 0.175s;
-  -webkit-transition-timing-function: linear;
-  -o-transition-timing-function: linear;
-  transition-timing-function: linear;
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: -3px;
+    background: #e87500;
+    height: 2px;
+    -webkit-transition-duration: 0.175s;
+    -o-transition-duration: 0.175s;
+    transition-duration: 0.175s;
+    -webkit-transition-timing-function: linear;
+    -o-transition-timing-function: linear;
+    transition-timing-function: linear;
 }
 
 .navbar__item.navbar__link:before {
-  content: "✉";
-  position: absolute;
-  top: 0px;
-  left: -20px;
-  width: 10px;
-  height: 13px;
+    content: "✉";
+    position: absolute;
+    top: 0px;
+    left: -20px;
+    width: 10px;
+    height: 13px;
 }
 
 .navbar__item.navbar__link:hover:after {
-  height: 13px;
-  background: rgba(251, 170, 88, 0.5);
+    height: 13px;
+    background: rgba(251, 170, 88, 0.5);
 }
