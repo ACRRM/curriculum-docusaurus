@@ -279,8 +279,7 @@ OR
 
 Evidence required:
 
-* End of Term Assessment or
-* Supervisor report or [Verification of Clinical Experience proforma](https://www.acrrm.org.au/docs/default-source/all-files/verification-of-clinical-experience-proformaec6a3019286b473baada4b19cd4d341a.pdf?sfvrsn=7eedd769_2)
+* End of Term Assessment, Supervisor report or [Verification of Clinical Experience proforma](https://www.acrrm.org.au/docs/default-source/all-files/verification-of-clinical-experience-proformaec6a3019286b473baada4b19cd4d341a.pdf?sfvrsn=7eedd769_2)
 * Case log of 50 paediatric cases (16 years and under)
 
 OR
@@ -295,9 +294,7 @@ Plus, for the three options above two educational activities in paediatrics, the
 
 Evidence required: 
 
-* End of Term Assessment, or
-* Supervisor report, or
-* [Verification of Clinical Experience proforma](https://www.acrrm.org.au/docs/default-source/all-files/verification-of-clinical-experience-proformaec6a3019286b473baada4b19cd4d341a.pdf?sfvrsn=7eedd769_2)
+* End of Term Assessment, Supervisor report, or [Verification of Clinical Experience proforma](https://www.acrrm.org.au/docs/default-source/all-files/verification-of-clinical-experience-proformaec6a3019286b473baada4b19cd4d341a.pdf?sfvrsn=7eedd769_2)
   (if reports do not include dates and location this must be provided separately)
 * Case log of 50 paediatric cases (16 years and under)
 * Complete paediatrics component of Procedural Skills Logbook 
@@ -459,7 +456,7 @@ OR
 
 Evidence required:
 
-* Course logbook and supervisor sign off
+* ProStart Anaesthetics certificate
 * Complete Anaesthetics component of Procedural Skills Logbook 
 
 OR
@@ -644,11 +641,69 @@ Evidence requirement:
 
 #### *Education program*
 
-All registrars are required to actively participate in and complete a structured education program mapped to the Core Generalist component of the Curriculum, provided by an ACRRM accredited training organisation.
+All registrars are required to actively participate in and complete a structured education program mapped to the Rural Generalist Curriculum. The Education Program is a requirement of Fellowship.
 
-Registrars should refer to the College or their training organisation for details of the education program and the requirements for participation.
+Registrars on AGPT and RVTS complete the program provided by their training organisation. IP and RGTS registrars follow the College education program, described below.
 
-Participation in the education program counts towards Training Time.
+In 2023 AGPT, IP and RGTS registrars will all participate in the College education program. The 2023 program will include regional and national aspects. 
+
+**College education program**
+
+Participation in the College education program is mandatory requirement of Fellowship. The program includes four semesters (each consisting of five modules), two 5 day workshops, emergency courses and other support activities.  
+
+**Semesters A & B**
+
+Semesters A & B run for 1 semester each and are each composed of an online course and a 5-day face to face workshop. Semester A is facilitated during the first half of the year and Semester B during the second half of each year. They can be completed in any order depending on your training commencement date. 
+
+**Online A**
+
+* Chronic disease 
+* Musculoskeletal conditions 
+* Women’s health 
+* Aged care 
+* Child and adolescent health 
+
+**Online B**
+
+* Mental health 
+* Renal 
+* Respiratory 
+* Gastroenterology 
+* Palliative care / haematology / oncology 
+
+The online components of Semester A & B are made up of self-directed learning modules, guided asynchronous discussion forums, live webinars, a multiple-choice question (MCQ) assessment.  Each of the 5 modules can take 6 to 10 hrs to complete, depending on the registrars experience, and their engagement with additional readings. 
+
+**Workshops A & B**
+
+The 5 day workshops are held in both semesters A and B, and align with content covered in the Online A and B courses. The workshops can be held face to face (depending on border restrictions) or they can be held virtually (using the college learning management system and live virtual classrooms) and include live presentations and demonstrations, break-out case discussions and peer networking activities. 
+
+It is mandatory for all registrars to complete both semesters of online education and to attend all 5 days of both workshops.
+
+**Semesters C & D**
+
+Semesters C & D are currently a non-mandatory component of the education program and can be completed by registrars at their own pace. They can be completed at any time during training, but registrars are encouraged to complete them as early in their training prior to commencing assessment.
+
+**Online C** 
+
+* Men’s health 
+* Dermatology 
+* Surgery 
+* Preventative and population health 
+* Emergency medicine 
+
+**Online D**
+
+* Neurology and rehabilitation 
+* Rheumatology and immunology 
+* Endocrine 
+* Infectious diseases 
+* Ophthalmology, ENT and dental 
+
+Semesters C & D modules are made up of self-directed learning, interactive case studies, additional resources and an MCQ assessment.  Each module can take 6 to 10 hrs to complete, depending on the registrars experience, and their engagement with additional readings. 
+
+**Life Hacks Connect**
+
+Life Hacks Connect is a series of non-mandatory monthly education support activities for registrars at all stages of training. The program covers topics that have been highlighted by registrars as areas of interest and complements the formal education program. Topics may include settling into rural practice, medico-legal, self-care and sustainability. Life Hacks Connect consists of a series of recorded interviews and moderated discussions delivered via Connect@ACRRM. This will allow registrars to be part of the discussion at a time that suits them. It will be available throughout the year to all Independent Pathway and RGTSregistrars who are actively engaged in the training program. 
 
 #### *Emergency medicine courses*
 
@@ -717,36 +772,29 @@ Overseas courses that are equivalent to approved courses will also count.
 
 Many of the Tier 1 courses are also EM courses required for AST programs. 
 
-Courses must be selected from the currently approved courses. Non approved courses that have been already completed may be considered case by case. Email training@acrrm.org.au. Details of the course program and instructors must be provided. 
+Courses must be selected from the currently approved courses. Non approved courses that have been already completed may be considered case by case. Email [training@acrrm.org.au](emailto:training@acrrm.org.au). Details of the course program and instructors must be provided. 
 
-#### *ACRRM Online Courses*
+### Other program activities
 
-All registrars are required to complete at least four approved ACRRM Online Courses as part of their education requirement; these are marked in the online library as ‘FACRRM recommended” courses.
+#### Foundation program
 
-Participation in Tele-Derm National, 150 Shades of Radiology online and ruralEM forum can count towards education requirements. 
+A range of foundation online courses are available to all registrars, these include: 
 
-To be considered as equivalent to one course, for:
+* Introduction to Primary Care\
+* RG Foundation skills Aboriginal and Torres Strait Islander Health 
+* RG Foundation skills Self-care and Well Being 
+* RG Foundation skills Digital Health 
+* RG Foundation skills Population Health 
+* RG Foundation skills Rural and Remote Context 
+* Introduction to Cultural Awareness  
 
-* Tele-Derm National: registrars are required to, either:
+#### ruralEM forum
 
-  * submit five of their own cases for review and discussion, or 
-  * complete 10 case studies with multiple-choice questions successfully completed 
-* 150 Shades of Radiology online, registrars are required to: 
+The ruralEM forum is aims to support members working in Emergency Departments and registrars undertaking AST in Emergency Medicine. A new course is presented each month, most of the AST curriculum over the course of the year. Summaries of the important learning points are available.   
 
-  * complete 10 case studies with multiple-choice questions successfully completed 
-* ruralEM forum, registrars are required to 
+#### Online courses
 
-  * complete 10 case studies with multiple-choice questions successfully completed 
-
-The College's Online Courses can be accessed through the [ACRRM website](https://www.acrrm.org.au/courses/discover-our-courses/online).
-
-The library contains interactive courses that are mapped to the curriculum including case studies, in-depth content and discussion boards covering a diverse and expanding range of topics, such as:
-
-* dermatology (Tele-Derm)
-* palliative care
-* ruralEM forum
-* skin surgery (a user's guide to skin surgery); and
-* radiology (basics of radiology series)
+The College online learning courses are complementary activities for registrars at all stages of training. There are over 100 online courses listed on the ACRRM website, the courses list can be filtered by curriculum domain and/or learning area. Online courses are selected by the registrars and recommended by Medical Educators as part of their individual learning plans. 
 
 #### *Other courses*
 
@@ -781,6 +829,18 @@ Obtain a pass grade in the following assessment by the end of training:
 Information on these assessment and resources available to assist with preparing for assessment are provided in the [Fellowship Assessment Handbook](https://www.acrrm.org.au/resources/assessment/handbooks-guides).
 
 Assessment eligibility requirements must be met prior to enrolling into an assessment see the [Assessment Eligibility policy](https://www.acrrm.org.au/docs/default-source/all-files/assessment-eligibility-policy.pdf?sfvrsn=bcf9fecc_14).
+
+#### Assessment support
+
+The College provides staged assessment support for IP and RGTS registrars, this is in addition to the mock exam and study groups offered to all registrars. 
+
+Registrars that are unsuccessful in first assessment attempt complete a post assessment survey, a study plan and complete or repeat the applicable assessment online introduction course. A Medical Educator reviews the assessment results, survey response and provides advice on preparing for the next attempt. Additional Medical Educator sessions are provided for support and guidance with the next attempt.
+
+Registrars that continue to be unsuccessful in the second attempt follow a similar program with the support of a Medical Educator with specialised skills in the specific assessment modality. Additional individual or group sessions are provided on understanding how the assessment is constructed and what the assessors are looking for plus practice of scenarios/cases. 
+
+Where a registrar fails three or more times in a single, or multiple modalities, or where a registrar is seen as being at risk of not completing Fellowship, they are eligible to participate in the remediation program. Enrolment in the program is recommended by the Medical Educator and approved by the Director of Training.  
+
+The registrar is referred to the remediation team and assigned a dedicated Medical Educator. Analysis and review are undertaken of training progress, assessment feedback survey and learning plan and further investigations/assessment undertaken to understand the reasons for poor performance. A preliminary remediation plan is drafted, reviewed, and approved by the Director of Training. The Remediation plan is discussed and finalised with registrar. Registrar must agree to participate actively in the program and sign an agreement, for remediation to commence.  
 
 ## Advanced Specialised Training
 
@@ -1302,16 +1362,28 @@ The policy also applies to decisions made by Regional Training Organisations, de
 
 This policy details the circumstances under which refunds are paid. 
 
+**Financial Hardship**
+
+This defines the policy for the recognition of financial hardship in meeting fees set by the College.
+
+
 ## Information, support and advocacy
 
 While ACRRM training requirements are outlined in this handbook and the policies are the same nationally, there are differences regionally in the delivery of the program. There are also requirements that may be specific to your training pathway or Training Organisation. Therefore, you should contact your training organisation delivering your training first for specific advice. 
+
+**College support**
+The College delivers training directly on IP and RGTS. Registrars are allocated a Training Officer and a Medical Educator.
+Training Officers are your point of contact throughout training, connecting you to the College and assisting you to navigate training requirements, policies, education and support programs. They will work with you, your Medical Educator and other stakeholders who are there to assist you in training.
+Medical Educators are your coach and mentor in training. They provide clinical guidance and work with you to develop your training plan, as well as guiding your learning needs and assessment support.
+
 
 ACRRM is also available to provide information about training and assessment. 
 
 You may contact the College at any time by phone on 1800 223 226 or (07) 3105 8200 or email. If your query relates to:
 
 * Training, your training officer will be your best contact. If emailing [training@acrrm.org.au](mailto:training@acrrm.org.au), your email will be directed to your training officer.
-* Assessment, the assessment team will be your best contact. Email: [assessment@acrrm.org.au](mailto:assessment@acrrm.org.au) or 
+* Education, the Education Team will be your best contact, email [education@acrrm.org.au](mailto:education@acrrm.org.au)
+* Assessment, the assessment team will be your best contact. Email: [assessment@acrrm.org.au](mailto:assessment@acrrm.org.au)
 * Membership, ask for the Member Engagement Team when you call the College or email:  [membership@acrrm.org.au](mailto:membership@acrrm.org.au)
 
 There is a range of available resources, communities and groups through the College and externally for you to connect and network, share your views and find support, including:
@@ -1571,7 +1643,7 @@ Courses that may articulate with Advanced Specialised Training programs include,
 * Graduate Diploma in Indigenous and Remote Child Health – Flinders University: [http://www.flinders.edu.au/courses/rules/postgrad/gdpirch.cfm ](http://www.flinders.edu.au/courses/rules/postgrad/gdpirch.cfm)
 * The Master of Public Health and Tropical Medicine conducted by James Cook University in Townsville, [www.jcu.edu.au ](http://www.jcu.edu.au/)
 * The Master of Rural and Remote Medicine conducted by James Cook University in Townsville, [www.jcu.edu.au ](http://www.jcu.edu.au/)
-* The Master of Public Health (Remote and Polar Health) conducted by University of Tasmania and Australian Antarctic Division,  [www.utas.edu.au](<\\acrrm.org.au\dfs\Data\Education Services\Handbooks\Training Handbook\www.utas.edu.au>)
+* The Master of Public Health (Remote and Polar Health) conducted by University of Tasmania and Australian Antarctic Division,  [www.utas.edu.au](<\acrrm.org.au\dfs\Data\Education Services\Handbooks\Training Handbook\www.utas.edu.au>)
 * The Master of Public Health conducted by Menzies School of Health Research in Darwin, [www.menzies.edu.au](http://www.menzies.edu.au/) 
 
 **Advanced Specialised Training in Academic Practice:**
@@ -1601,11 +1673,11 @@ The core components for training have remained relatively constant since trainin
 
 Registrars are required to meet the training requirements in place at the time of enrolment but may choose to move to revised requirements.
 
-
 **Year Training Commenced: 2007**
 
 **CCT 12 months:**
 Rotations:
+
 * AIM
 * Surgery
 * Emergency Medicine
@@ -1615,19 +1687,23 @@ Rotations:
 
 **PRRT 24 months:**
 Range of rural posts including:
+
 * GP
 * hospitals
 * AMS
 * retrieval must be accredited
 
 **AST 12 months:**
+
 * Ten disciplines named
-* Individual training plans
+* Individual training plans
 
 **Online Learning modules:**
+
 * Any four modules
 
 **EM courses:**
+
 * Two EMST
 * APLS
 * ELS
@@ -1636,24 +1712,30 @@ Range of rural posts including:
 **Year Training Commenced: 2008** 
 
 **CCT 12 months:**
+
 * No change
 
 **PRRT 24 months:**
+
 * No change
 
 **AST 12 months:**
+
 * No change
 
 **Online Learning modules:**
+
 * No change
 
 **EM courses:**
+
 * No change
 
 **Year Training Commenced: 2009** 
 
 **CCT 12 months:**
 Rotation:
+
 * AIM
 * Surgery
 * Emergency Medicine
@@ -1662,30 +1744,37 @@ Rotation:
 * O&G 
 
 **PRRT 24 months:**
+
 * No change
 
 **AST 12 months:**
+
 * No change
 
 **Online Learning modules:**
+
 * No change
 
 **EM courses:**
+
 * 2 tier 1
-OR
+  OR
 * 1 tier 1, and 2 tier 2
 
 **Year Training Commenced: 2010** 
 
 **CCT 12 months:**
+
 * Alternatives to rotations described
 
 **PRRT 24 months:**
+
 * No change
 
 **AST 12 months:**
 
 Curricula published:
+
 * Emergency Medicine
 * Remote Health
 * ATSI
@@ -1693,22 +1782,27 @@ Curricula published:
 Assessments required for these ASTs
 
 **Online Learning modules:**
+
 * No change
 
 **EM courses:**
+
 * No change
 
 **Year Training Commenced: 2011** 
 
 **CCT 12 months:**
+
 * No change
 
 **PRRT 24 months:**
+
 * No change
 
 **AST 12 months:**
 
 Curricula published:
+
 * AIM
 * Mental Health
 * Surgery
@@ -1717,105 +1811,128 @@ Curricula published:
 Assessments required for these ASTs
 
 **Online Learning modules:**
+
 * Only those with a green flag
 
 **EM courses:**
+
 * No change
 
 **Year Training Commenced: 2012** 
 
 **CCT 12 months:**
+
 * No change
 
 **PRRT 24 months:**
+
 * 6 months community primary care, and
 * 6 months rural
 * Formative miniCEX required
 
 **AST 12 months:**
+
 * No change
 
 **Online Learning modules:**
+
 * No change
 
 **EM courses:**
+
 * No change
 
 **Year Training Commenced: 2013** 
 
 **CCT 12 months:**
+
 * No change
 
 **PRRT 24 months:**
+
 * No change
 
 **AST 12 months:**
+
 * Academic practice names as a discipline
 * Registrars apply under individual training plan
 
 **Online Learning modules:**
+
 * No change
 
 **EM courses:**
+
 * No change
 
 **Year Training Commenced: 2014** 
 
 **CCT 12 months:**
+
 * No change
 
 **PRRT 24 months:**
+
 * 6 months community primary care
 * 6 months hospital emergency care, and
 * 12 months rural
 
 **AST 12 months:**
+
 * No change
 
 **Online Learning modules:**
+
 * No change
 
 **EM courses:**
+
 * Courses must be within 10 years of Fellowship, providing one ALS is within three years of Fellowship
 
 **Year Training Commenced: 2015** 
 
 **CCT 12 months:**
+
 * No change
 
 **PRRT 24 months:**
+
 * No change
 
 **AST 12 months:**
-* 
 
-**Online Learning modules:**
+* **Online Learning modules:**
 * No change
 
 **EM courses:**
+
 * No change
 
 **Year Training Commenced: 2016** 
 
 **CCT 12 months:**
+
 * Alternatives increased
 * Evidence to demonstrate completion of skills sets defied
+
   * logbook, and
   * supervisors report
 
 **PRRT 24 months:**
+
 * Definition of requirements for:
+
   * hospital and emergency care
   * community primary care and population health, and
   * rural and remote
-
 * Case Based Discussion replaced MiniCEX as a summative assessment - applied to all registrars commencing training in 2016
-
 * MiniCEX maintained as formative assessment requirement
 
 **AST 12 months:**
+
 * Academic Practice added as an AST option
 * Revised curricula:
+
   * Emergency Medicine
   * Paediatrics
   * Mental Health
@@ -1825,101 +1942,129 @@ Assessments required for these ASTs
 * Minor changes to prerequisites and formative miniCEX required for all clinical ASTs
 
 **Online Learning modules:**
+
 * Now referred to as FACRRM recommended modules
 
 **EM courses:**
+
 * REST mandated as one of the tier 1 courses
 
 **Year Training Commenced: 2017** 
 
 **CCT 12 months:**
+
 * No change
 * Training plan required
 * Maximum RPL reduced to 2 years on AGPT and RVTS and 3 years for IP
+
   * Training plan must be submitted with RPL application
 
 **PRRT 24 months:**
+
 * Options for flexibility defined
 
 **AST 12 months:**
+
 * No change
 
 **Online Learning modules:**
+
 * No change
 
 **EM courses:**
+
 * No change
 
 **Year Training Commenced: 2018** 
 
 **CCT 12 months:**
+
 * No change
 * Currency of experience required to apply for RPL reduced to:
+
   * CCT within past seven years
   * PRRT within past five years, and
   * AST within past two years
 
 **PRRT 24 months:**
+
 * No change
 
 **AST 12 months:**
+
 * No change
 
 **Online Learning modules:**
+
 * No change
 
 **EM courses:**
+
 * No change
 
 **Year Training Commenced: 2019** 
 
 **CCT 12 months:**
+
 * No change
 
 **PRRT 24 months:**
+
 * Time restrictions removed from PRRT posts
 * Registrar must continue to meet mandatory requirements for experience in domains of rural practice
 * Minor changes to Procedural Skills Logbook
+
   * 100% essential skills must be completed and at least 75% of important skills
 
 **AST 12 months:**
+
 * No change
 
 **Online Learning modules:**
+
 * No change
 
 **EM courses:**
+
 * No change
 
 **Year Training Commenced: 2020** 
 
 **Core Generalist Training (CGT)**
+
 * CCT and PRRT merged into Core Generalist Training
 * No change to requirements, but there is more flexibility for experienced doctors to commence training in either hospital or general practice.
 * Continued refinements in options and evidence to meet Paediatrics, Obstetrics and Anaesthetics
 
 **AST 12 months:**
+
 * Palliative care added as an AST option
 
 **Online Learning modules:**
+
 * No change
 
 **EM courses:**
+
 * No change
 
 **Year Training Commenced: 2021** 
 
 **Core Generalist Training (CGT)**
+
 * No changes
 
 **AST 12 months:**
+
 * 6 monthly Supervisor reports replaced with the:  
+
   * 3 monthly plan, and
   * Progress Report
 
 **Online Learning modules:**
+
 * No change
 
 **EM courses:**
-* No change
 
+* No change
