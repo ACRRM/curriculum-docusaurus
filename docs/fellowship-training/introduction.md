@@ -248,7 +248,7 @@ Where the training occurred in a regular training placement, the regular six mon
 
 Where a [case log](https://www.acrrm.org.au/docs/default-source/all-files/case-log-proforma.docx?sfvrsn=c8109feb_12) is provided as evidence, it is anticipated that all cases have been conducted by the registrar. To meet the training requirement, 50% or more cases must be conducted by the registrar.
 
-### Paediatrics requirement
+#### Paediatrics requirement
 
 Completed at PGY1 or above through one of the options below.
 
@@ -322,7 +322,7 @@ Evidence required:
 
 * Letter of completion
 
-### Obstetrics requirement
+#### Obstetrics requirement
 
 Completed at PGY1 or above through one of the options below.
 
@@ -386,7 +386,7 @@ Evidence required:
 
 * Evidence of completion
 
-### Anaesthetic requirement
+#### Anaesthetic requirement
 
 Completed at PGY1 or above through one of the options below.
 
@@ -469,7 +469,7 @@ Evidence required:
 
 * Letter of completion
 
-### Primary Care requirement
+#### Primary Care requirement
 
 Primary care training of six months or more FTE at PGY 2 or above
 
@@ -499,7 +499,7 @@ Evidence requirement:
 * Supervisor reports
 * Training organisation records
 
-### Secondary care requirement
+#### Secondary care requirement
 
 Secondary care training of three months or more FTE at PGY 2 or above.
 
@@ -540,7 +540,7 @@ Evidence requirement:
 
 * Evidence of completion
 
-### Emergency care requirement
+#### Emergency care requirement
 
 Emergency care training of three months or more FTE at PGY2 or above
 
@@ -583,7 +583,7 @@ Evidence requirement:
 
 * Evidence of completion
 
-### Rural and remote practice requirement
+#### Rural and remote practice requirement
 
 Rural and remote practice training of 12 months or more FTE at PGY2 or above
 
@@ -789,8 +789,7 @@ A range of foundation online courses are available to all registrars, these incl
 * Introduction to Cultural Awareness  
 
 #### ruralEM forum
-
-### The ruralEM forum is aims to support members working in Emergency Departments and registrars undertaking AST in Emergency Medicine. A new course is presented each month, most of the AST curriculum over the course of the year. Summaries of the important learning points are available.   
+The ruralEM forum is aims to support members working in Emergency Departments and registrars undertaking AST in Emergency Medicine. A new course is presented each month, most of the AST curriculum over the course of the year. Summaries of the important learning points are available.
 
 #### Online courses
 
