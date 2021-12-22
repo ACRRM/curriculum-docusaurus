@@ -248,7 +248,7 @@ Where the training occurred in a regular training placement, the regular six mon
 
 Where a [case log](https://www.acrrm.org.au/docs/default-source/all-files/case-log-proforma.docx?sfvrsn=c8109feb_12) is provided as evidence, it is anticipated that all cases have been conducted by the registrar. To meet the training requirement, 50% or more cases must be conducted by the registrar.
 
-### Paediatrics requirement
+#### Paediatrics requirement
 
 Completed at PGY1 or above through one of the options below.
 
@@ -322,7 +322,7 @@ Evidence required:
 
 * Letter of completion
 
-### Obstetrics requirement
+#### Obstetrics requirement
 
 Completed at PGY1 or above through one of the options below.
 
@@ -386,7 +386,7 @@ Evidence required:
 
 * Evidence of completion
 
-### Anaesthetic requirement
+#### Anaesthetic requirement
 
 Completed at PGY1 or above through one of the options below.
 
@@ -469,7 +469,7 @@ Evidence required:
 
 * Letter of completion
 
-### Primary Care requirement
+#### Primary Care requirement
 
 Primary care training of six months or more FTE at PGY 2 or above
 
@@ -499,7 +499,7 @@ Evidence requirement:
 * Supervisor reports
 * Training organisation records
 
-### Secondary care requirement
+#### Secondary care requirement
 
 Secondary care training of three months or more FTE at PGY 2 or above.
 
@@ -540,7 +540,7 @@ Evidence requirement:
 
 * Evidence of completion
 
-### Emergency care requirement
+#### Emergency care requirement
 
 Emergency care training of three months or more FTE at PGY2 or above
 
@@ -583,7 +583,7 @@ Evidence requirement:
 
 * Evidence of completion
 
-### Rural and remote practice requirement
+#### Rural and remote practice requirement
 
 Rural and remote practice training of 12 months or more FTE at PGY2 or above
 
@@ -655,7 +655,7 @@ Participation in the College education program is mandatory requirement of Fello
 
 Semesters A & B run for 1 semester each and are each composed of an online course and a 5-day face to face workshop. Semester A is facilitated during the first half of the year and Semester B during the second half of each year. They can be completed in any order depending on your training commencement date. 
 
-###### **Online A**
+**Online A**
 
 * Chronic disease 
 * Musculoskeletal conditions 
@@ -663,7 +663,7 @@ Semesters A & B run for 1 semester each and are each composed of an online cours
 * Aged care 
 * Child and adolescent health 
 
-###### **Online B**
+**Online B**
 
 * Mental health 
 * Renal 
@@ -673,13 +673,13 @@ Semesters A & B run for 1 semester each and are each composed of an online cours
 
 The online components of Semester A & B are made up of self-directed learning modules, guided asynchronous discussion forums, live webinars, a multiple-choice question (MCQ) assessment.  Each of the 5 modules can take 6 to 10 hrs to complete, depending on the registrars experience, and their engagement with additional readings. 
 
-###### **Workshops A & B**
+**Workshops A & B**
 
 The 5 day workshops are held in both semesters A and B, and align with content covered in the Online A and B courses. The workshops can be held face to face (depending on border restrictions) or they can be held virtually (using the college learning management system and live virtual classrooms) and include live presentations and demonstrations, break-out case discussions and peer networking activities. 
 
 It is mandatory for all registrars to complete both semesters of online education and to attend all 5 days of both workshops.
 
-**Semesters C & D**
+##### **Semesters C & D**
 
 Semesters C & D are currently a non-mandatory component of the education program and can be completed by registrars at their own pace. They can be completed at any time during training, but registrars are encouraged to complete them as early in their training prior to commencing assessment.
 
@@ -774,9 +774,9 @@ Many of the Tier 1 courses are also EM courses required for AST programs.
 
 Courses must be selected from the currently approved courses. Non approved courses that have been already completed may be considered case by case. Email [training@acrrm.org.au](mailto:training@acrrm.org.au). Details of the course program and instructors must be provided. 
 
-### Other education activities
+#### Other education activities
 
-#### Foundation program
+##### Foundation program
 
 A range of foundation online courses are available to all registrars, these include: 
 
@@ -788,15 +788,15 @@ A range of foundation online courses are available to all registrars, these incl
 * RG Foundation skills Rural and Remote Context 
 * Introduction to Cultural Awareness  
 
-#### ruralEM forum
+##### ruralEM forum
 
-### The ruralEM forum is aims to support members working in Emergency Departments and registrars undertaking AST in Emergency Medicine. A new course is presented each month, most of the AST curriculum over the course of the year. Summaries of the important learning points are available.   
+The ruralEM forum is aims to support members working in Emergency Departments and registrars undertaking AST in Emergency Medicine. A new course is presented each month, most of the AST curriculum over the course of the year. Summaries of the important learning points are available.
 
-#### Online courses
+##### Online courses
 
 The College online learning courses are complementary activities for registrars at all stages of training. There are over 100 online courses listed on the ACRRM website, the courses list can be filtered by curriculum domain and/or learning area. Online courses are selected by the registrars and recommended by Medical Educators as part of their individual learning plans. 
 
-#### Other courses
+##### Other courses
 
 Courses that are undertaken by registrars relating to the Rural Generalist Curriculum, that are five or more days in duration, may be approved to count towards Training Time.
 
