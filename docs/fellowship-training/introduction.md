@@ -655,7 +655,7 @@ Participation in the College education program is mandatory requirement of Fello
 
 Semesters A & B run for 1 semester each and are each composed of an online course and a 5-day face to face workshop. Semester A is facilitated during the first half of the year and Semester B during the second half of each year. They can be completed in any order depending on your training commencement date. 
 
-###### **Online A**
+**Online A**
 
 * Chronic disease 
 * Musculoskeletal conditions 
@@ -663,7 +663,7 @@ Semesters A & B run for 1 semester each and are each composed of an online cours
 * Aged care 
 * Child and adolescent health 
 
-###### **Online B**
+**Online B**
 
 * Mental health 
 * Renal 
