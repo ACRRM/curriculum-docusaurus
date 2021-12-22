@@ -4,7 +4,7 @@ title: Standards for Supervisors and Training Posts
 sidebar_label: Supervisors and Training Posts
 ---
 Australian College of Rural and Remote Medicine 
-Level 2, 410 Queen Street
+Level 1, 324 Queen Street
 GPO Box 2507
 Brisbane QLD 4001
 Ph: 07 3105 8200 Fax: 07 3105 8299
