@@ -656,7 +656,6 @@ Participation in the College education program is mandatory requirement of Fello
 Semesters A & B run for 1 semester each and are each composed of an online course and a 5-day face to face workshop. Semester A is facilitated during the first half of the year and Semester B during the second half of each year. They can be completed in any order depending on your training commencement date. 
 
 **Online A**
-
 * Chronic disease 
 * Musculoskeletal conditions 
 * Women’s health 
@@ -664,7 +663,6 @@ Semesters A & B run for 1 semester each and are each composed of an online cours
 * Child and adolescent health 
 
 **Online B**
-
 * Mental health 
 * Renal 
 * Respiratory 
@@ -684,7 +682,6 @@ It is mandatory for all registrars to complete both semesters of online educatio
 Semesters C & D are currently a non-mandatory component of the education program and can be completed by registrars at their own pace. They can be completed at any time during training, but registrars are encouraged to complete them as early in their training prior to commencing assessment.
 
 **Online C** 
-
 * Men’s health 
 * Dermatology 
 * Surgery 
@@ -692,7 +689,6 @@ Semesters C & D are currently a non-mandatory component of the education program
 * Emergency medicine 
 
 **Online D**
-
 * Neurology and rehabilitation 
 * Rheumatology and immunology 
 * Endocrine 
