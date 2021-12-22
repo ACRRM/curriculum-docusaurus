@@ -774,9 +774,9 @@ Many of the Tier 1 courses are also EM courses required for AST programs.
 
 Courses must be selected from the currently approved courses. Non approved courses that have been already completed may be considered case by case. Email [training@acrrm.org.au](mailto:training@acrrm.org.au). Details of the course program and instructors must be provided. 
 
-### Other education activities
+#### Other education activities
 
-#### Foundation program
+##### Foundation program
 
 A range of foundation online courses are available to all registrars, these include: 
 
@@ -788,14 +788,15 @@ A range of foundation online courses are available to all registrars, these incl
 * RG Foundation skills Rural and Remote Context 
 * Introduction to Cultural Awareness  
 
-#### ruralEM forum
+##### ruralEM forum
+
 The ruralEM forum is aims to support members working in Emergency Departments and registrars undertaking AST in Emergency Medicine. A new course is presented each month, most of the AST curriculum over the course of the year. Summaries of the important learning points are available.
 
-#### Online courses
+##### Online courses
 
 The College online learning courses are complementary activities for registrars at all stages of training. There are over 100 online courses listed on the ACRRM website, the courses list can be filtered by curriculum domain and/or learning area. Online courses are selected by the registrars and recommended by Medical Educators as part of their individual learning plans. 
 
-#### Other courses
+##### Other courses
 
 Courses that are undertaken by registrars relating to the Rural Generalist Curriculum, that are five or more days in duration, may be approved to count towards Training Time.
 
