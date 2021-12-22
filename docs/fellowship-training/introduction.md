@@ -673,13 +673,13 @@ Semesters A & B run for 1 semester each and are each composed of an online cours
 
 The online components of Semester A & B are made up of self-directed learning modules, guided asynchronous discussion forums, live webinars, a multiple-choice question (MCQ) assessment.  Each of the 5 modules can take 6 to 10 hrs to complete, depending on the registrars experience, and their engagement with additional readings. 
 
-###### **Workshops A & B**
+**Workshops A & B**
 
 The 5 day workshops are held in both semesters A and B, and align with content covered in the Online A and B courses. The workshops can be held face to face (depending on border restrictions) or they can be held virtually (using the college learning management system and live virtual classrooms) and include live presentations and demonstrations, break-out case discussions and peer networking activities. 
 
 It is mandatory for all registrars to complete both semesters of online education and to attend all 5 days of both workshops.
 
-**Semesters C & D**
+##### **Semesters C & D**
 
 Semesters C & D are currently a non-mandatory component of the education program and can be completed by registrars at their own pace. They can be completed at any time during training, but registrars are encouraged to complete them as early in their training prior to commencing assessment.
 
