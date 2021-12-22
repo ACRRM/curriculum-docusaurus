@@ -182,7 +182,7 @@ It is important to plan timing and sequencing of training, education and assessm
 
 ## Core Generalist Training
 
-Core Generalist Training (CGT) may be started at PGY 2 or above. Training program requirements must be met in four areas: time, training, education and assessment.\
+Core Generalist Training (CGT) may be started at PGY 2 or above. Training program requirements must be met in four areas: time, training, education and assessment.
 
 ### Time
 
@@ -632,7 +632,6 @@ Evidence requirement:
 
 * Supervisor report
 * Evidence of:
-
   * time and
   * role and
   * case/treatment log
@@ -703,7 +702,7 @@ Semesters C & D modules are made up of self-directed learning, interactive case 
 
 **Life Hacks Connect**
 
-Life Hacks Connect is a series of non-mandatory monthly education support activities for registrars at all stages of training. The program covers topics that have been highlighted by registrars as areas of interest and complements the formal education program. Topics may include settling into rural practice, medico-legal, self-care and sustainability. Life Hacks Connect consists of a series of recorded interviews and moderated discussions delivered via Connect@ACRRM. This will allow registrars to be part of the discussion at a time that suits them. It will be available throughout the year to all Independent Pathway and RGTSregistrars who are actively engaged in the training program. 
+Life Hacks Connect is a series of non-mandatory monthly education support activities for registrars at all stages of training. The program covers topics that have been highlighted by registrars as areas of interest and complements the formal education program. Topics may include settling into rural practice, medico-legal, self-care and sustainability. Life Hacks Connect consists of a series of recorded interviews and moderated discussions delivered via Connect@ACRRM. This will allow registrars to be part of the discussion at a time that suits them. It will be available throughout the year to all Independent Pathway and RGTS registrars who are actively engaged in the training program. 
 
 #### *Emergency medicine courses*
 
@@ -772,7 +771,7 @@ Overseas courses that are equivalent to approved courses will also count.
 
 Many of the Tier 1 courses are also EM courses required for AST programs. 
 
-Courses must be selected from the currently approved courses. Non approved courses that have been already completed may be considered case by case. Email [training@acrrm.org.au](emailto:training@acrrm.org.au). Details of the course program and instructors must be provided. 
+Courses must be selected from the currently approved courses. Non approved courses that have been already completed may be considered case by case. Email [training@acrrm.org.au](mailto:training@acrrm.org.au). Details of the course program and instructors must be provided. 
 
 ### Other program activities
 
@@ -1366,7 +1365,6 @@ This policy details the circumstances under which refunds are paid.
 
 This defines the policy for the recognition of financial hardship in meeting fees set by the College.
 
-
 ## Information, support and advocacy
 
 While ACRRM training requirements are outlined in this handbook and the policies are the same nationally, there are differences regionally in the delivery of the program. There are also requirements that may be specific to your training pathway or Training Organisation. Therefore, you should contact your training organisation delivering your training first for specific advice. 
@@ -1375,7 +1373,6 @@ While ACRRM training requirements are outlined in this handbook and the policies
 The College delivers training directly on IP and RGTS. Registrars are allocated a Training Officer and a Medical Educator.
 Training Officers are your point of contact throughout training, connecting you to the College and assisting you to navigate training requirements, policies, education and support programs. They will work with you, your Medical Educator and other stakeholders who are there to assist you in training.
 Medical Educators are your coach and mentor in training. They provide clinical guidance and work with you to develop your training plan, as well as guiding your learning needs and assessment support.
-
 
 ACRRM is also available to provide information about training and assessment. 
 
