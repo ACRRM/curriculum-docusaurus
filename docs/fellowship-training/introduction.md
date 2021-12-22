@@ -216,7 +216,7 @@ Example:
 
 #### Tertiary hospital placements
 
-Doctors undertaking hospital placements in their junior doctor years must seek a combination of placements that provide generalist skills relevant to rural practice, including where possible the following placements: 
+Doctors undertaking hospital placements in their junior doctor years (PGY1-3) must seek a combination of placements that provide generalist skills relevant to rural practice, including where possible the following placements: 
 
 * General medicine
 * General surgery
@@ -234,7 +234,7 @@ Other generalist placements that would be helpful to include are:
 * Psychiatry
 * Emergency (additional placement)
 
-Experienced doctors seeking to meet secondary care requirements must seek placements in rural hospitals where care is provided by generalists rather than large hospitals where care is provided primarily by specialists. 
+Experienced (PGY4+) doctors seeking to meet secondary care requirements must seek placements in rural hospitals where care is provided by generalists rather than large hospitals where care is provided primarily by specialists. 
 For further information see [Training Placements policy](https://www.acrrm.org.au/docs/default-source/all-files/training-placements-policy.pdf?sfvrsn=ff541e56_8).
 
 #### *Training requirements*
@@ -632,13 +632,14 @@ Evidence requirement:
 
 * Supervisor report
 * Evidence of:
+
   * time and
   * role and
   * case/treatment log
 
 ### Education
 
-#### *Education program*
+#### Education program
 
 All registrars are required to actively participate in and complete a structured education program mapped to the Rural Generalist Curriculum. The Education Program is a requirement of Fellowship.
 
@@ -646,15 +647,15 @@ Registrars on AGPT and RVTS complete the program provided by their training orga
 
 In 2023 AGPT, IP and RGTS registrars will all participate in the College education program. The 2023 program will include regional and national aspects. 
 
-**College education program**
+##### **College education program**
 
 Participation in the College education program is mandatory requirement of Fellowship. The program includes four semesters (each consisting of five modules), two 5 day workshops, emergency courses and other support activities.  
 
-**Semesters A & B**
+###### **Semesters A & B**
 
 Semesters A & B run for 1 semester each and are each composed of an online course and a 5-day face to face workshop. Semester A is facilitated during the first half of the year and Semester B during the second half of each year. They can be completed in any order depending on your training commencement date. 
 
-**Online A**
+###### **Online A**
 
 * Chronic disease 
 * Musculoskeletal conditions 
@@ -662,7 +663,7 @@ Semesters A & B run for 1 semester each and are each composed of an online cours
 * Aged care 
 * Child and adolescent health 
 
-**Online B**
+###### **Online B**
 
 * Mental health 
 * Renal 
@@ -672,7 +673,7 @@ Semesters A & B run for 1 semester each and are each composed of an online cours
 
 The online components of Semester A & B are made up of self-directed learning modules, guided asynchronous discussion forums, live webinars, a multiple-choice question (MCQ) assessment.  Each of the 5 modules can take 6 to 10 hrs to complete, depending on the registrars experience, and their engagement with additional readings. 
 
-**Workshops A & B**
+###### **Workshops A & B**
 
 The 5 day workshops are held in both semesters A and B, and align with content covered in the Online A and B courses. The workshops can be held face to face (depending on border restrictions) or they can be held virtually (using the college learning management system and live virtual classrooms) and include live presentations and demonstrations, break-out case discussions and peer networking activities. 
 
@@ -700,7 +701,7 @@ Semesters C & D are currently a non-mandatory component of the education program
 
 Semesters C & D modules are made up of self-directed learning, interactive case studies, additional resources and an MCQ assessment.  Each module can take 6 to 10 hrs to complete, depending on the registrars experience, and their engagement with additional readings. 
 
-**Life Hacks Connect**
+###### **Life Hacks Connect**
 
 Life Hacks Connect is a series of non-mandatory monthly education support activities for registrars at all stages of training. The program covers topics that have been highlighted by registrars as areas of interest and complements the formal education program. Topics may include settling into rural practice, medico-legal, self-care and sustainability. Life Hacks Connect consists of a series of recorded interviews and moderated discussions delivered via Connect@ACRRM. This will allow registrars to be part of the discussion at a time that suits them. It will be available throughout the year to all Independent Pathway and RGTS registrars who are actively engaged in the training program. 
 
@@ -773,7 +774,7 @@ Many of the Tier 1 courses are also EM courses required for AST programs.
 
 Courses must be selected from the currently approved courses. Non approved courses that have been already completed may be considered case by case. Email [training@acrrm.org.au](mailto:training@acrrm.org.au). Details of the course program and instructors must be provided. 
 
-### Other program activities
+### Other education activities
 
 #### Foundation program
 
@@ -789,13 +790,13 @@ A range of foundation online courses are available to all registrars, these incl
 
 #### ruralEM forum
 
-The ruralEM forum is aims to support members working in Emergency Departments and registrars undertaking AST in Emergency Medicine. A new course is presented each month, most of the AST curriculum over the course of the year. Summaries of the important learning points are available.   
+### The ruralEM forum is aims to support members working in Emergency Departments and registrars undertaking AST in Emergency Medicine. A new course is presented each month, most of the AST curriculum over the course of the year. Summaries of the important learning points are available.   
 
 #### Online courses
 
 The College online learning courses are complementary activities for registrars at all stages of training. There are over 100 online courses listed on the ACRRM website, the courses list can be filtered by curriculum domain and/or learning area. Online courses are selected by the registrars and recommended by Medical Educators as part of their individual learning plans. 
 
-#### *Other courses*
+#### Other courses
 
 Courses that are undertaken by registrars relating to the Rural Generalist Curriculum, that are five or more days in duration, may be approved to count towards Training Time.
 
