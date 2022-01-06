@@ -80,7 +80,7 @@ Evidence that demonstrates training systems are established, including documenta
 * composition of the training post; describing the main health service and any other associated sites or services
 * methods of health service provision for example face to face and telehealth 
 * orientation program for training post and evidence of its implementation
-registrar training/education program, for example timetables of teaching, learning, feedback activities 
+* registrar training/education program, for example timetables of teaching, learning, feedback activities 
 * supervisor training and development provided by the training post or provided by others and facilitated to attend by the training post
 * reporting and engagement with associated training organisation/s
 
