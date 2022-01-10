@@ -656,6 +656,7 @@ Participation in the College education program is mandatory requirement of Fello
 Semesters A & B run for 1 semester each and are each composed of an online course and a 5-day face to face workshop. Semester A is facilitated during the first half of the year and Semester B during the second half of each year. They can be completed in any order depending on your training commencement date. 
 
 **Online A**
+
 * Chronic disease 
 * Musculoskeletal conditions 
 * Women’s health 
@@ -663,6 +664,7 @@ Semesters A & B run for 1 semester each and are each composed of an online cours
 * Child and adolescent health 
 
 **Online B**
+
 * Mental health 
 * Renal 
 * Respiratory 
@@ -682,6 +684,7 @@ It is mandatory for all registrars to complete both semesters of online educatio
 Semesters C & D are currently a non-mandatory component of the education program and can be completed by registrars at their own pace. They can be completed at any time during training, but registrars are encouraged to complete them as early in their training prior to commencing assessment.
 
 **Online C** 
+
 * Men’s health 
 * Dermatology 
 * Surgery 
@@ -689,6 +692,7 @@ Semesters C & D are currently a non-mandatory component of the education program
 * Emergency medicine 
 
 **Online D**
+
 * Neurology and rehabilitation 
 * Rheumatology and immunology 
 * Endocrine 
@@ -776,21 +780,21 @@ Courses must be selected from the currently approved courses. Non approved cours
 
 A range of foundation online courses are available to all registrars, these include: 
 
-* Introduction to Primary Care\
-* RG Foundation skills Aboriginal and Torres Strait Islander Health 
-* RG Foundation skills Self-care and Well Being 
-* RG Foundation skills Digital Health 
-* RG Foundation skills Population Health 
-* RG Foundation skills Rural and Remote Context 
-* Introduction to Cultural Awareness  
+* [Introduction to Primary Care](https://mycollege.acrrm.org.au/search/find-online-learning/details?id=18640&title=Introduction+to+Primary+Health+Care)
+* [RG Foundation skills Aboriginal and Torres Strait Islander Health ](https://mycollege.acrrm.org.au/search/find-online-learning/details?id=14798&title=ACRRM+RG+Foundation+Skills%3A+Aboriginal+and+Torres+Strait+Islander+Health)
+* [RG Foundation skills Self-care and Well Being](https://mycollege.acrrm.org.au/search/find-online-learning/details?id=14797&title=ACRRM+RG+Foundation+Skills%3A+Self-care+and+wellbeing) 
+* [RG Foundation skills Digital Health ](https://mycollege.acrrm.org.au/search/find-online-learning/details?id=14800&title=ACRRM+RG+Foundation+Skills%3A+Digital+Health)
+* [RG Foundation skills Population Health ](https://mycollege.acrrm.org.au/search/find-online-learning/details?id=14799&title=ACRRM+RG+Foundation+Skills%3A+Population+Health)
+* [RG Foundation skills Rural and Remote Context ](https://mycollege.acrrm.org.au/search/find-online-learning/details?id=14796&title=ACRRM+RG+Foundation+Skills%3A+Rural+and+Remote+Context)
+* [Introduction to Cultural Awareness ](https://mycollege.acrrm.org.au/search/find-online-learning/details?id=1042&title=Introduction+To+Cultural+Awareness) 
 
 ##### ruralEM forum
 
-The ruralEM forum is aims to support members working in Emergency Departments and registrars undertaking AST in Emergency Medicine. A new course is presented each month, most of the AST curriculum over the course of the year. Summaries of the important learning points are available.
+The [ruralEM forum](https://mycollege.acrrm.org.au/search/find-online-learning/details?id=5077&title=ruralEM+forum) is aims to support members working in Emergency Departments and registrars undertaking AST in Emergency Medicine. A new course is presented each month, most of the AST curriculum over the course of the year. Summaries of the important learning points are available.
 
 ##### Online courses
 
-The College online learning courses are complementary activities for registrars at all stages of training. There are over 100 online courses listed on the ACRRM website, the courses list can be filtered by curriculum domain and/or learning area. Online courses are selected by the registrars and recommended by Medical Educators as part of their individual learning plans. 
+The College online learning courses are complementary activities for registrars at all stages of training. There are [over 100 online courses listed on the ACRRM website](https://mycollege.acrrm.org.au/search?query=&collection=acrrm-meta-public&clive=acrrm-fol-aptify-public), the courses list can be filtered by curriculum domain and/or learning area. Online courses are selected by the registrars and recommended by Medical Educators as part of their individual learning plans. 
 
 ##### Other courses
 
