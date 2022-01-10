@@ -82,6 +82,12 @@ Accountability
 
 Integrity
 
+### Procedural skills list
+
+
+
+
+
 <!-- TODO: fix this into table -->
 
 Procedural skills logbook
