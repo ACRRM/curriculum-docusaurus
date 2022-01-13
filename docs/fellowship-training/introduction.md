@@ -1594,12 +1594,9 @@ Minimum training time required to meet Training Program Requirements.
 
 ## Appendix 2 Acronyms
 
-**ACRRM:** Australian College of Rural and Remote Medicine
-\
-**AGPT:** Australian General Practice Training 
-\
-**AHPRA:** Australian Health Practitioner Regulation Agency
-\
+**ACRRM:** Australian College of Rural and Remote Medicine\
+**AGPT:** Australian General Practice Training\
+**AHPRA:** Australian Health Practitioner Regulation Agency\
 **ALSO:** Advanced Life Support in Obstetrics\
 **AMC:** Australian Medical Council\
 **AMS:** Aboriginal Medical Service\
@@ -1630,7 +1627,7 @@ Minimum training time required to meet Training Program Requirements.
 **RVTS:** Remote Vocational Training Scheme\
 **StAMPS:** Structured Assessment using Multiple Patient Scenarios\
 **TO:** Training Organisation\
-**VMO:** Visiting Medical Officer\
+**VMO:** Visiting Medical Officer
 
 ## Appendix 3 Tertiary Courses
 
