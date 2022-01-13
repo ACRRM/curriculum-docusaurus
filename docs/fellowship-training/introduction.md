@@ -709,7 +709,7 @@ Life Hacks Connect is a series of non-mandatory monthly education support acti
 
 All registrars must successfully complete:
 
-* Rural Emergency Skills Training (REST), provided by ACRRM
+* [Rural Emergency Skills Training](https://www.acrrm.org.au/courses/face-to-face/rest) (REST), provided by ACRRM
 
   * completed by the end of second year CGT, and 
 * One Tier 1 course or two Tier 2 courses, approved by ACRRM
@@ -795,6 +795,14 @@ The [ruralEM forum](https://mycollege.acrrm.org.au/search/find-online-learning/d
 ##### Online courses
 
 The College online learning courses are complementary activities for registrars at all stages of training. There are [over 100 online courses listed on the ACRRM website](https://mycollege.acrrm.org.au/search?query=&collection=acrrm-meta-public&clive=acrrm-fol-aptify-public), the courses list can be filtered by curriculum domain and/or learning area. Online courses are selected by the registrars and recommended by Medical Educators as part of their individual learning plans. 
+
+##### Tele-Derm
+
+Designed for rural doctors to get access to practical dermatology advice and education from dermatologists and a plastic surgeon experienced in treating rural patients. With long waiting lists to see a dermatologist and rural patients needing to travel hundreds if not thousands of kilometres to see the Specialist in person, Tele-Derm can improve timely access to services and reduce the need to travel for patients in rural and remote Australia.
+
+[Tele-Derm](https://mycollege.acrrm.org.au/search/find-online-learning/details?id=13725&title=Tele-Derm) is an internationally recognised online resource with over 1000 education cases, how to guides, videos and webinars. This is a rich platform of dermatology education material that you can access online in your own time 24 hours a day.
+
+Rural doctors seeking specific guidance on a case can submit that case for free advice.
 
 ##### Other courses
 
