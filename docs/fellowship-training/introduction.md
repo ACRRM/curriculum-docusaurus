@@ -12,7 +12,7 @@ Brisbane QLD 4000\
 P: (+61) 7 3105 8200 or 1800 223 226\
 F: (+61) 7 3105 8299\
 E: training@acrrm.org.au\
-Website: www.acrrm.org.au\
+Website: [www.acrrm.org.au](www.acrrm.org.au)\
 ABN: 12 078 081 848
 
 ##### Copyright
@@ -703,7 +703,7 @@ Semesters C & D modules are made up of self-directed learning, interactive case 
 
 ###### **Life Hacks Connect**
 
-Life Hacks Connect is a series of non-mandatory monthly education support activities for registrars at all stages of training. The program covers topics that have been highlighted by registrars as areas of interest and complements the formal education program. Topics may include settling into rural practice, medico-legal, self-care and sustainability. Life Hacks Connect consists of a series of recorded interviews and moderated discussions delivered via Connect@ACRRM. This will allow registrars to be part of the discussion at a time that suits them. It will be available throughout the year to all Independent Pathway and RGTS registrars who are actively engaged in the training program. 
+Life Hacks Connect is a series of non-mandatory monthly education support activities for registrars at all stages of training. The program covers topics that have been highlighted by registrars as areas of interest and complements the formal education program. Topics may include settling into rural practice, medico-legal, self-care and sustainability. Life Hacks Connect consists of a series of recorded interviews and moderated discussions delivered via[ Connect@ACRRM](https://connect.acrrm.org.au/home). This will allow registrars to be part of the discussion at a time that suits them. It will be available throughout the year to all Independent Pathway and RGTS registrars who are actively engaged in the training program. 
 
 #### *Emergency medicine courses*
 
@@ -862,7 +862,7 @@ AST may be undertaken as full time or part time training or in two or more block
 
 Registrars are expected to average a minimum of four hours per week engaged in educational activities related to the AST. A record of education must be kept by the registrar and discussed with the Supervisor and Medical Educator regularly throughout training. 
 
-Registrars are expected to participate in the relevant Specialist College registrar education program where this is provided by the Training Post. The Specialist College education program should be supplemented with (or when a program is not provided, replaced with) education activities tailored to the AST curriculum. These education activities may come from a variety of sources. Courses that are provided or accredited by ACRRM are mapped to the Rural Generalist Curriculum to enable relevant courses to be identified. [Search ](https://mycollege.acrrm.org.au/search?query=&clive=acrrm-event-public&collection=acrrm-meta-public)under Online Learning for the relevant curriculum Learning Area provided by ACRRM.
+Registrars are expected to participate in the relevant Specialist College registrar education program where this is provided by the Training Post. The Specialist College education program should be supplemented with (or when a program is not provided, replaced with) education activities tailored to the AST curriculum. These education activities may come from a variety of sources. Courses that are provided or accredited by ACRRM are mapped to the Rural Generalist Curriculum to enable relevant courses to be identified. [Search under Online Learning](https://mycollege.acrrm.org.au/search?query=&clive=acrrm-event-public&collection=acrrm-meta-public) for the relevant curriculum Learning Area provided by ACRRM.
 
 Registrars are encouraged to consider working towards related academic qualifications while undertaking their Advanced Specialised Training; especially when undertaking an AST in Population Health, Remote Medicine, Aboriginal and Torres Strait Islander Health, Academic Practice and Mental Health. This may include work towards Graduate Certificate, Graduate Diploma, or master’s level qualifications in a related area. See Appendix 3.
 
@@ -874,7 +874,7 @@ The supervisor report is replaced by a [Plan and Progress Report](https://www.ac
 
 Registrars are strongly encouraged to complete and submit case based discussions conducted by a supervisor in addition to miniCEXs conducted by their supervisor. In the procedural ASTs some miniCEXs may be replaced by Direct Observation of Procedural Skills (DOPS). Formative workplace based assessments forms may be found [here](https://www.acrrm.org.au/resources/assessment/forms).
 
-Information and requirements for each type of assessment are provided in the [Assessment Handbook](https://www.acrrm.org.au/docs/default-source/documents/training-towards-fellowship/handbook-fellowship-assessment.pdf?sfvrsn=42ba86eb_36).
+Information and requirements for each type of assessment are provided in the [Assessment Handbook](https://www.acrrm.org.au/resources/assessment/handbooks-guides).
 
 ## AST options
 
@@ -1400,7 +1400,7 @@ ACRRM and Rural Doctors Association host the Rural Medicine Australia (RMA) annu
 
 **Registrar Committee Assessment Guides**
 
-The [ACRRM Registrars' Committee Assessment Guides](https://www.acrrm.org.au/resources/assessment/handbooks-guides) provide a quick reference, tips and tricks to all the ACRRM assessments. 
+The ACRRM Registrars' Committee [Assessment Guides](https://www.acrrm.org.au/resources/assessment/handbooks-guides) provide a quick reference, tips and tricks to all the ACRRM assessments. 
 
 **Research Grants**
 
@@ -1434,25 +1434,25 @@ ACRRM's Employee Assistance Program is available to any registrar and provides i
 
 Counselling aims to resolve work or personal problems before they adversely impact general well-being.
 
-Additional resources and practical advice are available on the Employee Assistance Program [website](https://www.accesseap.com.au/). 
+Additional resources and practical advice are available on the [Employee Assistance Program](https://www.accesseap.com.au/) website. 
 
 **Doctors Health Advisory Service (DHAS)** 
 
 DHAS operate a telephone Help Line and are available to provide confidential personal advice to practitioners facing difficulties. They also provide health promotion and educational information through their website and they provide lectures to interested groups. 
 
-The advice is used mostly in relation to stress and mental illness, drug and alcohol problems, or personal and financial difficulties. More information is available here: <http://dhas.org.au/contact/contact-dhas-in-other-states-territories-and-new-zealand.html>.
+The advice is used mostly in relation to stress and mental illness, drug and alcohol problems, or personal and financial difficulties. More information is available [here](http://dhas.org.au/contact/contact-dhas-in-other-states-territories-and-new-zealand.html).
 
 **CRANAPlus Bush Crisis Line**
 
-This service has a trained psychologist available 24 hours, 7 days a week through a phone counselling service to all remote and rural registrars, health workers and their families who may be in distress with support and assistance every day of the year at 1800 805 391. More information is available here: <https://crana.org.au/support>.
+This service has a trained psychologist available 24 hours, 7 days a week through a phone counselling service to all remote and rural registrars, health workers and their families who may be in distress with support and assistance every day of the year at 1800 805 391. More information is available [here](http://dhas.org.au/contact/contact-dhas-in-other-states-territories-and-new-zealand.html).
 
 **DRS4DRS**
 
-The Drs4Drs website is provided by Doctors Health Services and offers doctors and medical students access to resources to support their own health and wellbeing, as well as training modules to support doctors who treat other doctors. More information is available here: <https://www.drs4drs.com.au/>.
+The Drs4Drs website is provided by Doctors Health Services and offers doctors and medical students access to resources to support their own health and wellbeing, as well as training modules to support doctors who treat other doctors. More information is available [here](https://www.drs4drs.com.au/). 
 
 **Beyond Blue**
 
-Beyond Blue provides free, confidential, 24 hours, 7 days a week phone counselling services for people experiencing mental stress or illness at 1300 22 4636. Further information regarding these and other national services is available here: <https://www.beyondblue.org.au/>.
+Beyond Blue provides free, confidential, 24 hours, 7 days a week phone counselling services for people experiencing mental stress or illness at 1300 22 4636. Further information regarding these and other national services is available [here](https://www.beyondblue.org.au/).
 
 ### Building respectful workplaces
 
@@ -1533,8 +1533,7 @@ The education that is provided during training; this may be provided by the trai
 
 **MMM**
 
-The Modified Monash Model is a geographic classification system that categorises metropolitan, regional, rural and remote areas. For more information on the MM system see:
-<http://www.doctorconnect.gov.au/internet/otd/publishing.nsf/Content/Classification-changes>.
+The Modified Monash Model is a geographic classification system that categorises metropolitan, regional, rural and remote areas. For more information on the MM system see [DoctorConnect](http://www.doctorconnect.gov.au/internet/otd/publishing.nsf/Content/Classification-changes).
 
 **Formative assessments**
 
@@ -1635,40 +1634,39 @@ Courses that may articulate with Advanced Specialised Training programs include,
 
 **Advanced Specialised Training in Public Health, Remote Medicine, Aboriginal and Torres Strait Islander Health:**
 
-* Master of Public Health and Tropical Medicine – James Cook University: [https://www.jcu.edu.au/courses-and-study/courses/master-of-public-health-and-tropical-medicine ](https://www.jcu.edu.au/courses-and-study/courses/master-of-public-health-and-tropical-medicine)
-* Master of Rural and Remote Medicine – James Cook University: [https://www.jcu.edu.au/courses-and-study/courses/master-of-rural-and-remote-medicine ](https://www.jcu.edu.au/courses-and-study/courses/master-of-rural-and-remote-medicine)
-* Master of Public Health – Menzies School of Health Research in Darwin, [www.menzies.edu.au ](http://www.menzies.edu.au/)
-* Master of Public Health - University of Queensland, [www.uq.edu.au ](www.uq.edu.au)
-* Master of Public Health - Griffith University, Griffith also offers speciality in Agricultural health which can be done externally <https://degrees.griffith.edu.au/Program/5263>
-* The Graduate Certificate of Agricultural Health and Medicine - Deakin University [http://www.deakin.edu.au/future-students/courses/course.php?course=H522 ](http://www.deakin.edu.au/future-students/courses/course.php?course=H522)
-* Postgraduate courses in public health and health promotion offered by Swansea University, <http://www.swansea.ac.uk/postgraduate/taught/humanandhealthsciences/public-health-and-health-promotion/>
-* The Master of Remote Health Practice Program conducted by Flinders University’s Centre for Remote Heath in Alice Springs, [http://crh.flinders.edu.au](http://crh.flinders.edu.au/)   
-* Graduate Diploma in Indigenous and Remote Child Health – Flinders University: [http://www.flinders.edu.au/courses/rules/postgrad/gdpirch.cfm ](http://www.flinders.edu.au/courses/rules/postgrad/gdpirch.cfm)
-* The Master of Public Health and Tropical Medicine conducted by James Cook University in Townsville, [www.jcu.edu.au ](http://www.jcu.edu.au/)
-* The Master of Rural and Remote Medicine conducted by James Cook University in Townsville, [www.jcu.edu.au ](http://www.jcu.edu.au/)
-* The Master of Public Health (Remote and Polar Health) conducted by University of Tasmania and Australian Antarctic Division,  [www.utas.edu.au](<\acrrm.org.au\dfs\Data\Education Services\Handbooks\Training Handbook\www.utas.edu.au>)
-* The Master of Public Health conducted by Menzies School of Health Research in Darwin, [www.menzies.edu.au](http://www.menzies.edu.au/) 
+* [Master of Public Health and Tropical Medicine – James Cook University](https://www.jcu.edu.au/courses-and-study/courses/master-of-public-health-and-tropical-medicine)
+* [Master of Rural and Remote Medicine – James Cook University](https://www.jcu.edu.au/courses-and-study/courses/master-of-rural-and-remote-medicine)
+* [Master of Public Health – Menzies School of Health Research in Darwin](http://www.menzies.edu.au/)
+* [Master of Public Health - University of Queensland](www.uq.edu.au)
+* [Master of Public Health - Griffith University](https://degrees.griffith.edu.au/Program/5263) - Griffith also offers speciality in Agricultural health which can be done externally 
+* T[he Graduate Certificate of Agricultural Health and Medicine - Deakin University](http://www.deakin.edu.au/future-students/courses/course.php?course=H522) 
+* [Postgraduate courses in Public Health and Health Promotion - Swansea University](http://www.swansea.ac.uk/postgraduate/taught/humanandhealthsciences/public-health-and-health-promotion/) 
+* [The Master of Remote Health Practice Program](https://www.crh.org.au/post-graduate-award-courses/post-graduate-award-courses-overview) - conducted by Flinders University’s Centre for Remote Health in Alice Springs
+* [Graduate Diploma in Indigenous and Remote Child Health – Flinders University](https://www.flinders.edu.au/courses/rules-2015/postgrad/gdpirch.cfm)
+* [The Master of Public Health and Tropical Medicine](http://www.jcu.edu.au/) - conducted by James Cook University in Townsville
+* [The Master of Rural and Remote Medicine](http://www.jcu.edu.au/) - conducted by James Cook University in Townsville
+* [The Master of Public Health (Remote and Polar Health)](www.utas.edu.au) conducted by University of Tasmania and Australian Antarctic Division
+* [The Master of Public Health](http://www.menzies.edu.au/) - conducted by Menzies School of Health Research in Darwin
 
 **Advanced Specialised Training in Academic Practice:**
 
 Possible courses include any Master of Public Health (MPH) programmes, particularly those incorporating a research component, and a range of other options, such as:
 
-* Masters of Clinical Education by Flinders University  [http://www.flinders.edu.au/courses/rules/postgrad/mce/ ](http://www.flinders.edu.au/courses/rules/postgrad/mce/)
-* Masters of Rural and Remote Medicine by James Cook University
-  <https://www.jcu.edu.au/courses-and-study/courses/master-of-rural-and-remote-medicine>
-* Graduate Diploma of Rural and Remote Medicine by James Cook University [https://www.jcu.edu.au/courses-and-study/courses/graduate-diploma-of-rural-and-remote-medicine ](https://www.jcu.edu.au/courses-and-study/courses/graduate-diploma-of-rural-and-remote-medicine)
-* Masters of Health Professional Education by James Cook University [https://www.jcu.edu.au/courses-and-study/courses/master-of-health-professional-education ](https://www.jcu.edu.au/courses-and-study/courses/master-of-health-professional-education)
-* Masters of Clinical Leadership by University of Tasmania <http://www.utas.edu.au/courses/hsi/courses/m7m-master-of-clinical-leadership>
-* Masters of Health Professional Education by Monash University [https://www.monash.edu.au/study/coursefinder/course/3860/ ](https://www.monash.edu.au/study/coursefinder/course/3860/)
+* [Masters of Clinical Education by Flinders University](https://www.flinders.edu.au/study/courses/postgraduate-clinical-education)  
+* [Masters of Rural and Remote Medicine by James Cook University](https://www.jcu.edu.au/courses-and-study/courses/master-of-rural-and-remote-medicine)
+* [Graduate Diploma of Rural and Remote Medicine by James Cook University](https://www.jcu.edu.au/courses-and-study/courses/graduate-diploma-of-rural-and-remote-medicine) 
+* [Masters of Health Professional Education by James Cook University](https://www.jcu.edu.au/courses-and-study/courses/master-of-health-professional-education) 
+* [Masters of Clinical Leadership by University of Tasmania](http://www.utas.edu.au) 
+* [Masters of Health Professional Education by Monash University ](https://www.monash.edu/medicine/scs/education/master-of-health-professions-education)
 
 **Advanced Specialised Training in Mental Health:**
 
-* Master of Mental Health – University of Queensland:  [https://www.uq.edu.au/study/program.html?acad_prog=5151 ](https://www.uq.edu.au/study/program.html?acad_prog=5151)
-* Master of Mental Health Science - Monash University: [https://www.monash.edu.au/study/coursefinder/course/4508/ ](https://www.monash.edu.au/study/coursefinder/course/4508/)
-* Master of Mental Health Sciences - Flinders University: [http://www.flinders.edu.au/courses/rules/postgrad/mmhs.cfm ](http://www.flinders.edu.au/courses/rules/postgrad/mmhs.cfm)
-* Master of Science in Addiction Studies - University of Adelaide: <https://www.adelaide.edu.au/addiction>
-* Master of Health Studies (Addiction Sciences) - University of Queensland School of Public Health [http://www.sph.uq.edu.au/ ](http://www.sph.uq.edu.au/)
-* Graduate Certificate, Graduate Diploma and Masters of Psychiatric Medicine (Rural and Remote Medicine specialisation) courses, HETI Higher Education  <https://heti.edu.au/our-courses/psychiatric-medicine>
+* [Master of Mental Health – University of Queensland](https://www.uq.edu.au/study/program.html?acad_prog=5151)
+* [Master of Mental Health Science - Monash University](https://www.monash.edu/study/courses/find-a-course/2022/mental-health-science-m6022)
+* [Master of Mental Health Sciences - Flinders University](https://www.flinders.edu.au/courses/rules-2012/postgrad/mmhs.cfm)
+* [Master of Science in Addiction Studies - University of Adelaide](https://www.adelaide.edu.au/addiction)
+* [Master of Health Studies (Addiction Sciences) - University of Queensland School of Public Healt](http://www.sph.uq.edu.au/)h 
+* [Graduate Certificate, Graduate Diploma and Masters of Psychiatric Medicine (Rural and Remote Medicine specialisation) courses, HETI Higher Education](https://heti.edu.au/our-courses/psychiatric-medicine) 
 
 ## Appendix 4 Table of changes to training requirements
 
