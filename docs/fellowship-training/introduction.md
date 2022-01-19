@@ -27,7 +27,7 @@ Date for review: December 2021
 
 *ACRRM acknowledges Australian Aboriginal People and Torres Strait Islander People as the first inhabitants of the nation.  We respect the traditional owners of lands across Australia in which our members and staff work and live and pay respect to their elders past present and future.*
 
-## Introduction
+# Introduction
 
 Welcome to the Australian College of Rural and Remote Medicine (ACRRM), the home of the Rural Generalist. 
 
@@ -39,7 +39,7 @@ Being a rural generalist means you have specific expertise in providing medical 
 
 This handbook has been designed to support ACRRM’s training program policies and provide you with comprehensive information to enable you to plan and tailor your training and education needs to attain Fellowship.
 
-## Curriculum
+# Curriculum
 
 The [Rural Generalist Curriculum](https://www.acrrm.org.au/resources/training/curriculum) provides a definition of Rural Generalist Medicine and describes the competencies, knowledge, skills and attributes required to be a rural generalist medical practitioner. 
 
@@ -60,20 +60,20 @@ The curriculum consists of Core Generalist and Advanced Specialised components. 
 
 These standards are described in the curriculum. The Curriculum also details the knowledge, skills and attributes in 37 clinical and non-clinical Learning Areas. The Learning Areas all include Core Generalised content and Advanced Specialised content is included for the approved AST disciplines. 
 
-## Fellowship Training Program
+# Fellowship Training Program
 
-### Components of training
+## Components of training
 
 The training program is aligned to the eight domains of Rural Generalist Curriculum and underpins the learning areas included in the Core Generalist and Advanced Specialised components of the Curriculum.
 
-#### Core Generalist Training
+### Core Generalist Training
 
 Core Generalist Training (CGT) covers three years of training
 
 * developing broad generalist knowledge, skills and attributes in primary, secondary and emergency care in a rural and remote context, and 
 * fostering essential rural generalist knowledge and skills in paediatrics, obstetrics and anaesthetics.
 
-#### Advanced Specialised Training
+### Advanced Specialised Training
 
 Advanced Specialised Training (AST) covers one year of training
 
@@ -81,11 +81,11 @@ Advanced Specialised Training (AST) covers one year of training
 * in a specialised area relevant to the needs of rural communities
 * to allow autonomous delivery in a defined scope of specialist clinical practice.
 
-## Training program summary
+# Training program summary
 
 The training program requirements are summarised below.
 
-### Fellowship Training Program
+#### Fellowship Training Program
 
 **Duration**: Minimum 4 years
 
@@ -161,7 +161,7 @@ Successfully complete:
 * three monthly reports
 * workplace based and standardised assessments as specified for each AST  
 
-#### Commencement of training
+### Commencement of training
 
 Registrars who hold general registration and are in post graduate year (PGY) 2 must commence with CGT and undertake the first 12 months full time equivalent (FTE) in a Postgraduate Medical Council (PMC) accredited post. Those who are PGY 3 or above may undertake the first 12 months FTE in a PMC accredited post.
 
@@ -169,7 +169,7 @@ Registrars who hold general registration and are PGY3 or above may commence trai
 
 Registrars who hold limited or provisional registration require an individual training plan approved by the Director of Training at the commencement of training. 
 
-#### Order of training
+### Order of training
 
 CGT and AST can be completed:
 
@@ -180,15 +180,15 @@ If AST is undertaken at the beginning of training, a registrar must maintain cur
 
 It is important to plan timing and sequencing of training, education and assessment activities. This training plan should be started at the beginning of training and reviewed regularly throughout training.
 
-## Core Generalist Training
+# Core Generalist Training
 
 Core Generalist Training (CGT) may be started at PGY 2 or above. Training program requirements must be met in four areas: time, training, education and assessment.
 
-### Time
+## Time
 
 CGT requires a minimum of three years full time equivalent (FTE) as described in the [Training Time policy](https://www.acrrm.org.au/docs/default-source/all-files/training-time-policy.pdf?sfvrsn=9e425ba0_8).
 
-### Training
+## Training
 
 All training must take place in accredited training posts. Training placements must provide the opportunity to gain the required scope, type and volume of clinical experience, at an appropriate level of responsibility. 
 
@@ -632,12 +632,11 @@ Evidence requirement:
 
 * Supervisor report
 * Evidence of:
-
-  * time and
-  * role and
+  * time
+  * role, and
   * case/treatment log
 
-### Education
+## Education
 
 #### Education program
 
@@ -651,7 +650,7 @@ In 2023 AGPT, IP and RGTS registrars will all participate in the College educati
 
 Participation in the College education program is mandatory requirement of Fellowship. The program includes four semesters (each consisting of five modules), two 5 day workshops, emergency courses and other support activities.  
 
-###### **Semesters A & B**
+##### **Semesters A & B**
 
 Semesters A & B run for 1 semester each and are each composed of an online course and a 5-day face to face workshop. Semester A is facilitated during the first half of the year and Semester B during the second half of each year. They can be completed in any order depending on your training commencement date. 
 
@@ -701,7 +700,7 @@ Semesters C & D are currently a non-mandatory component of the education program
 
 Semesters C & D modules are made up of self-directed learning, interactive case studies, additional resources and an MCQ assessment.  Each module can take 6 to 10 hrs to complete, depending on the registrars experience, and their engagement with additional readings. 
 
-###### **Life Hacks Connect**
+##### **Life Hacks Connect**
 
 Life Hacks Connect is a series of non-mandatory monthly education support activities for registrars at all stages of training. The program covers topics that have been highlighted by registrars as areas of interest and complements the formal education program. Topics may include settling into rural practice, medico-legal, self-care and sustainability. Life Hacks Connect consists of a series of recorded interviews and moderated discussions delivered via[ Connect@ACRRM](https://connect.acrrm.org.au/home). This will allow registrars to be part of the discussion at a time that suits them. It will be available throughout the year to all Independent Pathway and RGTS registrars who are actively engaged in the training program. 
 
@@ -819,7 +818,7 @@ The following courses are approved for ADF registrars:
 * Occupational Medicine Course
 * Joint Health Planning Course
 
-### Assessment
+## Assessment
 
 Registrars must satisfactorily complete the following assessments during CGT:
 
@@ -850,15 +849,15 @@ Where a registrar fails three or more times in a single, or multiple modalities,
 
 The registrar is referred to the remediation team and assigned a dedicated Medical Educator. Analysis and review are undertaken of training progress, assessment feedback survey and learning plan and further investigations/assessment undertaken to understand the reasons for poor performance. A preliminary remediation plan is drafted, reviewed, and approved by the Director of Training. The Remediation plan is discussed and finalised with registrar. Registrar must agree to participate actively in the program and sign an agreement, for remediation to commence.  
 
-## Advanced Specialised Training
+# Advanced Specialised Training
 
 Advanced Specialised Training (AST) may be undertaken at any stage of training providing that registrars are at least postgraduate year three or above. It is expected that registrars have core generalist knowledge and skills in the discipline prior to commencing AST. 
 
-### Training
+## Training
 
 AST may be undertaken as full time or part time training or in two or more blocks as appropriate to the discipline. Training must be undertaken in a training post accredited by ACRRM and be supervised by ACRRM accredited supervisors.
 
-### Education
+## Education
 
 Registrars are expected to average a minimum of four hours per week engaged in educational activities related to the AST. A record of education must be kept by the registrar and discussed with the Supervisor and Medical Educator regularly throughout training. 
 
@@ -866,7 +865,7 @@ Registrars are expected to participate in the relevant Specialist College regist
 
 Registrars are encouraged to consider working towards related academic qualifications while undertaking their Advanced Specialised Training; especially when undertaking an AST in Population Health, Remote Medicine, Aboriginal and Torres Strait Islander Health, Academic Practice and Mental Health. This may include work towards Graduate Certificate, Graduate Diploma, or master’s level qualifications in a related area. See Appendix 3.
 
-### Assessment
+## Assessment
 
 The following changes apply to registrars who commence an AST in 2021. Registrars who commenced an AST in 2020 or earlier are required to complete the requirements that applied when their AST commenced.
 
@@ -880,7 +879,7 @@ Information and requirements for each type of assessment are provided in the [As
 
 There are twelve AST disciplines to choose from that will meet AST requirements. The time, training, education and assessment requirements for each AST disciplines are provided below.
 
-### Aboriginal and Torres Strait Islander Health
+#### Aboriginal and Torres Strait Islander Health
 
 **Time:** Minimum 12 months FTE. 
 
@@ -914,7 +913,7 @@ Registrars must submit to their training organisation and ACRRM:
 
 Registrars must successfully complete a Project, during AST, that relates to Aboriginal and Torres Strait Islander Health that meets the requirements as documented in the Assessment Handbook.
 
-### Academic Practice
+#### Academic Practice
 
 **Time:** Minimum 12 months FTE. 
 
@@ -936,7 +935,7 @@ Registrars must submit to their training organisation and ACRRM:
 
 Registrars must successfully complete a Project, during the AST, that relates to Academic Practice that meets the requirements as documented in the Assessment Handbook.
 
-### Adult Internal Medicine
+#### Adult Internal Medicine
 
 **Time:** Minimum 12 months FTE.
 
@@ -971,7 +970,7 @@ Registrars must submit to their training organisation and ACRRM:
 
 Registrars must gain a pass in AST AIM StAMPS.
 
-### Anaesthetics
+#### Anaesthetics
 
 **Time:** Minimum 12 months FTE
 
@@ -992,7 +991,7 @@ Registrars must successfully complete mandatory courses.
 * Complete JCCA assessment. 
 * Submit a current JCCA statement of completion to ACRRM.
 
-### Emergency Medicine
+#### Emergency Medicine
 
 **Time:** Minimum 12 months FTE
 
@@ -1042,7 +1041,7 @@ Registrars must submit to their training organisation and ACRRM:
 
 Registrars must gain a pass in AST EM StAMPS.
 
-### Obstetrics and Gynaecology
+#### Obstetrics and Gynaecology
 
 **Time:** Minimum 12 months FTE
 
@@ -1063,7 +1062,7 @@ Registrars must complete education modules specified by RANZCOG.
 * Complete DRANZCOG Advanced assessment. 
 * Submit a current DRANZCOG Advanced Certificate to ACRRM.
 
-### Mental Health
+#### Mental Health
 
 **Time:** Minimum 12 months FTE
 
@@ -1092,7 +1091,7 @@ Registrars must submit to their training organisation and ACRRM:
 
 Registrars must gain a pass in AST Mental Health StAMPS.
 
-### Paediatrics
+#### Paediatrics
 
 **Time:** Minimum 12 months FTE
 
@@ -1111,9 +1110,8 @@ Registrars participate in the RACP registrar education program and education tai
 Registrars must successfully complete the following courses:
 
 * Advanced Paediatric Life Support (APLS) course
-* Neonatal resuscitation course and 
+* Neonatal resuscitation course, and 
 * Child protection course covering:
-
   * identifying and responding to children and young people at risk 
   * jurisdiction reporting requirements (many short online courses are available).
 
@@ -1127,7 +1125,7 @@ Registrars must submit to their training organisation and ACRRM:
 
 Registrars must gain a pass in AST Paediatric StAMPS.
 
-### Palliative Care
+#### Palliative Care
 
 **Time:** Minimum 12 months FTE
 
@@ -1160,7 +1158,7 @@ Registrars must submit to their training organisation and ACRRM:
 
 Registrars must gain a pass in the Palliative Care Case Based Discussion assessment conducted by a College assessor.
 
-### Population Health
+#### Population Health
 
 **Time:** Minimum 12 months FTE
 
@@ -1205,7 +1203,7 @@ Registrars must submit to their training organisation and ACRRM:
 
 Registrars must successfully complete a Project, during AST, that relates to Population Health that meets the requirements as documented in the Assessment Handbook.
 
-### Remote Medicine
+#### Remote Medicine
 
 **Time:** Minimum 12 months FTE
 
@@ -1242,7 +1240,7 @@ Registrars must submit to their training organisation and ACRRM:
 
 Registrars must successfully complete a Project, during AST, that relates to Remote Medicine that meets the requirements as documented in the Assessment Handbook.
 
-### Surgery
+#### Surgery
 
 **Time:** Minimum 24 months FTE
 
@@ -1277,11 +1275,11 @@ Registrars must submit to their training organisation and ACRRM:
 
 Registrars must gain a pass in AST Surgery StAMPS. 
 
-## Training Program Policies
+# Training Program Policies
 
 [View training program policies](https://www.acrrm.org.au/resources/training/policies)
 
-### Training
+#### Training
 
 **Eligibility for Training**
 
@@ -1332,7 +1330,7 @@ This describes the policy to transfer from AGPT or RVTS training pathways to IP.
 This policy defines voluntary and involuntary withdrawal from training, the reasons for actioning involuntary withdrawal and the actions that follow withdrawal.
 Doctors who have withdrawn either voluntarily or involuntarily may apply for re-entry to training, acceptance is at the discretion of the College.
 
-### Assessment
+#### Assessment
 
 **Assessment Eligibility**
 
@@ -1342,7 +1340,7 @@ This policy defines eligibility requirements to enrol in and undertake assessmen
 
 This policy describes the criteria by which candidates may apply for reasonable adjustments to accommodate for circumstances beyond their control and which is likely to affect participation in assessment.
 
-### Conduct, behaviour and access
+# Conduct, behaviour and access
 
 **Academic Code of Conduct**
 
@@ -1374,7 +1372,7 @@ This policy details the circumstances under which refunds are paid.
 
 This defines the policy for the recognition of financial hardship in meeting fees set by the College.
 
-## Information, support and advocacy
+# Information, support and advocacy
 
 While ACRRM training requirements are outlined in this handbook and the policies are the same nationally, there are differences regionally in the delivery of the program. There are also requirements that may be specific to your training pathway or Training Organisation. Therefore, you should contact your training organisation delivering your training first for specific advice. 
 
@@ -1454,7 +1452,7 @@ The Drs4Drs website is provided by Doctors Health Services and offers doctors an
 
 Beyond Blue provides free, confidential, 24 hours, 7 days a week phone counselling services for people experiencing mental stress or illness at 1300 22 4636. Further information regarding these and other national services is available [here](https://www.beyondblue.org.au/).
 
-### Building respectful workplaces
+# Building respectful workplaces
 
 ACRRM is committed to promoting and upholding safe and respectful workplaces and communities with a culture of belonging; where diversity is celebrated, and people can reach their full potential. 
 
@@ -1464,7 +1462,7 @@ While regulatory processes are in place our focus is on creating training and wo
 
 An overview of the College framework for preventing and addressing bullying, discrimination, racism and harassment is provided [here](https://www.acrrm.org.au/docs/default-source/all-files/respectful-workplaces.pdf?sfvrsn=5f7e58c0_2).
 
-### Comments, compliments and complaints
+# Comments, compliments and complaints
 
 ACRRM welcomes all feedback from registrars and others to enable continued improvement of training. Any formal complaints received by the College will be managed appropriately and will also be de-identified and considered for the purposes of ongoing program improvement. Feedback is encouraged anytime:
 
@@ -1503,7 +1501,7 @@ ACRRM, AGPT and all the training organisations will have a complaints policy to 
 Where all efforts to resolve the Complaint at the local level have been exhausted, the registrars can refer the matter to the College for consideration.
 [ACRRM’s complaint policy](https://www.acrrm.org.au/docs/default-source/all-files/complaints-policy.pdf?sfvrsn=3d606745_8).
 
-## Appendix 1 Glossary
+# Appendix 1 Glossary
 
 **Additional leave**
 
@@ -1591,7 +1589,7 @@ A training organisation is the organisation that is responsible for training del
 
 Minimum training time required to meet Training Program Requirements.
 
-## Appendix 2 Acronyms
+# Appendix 2 Acronyms
 
 **ACRRM:** Australian College of Rural and Remote Medicine\
 **AGPT:** Australian General Practice Training\
@@ -1628,7 +1626,7 @@ Minimum training time required to meet Training Program Requirements.
 **TO:** Training Organisation\
 **VMO:** Visiting Medical Officer
 
-## Appendix 3 Tertiary Courses
+# Appendix 3 Tertiary Courses
 
 Courses that may articulate with Advanced Specialised Training programs include, but are not limited to:
 
