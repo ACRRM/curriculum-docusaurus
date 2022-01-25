@@ -1193,7 +1193,6 @@ Registrars will supplement their learning by completing ACRRM online courses whi
 * [Rural Doctors Family and Domestic Violence Education Package](https://mycollege.acrrm.org.au/search/find-online-learning/details?id=20929&title=Rural+Doctors+Family+and+Domestic+Violence+Education+Package)
 * [Rural Sexual Health 1, 2 & 3](https://mycollege.acrrm.org.au/search/find-online-learning?query=rural%20sexual%20health&collection=acrrm-fol-meta-public)
 * [Q Fever - Early Diagnosis and Vaccination](https://mycollege.acrrm.org.au/search/find-online-learning/details?id=11347&title=Q+Fever+-+Early+Diagnosis+and+Vaccination)
-* Tuberculosis in Australia
 * [Yellow Fever Vaccination Course](https://mycollege.acrrm.org.au/search/find-online-learning/details?id=22729&title=Yellow+Fever+Vaccination+Course)
 
 **Assessment**
