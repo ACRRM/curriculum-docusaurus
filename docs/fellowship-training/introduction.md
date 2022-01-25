@@ -127,7 +127,7 @@ Successfully complete:
 
 **Advanced Specialised Training (AST) Requirements**
 
-**Time**: Minimum 1 years
+**Time**: Minimum 1 year
 
 **Training**\
 Commence at PGY 3 or above.
@@ -147,7 +147,7 @@ Complete training in at least one of the AST disciplines:
 * Palliative Care
 * Population Health
 * Remote Medicine, and
-* Surgery.
+* Surgery (24 months).
 
 **Education**\
 Successfully complete:
@@ -736,7 +736,10 @@ Tier 2:
 
 #### Tier 1 courses, approved by ACRRM
 
-* Advanced Life Support in Obstetrics (ALSO): American Academy of Family Physicians
+* Advanced Life Support in Obstetrics (ALSO): Advanced Maternal and Reproductive Education
+
+  * Preparation in Maternity Safety (PIMS): ALSO part 1, OR
+  * Advancing in Maternity Safety (AIMS): ALSO part 2
 * Advanced Life Support (ALS) Level 2: Australian Resuscitation Council accredited
 * Advanced Paediatric Life Support (APLS): APLS Australia & New Zealand
 * Australian and New Zealand Surgical Skills Education and Training (ASSET): Royal *Australasian College of Surgeons
