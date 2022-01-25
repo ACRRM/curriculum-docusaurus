@@ -632,6 +632,7 @@ Evidence requirement:
 
 * Supervisor report
 * Evidence of:
+
   * time
   * role, and
   * case/treatment log
@@ -752,10 +753,10 @@ Tier 2:
 
 #### Tier 2 courses, provided by the College
 
-* Advanced Life Support (ALS): Australian College of Rural and Remote Medicine
-* Pre-Hospital and Emergency Care (PHEC): Australian College of Rural and Remote Medicine
-* Rural Emergency Obstetrics Training (REOT): Australian College of Rural and Remote Medicine
-* Rural Anaesthetic Crisis Management (RACM): Australian College of Rural and Remote Medicine
+* [Advanced Life Support (ALS)](https://www.acrrm.org.au/courses/face-to-face/als): Australian College of Rural and Remote Medicine
+* [Pre-Hospital and Emergency Care (PHEC)](https://www.acrrm.org.au/courses/face-to-face/pre-hospital-emergency-care-phec): Australian College of Rural and Remote Medicine
+* [Rural Emergency Obstetrics Training (REOT)](https://www.acrrm.org.au/courses/face-to-face/reot): Australian College of Rural and Remote Medicine
+* [Rural Anaesthetic Crisis Management (RACM)](https://www.acrrm.org.au/courses/face-to-face/racm): Australian College of Rural and Remote Medicine
 
 #### Tier 2 courses, approved by ACRRM and accredited for PDP
 
@@ -893,14 +894,14 @@ Registrars participate in education sessions provided by the training post.
 
 Registrars will supplement their learning by completing ACRRM online courses which have content relevant to the AST for example:
 
-* Cultural Awareness module accredited for the Practice Incentive Payment (PIP) Indigenous Health Incentives or other cultural awareness training program accredited for PIP 
-* Effective Communication Skills
-* Youth Friendly Consultation Skills
-* Approach to Care courses 
-* Introduction to Population Health 
-* Rural Sexual Health courses
-* Alcohol and Other Drugs courses
-* Rural Doctors Family and Domestic Violence Education Package
+* [Cultural Awareness module](https://mycollege.acrrm.org.au/search/find-online-learning/details?id=1058&title=Cultural+Awareness+-+Pip+Indigenous+Health+Incentive) accredited for the Practice Incentive Payment (PIP) Indigenous Health Incentives or other cultural awareness training program accredited for PIP 
+* [Effective Communication Skills](https://mycollege.acrrm.org.au/search/find-online-learning/details?id=18213&title=Effective+Communication+Skills)
+* [Youth Friendly Consultation Skills](https://mycollege.acrrm.org.au/search/find-online-learning/details?id=6231&title=Youth+Friendly+Consultation+Skills)
+* [Approach to Care courses](https://mycollege.acrrm.org.au/search/find-online-learning?query=approach%20to%20care&collection=acrrm-fol-meta-public) 
+* [Introduction to Population Health ](https://mycollege.acrrm.org.au/search/find-online-learning/details?id=1026&title=Introduction+To+Population+Health)
+* [Rural Sexual Health courses](https://mycollege.acrrm.org.au/search/find-online-learning?query=rural%20sexual%20health&collection=acrrm-fol-meta-public)
+* [Alcohol and Other Drugs courses](https://mycollege.acrrm.org.au/search/find-online-learning?query=alcohol%20and%20other%20drugs&collection=acrrm-fol-meta-public)
+* [Rural Doctors Family and Domestic Violence Education Package](https://mycollege.acrrm.org.au/search/find-online-learning/details?id=20929&title=Rural+Doctors+Family+and+Domestic+Violence+Education+Package)
 
 **Assessment**
 
@@ -953,7 +954,7 @@ Registrars participate in the RACP registrar education program and education tai
 
 Registrars must successfully complete or be a recognised instructor in one of the following adult EM courses:
 
-* Rural Emergency Skills Training (REST), or
+* [Rural Emergency Skills Training (REST)](https://www.acrrm.org.au/courses/face-to-face/rest), or
 * Adult Life Support Australian Resuscitation Council Level 2 (ALS2), or
 * Emergency Life Support (ELS), or
 * Advanced and Complex Medical Emergencies (ACME)
@@ -1011,7 +1012,7 @@ Registrars must successfully complete or be a recognised instructor in one cours
   * Emergency Trauma Management Course (ETM) 
 * Adult: 
 
-  * Rural Emergency Skills Training (REST), or
+  * [Rural Emergency Skills Training (REST)](https://www.acrrm.org.au/courses/face-to-face/rest), or
   * Adult Life Support Australian Resuscitation Council Level 2 (ALS2), or
   * Emergency Life Support (ELS), or
   * Advanced and Complex Medical Emergencies (ACME), or
@@ -1112,6 +1113,7 @@ Registrars must successfully complete the following courses:
 * Advanced Paediatric Life Support (APLS) course
 * Neonatal resuscitation course, and 
 * Child protection course covering:
+
   * identifying and responding to children and young people at risk 
   * jurisdiction reporting requirements (many short online courses are available).
 
@@ -1143,8 +1145,8 @@ Registrars are required to participate in the education program provided by the 
 
 Registrars will supplement their learning by completing ACRRM online courses which have content relevant to the AST for example:
 
-* Palliative Care - A doctor’s bag
-* Palliative care - choose your own journey
+* [Palliative Care - A doctor’s bag](https://mycollege.acrrm.org.au/search/find-online-learning/details?id=1035&title=Palliative+Care+-+A+Doctors+Bag)
+* [Palliative care - choose your own journey](https://mycollege.acrrm.org.au/search/find-online-learning/details?id=1050&title=Palliative+Care+-+Choose+Your+Own+Journey)
 
 Candidates are encouraged to complete the [Clinical Diploma in Palliative Care - RACP](https://www.racp.edu.au/trainees/advanced-training/advanced-training-programs/clinical-diploma-of-palliative-medicine).
 
@@ -1181,18 +1183,18 @@ Registrars are also encouraged to consider working towards related academic qual
 
 Registrars will supplement their learning by completing ACRRM online courses which have content relevant to Population Health, for example:
 
-* Introduction to Population Health
-* Approach to Care courses 
-* Effective Communication Skills
-* Youth Friendly Consultation Skills
-* Digital Health Rural Australia - Better Health, Easier to Deliver
-* Clinical Bytes
-* Alcohol and other Drugs courses
-* Rural Doctors Family and Domestic Violence Education Package
-* Rural Sexual Health 1, 2 & 3
-* Q Fever - Early Diagnosis and Vaccination
+* [Introduction to Population Health](https://mycollege.acrrm.org.au/search/find-online-learning/details?id=1026&title=Introduction+To+Population+Health)
+* [Approach to Care courses ](https://mycollege.acrrm.org.au/search/find-online-learning?query=approach%20to%20care&collection=acrrm-fol-meta-public)
+* [Effective Communication Skills](https://mycollege.acrrm.org.au/search/find-online-learning/details?id=18213&title=Effective+Communication+Skills)
+* [Youth Friendly Consultation Skills](https://mycollege.acrrm.org.au/search/find-online-learning/details?id=6231&title=Youth+Friendly+Consultation+Skills)
+* [Digital Health Rural Australia - better health, easier to deliver](https://mycollege.acrrm.org.au/search/find-online-learning/details?id=17326&title=Digital+health+in+rural+and+remote+Australia+-+better+health%2C+easier+to+deliver)
+* [Clinical Bytes](https://mycollege.acrrm.org.au/search/find-online-learning?query=clinical%20bytes&collection=acrrm-fol-meta-public)
+* [Alcohol and other Drugs courses](https://mycollege.acrrm.org.au/search/find-online-learning?query=alcohol%20and%20other%20drugs&collection=acrrm-fol-meta-public)
+* [Rural Doctors Family and Domestic Violence Education Package](https://mycollege.acrrm.org.au/search/find-online-learning/details?id=20929&title=Rural+Doctors+Family+and+Domestic+Violence+Education+Package)
+* [Rural Sexual Health 1, 2 & 3](https://mycollege.acrrm.org.au/search/find-online-learning?query=rural%20sexual%20health&collection=acrrm-fol-meta-public)
+* [Q Fever - Early Diagnosis and Vaccination](https://mycollege.acrrm.org.au/search/find-online-learning/details?id=11347&title=Q+Fever+-+Early+Diagnosis+and+Vaccination)
 * Tuberculosis in Australia
-* Yellow Fever Vaccination Course
+* [Yellow Fever Vaccination Course](https://mycollege.acrrm.org.au/search/find-online-learning/details?id=22729&title=Yellow+Fever+Vaccination+Course)
 
 **Assessment**
 
