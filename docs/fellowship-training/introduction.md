@@ -1027,7 +1027,7 @@ Registrars must successfully complete or be a recognised instructor in one cours
 
 An adult and a paediatrics course must have been undertaken in the five years prior to completing the AST.
 
-Candidates are also recommended to undertake an emergency obstetric course such as Rural Emergency Obstetric Training (REOT) or Preparation in Maternity Safety (PIMS).
+Candidates are also recommended to undertake an emergency obstetric course such as [Rural Emergency Obstetric Training](https://www.acrrm.org.au/courses/face-to-face/reot) (REOT) or Preparation in Maternity Safety (PIMS).
 
 The following definitive texts are used in this AST:
 
