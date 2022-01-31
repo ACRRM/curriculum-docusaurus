@@ -435,7 +435,7 @@ OR
 
 Plus, an advanced airways skills workshop, for example:
 
-* Rural Anaesthetics Crisis Management (RACM), which will also count as Tier 2 EM course,
+* [Rural Anaesthetics Crisis Management ](https://www.acrrm.org.au/courses/face-to-face/racm)(RACM), which will also count as Tier 2 EM course,
   or
 * RVTS workshop (RVTS registrars only)
 
