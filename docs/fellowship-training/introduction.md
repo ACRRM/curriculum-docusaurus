@@ -5,14 +5,14 @@ sidebar_label: Fellowship Training
 ---
 ##### Contact details
 
-Australian College of Rural and Remote Medicine
-Level 1, 324 Queen Street
-GPO Box 2507
-Brisbane QLD 4000
-P: (+61) 7 3105 8200 or 1800 223 226
-F: (+61) 7 3105 8299
-E: training@acrrm.org.au
-Website: [www.acrrm.org.au](www.acrrm.org.au)
+Australian College of Rural and Remote Medicine\ 
+Level 1, 324 Queen Street\ 
+GPO Box 2507\ 
+Brisbane QLD 4000\ 
+P: (+61) 7 3105 8200 or 1800 223 226\ 
+F: (+61) 7 3105 8299\ 
+E: training@acrrm.org.au\ 
+Website: [www.acrrm.org.au](www.acrrm.org.au)\ 
 ABN: 12 078 081 848
 
 ##### Copyright
