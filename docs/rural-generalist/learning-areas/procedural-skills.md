@@ -84,8 +84,8 @@ Integrity
 
 <!-- TODO: fix this into table -->
 
-Procedural skills logbook
-	Minimum standard required for certification	Essential/Important
+**Procedural skills logbook** 
+	
 Adult Internal Medicine
 rebreathing mask	A	Essential
 spirometry and peak flow measurement	A	
