@@ -112,8 +112,13 @@ Complete the minimum training requirements in the following:
 
 Successfully complete:
 
-* the education program as outlined and delivered by the College or training organisation 
-* Rural Emergency Skills Training (REST) and another emergency course/s 
+* One ACRRM core emergency medicine course 
+
+  * eg. [Rural Emergency Skills Training (REST)](https://www.acrrm.org.au/courses/face-to-face/rest)
+* One [ACRRM Advanced Life Sup](https://www.acrrm.org.au/courses/face-to-face/als)port (ALS) Level 2 course
+* One tier 2 course (AST Relevant) or other identified need
+
+  * eg. [Rural Emergency Obstetrics Training (REOT)](https://www.acrrm.org.au/courses/face-to-face/reot), [Pre-Hospital Emergency Care (PHEC)](https://www.acrrm.org.au/courses/face-to-face/pre-hospital-emergency-care-phec), [Rural Anaesthetic Crisis Management (RACM)](https://www.acrrm.org.au/courses/face-to-face/racm)
 * a minimum of four “FACRRM recommended” online learning courses
 
 **Assessment**
@@ -716,30 +721,36 @@ Life Hacks Connect is a series of non-mandatory monthly education support acti
 
 All registrars must successfully complete:
 
-* [Rural Emergency Skills Training](https://www.acrrm.org.au/courses/face-to-face/rest) (REST), provided by ACRRM
+* One ACRRM core emergency medicine course (eg. [REST](https://www.acrrm.org.au/courses/face-to-face/rest))
+* One [ACRRM ALS Level 2](https://www.acrrm.org.au/courses/face-to-face/als) course
+* One Tier 2 course relevant to their AST, or other identified need (eg. [REOT](https://www.acrrm.org.au/courses/face-to-face/reot), [PHEC](https://www.acrrm.org.au/courses/face-to-face/pre-hospital-emergency-care-phec), [RACM](https://www.acrrm.org.au/courses/face-to-face/racm))
 
-  * completed by the end of second year CGT, and 
-* One Tier 1 course or two Tier 2 courses, approved by ACRRM
+All education activities must be completed within the 5 years prior to 'Completion of Training'. 
 
-All courses must be completed within the 10 years prior to Completion of Training. 
+One ALS Level 2 course must be completed within three year prior to 'Completion of Training'.
 
-One approved Advanced Life Support course must be within three years prior to Completion of Training.
+These courses are provided by ACRRM and other approved providers.
 
-<u>*Emergency course criteria*</u>
+*Emergency course criteria*
 
 Tier 1:
 
 * Highly relevant emergency medicine content applicable in a rural context.
 * Not less than 12 hours duration over two days.
-* Rigorously assessed using MCQ, skills station and scenario assessment.
+* Rigorously assessed using MCQ, skills station and OSCE type assessment.
 * Recognised at national or international level.
 
 Tier 2:
 
 * Highly relevant emergency medicine content applicable in a rural context.
-* Not less than eight hours duration or one day.
+* Not less than 12 hours duration or two days.
 * Taught using interactive learning techniques, including simulation.
 * Recognised at state or national level.
+
+#### Tier 1 courses, provided by ACRRM
+
+* [Rural Emergency Skills Training (REST](https://www.acrrm.org.au/courses/face-to-face/rest))
+* [Advanced Life Support (ALS): Lv 2](https://www.acrrm.org.au/courses/face-to-face/als)
 
 #### Tier 1 courses, approved by ACRRM
 
@@ -763,7 +774,6 @@ Tier 2:
 
 #### Tier 2 courses, provided by the College
 
-* [Advanced Life Support (ALS)](https://www.acrrm.org.au/courses/face-to-face/als): Australian College of Rural and Remote Medicine
 * [Pre-Hospital and Emergency Care (PHEC)](https://www.acrrm.org.au/courses/face-to-face/pre-hospital-emergency-care-phec): Australian College of Rural and Remote Medicine
 * [Rural Emergency Obstetrics Training (REOT)](https://www.acrrm.org.au/courses/face-to-face/reot): Australian College of Rural and Remote Medicine
 * [Rural Anaesthetic Crisis Management (RACM)](https://www.acrrm.org.au/courses/face-to-face/racm): Australian College of Rural and Remote Medicine
@@ -782,7 +792,7 @@ Overseas courses that are equivalent to approved courses will also count.
 
 Many of the Tier 1 courses are also EM courses required for AST programs. 
 
-Courses must be selected from the currently approved courses. Non approved courses that have been already completed may be considered case by case. Email [training@acrrm.org.au](mailto:training@acrrm.org.au). Details of the course program and instructors must be provided. 
+Courses must be selected from the currently approved courses. Non-approved courses that have been already completed may be considered case by case. Email [training@acrrm.org.au](mailto:training@acrrm.org.au). Details of the course program and instructors must be provided. 
 
 #### Other education activities
 
@@ -954,7 +964,7 @@ Registrars must successfully complete a Project, during the AST, that relates to
 
 Train in ACRRM accredited AIM AST posts, ideally in a regional or rural hospital. 
 
-Placements to include inpatient, outpatient and community based facilities. 
+Placements to include inpatient, outpatient and community-based facilities. 
 
 Employed as registrar or equivalent position.
 
@@ -965,11 +975,12 @@ Registrars participate in the RACP registrar education program and education tai
 Registrars must successfully complete or be a recognised instructor in one of the following adult EM courses:
 
 * [Rural Emergency Skills Training (REST)](https://www.acrrm.org.au/courses/face-to-face/rest), or
+* [ACRRM Advanced Life Support - Level 2](https://www.acrrm.org.au/courses/face-to-face/als) (ALS2), or
 * Adult Life Support Australian Resuscitation Council Level 2 (ALS2), or
 * Emergency Life Support (ELS), or
 * Advanced and Complex Medical Emergencies (ACME)
 
-Registrars must attain one or more advanced diagnostic and/or therapeutic procedures eg exercise stress testing, Holter monitoring, ultrasound, endoscopy. 
+Registrars must attain one or more advanced diagnostic and/or therapeutic procedures eg. exercise stress testing, Holter monitoring, ultrasound, endoscopy. 
 
 **Assessment**
 
@@ -987,15 +998,15 @@ Registrars must gain a pass in AST AIM StAMPS.
 
 **Training** 
 
-Registrars undertake the [Joint Consultative Committee on Anaesthesia (JCCA)](https://www.racgp.org.au/the-racgp/governance/committees/joint-consultative-committees/jcca) training program.
+Registrars undertake the Diploma of Rural Generalist Anaesthesia or [Joint Consultative Committee on Anaesthesia (JCCA)](https://www.racgp.org.au/the-racgp/governance/committees/joint-consultative-committees/jcca) training program.
 
-Train in Anaesthetics posts accredited by Joint Consultative Committee on Anaesthesia (JCCA). 
+Train in Anaesthetics posts accredited by the Diploma of Rural Generalist Anaesthesia and/or Joint Consultative Committee on Anaesthesia (JCCA) as relevant.
 
 **Education**
 
 Registrars participate in the ANZCA registrar education program and education tailored to the AST curriculum.
 
-Registrars must successfully complete mandatory courses.  
+Registrars must successfully complete mandatory courses, including [Rural Anaesthetic Crisis Management (RACM)](https://www.acrrm.org.au/courses/face-to-face/racm).
 
 **Assessment**
 
@@ -1018,11 +1029,13 @@ Registrars must successfully complete or be a recognised instructor in one cours
 
 * Trauma: 
 
+  * [Pre-Hospital Emergency Cary (PHEC)](https://www.acrrm.org.au/courses/face-to-face/pre-hospital-emergency-care-phec), or
   * Early Management of Severe Trauma (EMST), or (ATLS American equivalent) or
   * Emergency Trauma Management Course (ETM) 
 * Adult: 
 
   * [Rural Emergency Skills Training (REST)](https://www.acrrm.org.au/courses/face-to-face/rest), or
+  * [ACRRM Advanced Life Support - Level 2 (ALS2)](https://www.acrrm.org.au/courses/face-to-face/als), or
   * Adult Life Support Australian Resuscitation Council Level 2 (ALS2), or
   * Emergency Life Support (ELS), or
   * Advanced and Complex Medical Emergencies (ACME), or
@@ -1080,7 +1093,7 @@ Registrars must complete education modules specified by RANZCOG.
 **Training**
 
 Train in a mental health service in a regional or rural hospital accredited by ACRRM. 
-Placements in inpatient, outpatient and community based care. Ideally include a short-term placement in an addiction medicine service.
+Placements in inpatient, outpatient and community-based care. Ideally include a short-term placement in an addiction medicine service.
 
 Employed as a registrar or equivalent position. 
 
@@ -1186,7 +1199,7 @@ Registrars must successfully complete an Epidemiology course at Graduate Certifi
 
 * fundamental principles of epidemiology
 * critical appraisal of epidemiological publications 
-* application of study design to a research situation and
+* application of study design to a research situation, and
 * the strengths and weaknesses of the main study designs.
 
 Registrars are also encouraged to consider working towards related academic qualifications while undertaking their Advanced Specialised Training in Population Health. See Appendix 3 for related programs.
@@ -1226,19 +1239,21 @@ Placements in an ACRRM accredited post in a MM 6-7 location or MM 5 approved cas
 
 Registrars must participate in the education program provided by the training post.
 
+Registrars must complete a [Pre-Hospital Emergency Care Course (PHEC)](https://www.acrrm.org.au/courses/face-to-face/pre-hospital-emergency-care-phec).
+
 Registrars will supplement their learning by completing ACRRM online courses which have content relevant to remote medicine, for example:
 
-* Retrieval Medicine Basic and Advanced
-* Rural EM forum
-* Clinical Bytes courses
-* Alcohol and Other Drugs - Driving Change in the Community
-* Approach to Care courses 
-* Introduction to Population Health
-* Effective Communications Skills
-* Digital Health Rural Australia - Better Health, Easier to Deliver
-* eHealth Module 1, 2 & 3
-* Getting started with Telehealth Introductions
-* Managing eHealth Work for Your General Practice
+* Retrieval Medicine [Basic ](https://mycollege.acrrm.org.au/search/find-online-learning/details?id=1118&title=Retrieval+Medicine+%28basic%29)and [Advanced](https://mycollege.acrrm.org.au/search/find-online-learning/details?id=1031&title=Retrieval+Medicine+%28advanced%29)
+* [Rural EM forum](https://mycollege.acrrm.org.au/search/find-online-learning/details?id=5077&title=ruralEM+forum)
+* [Clinical Bytes courses](https://mycollege.acrrm.org.au/search?query=clinical%20bytes&collection=acrrm-meta-public&clive=acrrm-fol-aptify-public&sort=title)
+* [Alcohol and Other Drugs - Driving Change in the Community](https://mycollege.acrrm.org.au/search/find-online-learning/details?id=18668&title=Alcohol+and+Other+Drugs+-+Driving+Change+in+Communities)
+* [Approach to Care courses ](https://mycollege.acrrm.org.au/search?query=%22approach%20to%20care%22&collection=acrrm-meta-public&clive=acrrm-fol-aptify-public&sort=title)
+* [Introduction to Population Health](https://mycollege.acrrm.org.au/search/find-online-learning/details?id=1026&title=Introduction+To+Population+Health)
+* [Effective Communications Skills](https://mycollege.acrrm.org.au/search/find-online-learning/details?id=18213&title=Effective+Communication+Skills)
+* [Digital Health Rural Australia - Better Health, Easier to Deliver](https://mycollege.acrrm.org.au/search/find-online-learning/details?id=17326&title=Digital+health+in+rural+and+remote+Australia+-+better+health%2C+easier+to+deliver)
+* [eHealth Module 1, 2 & 3](https://mycollege.acrrm.org.au/search?query=%22eHealth%20-%20module%22&collection=acrrm-meta-public&clive=acrrm-fol-aptify-public&sort=title)
+* [Introduction to Telehealth](https://mycollege.acrrm.org.au/search/find-online-learning/details?id=1057&title=Introduction+To+Telehealth)
+* [Making eHealth Work for Your General Practice](https://mycollege.acrrm.org.au/search/find-online-learning/details?id=1098&title=Making+Ehealth+Work+For+Your+General+Practice)
 
 **Assessment**
 
