@@ -1006,7 +1006,7 @@ Train in Anaesthetics posts accredited by the Diploma of Rural Generalist Anaest
 
 Registrars participate in the ANZCA registrar education program and education tailored to the AST curriculum.
 
-Registrars must successfully complete mandatory courses.  
+Registrars must successfully complete mandatory courses, including [Rural Anaesthetic Crisis Management (RACM)](https://www.acrrm.org.au/courses/face-to-face/racm).
 
 **Assessment**
 
@@ -1029,11 +1029,13 @@ Registrars must successfully complete or be a recognised instructor in one cours
 
 * Trauma: 
 
+  * [Pre-Hospital Emergency Cary (PHEC)](https://www.acrrm.org.au/courses/face-to-face/pre-hospital-emergency-care-phec), or
   * Early Management of Severe Trauma (EMST), or (ATLS American equivalent) or
   * Emergency Trauma Management Course (ETM) 
 * Adult: 
 
   * [Rural Emergency Skills Training (REST)](https://www.acrrm.org.au/courses/face-to-face/rest), or
+  * [ACRRM Advanced Life Support - Level 2 (ALS2)](https://www.acrrm.org.au/courses/face-to-face/als), or
   * Adult Life Support Australian Resuscitation Council Level 2 (ALS2), or
   * Emergency Life Support (ELS), or
   * Advanced and Complex Medical Emergencies (ACME), or
@@ -1091,7 +1093,7 @@ Registrars must complete education modules specified by RANZCOG.
 **Training**
 
 Train in a mental health service in a regional or rural hospital accredited by ACRRM. 
-Placements in inpatient, outpatient and community based care. Ideally include a short-term placement in an addiction medicine service.
+Placements in inpatient, outpatient and community-based care. Ideally include a short-term placement in an addiction medicine service.
 
 Employed as a registrar or equivalent position. 
 
@@ -1197,7 +1199,7 @@ Registrars must successfully complete an Epidemiology course at Graduate Certifi
 
 * fundamental principles of epidemiology
 * critical appraisal of epidemiological publications 
-* application of study design to a research situation and
+* application of study design to a research situation, and
 * the strengths and weaknesses of the main study designs.
 
 Registrars are also encouraged to consider working towards related academic qualifications while undertaking their Advanced Specialised Training in Population Health. See Appendix 3 for related programs.
@@ -1237,19 +1239,21 @@ Placements in an ACRRM accredited post in a MM 6-7 location or MM 5 approved cas
 
 Registrars must participate in the education program provided by the training post.
 
+Registrars must complete a [Pre-Hospital Emergency Care Course (PHEC)](https://www.acrrm.org.au/courses/face-to-face/pre-hospital-emergency-care-phec).
+
 Registrars will supplement their learning by completing ACRRM online courses which have content relevant to remote medicine, for example:
 
-* Retrieval Medicine Basic and Advanced
-* Rural EM forum
-* Clinical Bytes courses
-* Alcohol and Other Drugs - Driving Change in the Community
-* Approach to Care courses 
-* Introduction to Population Health
-* Effective Communications Skills
-* Digital Health Rural Australia - Better Health, Easier to Deliver
-* eHealth Module 1, 2 & 3
-* Getting started with Telehealth Introductions
-* Managing eHealth Work for Your General Practice
+* Retrieval Medicine [Basic ](https://mycollege.acrrm.org.au/search/find-online-learning/details?id=1118&title=Retrieval+Medicine+%28basic%29)and [Advanced](https://mycollege.acrrm.org.au/search/find-online-learning/details?id=1031&title=Retrieval+Medicine+%28advanced%29)
+* [Rural EM forum](https://mycollege.acrrm.org.au/search/find-online-learning/details?id=5077&title=ruralEM+forum)
+* [Clinical Bytes courses](https://mycollege.acrrm.org.au/search?query=clinical%20bytes&collection=acrrm-meta-public&clive=acrrm-fol-aptify-public&sort=title)
+* [Alcohol and Other Drugs - Driving Change in the Community](https://mycollege.acrrm.org.au/search/find-online-learning/details?id=18668&title=Alcohol+and+Other+Drugs+-+Driving+Change+in+Communities)
+* [Approach to Care courses ](https://mycollege.acrrm.org.au/search?query=%22approach%20to%20care%22&collection=acrrm-meta-public&clive=acrrm-fol-aptify-public&sort=title)
+* [Introduction to Population Health](https://mycollege.acrrm.org.au/search/find-online-learning/details?id=1026&title=Introduction+To+Population+Health)
+* [Effective Communications Skills](https://mycollege.acrrm.org.au/search/find-online-learning/details?id=18213&title=Effective+Communication+Skills)
+* [Digital Health Rural Australia - Better Health, Easier to Deliver](https://mycollege.acrrm.org.au/search/find-online-learning/details?id=17326&title=Digital+health+in+rural+and+remote+Australia+-+better+health%2C+easier+to+deliver)
+* [eHealth Module 1, 2 & 3](https://mycollege.acrrm.org.au/search?query=%22eHealth%20-%20module%22&collection=acrrm-meta-public&clive=acrrm-fol-aptify-public&sort=title)
+* [Introduction to Telehealth](https://mycollege.acrrm.org.au/search/find-online-learning/details?id=1057&title=Introduction+To+Telehealth)
+* [Making eHealth Work for Your General Practice](https://mycollege.acrrm.org.au/search/find-online-learning/details?id=1098&title=Making+Ehealth+Work+For+Your+General+Practice)
 
 **Assessment**
 
