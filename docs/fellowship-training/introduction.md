@@ -1075,6 +1075,8 @@ Registrars undertake the [Advanced Diploma of the Royal Australian and NZ Colleg
 
 Placements in O&G posts accredited by RANZCOG. 
 
+Candidates are also recommended to undertake an emergency obstetric course such as [Rural Emergency Obstetric Training](https://www.acrrm.org.au/courses/face-to-face/reot) (REOT).
+
 **Education**
 
 Registrars participate in education provided by training post.
