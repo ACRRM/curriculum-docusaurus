@@ -87,10 +87,14 @@ The assessment program has been developed around the [Rural Generalist Curriculu
 
 **Domain 1 - Provide expert medical care in all rural contexts**
 
-**Competency:** 1.1 Establish a doctor-patient relationship\
-**Work based assessment/s:** Supervisor reports, CBD, miniCEX, MSF\
+**Competency:** 1.1 Establish a doctor-patient relationship
+
+**Work based assessment/s:** Supervisor reports, CBD, miniCEX, MSF
+
 **Standardised assessment/s:** StAMPS
 
-Competency: 1.2 Use a patient centred approach to care\
-Work based assessment/s: Supervisor reports, CBD, miniCEX, MSF\
+Competency: 1.2 Use a patient centred approach to care
+
+Work based assessment/s: Supervisor reports, CBD, miniCEX, MSF
+
 Standardised assessment/s: StAMPS
