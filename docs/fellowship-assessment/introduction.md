@@ -3,7 +3,7 @@ id: introduction
 title: Fellowship Assessment
 sidebar_label: Fellowship Assessment
 ---
-##### Contact details
+**Contact details**
 
 Australian College of Rural and Remote Medicine<br />
 Level 1, 324 Queen Street<br />
@@ -15,11 +15,11 @@ E: training@acrrm.org.au<br />
 Website: [www.acrrm.org.au](www.acrrm.org.au)<br />
 ABN: 12 078 081 848
 
-##### Copyright
+**Copyright**
 
 © 2021 Australian College of Rural and Remote Medicine. All rights reserved. No part of this document may be reproduced by any means or in any form without express permission in writing from the Australian College of Rural and Remote Medicine.
 
-##### Version 2.1.1/2021
+**Version 2.1.1/2021**
 
 Date published: December 2021<br />
 Date implemented: December 2021<br />
