@@ -67,11 +67,16 @@ Collectively, the College assessments embrace all four levels of Miller’s Pyra
 
 Examples of the assessment tools at each level of College assessments are:
 
-* Does (Action):				MSF, formative MiniCEX, Logbook & CBD
-* Shows How (Performance):	StAMPS, formative MiniCEX, CBD
-* Knows How (Competence):	StAMPS		
-* Knows (Knowledge):		MCQs
-
-
+* **Does** (Action):				MSF, formative MiniCEX, Logbook & CBD
+* **Shows How** (Performance):	StAMPS, formative MiniCEX, CBD
+* **Knows How** (Competence):	StAMPS		
+* **Knows** (Knowledge):		MCQs
 
 ![](/img/1.png)
+
+*`Figure 1: Miller G 1990 The Assessment Clinical Skills/Competence/Performance`*
+
+* **Does:** 			Performance integrated into practice 
+* **Shows how:**		Simulated demonstration of skills in an examination situation
+* **Knows how:** 		Application of knowledge to medically relevant situations
+* **Knows:**			Knowledge or information that the candidate has learned
