@@ -67,11 +67,30 @@ Collectively, the College assessments embrace all four levels of Miller’s Pyra
 
 Examples of the assessment tools at each level of College assessments are:
 
-* Does (Action):				MSF, formative MiniCEX, Logbook & CBD
-* Shows How (Performance):	StAMPS, formative MiniCEX, CBD
-* Knows How (Competence):	StAMPS		
-* Knows (Knowledge):		MCQs
-
-
+* **Does** (Action):				MSF, formative MiniCEX, Logbook & CBD
+* **Shows How** (Performance):	StAMPS, formative MiniCEX, CBD
+* **Knows How** (Competence):	StAMPS		
+* **Knows** (Knowledge):		MCQs
 
 ![](/img/1.png)
+
+*`Figure 1: Miller G 1990 The Assessment Clinical Skills/Competence/Performance`*
+
+* **Does:** 			Performance integrated into practice 
+* **Shows how:**		Simulated demonstration of skills in an examination situation
+* **Knows how:** 		Application of knowledge to medically relevant situations
+* **Knows:**			Knowledge or information that the candidate has learned
+
+### Assessment blueprint
+
+The assessment program has been developed around the [Rural Generalist Curriculum](https://www.acrrm.org.au/resources/training/curriculum) competencies under the eight domain of rural practice. 
+
+**Domain 1 - Provide expert medical care in all rural contexts**
+
+**Competency:** 1.1 Establish a doctor-patient relationship\
+**Work based assessment/s:** Supervisor reports, CBD, miniCEX, MSF\
+**Standardised assessment/s:** StAMPS
+
+Competency: 1.2 Use a patient centred approach to care\
+Work based assessment/s: Supervisor reports, CBD, miniCEX, MSF\
+Standardised assessment/s: StAMPS
