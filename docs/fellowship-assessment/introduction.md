@@ -71,3 +71,7 @@ Examples of the assessment tools at each level of College assessments are:
 * Shows How (Performance):	StAMPS, formative MiniCEX, CBD
 * Knows How (Competence):	StAMPS		
 * Knows (Knowledge):		MCQs
+
+
+
+![](/img/1.png)
