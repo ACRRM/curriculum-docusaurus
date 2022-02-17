@@ -27,9 +27,11 @@ Date for review: December 2022
 
 *ACRRM acknowledges Australian Aboriginal People and Torres Strait Islander People as the first inhabitants of the nation.  We respect the traditional owners of lands across Australia in which our members and staff work and live and pay respect to their elders past present and future.*
 
-### The Australian College of Rural and Remote Medicine
+#### The Australian College of Rural and Remote Medicine
 
-## Philosophical underpinnings
+## Introduction
+
+### Philosophical underpinnings
 
 The Australian College of Rural and remote Medicine (College) views assessment as an
 ongoing and integral part of learning. The process is developmental in nature, assists learners
@@ -45,7 +47,7 @@ The College has developed its assessment program based on two key principles:
 * The content of assessments is developed by clinically active rural and remote medical
   practitioners.
 
-## Programmatic approach
+### Programmatic approach
 
 A feature of the College assessment process is the ‘programmatic approach’ i.e. assessment is a ‘program’ across the entire four years of training, rather than a specific instrument or assessment. 
 
@@ -57,7 +59,7 @@ Each candidate is required to achieve a minimum of a pass grade in each of the s
 
 The combination of modalities ensures that each competency is assessed at least once during the training program, although each individual modality only measures competencies appropriate to the modality of measurement. For example, professionalism is predominantly measured by the MSF assessment, while applied knowledge is predominantly measured by the Multi-Choice Question (MCQ) assessment. 
 
-## Principles of Assessment
+### Principles of Assessment
 
 Miller (1990) introduced an important framework that can be presented as four tiers/levels of a pyramid to categorise the different levels at which trainees can be assessed throughout their training.
 
