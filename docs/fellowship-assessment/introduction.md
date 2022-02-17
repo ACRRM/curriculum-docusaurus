@@ -27,8 +27,6 @@ Date for review: December 2022
 
 *ACRRM acknowledges Australian Aboriginal People and Torres Strait Islander People as the first inhabitants of the nation.  We respect the traditional owners of lands across Australia in which our members and staff work and live and pay respect to their elders past present and future.*
 
-
-
 ### The Australian College of Rural and Remote Medicine
 
 ## Philosophical underpinnings
@@ -59,15 +57,15 @@ Each candidate is required to achieve a minimum of a pass grade in each of the s
 
 The combination of modalities ensures that each competency is assessed at least once during the training program, although each individual modality only measures competencies appropriate to the modality of measurement. For example, professionalism is predominantly measured by the MSF assessment, while applied knowledge is predominantly measured by the Multi-Choice Question (MCQ) assessment. 
 
-
 ## Principles of Assessment
 
-Miller (1990) introduced an important framework that can be presented as four tiers/levels of
-a pyramid to categorise the different levels at which trainees can be assessed throughout their
-training.
+Miller (1990) introduced an important framework that can be presented as four tiers/levels of a pyramid to categorise the different levels at which trainees can be assessed throughout their training.
 
-Collectively, the College assessments embrace all four levels of Miller’s Pyramid (Figure 1).
-Miller emphasised that all four levels - knows, knows how, shows how and does – are required
-to be assessed to obtain a comprehensive understanding of a trainee’s ability. In other words,
-that candidates are required to demonstrate that they ‘know’, that they ‘know how’, that they
-can ‘show how’, and finally, what the candidate actually ‘does’ in the workplace.
+Collectively, the College assessments embrace all four levels of Miller’s Pyramid (Figure 1). Miller emphasised that all four levels - knows, knows how, shows how and does – are required to be assessed to obtain a comprehensive understanding of a trainee’s ability. In other words, that candidates are required to demonstrate that they ‘know’, that they ‘know how’, that they can ‘show how’, and finally, what the candidate actually ‘does’ in the workplace. 
+
+Examples of the assessment tools at each level of College assessments are:
+
+* Does (Action):				MSF, formative MiniCEX, Logbook & CBD
+* Shows How (Performance):	StAMPS, formative MiniCEX, CBD
+* Knows How (Competence):	StAMPS		
+* Knows (Knowledge):		MCQs
