@@ -793,3 +793,183 @@ While the MSF is not awarded a pass/fail grad, if concerns are raised in any com
 Once all the components of the MSF, including remediation if required, have been completed, the MSF outcome is presented to the BoE for ratification. The BoE determines ‘Satisfactory Completion’. 
 
 The MSF must be conducted through Client Focused Evaluations Program (CFEP). The ACRRM version of the MSF is the preferred tool.  Alternate versions of MSF offered by CFEP are also acceptable. Both components of the tool must be completed; however, it is acceptable to undertake the Colleague Feedback Evaluation Tool (CFET) components and Doctors’ Interpersonal Skills Questionnaire DISQ separately. If completed separately a completed reflective exercise is required for each component. See the [CFEP website](https://www.cfepsurveys.com.au/acrrm-doctors) for further information.
+
+### MSF format
+
+The MSF tool consists of two (2) components:
+
+1. A colleague assessment tool and a self-assessment tool; (collectively known as Colleague Feedback Evaluation Tool — CFET) and 
+2. A patient assessment tool (Doctors Interpersonal Skills Questionnaire — DISQ).
+
+   **Colleague tool**\
+   The colleague tool involves a response from a minimum of 12 nominated   colleagues participating in a questionnaire.  Colleagues are required to rate the candidate in 20 different areas.  There is also a provision for qualitative comments.
+
+   **Self-assessment tool**\
+   Completion of the self-assessment is a mandatory requirement for the MSF. 
+
+   **Patient tool**\
+   The patient tool involves a minimum of 30 patients participating in an anonymous questionnaire.  Patients are required to rate the candidate in 12 different areas. There is also a provision for qualitative comments.  
+
+**MSF report**
+
+A candidate ‘mean’ score for each question is provided. National means and performance bands have been calculated from data generated from previous ACRRM candidates.
+
+See the [How to guide for reading ACRRM MSF reports](https://www.acrrm.org.au/resources/assessment/handbooks-guides). 
+
+### Roles & Responsibilities
+
+It is the candidate’s responsibility to: 
+
+* inform CFEP that they are undertaking MSF for as part of ACRRM training requirement. 
+* advise CFEP of the practice environment they will be working in whilst undertaking the MSF.    
+
+  Candidates undertaking their MSF in an environment where a significant proportion of the patients may have trouble in completing a questionnaire are able to ask an appropriate person e.g. an Aboriginal Health Worker to assist the patients in completing the form. Candidates can also request CFEP to send an alternative DISQ patient survey for an AMS.
+
+**Self-assessment tool**
+
+* Candidates must submit a completed self-reflective exercise and evidence of discussion with Medical Educator to the College within two (2) months from the date the MSF report was received.
+* In extenuating circumstances, an extension of time may be considered, subject to the candidate providing the College with a written and verifiable statement of the reasons for the requested extension, prior to the expiration of the deadline. 
+* If the deadline is exceeded without prior approval, the College reserves the right to report an ‘incomplete’ grade.  In this instance the candidate will be required to re-enrol, pay the MSF assessment fee and recommence the process.  
+
+**Colleague tool** 
+
+* Candidates must complete and return the colleague list providing names and email addresses of at least 15 colleagues. 
+* A personal email address must be provided for each nominated colleague. Email addresses must be independently verifiable by CFEP.  Generic email addresses such as practicemanager@ or reception@ will not be accepted due to security reasons.
+
+CFEP suggests nominating:
+
+* **Five doctors**
+
+  * three GP colleagues who are close to the candidate, e.g. neighbouring GPs, partners
+  * two doctors from outside of the candidate’s immediate practice, e.g. consultant, candidates
+* **Five Non-Medical Clinical Colleagues**
+
+  * this should include a mix of people within a candidate’s practice and elsewhere, e.g. practice nurses, pharmacists, physiotherapists, midwives 
+* **Five managerial or administrative staff**
+
+  * this should include a mix of people within the candidate’s practice and from elsewhere, e.g. practice manager, reception staff, managerial staff of the local Primary Health Organisation.
+
+**Patient tool**
+The candidate is responsible for contracting a member of staff, e.g. a receptionist or an administrative officer to collect the completed patient questionnaires.  This must be a person who has an opportunity to see the candidate’s patients after consultations.  
+
+The candidate is responsible for ensuring that the contracted person is provided with instructions to ensure this process is undertaken anonymously and in an ethical and professional manner, as follows:
+
+* The candidate must hand the patient questionnaires with enough envelopes and staff guidelines to the contracted staff member for collection
+* The patient must not be advised of the questionnaire or invited to participate until after a consultation has been conducted
+* A confidential process must be adopted (a sealed box) for collecting completed questionnaires
+* Patients should preferably complete the questionnaire whilst in the waiting room before they leave the premises
+* An envelope must be provided to each patient in which they must place their completed questionnaire
+* Completed questionnaires must be handed back in a sealed envelope
+* If a patient insists on taking questionnaires away to complete, these must be returned the following day
+* Under no circumstances should the candidate be given access to individual questionnaires
+* Sealed questionnaires are not to be opened by anyone and
+* When a minimum of 30 questionnaires has been completed, these should be posted to CFEP in the large envelope provided.
+
+CFEP will also provide instructions for this process when they send patient questionnaires to candidates.
+
+### Summary of MSF process
+
+* Candidate enrols with CFEP
+* CFEP emails the candidate:
+
+  * a link to portal with username and password 
+  * a Colleague List form
+  * patient questionnaire forms and instructions 
+* Candidate:
+
+  * uploads the colleague list to the portal
+  * completes the online self-assessment via the CFEP portal
+  * ensures completed patient questionnaires are returned
+* CFEP: 
+
+  * emails nominated colleagues with instructions to complete the questionnaire. 
+  * collates and process the information, generating a report
+  * sends report to candidate and the College
+* College:
+
+  * send report to training organisation
+* Candidate:
+
+  * completes self-reflection exercise and discusses report with Medical Educator and designs a learning plan to address any areas for development
+  * submits self-reflective exercise and evidence of Medical Educator discussion to the College
+* College
+
+  * BoE determines if MSF has been completed satisfactorily. 
+  * Uploads results to the “My Documents” section, in a candidate “My College” dashboard, accessible from the College website. 
+* Candidates receive an email once results are uploaded.
+
+## Multiple Choice Question
+
+### Introduction
+
+The Multiple-Choice Question (MCQ) assessment assesses recall, reasoning and applied clinical knowledge. 
+
+The MCQ assessment focuses on assessing the ability to manage medical care in a rural or remote environment. The assessment aims to cover all domains of rural and remote practise and is one of the summative assessments for CGT. 
+
+### Requirements
+
+Candidates are required to gain a pass in MCQ. The standard expected is that of a doctor practising at Fellowship level. 
+
+Standard setting for the MCQ assessment is based on the modified Angoff method. This involves setting a standard score for test items prior to the test, using judgements by experts based on the projected performance of ‘borderline candidates.’ 
+
+The pass mark for each assessment is calculated from the average Angoff score with consideration for an adjustment by the standard error of measurement and/or removal of questions that have not performed well. 
+
+### MCQ format
+
+The assessment is conducted over three hours and consists of 125 multiple-choice questions. The MCQ is conducted using a pencil-and-paper format. All candidates must complete the MCQ by completing an Answer Sheet of which is uploaded and marked automatically via the MCQ software. 
+
+### Venue and Invigilators
+
+All candidates undertake the MCQ on the same day and at the same time, regardless of their location. Candidates and invigilators will be notified of the assessment start time in Australian Eastern Standard Time. Each candidate and invigilator are advised to check their local time zone and adjust the start time to account for any differences, if necessary. 
+
+For information relevant to venue and invigilator requirements refer to **Venues and Invigilators** section of this handbook.
+
+### Questions
+
+Questions mostly consist of a clinical case presentation, a brief targeted lead-in question and four options from which candidates are required to choose the single best option. The stem of the clinical case may include text and images. There are no negative marks for incorrect answers.  
+
+Questions are designed to address specific components of the curriculum. Questions focus on topics and concepts that are either common or important to the everyday experience of independent and safe rural and remote doctors practising in Australia. Questions are researched and written by practising rural doctors using up-to-date Australian references. Assembled exams comprising 125 questions are reviewed by a panel of doctors.  
+
+### Content
+
+The assessment covers a balance of acute care cases, common and less common presentations, male and female patients, indigenous and non-indigenous patients, across all age groups. The assessment samples content from the curriculum domains and learning areas.   The approximate percentage of questions for learning areas appearing in an assessment is outlined in the table below.
+
+**Curriculum learning areas and Percentage of assessment content***
+
+Aboriginal and Torres Strait Islander Health **(5-10%)**
+
+Adult Internal Medicine **(20-30%)**
+
+Aged Care **(5-15%)**
+
+Anaesthetics **(2-5%)**
+
+Business and Professional Management **(2-5%)**
+
+Child and Adolescent Health **(10-15%)**
+
+Dermatology **(3-8%)**
+
+Information Management and Information Technology **(0%)**
+
+Mental Health **(4-8%)**
+
+Musculoskeletal Medicine **(5-10%)**
+
+Obstetrics and Women's Health **(5-10%)**
+
+Ophthalmology **(1-4%)**
+
+Oral Health **(1-4%)**
+
+Palliative Care **(4-8%)**
+
+Radiology **(1-4%)**
+
+Rehabilitation **(1-4%)**
+
+Research and Surgery **(1-4%)**
+
+Surgery **(4-8%)**
+
+*`*The total of percentages is greater than 100% due to multiple domains being assessed multiple times within one assessment.`*
