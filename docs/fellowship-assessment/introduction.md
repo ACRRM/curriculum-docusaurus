@@ -627,7 +627,7 @@ All candidates training on an ACRRM training program must complete formative Min
 
 In exceptional circumstances a candidate working towards Fellowship may be required to complete a summative miniCEX. This is determined by the College Censor-in-Chief (CIC).
 
-The miniCEX training course for Clinicians - online course is designed for clinicians who are asked to conduct formative miniCEX assessments with ACRRM registrars.
+The miniCEX training course for Clinicians - [online course](https://mycollege.acrrm.org.au/search/find-online-learning/details?id=19909&title=MiniCEX+training+course+for+clinicians) is designed for clinicians who are asked to conduct formative miniCEX assessments with ACRRM registrars.
 
 ### Requirements
 
@@ -641,30 +641,32 @@ Consults must include a:
 
 * reasonable range of types of consults, age groups and both genders. 
 * minimum of five physical examinations, each from a different body system:
-** cardiovascular
-o	respiratory
-o	abdominal
-o	neurological
-o	endocrine
-o	musculoskeletal region
-o	mini-mental state assessment
-o	neonatal/paediatric
-o	antenatal (first visit)
 
-•	detailed history taking of at least one (1) new patient or detailed updating patient database information on a returning patient (of at least medium complexity).
+  * cardiovascular
+  * respiratory
+  * abdominal
+  * neurological
+  * endocrine
+  * musculoskeletal region
+  * mini-mental state assessment
+  * neonatal/paediatric
+  * antenatal (first visit)
+* detailed history taking of at least one (1) new patient or detailed updating patient database information on a returning patient (of at least medium complexity).
 
 The physical examinations are required to be undertaken in the context of a face-to-face patient consultation. Where possible the reviewer should be viewing the consults face-to-face. A ‘Physical Exam Reference’ document is provided for guidance on undertaking a systematic physical assessment. 
 
 A formative miniCEX can be conducted within the context of the candidate’s medical educator visit or at any time at the instigation of the candidate or supervisor. The miniCEX reviews are to be conducted by a doctor, meeting one of the following criteria: 
 
-•	an ACRRM accredited supervisor or 
-•	holding a Fellowship of ACRRM or
-•	a Medical Educator from an ACRRM accredited training organisation.
+* an ACRRM accredited supervisor or 
+* holding a Fellowship of ACRRM or
+* a Medical Educator from an ACRRM accredited training organisation.
 
 The assessor may be onsite viewing the consults face-to-face or offsite viewing the consults virtually. 
 
 At a minimum three (3) different assessors are required to complete the nine (9) miniCEX assessments. Three (3) of the miniCEX assessments must be conducted by a Medical Educator from an ACRRM accredited training organisation (who does not work in the same workplace as the candidate).
-Advanced Specialised Training (AST)
+
+***Advanced Specialised Training (AST)***
+
 Candidates undertaking AST in Aboriginal and Torres Strait Islander Health, Adult Internal Medicine, Emergency Medicine, Mental Health, Paediatrics, Palliative Care, Remote Medicine and Surgery are required to have a formative miniCEX conducted on a minimum of five (5) patient interactions (consults) during AST. 
 
 The miniCEX consults should be undertaken progressively during training and include a reasonable range of types of consults, age groups and both genders. The same principles apply around face-to-face and telehealth consults as described for CGT above.
