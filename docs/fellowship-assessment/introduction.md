@@ -116,3 +116,183 @@ Standardised assessment/s: MCQ, StAMPS
 Work based assessment/s: Supervisor reports, CBD, miniCEX, MSF
 
 Standardised assessment/s: MCQ, StAMPS
+
+**Competency 1.6:** Appropriately order, perform and interpret diagnostic investigations
+
+Work based assessment/s: Supervisor reports, CBD, miniCEX, MSF
+
+Standardised assessment/s: MCQ, StAMPS
+
+**Competency 1.7:** Ensure safe and appropriate prescribing of medications and non-pharmacological treatment options
+
+Work based assessment/s: Supervisor reports, CBD, miniCEX, MSF
+
+Standardised assessment/s: MCQ, StAMPS
+
+**Competency 1.8:** Formulate an appropriate management plan, incorporate specialist practitioner's advice or referral where applicable
+
+Work based assessment/s: Supervisor reports, CBD, miniCEX, MSF
+
+Standardised assessment/s: MCQ, StAMPS
+
+**Competency 1.9:** Demonstrate commitment to teamwork, collaboration, coordination and continuity of care
+
+Work based assessment/s: Supervisor reports, CBD, miniCEX, MSF
+
+Standardised assessment/s: MCQ, StAMPS
+
+**Competency 1.10:** Provide patient care in the home, nursing home and other sites away from the main health service
+
+Work based assessment/s: Supervisor reports, CBD, miniCEX
+
+Standardised assessment/s: MCQ, StAMPS
+
+**Domain 2 - Provide primary care**
+
+**Competency** **2.1:** Apply diagnostic reasoning to undifferentiated health problems in an un-referred patient population
+
+Work based assessment/s: Supervisor reports, CBD, miniCEX, MSF
+
+Standardised assessment/s: MCQ, StAMPS
+
+**Competency** **2.2:** Provide patient care across the lifespan from birth through to end of life
+
+Work based assessment/s: Supervisor reports, CBD, miniCEX, MSF
+
+Standardised assessment/s: MCQ, StAMPS
+
+**Competency** **2.3:** Manage common presentations and conditions in primary care
+
+Work based assessment/s: Supervisor reports, CBD, miniCEX, MSF
+
+Standardised assessment/s: MCQ, StAMPS
+
+**Competency** **2.4:** Provide longitudinal care, managing individual's diverse range of problems across the extended time periods
+
+Work based assessment/s: Supervisor reports, CBD, miniCEX, MSF
+
+Standardised assessment/s: MCQ, StAMPS
+
+**Competency** **2.5:** Perform primary care diagnostic and therapeutic procedures
+
+Work based assessment/s: Supervisor reports, CBD, miniCEX, MSF, logbook
+
+Standardised assessment/s: MCQ, StAMPS
+
+**Competency** **2.6:** Effectively manage time pressure and decision fatigue during general practice consultations
+
+Work based assessment/s: Supervisor reports, CBD, miniCEX, MSF
+
+Standardised assessment/s: Nil
+
+**Competency** **2.7:** Provide continuous, consistent and coordinated chronic disease management for individuals with chronic conditions
+
+Work based assessment/s: Supervisor reports, CBD, miniCEX, MSF
+
+Standardised assessment/s: MCQ, StAMPS
+
+**Competency** **2.8:** Undertake preventive activities such as screening, immunisation and health education in opportunistic and programmatic ways
+
+Work based assessment/s: Supervisor reports, CBD, miniCEX, MSF
+
+Standardised assessment/s: MCQ, StAMPS
+
+**Competency** **2.9:** Provide cost conscious care for patients, the service and the health care system
+
+Work based assessment/s: Supervisor reports, CBD, miniCEX, MSF
+
+Standardised assessment/s: Nil
+
+**Competency** **2.10:** Provide general and specific health checks, medical assessments and travel medicine consultations
+
+Work based assessment/s: Supervisor reports, CBD, miniCEX, MSF
+
+Standardised assessment/s: MCQ, StAMPS
+
+**Domain 3 - Provide secondary medical care**
+
+**Competency** **3.1:** Manage common conditions requiring inpatient care in appropriate settings
+
+Work based assessment/s: Supervisor reports, CBD, miniCEX, MSF
+
+Standardised assessment/s: MCQ, StAMPS
+
+**Competency** **3.2:** Maintain a clinically relevant plan of fluid, electrolyte and blood product use with relevant pathology testing
+
+Work based assessment/s: Supervisor reports, CBD, miniCEX, MSF
+
+Standardised assessment/s: MCQ, StAMPS
+
+**Competency** **3.3:** Perform secondary care diagnostic and therapeutic procedures
+
+Work based assessment/s: Supervisor reports, CBD, miniCEX, MSF, logbook
+
+Standardised assessment/s: MCQ, StAMPS
+
+**Competency** **3.4:** Recognise and respond early to the deteriorating patient
+
+Work based assessment/s: Supervisor reports, CBD, miniCEX, MSF
+
+Standardised assessment/s: MCQ, StAMPS
+
+**Competency** **3.5:** Communicate effectively with healthcare team, including effective handover
+
+Work based assessment/s: Supervisor reports, CBD, miniCEX, MSF
+
+Standardised assessment/s: StAMPS
+
+**Competency** **3.6:** Anticipate and judiciously arrange safe patient transfer to other facilities
+
+Work based assessment/s: Supervisor reports, CBD, miniCEX, MSF
+
+Standardised assessment/s: MCQ, StAMPS
+
+**Competency** **3.7:** Undertake early discharge planning, involving the multi-disciplinary team
+
+Work based assessment/s: Supervisor reports, CBD, miniCEX, MSF
+
+Standardised assessment/s: StAMPS
+
+**Domain 4 - Respond to medical emergencies**
+
+**Competency** **4.1:** 
+
+Work based assessment/s: Supervisor reports, CBD, miniCEX
+
+Standardised assessment/s: MCQ, StAMPS, REST
+
+**Competency** **4.2:** 
+
+Work based assessment/s: Supervisor reports, CBD, miniCEX
+
+Standardised assessment/s: MCQ, StAMPS, REST
+
+**Competency** **4.3:** 
+
+Work based assessment/s: Supervisor reports, CBD, miniCEX, logbook
+
+Standardised assessment/s: MCQ, StAMPS, REST
+
+**Competency** **4.4:** 
+
+Work based assessment/s: Supervisor reports, CBD, miniCEX
+
+Standardised assessment/s: MCQ, StAMPS, REST
+
+**Competency** **4.5:** 
+
+Work based assessment/s: Supervisor reports, CBD, miniCEX
+
+Standardised assessment/s: MCQ, StAMPS, REST
+
+**Competency** **4.6:** 
+
+Work based assessment/s: Supervisor reports, CBD, miniCEX
+
+Standardised assessment/s: 
+
+**Competency** **4.7:** 
+
+Work based assessment/s: Supervisor reports, CBD, miniCEX, MSF
+
+Standardised assessment/s: MCQ, StAMPS, REST
