@@ -357,68 +357,68 @@ Standardised assessment/s: MCQ, StAMPS
 
 **Domain 7 - Practise medicine with an ethical, intellectual and professional framework**
 
-**Competency** **7.1:** 
+**Competency** **7.1:** Work within relevant national and state legislation and professional and ethical guidelines
 
-Work based assessment/s: 
+Work based assessment/s: Supervisor reports, CBD, miniCEX, MSF
 
-Standardised assessment/s: 
+Standardised assessment/s: MCQ, StAMPS
 
-**Competency** **7.2:** 
+**Competency** **7.2:** Keep clinical documentation in accordance with legal and professional standards
 
-Work based assessment/s: 
+Work based assessment/s: Supervisor reports, CBD
 
-Standardised assessment/s: 
+Standardised assessment/s: Nil
 
-**Competency** **7.3:** 
+**Competency** **7.3:** Provide cost effective patient care through judicious use of resources by balancing own duty to individual patients with own duty to society
 
-Work based assessment/s: 
+Work based assessment/s: Supervisor reports, CBD, miniCEX, MSF
 
-Standardised assessment/s: 
+Standardised assessment/s: MCQ, StAMPS
 
-**Competency** **7.4:** 
+**Competency** **7.4:** Manage, appraise and assess own performance in the provision of medical care for patients
 
-Work based assessment/s: 
+Work based assessment/s: Supervisor reports, MSF
 
-Standardised assessment/s: 
+Standardised assessment/s: Nil
 
-**Competency** **7.5:** 
+**Competency** **7.5:** Participate in institutional quality and safety improvement and risk management activities
 
-Work based assessment/s: 
+Work based assessment/s: Supervisor reports
 
-Standardised assessment/s: 
+Standardised assessment/s: Nil
 
-**Competency** **7.6:** 
+**Competency** **7.6:** Teach and clinically supervise health students, junior doctors and other health professionals
 
-Work based assessment/s: 
+Work based assessment/s: Supervisor reports, MSF
 
-Standardised assessment/s: 
+Standardised assessment/s: Nil
 
-**Competency** **7.7:** 
+**Competency** **7.7:** Recognise unprofessional behaviour and signs of the practitioner in difficulty among colleagues and respond according to ethical guidelines and statutory requirements
 
-Work based assessment/s: 
+Work based assessment/s: Supervisor reports
 
-Standardised assessment/s: 
+Standardised assessment/s: MCQ, StAMPS
 
-**Competency** **7.8:** 
+**Competency** **7.8:** Contribute to the management of human and financial resources within a health service
 
-Work based assessment/s: 
+Work based assessment/s: Supervisor reports, MSF
 
-Standardised assessment/s: 
+Standardised assessment/s: Nil
 
-**Competency** **7.9:** 
+**Competency** **7.9:** Provide leadership in professional practice
 
-Work based assessment/s: 
+Work based assessment/s: Supervisor reports, MSF
 
-Standardised assessment/s: 
+Standardised assessment/s: StAMPS
 
-**Competency** **7.10:** 
+**Competency** **7.10:** Engage in continuous learning and professional development
 
-Work based assessment/s: 
+Work based assessment/s: Supervisor reports, MSF
 
-Standardised assessment/s: 
+Standardised assessment/s: Nil
 
-**Competency** **7.11:** 
+**Competency** **7.11:** Critically appraise and apply relevant research
 
-Work based assessment/s: 
+Work based assessment/s: Supervisor reports, CBD, miniCEX
 
-Standardised assessment/s:
+Standardised assessment/s: MCQ, StAMPS
