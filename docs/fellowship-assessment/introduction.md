@@ -255,44 +255,170 @@ Standardised assessment/s: StAMPS
 
 **Domain 4 - Respond to medical emergencies**
 
-**Competency** **4.1:** 
+**Competency** **4.1:** Recognise severe, acute and life-threatening conditions and provide initial resuscitation and stabilisation
 
 Work based assessment/s: Supervisor reports, CBD, miniCEX
 
 Standardised assessment/s: MCQ, StAMPS, REST
 
-**Competency** **4.2:** 
+**Competency** **4.2:** Provide definitive emergency management across the lifespan in keeping with clinical need, own capabilities, local context and resources
 
 Work based assessment/s: Supervisor reports, CBD, miniCEX
 
 Standardised assessment/s: MCQ, StAMPS, REST
 
-**Competency** **4.3:** 
+**Competency** **4.3:** Perform emergency diagnostic and therapeutic procedures
 
 Work based assessment/s: Supervisor reports, CBD, miniCEX, logbook
 
 Standardised assessment/s: MCQ, StAMPS, REST
 
-**Competency** **4.4:** 
+**Competency** **4.4:** Interpret common pathology, imaging and other diagnostic modalities relevant to emergency management
 
 Work based assessment/s: Supervisor reports, CBD, miniCEX
 
 Standardised assessment/s: MCQ, StAMPS, REST
 
-**Competency** **4.5:** 
+**Competency** **4.5:** Activate or support emergency patient retrieval, transport or evacuation when needed
 
 Work based assessment/s: Supervisor reports, CBD, miniCEX
 
 Standardised assessment/s: MCQ, StAMPS, REST
 
-**Competency** **4.6:** 
+**Competency** **4.6:** Provide inter-professional team leadership in emergency care that includes a quality assurance, risk management assessment, team debriefing and self-care
 
 Work based assessment/s: Supervisor reports, CBD, miniCEX
 
-Standardised assessment/s: 
+Standardised assessment/s: MCQ, StAMPS, REST
 
-**Competency** **4.7:** 
+**Competency** **4.7:** Utilise assistance and/or guidance from other specialist practitioners and services as required
 
 Work based assessment/s: Supervisor reports, CBD, miniCEX, MSF
 
 Standardised assessment/s: MCQ, StAMPS, REST
+
+**Domain 5 - Apply a population health approach**
+
+**Competency** **5.1:** Analyse the social, environmental, economic and occupational determinants of health that affect the community
+
+Work based assessment/s: Supervisor reports
+
+Standardised assessment/s: Nil
+
+**Competency** **5.2:** Describe the local community profile, including health, age groups, ethnicity, occupations
+
+Work based assessment/s: Supervisor reports
+
+Standardised assessment/s: Nil
+
+**Competency** **5.3:** Apply a population health approach that is relevant to the community profile
+
+Work based assessment/s: Supervisor reports, CBD, miniCEX
+
+Standardised assessment/s: MCQ, StAMPS
+
+**Competency** **5.4:** Integrate evidence-based prevention, early detection and health maintenance activities into practice at a population level
+
+Work based assessment/s: Supervisor reports, CBD, miniCEX
+
+Standardised assessment/s: MCQ, StAMPS
+
+**Competency** **5.5:** Fulfil reporting requirements in relation to statutory notification of health conditions
+
+Work based assessment/s: Supervisor reports, CBD, miniCEX, MSF
+
+Standardised assessment/s: MCQ, StAMPS
+
+**Competency** **5.6:** Participate in disaster planning and implementation of disaster plans, and post-incident analysis and debriefing
+
+Work based assessment/s: Supervisor reports
+
+Standardised assessment/s: Nil
+
+**Domain 6 - Work with Aboriginal, Torres Strait Islander and other culturally diverse communities to improve health and wellbeing**
+
+**Competency** **6.1:** Understand diverse local health practices and their benefits for communities
+
+Work based assessment/s: Supervisor reports
+
+Standardised assessment/s: MCQ, StAMPS
+
+**Competency** **6.2:** Apply principles of partnership, community ownership, consultation, capacity building, reciprocity and respect to health care delivery, health surveillance and research
+
+Work based assessment/s: Supervisor reports
+
+Standardised assessment/s: StAMPS
+
+**Competency** **6.3:** Deliver culturally safe care to Aboriginal and Torres Strait Islander peoples and other cultural groups
+
+Work based assessment/s: Supervisor reports, CBD, miniCEX, MSF
+
+Standardised assessment/s: MCQ, StAMPS
+
+**Domain 7 - Practise medicine with an ethical, intellectual and professional framework**
+
+**Competency** **7.1:** 
+
+Work based assessment/s: 
+
+Standardised assessment/s: 
+
+**Competency** **7.2:** 
+
+Work based assessment/s: 
+
+Standardised assessment/s: 
+
+**Competency** **7.3:** 
+
+Work based assessment/s: 
+
+Standardised assessment/s: 
+
+**Competency** **7.4:** 
+
+Work based assessment/s: 
+
+Standardised assessment/s: 
+
+**Competency** **7.5:** 
+
+Work based assessment/s: 
+
+Standardised assessment/s: 
+
+**Competency** **7.6:** 
+
+Work based assessment/s: 
+
+Standardised assessment/s: 
+
+**Competency** **7.7:** 
+
+Work based assessment/s: 
+
+Standardised assessment/s: 
+
+**Competency** **7.8:** 
+
+Work based assessment/s: 
+
+Standardised assessment/s: 
+
+**Competency** **7.9:** 
+
+Work based assessment/s: 
+
+Standardised assessment/s: 
+
+**Competency** **7.10:** 
+
+Work based assessment/s: 
+
+Standardised assessment/s: 
+
+**Competency** **7.11:** 
+
+Work based assessment/s: 
+
+Standardised assessment/s:
