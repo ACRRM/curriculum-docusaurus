@@ -422,3 +422,104 @@ Standardised assessment/s: Nil
 Work based assessment/s: Supervisor reports, CBD, miniCEX
 
 Standardised assessment/s: MCQ, StAMPS
+
+**Domain 8 - Provide safe medical care while working in geographic and professional isolation**
+
+**Competency** **8.1:** Demonstrate resourcefulness, independence and self-reliance while working effectively in geographic and professional isolation
+
+Work based assessment/s: Supervisor reports, CBD, miniCEX, MSF
+
+Standardised assessment/s: MCQ, StAMPS
+
+**Competency** **8.2:** Develop and apply strategies for self-care, personal support and caring for family
+
+Work based assessment/s: Supervisor reports, MSF
+
+Standardised assessment/s: Nil
+
+**Competency** **8.3:** Establish a community network while maintaining appropriate personal and professional boundaries
+
+Work based assessment/s: Supervisor reports, MSF
+
+Standardised assessment/s: Nil
+
+**Competency** **8.4:** Establish, maintain and utilise professional networks to assist with safe, optimum patient care
+
+Work based assessment/s: Supervisor reports, MSF
+
+Standardised assessment/s: Nil
+
+**Competency** **8.5:** Provide safe, effective clinical care when away from ready access to specialist medical, diagnostic and allied health services
+
+Work based assessment/s: Supervisor reports, CBD, miniCEX, MSF
+
+Standardised assessment/s: MCQ, StAMPS
+
+**Competency** **8.6:** Use information and communication technology to assist in diagnosis, monitoring and provision of medical care or to facilitate access to specialised care for patients
+
+Work based assessment/s: Supervisor reports, CBD, miniCEX, MSF
+
+Standardised assessment/s: MCQ, StAMPS
+
+**Competency** **8.7:** Identify and acquire extended knowledge and skills as may be required to meet health care needs of the local population
+
+Work based assessment/s: Supervisor reports, CBD, miniCEX, MSF
+
+Standardised assessment/s: Advanced Specialised Training StAMPS, Projects
+
+### Assessors and item writers
+
+The College has a team of writers, editors and assessors. The College aims to include as broad as possible representation of geographic and demographic membership in the team. Core Generalist Training assessment team members are required to be experienced rural practitioners who hold FACRRM. Advanced Specialised Training assessment team members are comprised of a combination of doctors holding Fellowship of ACRRM (FACRRM) and Fellows of other relevant specialist medical colleges.
+
+All College Assessors undergo training throughout their time in the role of Assessor. 
+
+The “expert team” developing assessment items for MCQ and StAMPS has input from a larger group of practising rural doctors. 
+
+The College uses several processes to evaluate the effectiveness of the Fellows who contribute to assessment modalities. Post-assessment feedback from candidates, assessors, invigilators and others involved in assessment is evaluated routinely after each assessment. This information is reviewed by the lead assessors and fed back to the assessors and/or writers as appropriate.
+
+### Code of Conduct
+
+An Assessor must hold current medical registration.
+
+Assessor have a duty to inform the College in writing within 14 days:
+
+* if they are charged with a criminal offence or receive notice of the review of his/her medical registration with a view to suspension or termination; or
+* if conditions are imposed or their medical registration is suspended or terminated.
+
+### Conflict of interest
+
+An Assessor is required to declare a conflict of interest with a candidate to the Assessment team prior to the assessment taking place. A declared conflict of interest will be taken into consideration and addressed accordingly.
+
+### Quality assurance processes
+
+The College utilises a range of quality assurance processes in its assessment program.
+
+The College has a documented process for standard setting and definition of the cut-off point between a pass and fail in each of the summative assessment modalities. These are described in the chapters relating to each modality.
+
+Following an assessment, standard question reliability statistics such as Cronbach’s alpha are considered, with reliable questions/items placed in the repository for future assessments or to be included in publicly released practice assessments. Those with poor reliability are redeveloped or retired. 
+
+When StAMPS is delivered across multiple sites, the Assessors assessing the same scenario attend a moderator session together with the lead Assessor to facilitate consistent delivery and marking of the scenario. At each StAMPS assessment centre there is a lead Assessor to ensure that the assessment is delivered in a fair and consistent manner and that process has been adhered to. The lead Assessor will observe Assessors across the assessment session and replace the Assessor when a conflict of interest has been declared. The lead Assessor is also responsible for providing feedback to Assessors. At the conclusion of the StAMPS all Assessors attend a debriefing session which includes an opportunity for Assessors to calibrate their marking. 
+
+As a standard part of College assessment processes, assessments may be recorded. Candidates are notified of when this is occurring and continued participation in the assessment is considered consent to the recording. These recordings are used for the purpose of quality assurance and are the property of the College. Footage obtained will not be released to candidates or the public. Recordings will normally be disposed of confidentially in line with College quality review and documentation management policy after three months.
+
+The College formally evaluates the validity and reliability of each assessment modality prior to finalising results. Formal statistical testing is completed after each MCQ and StAMPS assessment to identify any discrepancies that may suggest that the assessment was not fair for all or some candidates. This analysis includes performance breakdown of each StAMPS scenario for each day and each venue as well as assessor grading and candidate cohort analysis. CBD assessment is formally analysed through regular year-round session review and statistical analysis at the end of each year.
+
+The College conducts ongoing evaluation of the assessment process to ensure fairness and equity for all participants.  After assessments, those involved are invited to provide feedback via an anonymous online survey. 
+
+The results of these processes feed directly back to the training and assessment management team, informing policy and procedure and contribute to the ongoing development and refinement of all processes. This process also provides a formal route to inform the training program about the educational impact of the assessment modalities. 
+
+The Assessment Committee provides oversight of all aspects of the assessment process. This duly constituted committee reports to the Education Council.
+
+### Candidate assessment rules
+
+The following rules apply to the Standardised assessments StAMPS and MCQ:
+
+* Candidates must arrive at the venue early; specific times are provided to candidates who have enrolled 
+* Candidates must provide valid photographic identification (e.g. driver’s licence or passport) to the invigilator for verification of identity
+* Candidates are not permitted to bring food or drink into the assessment room other than a clear plastic bottle of water or food required for medical reasons 
+* Candidates can not take any items into the assessment room except those specified by the College, for example rotation plan for StAMPS
+* Mobile phones and all other electronic devices must be turned off and left with the invigilator
+* Candidates are strictly prohibited from accessing any aspect of the computer, email or internet sites, other than the virtual assessment or online assessment platform during the assessment
+* If a toilet break is required, candidates must be accompanied by an invigilator
+* At the end of the exam, candidates must leave all hand-written notes and exam material at the assessment venue
+* Candidates must not share any information related to the content of the exam, this is a serious breach of the College’s [Academic Code of Conduct](https://www.acrrm.org.au/docs/default-source/all-files/academic-code-of-conduct.pdf?sfvrsn=559890eb_14) and will be dealt with accordingly.
