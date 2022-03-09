@@ -29,7 +29,7 @@ Date for review: December 2022
 
 #### The Australian College of Rural and Remote Medicine
 
-## Introduction
+# Introduction
 
 ### Philosophical underpinnings
 
@@ -532,7 +532,7 @@ All candidates should refer to the relevant [Assessment Venue Requirements](http
 
 A candidate is required to undertake their assessments at a venue that has been approved by the Assessment team.
 
-The venues in which a candidate can undertake assessments are outlined in the relevant Assessment Venue Requirements document available on the College website. It is the candidate’s responsibility to ensure that the minimum requirements as indicated in the documents below are met.
+The venues in which a candidate can undertake assessments are outlined in the relevant [Assessment Venue Requirements](https://www.acrrm.org.au/resources/assessment/handbooks-guides) document available on the College website. It is the candidate’s responsibility to ensure that the minimum requirements as indicated in the documents below are met.
 
 Assessments cannot be conducted in a private residence (with the exception of Mock StAMPS) and candidates must ensure that the room being used does not contain any reference material and all computers in the room must be turned off
 
@@ -544,7 +544,7 @@ All invigilators are subject to approval by the Assessment team, who has the dis
 
 ### Incidents or irregularities
 
-A candidate or assessor who has a concern about the management or conduct of the assessment should complete an Incident Report. An Incident Report must be provided to the Assessment team within 48 hours of the conclusion of the assessment.
+A candidate or assessor who has a concern about the management or conduct of the assessment should complete an [Incident Report](https://www.acrrm.org.au/docs/default-source/all-files/examination-incident-report-form.pdf?sfvrsn=8a69d668_2). An Incident Report must be provided to the Assessment team within 48 hours of the conclusion of the assessment.
 
 Examples of incidents or other irregularities include but not limited to:
 
@@ -557,16 +557,116 @@ Examples of incidents or other irregularities include but not limited to:
 
 When all post assessment quality assurance processes are complete, a recommendation is presented to the ACRRM Board of Examiners (BoE).  The BoE meets on a regular basis to ratify results.  Candidates are provided with an outcome letter and feedback report (if applicable) shortly after the ratification of results by the BoE.
 
-Once available, results are uploaded to the “My Documents” section of a candidate’s “My College” portal, accessible via the College website. Candidates will receive an email notification once results are uploaded. The dates for release of results are generally published for each assessment on the Assessment, date and enrolments and fees webpage.
+Once available, results are uploaded to the “My Documents” section of a candidate’s “My College” portal, accessible via the College website. Candidates will receive an email notification once results are uploaded. The dates for release of results are generally published for each assessment on the [Assessment, date and enrolments and fees](https://www.acrrm.org.au/fellowship/discover-fellowship/assessment/assessment-dates-enrolments) webpage.
 
 ### Public assessment reports
 
-A report is published on the College website following each Core Generalist Training (CGT), Advanced Specialty Training (AST) Emergency Medicine (EM) StAMPS and MCQ assessment. CBD public reports are published annually. The public report provides assessment statistics, a description of the scenarios/questions, feedback from the Principal Assessor and a summary of stakeholder feedback and improvements planned. The Assessment Public Reports are published on Assessment resources webpage. 
+A report is published on the College website following each Core Generalist Training (CGT), Advanced Specialty Training (AST) Emergency Medicine (EM) StAMPS and MCQ assessment. CBD public reports are published annually. The public report provides assessment statistics, a description of the scenarios/questions, feedback from the Principal Assessor and a summary of stakeholder feedback and improvements planned. The [Assessment Public Reports](https://www.acrrm.org.au/resources/assessment/public-assessment-reports) are published on Assessment resources webpage. 
 
 ### Undertaking Assessments Overseas
 
 The College has provisions in place for candidates who wish to undertake their assessment outside of Australia. Candidates who wish to undertake an assessment overseas must contact the Assessment team as soon as practicable for further advice before finalising enrolment.
 
-The MCQ and StAMPS assessments can be completed overseas, subject to appropriate invigilation and technical requirements being met. See Assessment Venue Requirements for further information. 
+The MCQ and StAMPS assessments can be completed overseas, subject to appropriate invigilation and technical requirements being met. See [Assessment Venue Requirements](https://www.acrrm.org.au/docs/default-source/all-files/examination-venue-requirements.pdf?sfvrsn=12530098_2) for further information. 
 
-The MSF, CBD and formative miniCEX can only be undertaken overseas if in an approved overseas training placement. Refer to the Overseas Training Placements policy.
+The MSF, CBD and formative miniCEX can only be undertaken overseas if in an approved overseas training placement. Refer to the [Overseas Training Placements policy](https://www.acrrm.org.au/docs/default-source/all-files/overseas-training-placements-policy.pdf?sfvrsn=26500726_6).
+
+# Assessment policies
+
+A range of policies relate to assessments, these policies are available on the College [Assessment Policies](https://www.acrrm.org.au/resources/assessment/policies) webpage.
+
+### Assessment eligibility policy
+
+The assessment eligibility policy defines: 
+
+* eligibility requirements to enrol in and undertake assessments 
+* rules relevant to reattempting assessments 
+* undertaking assessments while on leave from training
+
+### Academic code of conduct
+
+The Academic Code of Conduct provides the College’s expectations of doctors and others participating in education or training programs in respect to personal and professional conduct and a duty to disclose a review of, or changes to medical registration. 
+
+### Academic misconduct policy
+
+The Academic Misconduct Policy defines how alleged breaches of the Academic Code of Conduct  are investigated and the penalties that may be applied for proven misconduct. 
+
+### Refund policy
+
+The refund policy details information relating to assessment and the circumstances under which refunds are paid.
+
+### Reconsideration, review and appeals policy
+
+The Reconsideration, Review and Appeals policy provides information for candidates who wish to dispute result or outcome an assessment undertaken.
+
+### Special consideration policy
+
+The Special Consideration policy describes the criteria to apply for special consideration for an assessment, to request reasonable adjustments to accommodate for a disability, long term medical condition, or other circumstances in accordance with the policy. All applications must be made using the online special considerations form and within the stipulated timeframes.
+
+# Assessment Modalities
+
+The assessment program requirements are documented in the [Training Program Requirements policy](https://www.acrrm.org.au/docs/default-source/all-files/training-program-requirements-policy.pdf?sfvrsn=ae2186e7_8) and the [Fellowship Training Program Handbook](https://www.acrrm.org.au/docs/default-source/all-files/handbook-fellowship-training.pdf?sfvrsn=bdb27590_26). The specific requirements and information for each of the training program assessment modalities are detailed in this handbook. 
+
+The assessment modalities are:
+
+* Mini-Clinical Evaluation Exercise (miniCEX)
+* Multi-Source Feedback (MSF)
+* Multiple-Choice Question assessment (MCQ)
+* Case Based Discussion (CBD)
+* Structured Assessment using Multiple Patient Scenarios (StAMPS)
+* Logbooks
+* Projects
+
+## Mini Clinical Evaluation Exercise
+
+### Introduction
+
+The Mini-Clinical Evaluation Exercise (miniCEX) is a workplace based assessment used to evaluate a candidate’s clinical performance in real life clinical settings.
+
+All candidates training on an ACRRM training program must complete formative MiniCEX assessments for CGT and when undertaking AST in a clinical discipline. Candidates must be in posts accredited by ACRRM for the corresponding stage of training or specific AST discipline. Formative miniCEXs are conducted progressively throughout training. 
+
+In exceptional circumstances a candidate working towards Fellowship may be required to complete a summative miniCEX. This is determined by the College Censor-in-Chief (CIC).
+
+The miniCEX training course for Clinicians - online course is designed for clinicians who are asked to conduct formative miniCEX assessments with ACRRM registrars.
+
+### Requirements
+
+***Core Generalist Training (CGT)***
+
+Nine (9) miniCEX reviews must be submitted to obtain ‘satisfactory completion’ for formative assessment.
+
+MiniCEX reviews are completed progressively during CGT. MiniCEX may include a combination of face-to-face and telehealth consults but requirements cannot be met through telehealth consults only.  
+
+Consults must include a:
+
+* reasonable range of types of consults, age groups and both genders. 
+* minimum of five physical examinations, each from a different body system:
+** cardiovascular
+o	respiratory
+o	abdominal
+o	neurological
+o	endocrine
+o	musculoskeletal region
+o	mini-mental state assessment
+o	neonatal/paediatric
+o	antenatal (first visit)
+
+•	detailed history taking of at least one (1) new patient or detailed updating patient database information on a returning patient (of at least medium complexity).
+
+The physical examinations are required to be undertaken in the context of a face-to-face patient consultation. Where possible the reviewer should be viewing the consults face-to-face. A ‘Physical Exam Reference’ document is provided for guidance on undertaking a systematic physical assessment. 
+
+A formative miniCEX can be conducted within the context of the candidate’s medical educator visit or at any time at the instigation of the candidate or supervisor. The miniCEX reviews are to be conducted by a doctor, meeting one of the following criteria: 
+
+•	an ACRRM accredited supervisor or 
+•	holding a Fellowship of ACRRM or
+•	a Medical Educator from an ACRRM accredited training organisation.
+
+The assessor may be onsite viewing the consults face-to-face or offsite viewing the consults virtually. 
+
+At a minimum three (3) different assessors are required to complete the nine (9) miniCEX assessments. Three (3) of the miniCEX assessments must be conducted by a Medical Educator from an ACRRM accredited training organisation (who does not work in the same workplace as the candidate).
+Advanced Specialised Training (AST)
+Candidates undertaking AST in Aboriginal and Torres Strait Islander Health, Adult Internal Medicine, Emergency Medicine, Mental Health, Paediatrics, Palliative Care, Remote Medicine and Surgery are required to have a formative miniCEX conducted on a minimum of five (5) patient interactions (consults) during AST. 
+
+The miniCEX consults should be undertaken progressively during training and include a reasonable range of types of consults, age groups and both genders. The same principles apply around face-to-face and telehealth consults as described for CGT above.
+
+A formative miniCEX can be conducted at any time at the instigation of the candidate or supervisor. The miniCEX assessments must be conducted by a doctor who is an ACRRM accredited supervisor or mentor for the post or holds a Fellowship of the Specialist discipline relevant to the AST.
