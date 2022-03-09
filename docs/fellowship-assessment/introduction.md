@@ -523,3 +523,50 @@ The following rules apply to the Standardised assessments StAMPS and MCQ:
 * If a toilet break is required, candidates must be accompanied by an invigilator
 * At the end of the exam, candidates must leave all hand-written notes and exam material at the assessment venue
 * Candidates must not share any information related to the content of the exam, this is a serious breach of the College’s [Academic Code of Conduct](https://www.acrrm.org.au/docs/default-source/all-files/academic-code-of-conduct.pdf?sfvrsn=559890eb_14) and will be dealt with accordingly.
+
+### Venues and Invigilators
+
+All candidates should refer to the relevant [Assessment Venue Requirements](https://www.acrrm.org.au/resources/assessment/handbooks-guides) when choosing an assessment and invigilator.
+
+##### *Venue*
+
+A candidate is required to undertake their assessments at a venue that has been approved by the Assessment team.
+
+The venues in which a candidate can undertake assessments are outlined in the relevant Assessment Venue Requirements document available on the College website. It is the candidate’s responsibility to ensure that the minimum requirements as indicated in the documents below are met.
+
+Assessments cannot be conducted in a private residence (with the exception of Mock StAMPS) and candidates must ensure that the room being used does not contain any reference material and all computers in the room must be turned off
+
+##### *Invigilators*
+
+Invigilators play a central role in ensuring the security of this examination is maintained at all times. Candidates are responsible for finding a suitable invigilator and will be unable to undertake the assessment without an appropriate invigilator. 
+
+All invigilators are subject to approval by the Assessment team, who has the discretionary authority to approve or decline each nominated invigilator. If a nominated invigilator is deemed unsuitable for any reason, the candidate will be notified and required to nominate another invigilator. Invigilators are paid by the College. 
+
+### Incidents or irregularities
+
+A candidate or assessor who has a concern about the management or conduct of the assessment should complete an Incident Report. An Incident Report must be provided to the Assessment team within 48 hours of the conclusion of the assessment.
+
+Examples of incidents or other irregularities include but not limited to:
+
+* An uncooperative candidate or assessor
+* Not following the assessment procedure 
+* Disturbances (e.g. unexpected noisy consulting room)
+* Disruptions (e.g. loss of power or telephone malfunction)
+
+### Results
+
+When all post assessment quality assurance processes are complete, a recommendation is presented to the ACRRM Board of Examiners (BoE).  The BoE meets on a regular basis to ratify results.  Candidates are provided with an outcome letter and feedback report (if applicable) shortly after the ratification of results by the BoE.
+
+Once available, results are uploaded to the “My Documents” section of a candidate’s “My College” portal, accessible via the College website. Candidates will receive an email notification once results are uploaded. The dates for release of results are generally published for each assessment on the Assessment, date and enrolments and fees webpage.
+
+### Public assessment reports
+
+A report is published on the College website following each Core Generalist Training (CGT), Advanced Specialty Training (AST) Emergency Medicine (EM) StAMPS and MCQ assessment. CBD public reports are published annually. The public report provides assessment statistics, a description of the scenarios/questions, feedback from the Principal Assessor and a summary of stakeholder feedback and improvements planned. The Assessment Public Reports are published on Assessment resources webpage. 
+
+### Undertaking Assessments Overseas
+
+The College has provisions in place for candidates who wish to undertake their assessment outside of Australia. Candidates who wish to undertake an assessment overseas must contact the Assessment team as soon as practicable for further advice before finalising enrolment.
+
+The MCQ and StAMPS assessments can be completed overseas, subject to appropriate invigilation and technical requirements being met. See Assessment Venue Requirements for further information. 
+
+The MSF, CBD and formative miniCEX can only be undertaken overseas if in an approved overseas training placement. Refer to the Overseas Training Placements policy.
