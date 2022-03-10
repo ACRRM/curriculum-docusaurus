@@ -972,4 +972,375 @@ Research and Surgery **(1-4%)**
 
 Surgery **(4-8%)**
 
-*`*The total of percentages is greater than 100% due to multiple domains being assessed multiple times within one assessment.`*
+\**The total of percentages is greater than 100% due to multiple domains being assessed multiple times within one assessment.*
+
+### Preparation tools
+
+**Introduction to MCQ Assessment**
+
+The Introduction to MCQ Assessment [online course](https://mycollege.acrrm.org.au/search/find-online-learning/details?id=17222&title=Introduction+to+MCQ+Assessment) is available to candidates who enrol in the MCQ assessment to give insight into the MCQ assessment. It includes information relevant to the MCQ assessment such as what a MCQ assessment is, how questions are developed and provides an opportunity for candidates to develop MCQs.
+
+**MCQ familiarisation activity (MCQFA)**
+
+The MCQFA is available for candidates enrolled in a MCQ assessment. Candidates are advised by the Assessment team once the MCQFA is ready to be accessed. 
+
+The MCQFA provides candidates the opportunity to become familiar with the format of questions used in an actual MCQ assessment.
+
+Candidates can complete the activity over a number of hours; however, it is suggested that candidates try and complete the MCQFA under ‘summative assessment conditions’ i.e. over 144 minutes (1.44 minutes per question) and without accessing additional resources.
+
+As with the actual MCQ assessment, MCQFA candidates are required to choose the single best answer for each question. One mark is awarded for each correct answer and there are no marks deducted for an incorrect answer. After candidates have completed all the questions and pressed the submit button, they immediately receive their overall score with the opportunity to review each question individually to see if answered correctly. Answer rationale and references are included for MCQFA review purposes.
+
+The MCQFA can be attempted from any computer that meets the minimum technical specifications. There is no requirement for invigilation or supervision while candidates are online undertaking the MCQFA.
+
+### Summary of MCQ process
+
+* Candidates enrol in the MCQ during the advertised enrolment period 
+* The College sends a confirmation of enrolment and eligibility, Examination Requirements and Assessment Venue Form
+* Candidates return the Assessment Venue Form
+* Candidates are advised of dates when the MCQFA can be accessed 
+* The College provides a confirmation of assessment arrangements to invigilators and candidates
+
+## Case Based Discussion
+
+### Introduction
+
+Case Based Discussion (CBD) is an assessment of clinical reasoning and application of knowledge in a clinical context. The candidate is required to demonstrate evidence of their clinical knowledge and how they apply that knowledge by appropriately assessing patients, formulating differential diagnoses, ordering relevant investigations and applying appropriate management plans.
+
+CBD is one of the summative assessment requirements for CGT (Core Generalist Training) and for AST in Palliative Care.
+
+CBD is designed to be undertaken in a health care facility providing continued care. The case notes must contain evidence that the candidate is the doctor primarily responsible for patient care.
+
+Candidates may also complete CBD as a formative assessment. The format of this assessment remains consistent for both formative and summative assessment.
+
+### Requirements
+
+CBD assesses a total of six (6) cases. To pass the CBD assessment overall, candidates will need to achieve ‘at expected standard’ in five (5) of the six (6) cases. 
+
+All three (3) sessions are conducted irrespective of the outcome of each individual session. Results of individual session are not advised.  The overall results are ratified by the Board of Examiners once all three CBD sessions are completed. Candidates who do not obtain a ‘pass’ grade will be required to enrol and complete the assessment process again.
+
+***Core Generalist Training***
+
+Candidates must submit twelve (12) cases at CBD enrolment covering a minimum of **six** (6) of the areas listed below. No more than three (3) cases can be from a single area. Two (2) **mental health** cases must be included in the submission to ensure that at least one (1) case is suitable for the assessment. 
+
+* Aboriginal and Torres Strait Islander Health 
+* Addictive Behaviours
+* Adult Internal Medicine
+* Aged Care   
+* Dermatology 
+* Emergency
+* Mental Health* (Mandatory)
+* Musculoskeletal 
+* Obstetrics and Gynaecology
+* Occupational Health
+* Ophthalmology
+* Oral Health  
+* Palliative Care 
+* Paediatrics 
+* Rehabilitation 
+* Sexual Health
+* Surgery
+
+All sessions must be completed within a six-month period from the date of the first session. 
+
+**CBD setting**
+
+This assessment is ideally suited to candidates who are working in a primary care context, however candidates working in an emergency or RFDS setting may still complete this assessment. 
+
+Case notes may all be submitted from one post or submitted from a combination of different posts and/or settings. All case notes must meet the eligibility criteria for the setting of the patient encounters (see below). The case notes may be from consults conducted face to face or by teleconsultation providing the case requirements are met.
+
+In all settings the case notes must contain evidence that the candidate is the doctor primarily responsible for the patients care.
+
+***Primary care setting***
+
+Cases should:
+
+* Include clinical notes with a minimum of 2-3 consultations for each case.
+* Be at least medium level of complexity - not URTIs or medical certificates.
+* Demonstrate continuity of care.
+* Include investigations.
+
+Candidates should be able to explain clinical reasoning on all aspects.
+
+Examples of relevant investigations include but are not limited to: 
+
+* results for review
+* referral to specialists or other health care providers  
+* preventative health care plans. 
+
+***Emergency or RFDS Setting***
+
+Cases should be described as high risk and be from one of the following areas: 
+
+* One or more chronic illness, with severe exacerbation or progression 
+* Acute or chronic illness or injury which poses a threat to life or bodily function e.g. multiple trauma, acute MI, pulmonary embolism, severe respiratory distress, progressive severe rheumatoid arthritis, psychiatric illness, with potential threat to self or others, peritonitis, ARF
+* An abrupt change in neurological status, e.g., seizure, TIA, weakness, sensory loss
+  For example:
+  ‘A 68-year-old male presents with chest pain with a good story for unstable angina. The patient has a history of hypertension (which is not well controlled on presentation) as well as stable diabetes. You personally review the EKG and CXR, order troponins and start the patient on a heparin drip.  You also order an echocardiogram.’
+
+***AST - Palliative care***
+
+Candidates must submit a total of 12 cases within 12 months from date of first submission. A minimum of four cases must be submitted at CBD enrolment, then a minimum of four cases at a time. 
+
+Candidates are required to submit cases where they have played a central role in at least four of the following areas:
+
+1. Malignancy
+2. Neurodegenerative disease
+3. Organ failure
+4. Frailty
+5. Dementia
+6. HIV/AIDs 
+
+One case may cover more than one of the areas listed above. 
+
+Candidates should expect assessors to explore any area of management including how they have developed / changed their understanding of dying through the course of the term, and how they plan to manage elements of self-care and personal well-being in their future practice. 
+
+Candidates will be assessed on their management of physical, psychological, intellectual and spiritual distress across all cases. To achieve competency candidates must demonstrate evidence of caring and empathy for a patient with a terminal illness and their family. This could also include staff who are caring for the dying. They must demonstrate an evidence-based approach to palliative care, pain management and treatment of associated behavioural problems.
+
+Refer to the Palliative Care Learning Area in the [Rural Generalist Curriculum](https://www.acrrm.org.au/resources/training/curriculum) for further information on required competencies, knowledge and skills. 
+
+### CBD format
+
+Six (6) cases are chosen for assessment from the twelve (12) cases submitted. The assessment takes place over three (3) one-hour sessions.  A different assessor conducts each session and two (2) cases are discussed in each one-hour session. Candidates are notified of the cases to be discussed at the beginning of each session.
+
+The cases submitted for assessment are those of actual patients that presented to and were managed by the candidate. The candidate is to provide evidence in the form of de-identified patient records for this assessment. Case notes should be print outs from the patient electronic clinical records, however copies of handwritten clinical notes written on health service letterhead are permissible. Candidate generated case summaries without supporting documentation are not permissible.
+
+Candidates must be the attending doctor in the cases for discussion. It is possible that additional consultations conducted by other doctors may be included where these contribute to the overall approach / case discussion.
+
+Submissions should contain enough clinical information for assessors to be able to undertake a comprehensive evaluation of the candidate's clinical knowledge and clinical reasoning skills. The last consultation listed in the case notes should be no older than three months at the time of submission. 
+
+The cases submitted are reviewed by an assessor. If the assessor is not satisfied that all cases are of suitable complexity, cover a satisfactory range of curriculum areas and have relevant supporting documents attached, all cases will be returned with ineligible cases flagged. The candidate will be required to resubmit 12 cases meeting all requirements and may include cases already submitted and not flagged as ineligible.
+
+There are five categories scored by the assessor for each case that determines the global rating for that case:
+
+* communication skills 
+* history taking 
+* physical assessment 
+* clinical management, and 
+* professionalism.
+
+Each case will be given a global CBD rating of either:
+
+* ‘At expected standard for FACRRM’ or
+* ‘Below expected standard for FACRRM’.
+
+A candidate practising ‘at the expected standard’ would be expected to:
+
+* demonstrate an overall systematic approach and be consistently competent across grading categories 
+* make clear efforts to ensure patient comfort and safety and to reduce risks where appropriate  
+* have effective communication skills 
+* take an appropriate history and assessment 
+* consider appropriate diagnoses based on information gathered  
+* arrange for relevant further tests to clarify the diagnosis  
+* provide appropriate management and include short and some long-term recommendations based on information gathered, and
+* involve the patient in decision making.
+
+Candidates are encouraged to undertake formative CBD. Candidates may initiate this with their supervisor or medical educator at any time.  Formative CBD forms are [available](https://www.acrrm.org.au/resources/assessment/forms).
+
+### CBD delivery
+
+The CBD assessment is conducted using a virtual (Zoom) room. It is the candidate’s responsibility to ensure that they can access a venue and computer that meets the requirements as detailed in the [Assessment Venue Requirements](https://www.acrrm.org.au/docs/default-source/all-files/assessment-venue-requirements---cbd.pdf?sfvrsn=c9b19370_2) on the day of the assessment.  A phone is also required should either the candidate or assessor lose internet connection, the session can be continued by dialling into Zoom with details provided.
+
+Candidates may take their own personal laptop or computer to the venue. The College will not be liable for any difficulties caused by using alternative configurations. 
+
+### Quality assurance
+
+CBD is a complex assessment requiring significant behind the scenes quality assurance work prior to scheduling of the assessment sessions. This quality assurance process ensures that candidates have the highest chance of success in this assessment. 
+
+The following quality assurance processes occur:
+
+* administrative review of all case notes and attachments for compliance and privacy
+* clinical review of case notes to ensure complexity and domain coverage
+* assessors are experienced Fellows and trained to assess CBD 
+* all assessment sessions recorded and randomly moderated / reviewed
+* review of recording where a candidate fails two (2) cases whether by the same assessor or not 
+* review and endorsement of all session outcomes by the Principal Assessor prior to presentation to Board of Examiners
+* ratification of results by Board of Examiners
+
+### Roles and responsibilities
+
+***Candidates***
+
+Gain permission to use patient records sought from the employer. 
+
+Enrol online and submit the following at the time of enrolment.
+
+* Twelve (or four for AST Palliative Care) compliant cases, including a cover page
+* Community Profile form 
+* CBD Case Notes Summary
+
+**Case note de-identification and uploading**
+
+Case notes must be completely de-identified to ensure the confidentiality and privacy of patient clinical details.  Patient date of birth and gender details must be retained in the notes for assessment. Notes that contain identifying information will not be assessed and the submission of these may result in a “fail’ grade.
+
+It is the candidate’s responsibility to:
+
+* Print off the relevant clinical data for the cases from the computerised medical record system.  
+* Redact / delete patient names, phone numbers and address. **Note: Use whiteout, black felt pen does not sufficiently cover details.**
+* Do not redact/delete gender, DOB, date of the consultation or evidence of the attending doctor. 
+* Scan the de-identified notes and save them as a PDF file of less than 5mb.
+* Upload into the ‘My Documents’ portal on the ‘My College’ dashboard, accessible from the College website.  Please select the document type ‘CBD Case’. **Do not email, post or fax case notes.**
+* Contact the Assessment team immediately to discuss alternative submission if not able to scan and upload cases.
+
+***Venue and IT Requirements***
+
+For information relevant to venue and IT requirements refer to the [Assessment Venue Requirements - CBD](https://www.acrrm.org.au/docs/default-source/all-files/assessment-venue-requirements---cbd.pdf?sfvrsn=c9b19370_2).
+
+**Cancellation**
+
+Candidates and assessors are to advise the College as soon as possible if they are unable to attend a scheduled session. Failure to attend a session without provision of a minimum of one week’s notice will result in an additional administration charge of $395. 
+
+Where a candidate or assessor is more than 10 minutes late, the session will be cancelled.
+
+**During the assessment**
+
+A candidate is required to:
+
+* Be present in the room at least five minutes prior to scheduled session start time. 
+* Check the room that will be used for the discussion has access to a computer and ensure that it is in working order and able to access Zoom. 
+* A phone is also required should either the candidate or assessor lose internet connection, the session can be continued by dialling into Zoom with details provided.
+* Login into the virtual assessment room at least five minutes to the start of the session.
+* Have a printed copy of all clinical notes submitted. 
+* Be alone in the room with access to the submitted printed clinical case notes only and no other clinical material, either printed or electronic.
+* Listen to the pre-assessment briefing and respond to assessor questions.
+* Advise the assessor if unable to hear or understand the questions.
+* Advise the College of any incident through submission of an [incident report](https://www.acrrm.org.au/docs/default-source/all-files/examination-incident-report-form.pdf?sfvrsn=8a69d668_2) to [assessment@acrrm.org.au](mailto:assessment@acrrm.org.au) within 48 hours of session.
+
+**Assessors**
+
+The primary responsibility of the Assessor is to ensure that the candidate is provided with the opportunity to demonstrate their clinical abilities under fair and uniform testing conditions, and to ensure the integrity, consistency and fairness of the assessment process.  
+
+An Assessors’ responsibilities include:
+
+* advise the College of a conflict of interest with the candidate to be assessed.
+* advise as early as possible if the session needs to be rescheduled.
+* login into the virtual assessment room at least five minutes to the start of the session
+* conduct a pre-assessment briefing session (maximum five minutes) before the first case is conducted.  This briefing is to ensure that the:
+
+  * candidate is informed of the assessment process
+  * mandatory requirements and the standard required for a positive outcome are explained and understood
+  * candidate is aware of the criteria they will be assessed against, and
+  * candidate and assessor’s perceptions of the assessment match
+* advise the candidate which two cases have been selected for discussion.
+* allow up to 30 minutes to discuss each case.
+* ask questions relating to the cases selected for discussion.
+* score the candidate according to marking criteria and return completed forms to the College within two working days of the session.
+* inform the College of any incidents relating to the assessment as soon as possible and submit an incident form within two working days.
+* relevant policies and procedures for the conduct of the CBD are adhered to and that the integrity of the assessment session is not compromised.
+
+The Assessor must not be on call during the assessment and will not interrupt the assessment
+ process by responding to any electronic communication device. 
+
+As this is a summative assessment, the assessor is not permitted to provide feedback to the candidate. The assessor must not under any circumstances offer an opinion of performance or whether they consider the candidate has scored a Pass or Fail grade.
+
+***Preparation tools***
+
+An [Introduction to CBD Assessment online course](https://mycollege.acrrm.org.au/search/find-online-learning/details?id=17374&title=Introduction+to+CBD+Assessment) aims to support candidates in preparing for their CBD assessment.
+
+### Summary of CBD process
+
+* Obtain permission from employer to use case notes
+* Complete the Community Profile form
+* Compile 12 case notes, ensuring that they:
+
+  * meet the requirements as stated in this Handbook 
+  * are de-identified 
+  * include a cover page, for each set of case notes including the number awarded to the case notes
+* Complete the CBD case notes summary form with the number awarded to each case and the curriculum statement/s covered 
+* Enrol in the assessment
+* Source a suitable venue room once session date / time is proposed
+
+## Structured Assessment using Multiple Patient Scenarios (StAMPS)
+
+### Introduction
+
+The Structured Assessment using Multiple Patient Scenarios (StAMPS) is a blend of the Objective Structured Clinical Assessment (OSCE) and the traditional viva vocé (Viva) assessment. 
+
+StAMPS aims to assess higher order functions in a highly contextualised framework, where candidates can explain what they do and demonstrate their clinical reasoning, instead of simply providing evidence of knowledge, listing facts or recalling protocols. The assessors also ask the candidates how they would deal with system or patient factors that prevent the ‘standard’ approach being applied.
+
+StAMPS is used as an assessment modality for Core Generalist Training and several Advanced Specialised Training (AST) programs. 
+
+The StAMPS is conducted by videoconference with each candidate in their home region.  The StAMPS is delivered in a series of rotations over one or two days, dependent upon the number of candidates undertaking the StAMPS. 
+
+***Preparation activities*** 
+
+An [Introduction to StAMPS assessment online course](https://mycollege.acrrm.org.au/search/find-online-learning/details?id=17341&title=Introduction+to+StAMPS+Assessment) is available to enhance understanding of the context and structure of this assessment. It includes information regarding what the StAMPS assessment is, how the scenarios are developed and provides the opportunity to practice the process.
+
+A **StAMPS Mock Exam** is offered by the College each semester, dates and enrolments are on the [website](https://www.acrrm.org.au/fellowship/discover-fellowship/assessment/assessment-dates-enrolments). The content is based on the Core Generalist component of the Curriculum, but the process is relevant to both Core Generalist and Advanced Specialised StAMPS. 
+
+**StAMPS Study Groups** are offered by the College leading up to the assessment. Study groups are routinely held each semester for Core Generalist and AST EM StAMPS. Study groups may also be held for other AST StAMPS. Dates and enrolments are on the [website](https://www.acrrm.org.au/fellowship/discover-fellowship/assessment/assessment-dates-enrolments).
+
+**Formal StAMPS preparation activity**
+
+Candidates must provide evidence of completion of at least one formal StAMPS preparation activity with the College, RTO or RVTS to be eligible to enrol in Core Generalist StAMPS.
+
+A formal StAMPS preparation activity must be conducted by a medical educator or supervisor who has knowledge of the StAMPS format. The activity must Include information on the StAMPS format and StAMPS scenario practice and feedback.
+
+The following activities meet these requirements:
+
+* College, RTO or RVTS Mock Exam or Study Groups 
+* College, RTO or RVTS online courses, if supplemented with StAMPS scenarios practice with medical educator or supervisor
+
+Other activities will be considered on a case-by-case basis against these criteria.
+
+### Requirements
+
+Candidates are required to achieve a pass grade in StAMPS.
+
+Grading is based on a numerical score which is the sum of 48 individual scores within the following domains:
+
+* Management in the Rural-Remote context
+* Problem Definition and Structured Approach
+* Communication and Professionalism
+* Flexibility to changing context
+
+Candidates are rated across 8 scenarios which are comprised of 24 individual scenario parts/questions.  
+
+### Scoring Explanation
+
+In 2022, following on from its successful application to the Core Generalist Training (CGT) StAMPS exam, the following revised grading and scoring system (referred to the Behavioural Anchored Rubric System (BARS) will be implemented for all StAMPS modalities.
+
+Each scenario is scored in six areas (three Management scores \[one for each question/part] and one score for each of the remaining three domains). Each question/domain is scored independently on a linear scale where 0 is the lowest possible score and 7 is the highest possible score. Therefore, a maximum score of 336 is possible. The scales are anchored using scenario-specific rubrics which describe candidate behaviours. A score of 4 or greater on a single scale is usually considered to have met the required standard in that question/domain. The scores are summed across all eight scenarios and the total is used to determine the overall Pass or Fail outcome.
+
+StAMPS standard setting is achieved using a Delphi panel during scenario writing, scenario road-testing, moderation/calibration meetings, assessor training, scenario-specific scoring rubrics and post-exam statistical analysis. The difficulty is targeted to achieve a pass cut score in the range of 190-200 marks out of the maximum score of 336. The overall pass mark in any given exam sitting may vary due to relative difficulty and this is statistically verified.
+
+The highest scoring candidates who do not meet the pass mark are subsequently reviewed. Further grading criteria and review of video recordings are used. As a result of this review, a candidate may be awarded to Conceded Pass if possible.
+
+***Scenario description***
+
+The scenarios are in the viva vocé format where the candidate discusses the scenario directly with the assessor. The candidate may be asked to clarify their answers when these are unclear and to expand on answers when there is insufficient detail. 
+
+Each scenario takes the form of introductory case information and then approximately three questions relating to that case, sometimes with additional unfolding information provided.
+
+StAMPS scenarios are written and researched using up-to-date Australian references. Care is taken to ensure that the scenarios reflect realistic patient presentations or issues that a FACRRM might reasonably encounter.
+
+The StAMPS scenarios are designed to measure the candidate’s understanding of core and general principles, rather than only applying them to the specific nominated patient. The scenarios reflect real life where often clinical management is required prior to a definitive diagnosis being known. The scenarios and questions are sometimes unfolding in nature, allowing information to be progressively revealed. 
+
+Candidates are provided with an opportunity to explain the rationale behind their thinking, as well as an opportunity for the assessor to explore issues in greater depth than is possible in a written paper.
+
+StAMPS consists of eight scenarios, each of ten minutes duration.  There is an interval between scenarios for candidates to read the material for the next scenario.  Candidates have a designated video (Zoom) room and assessors rotate between candidates.
+
+Candidates have 10 minutes at the commencement of the assessment to read the assessment material provided. Candidates are permitted to read all the eight scenarios during this assessment reading time. Candidates are expected to have read and be prepared for their first scenario by the start of the assessment (first scenarios).
+
+The assessment is delivered over multiple rotations.  Candidates are not permitted to discuss the assessment with any other candidates undertaking the StAMPS assessment until all scheduled rotations have concluded (this could be over a two-day period).  Any such communications will be considered a breach of the Academic Code of Conduct and the College will action accordingly.
+
+***Context and Content***
+
+The ‘Community Profile’ details key logistical issues about the location where the assessment is set and provides information regarding other relevant community factors. 
+
+The Community Profile and the content differs depending on the component of the curriculum being assessed.
+
+**Core Generalist Training StAMPS**
+
+The context of the assessment is described in the Core Generalist Training [StAMPS Community Profile](https://www.acrrm.org.au/docs/default-source/all-files/community-profile-for-stamps.pdf?sfvrsn=4d6488eb_8).
+
+The setting is a rural town in Australia. The candidate is the most senior doctor in the town and works across the general practice and local hospital. The candidate is on a one in four on call roster and does outreach clinics in Aboriginal communities. Telephone specialist back up is always available including a video telehealth facility at the hospital.
+
+The profiles are published on the College website. Candidates are permitted to retain the ‘Community Profile’ for reference during the reading time and throughout the assessment.
+
+Where information specific information is not mentioned in the community profile, candidates would be expected to be able to discuss this e.g. ‘If o-neg blood is available I would prescribe and deliver this …. If o-neg blood is not available, I would …...
+
+### Content
+
+The content is mapped to the Core Generalist component of the [Rural Generalist Curriculum](https://www.acrrm.org.au/docs/default-source/all-files/rural-generalist-curriculum_final.pdf?sfvrsn=b0fe42c8_4) 5th edition, 2020. The approximate percentage of cover for each domain is outlined below.
+
+The total of this column is greater than 100% due to multiple domains being assessed multiple times within one assessment.
