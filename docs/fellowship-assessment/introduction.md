@@ -1363,66 +1363,296 @@ The total of percentages is greater than 100% due to multiple domains being asse
 
 The assessment aims to sample across the Core Generalist content of the Rural Generalist Curriculum Learning Areas.  The likelihood of a curriculum topic appearing in an assessment is outlined below.
 
-Key: ***** always covered to * occasionally covered
+**Learning Areas & Likelihood of the topic appearing in an assessment**
 
-**Learning Area**: History taking 
-**Learning Area**: Physical examination 
-**Learning Area**: Differential diagnosis 
-**Learning Area**: Investigations 
-**Learning Area**: Procedural skills 
-**Learning Area**: Diagnostic imaging 
-**Learning Area**: Pharmaceuticals 
-**Learning Area**: Digital health 
-**Learning Area**: Aboriginal and Torres Strait Islander Health 
-**Learning Area**: Addictive behaviours 
-**Learning Area**: Adult Internal Medicine 
-**Learning Area**: Aged Care 
-**Learning Area**: Anaesthetics 
-**Learning Area**: Chronic disease 
-**Learning Area**: Dermatology 
-**Learning Area**: Emergency 
-**Learning Area**: Genetics 
-**Learning Area**: Mental Health 
-**Learning Area**: Musculoskeletal 
-**Learning Area**: Obstetrics and Gynaecology 
-**Learning Area**: Occupational health 
-**Learning Area**: Ophthalmology 
-**Learning Area**: Oral Health 
-**Learning Area**: Paediatrics 
-**Learning Area**: Palliative Care 
-**Learning Area**: Rehabilitation 
-**Learning Area**: Sexual Health 
-**Learning Area**: Surgery 
-**Learning Area**: Communicator 
-**Learning Area**: Collaborator 
-**Learning Area**: Leader 
-**Learning Area**: Health Advocate 
-**Learning Area**: Scholar 
-**Learning Area**: Professional 
+Key: always covered **\*\*\*\**** / occasionally covered **\***
+
+History taking: **\*\*\*\****
+Physical examination: **\*\*\*\****
+Differential diagnosis: **\*\*\*\****
+Investigations: **\*\*\*\***
+Procedural skills: **\*\*\*\***
+Diagnostic imaging: **\*\***
+Pharmaceuticals: **\*\****
+Digital health: **\***
+Aboriginal and Torres Strait Islander Health: **\*\*\*\****
+Addictive behaviours: **\***
+Adult Internal Medicine: **\*\*\*\****
+Aged Care: **\*\*\*\***
+Anaesthetics: **\*\***
+Chronic disease: **\*\*\*\**** 
+Dermatology: **\*\***
+Emergency: **\*\*\*\****
+Genetics: **\***
+Mental Health: **\*\*\*\****
+Musculoskeletal: **\*\****
+Obstetrics and Gynaecology: **\*\*\*\****
+Occupational health: **\*\***
+Ophthalmology: **\*\***
+Oral Health: **\***
+Paediatrics: **\*\*\*\****
+Palliative Care: **\*\****
+Rehabilitation: **\***
+Sexual Health: **\*\****
+Surgery: **\*\***
+Communicator: **\*\*\*\****
+Collaborator: **\*\*\*\***
+Leader: **\***
+Health Advocate: **\*\****
+Scholar: **\***
+Professional: **\*\*\*\****
 
 **Advanced Specialised Training**
 
 Emergency Medicine, Paediatrics, Mental Health, Adult Internal Medicine and Surgery
 are assessed by StAMPS using content mapped to the specific component of the curriculum. 
 
+Paediatrics, Mental Health, Adult Internal Medicine and Surgery share a common [Community Profile](https://www.acrrm.org.au/docs/default-source/all-files/ast-stamps-community-profile-paeds-mentalhealth-adultinternalmedicine-surgery.pdf?sfvrsn=1fc59deb_6), the setting is a rural hospital that services a vast district.
 
-Paediatrics, Mental Health, Adult Internal Medicine and Surgery share a common Community Profile, the setting is a rural hospital that services a vast district.
-
-
-Emergency Medicine has a specific StAMPS Community Profile, the setting is a regional hospital that services a vast district.
-
+[Emergency Medicine](https://www.acrrm.org.au/docs/default-source/all-files/stamps-community-profile-for-ast-and-gem-examination.pdf?sfvrsn=98b790eb_6) has a specific StAMPS Community Profile, the setting is a regional hospital that services a vast district.
 
 ### StAMPS delivery
-The StAMPS assessment is conducted using a virtual assessment room. is the candidate’s responsibility to ensure that they can access a computer that meets the IT minimum requirements (detailed in page 3 of the Assessment Venue Requirements) on the day of the assessment. 
 
+The StAMPS assessment is conducted using a virtual assessment room. is the candidate’s responsibility to ensure that they can access a computer that meets the IT minimum requirements (detailed in page 3 of the [Assessment Venue Requirements](https://www.acrrm.org.au/docs/default-source/all-files/assessment-venue-requirements.pdf?sfvrsn=12530098_6)) on the day of the assessment. 
 
 Candidates may take their own personal laptop or computer to the venue. The College will not be liable for any difficulties caused by using alternative configurations. 
 
+### Summary of the StAMPS process
 
-### Summary of the StAMPS process 
 * Candidate enrols in the StAMPS
 * College sends a confirmation of enrolment 
 * Candidate returns the Examination Venue Requirements form, including invigilator details, by the dates specified
 * College provides information to invigilators 
-* College provides a confirmation of arrangements email to candidates 
- 
+* College provides a confirmation of arrangements email to candidates
+
+## Logbooks
+
+### Introduction
+
+Logbooks are used as an assessment modality for Core Generalist Training, and for Advanced Specialised Training in Emergency Medicine.  
+
+Logbooks are also used during training to demonstrate experience; in this situation the logbook provides a record of procedures or cases. A [Case Log proforma](https://www.acrrm.org.au/docs/default-source/all-files/case-log-proforma.docx?sfvrsn=c8109feb_12) is available.
+
+### Requirements
+
+Procedures in the Core Generalist Training and AST EM logbooks require certification. The ‘certifier’ refers to the person immediately responsible for the actions of the candidate to ensure patient safety. The minimum qualification for performing the role of a certifier in the logbook is a registered medical practitioner at the rank of senior registrar or equivalent. Where possible, the certifier should hold a Fellowship or other appropriate postgraduate qualification in the relevant discipline. The certifier of a procedure is not necessarily the candidate’s day to day supervisor or principal supervisor. 
+
+The certifier must have personally observed the candidate perform the procedure or personally observed the outcome of the procedure performed. An example of the latter would include the receiving Emergency Department consultant examining a patient who has undergone an emergency retrieval and who has had a chest tube inserted by the candidate at another location. Even though the consultant was not present when the tube was inserted, he/she would be able to ascertain whether the procedure had been correctly performed.
+
+A procedure will be accepted as certified if either:
+
+* enough information is recorded about the location and the certifier to allow the College to verify that the procedure was certified; or
+* the procedure is signed off by a certifier
+
+Procedural Skills logbooks submitted for completion of training will be audited if there are concerns about the accuracy of the logbook. 
+
+### Core Generalist Training
+
+The Core Generalist Training (CGT) Procedural Skills Logbook (Logbook) contains those procedural items from the Core Generalist component of the [Rural Generalist Curriculum](https://www.acrrm.org.au/docs/default-source/all-files/rural-generalist-curriculum_final.pdf?sfvrsn=b0fe42c8_4). Procedures are classified as essential or important.
+
+Satisfactory completion of the CGT logbook is a mandatory requirement for award of FACRRM for all candidates, unless exempted through Recognition of Prior Learning.
+
+Logbook entries may begin at any point in the candidate’s training cycle or during the two years prior to commencing training. 
+
+Medical students in their final two years can commence having basic procedures in the CGT logbook certified during a rural clinical school placement, for example :
+
+* oropharyngeal airway
+* intravenous access
+* spirometry and peak flow measurement
+* nasogastric tube insertion
+* perform Glasgow coma scale
+* local anaesthesia
+* application cast/back slab
+* use ophthalmoscope
+* urethral catheterisation 
+* foetal heart sound detection.
+
+The CGT Procedural Skills logbook is available through the “My Training Portfolio” section on a candidate’s “My College” dashboard, accessible from the College website.  The logbook must be submitted online.  
+
+Candidates are required to present their logbook to either their principal supervisor or medical educator for inspection and discussion at least every six months. The candidate is wholly responsible for maintaining their logbook including ensuring each entry is accurate. 
+
+If procedures cannot be certified at the specified level but can be certified at a lower level, this should still be recorded. If all logbook requirements cannot be met, a letter of explanation must be emailed to [training@acrrm.org.au](mailto:training@acrrm.org.au) following submission of the logbook. 
+
+There are two versions of the logbook:
+
+* 2019 Logbook applies to registrars who commenced training in 2021 or earlier 
+* 2022 Logbook applies to registrars commencing training in 2022 or later.
+
+The requirements for each version of the logbook is described below.
+
+**2019 Logbook**
+
+There are four levels of minimum competency, candidate performed the procedure to the standard of a:
+
+**A**. Practitioner operating independently – demonstrated on a real patient
+**B**. Pass in an accredited course or certified satisfactory by a supervisor – demonstrated on a simulated patient
+**C**. Practitioner under supervision – demonstrated on a real patient
+**D**. Practitioner assisting an independent practitioner – demonstrated on a real patient
+
+Each procedure has a defined minimum level of competency that must be met before the certifier can assign competency. A higher level of competency is also acceptable e.g. a candidate appropriately performs a specified task to the standard of an independent practitioner on a real patient when only simulation is required, is eligible for the certifier to sign that competency has been achieved.
+
+Candidates are required to achieve certification at specified competency levels or higher for:
+
+* 100% of the **essential** procedures and
+* 75% of the **important** procedures.
+
+**2022 Logbook** 
+
+There are four logbook levels:
+
+**A**. Performed on a patient under observation.
+**B**. Demonstrated in a simulated setting under observation. 
+**C**. Performed on a patient without observation.
+**D**. Observed or assisted someone else doing the procedure on a patient or observed the procedure on video (e.g. YouTube). 
+
+Candidates are required to complete:   
+
+* 100% of the **essential** procedures must be completed at level A or B and
+* 100% of the **important** procedures may be completed at any level A, B, C or D.  
+
+### Advanced Specialised Training
+
+***Emergency Medicine***
+
+Completion of the AST EM procedural skills logbook is required for the candidate to pass their AST in Emergency Medicine. 
+
+The AST EM procedural logbook requires certification of the candidate reaching the required competency level (A-D) and performing the procedure a specified number of times.
+
+Competency levels:
+
+**A**. Performed to the standard of an independent practitioner on a real patient and not just a simulated environment
+**B**. Performed to a pass standard in a certified course in a simulated environment
+**C**. Performed under supervision to the standard of a practitioner working under supervision
+**D**. Assisted with the supervisor performing the task
+
+The [AST Emergency Medicine Logbook](https://www.acrrm.org.au/docs/default-source/all-files/acrrm-emergency-medicine-logbook.pdf?sfvrsn=be4990eb_6) may be downloaded or a hardcopy obtained by emailing the training@acrrm.org.au    
+
+***Surgery***
+
+Candidates undertaking AST in Surgery are required to maintain a log of all surgical procedures undertaken during training. 
+
+This is a practice that needs to be continued throughout a surgical career. 
+
+The candidate may use any appropriate surgical logbook, for example the RACS Morbidity Audit and Logbook.
+
+An appropriate logbook would: 
+
+* use standardised terminology, for example SNOMED clinical descriptors
+* be easily sorted by procedure, to enable a supervisor to see how often a procedure has been performed 
+* be able to be shared electronically and in printed form
+* contain the following data set for each entry:
+
+  * date of procedure 
+  * name of hospital where procedure performed
+  * patient name, age, gender, and hospital ID
+  * name of primary surgeon
+  * level procedure performed: 1st assistant, 2nd assistant, observed 
+  * level of supervision: independent, supervised
+  * complications
+
+## Projects
+
+### Introduction
+
+Projects are a substantial piece of original work done by the candidate. Options for projects depend on the discipline but may include: 
+
+* research and development of a practical resource 
+* research and development of a local disease prevention or health promotion project 
+* a research project that contributes to current knowledge in a particular discipline and relating to key learning objectives in the specific curriculum. 
+
+Projects are the main summative assessment for the following ASTs:
+
+* Academic Practice 
+* Aboriginal and Torres Strait Islander Health
+* Population Health 
+* Remote Medicine 
+
+Candidates are strongly encouraged to share their project through:
+
+* publication in a peer-reviewed journal 
+* presentation in the workplace or training organisation as appropriate or 
+* oral presentation or poster at a conference 
+
+### Requirements
+
+Candidates should aim to complete the project during the 12 months AST training time.
+
+Candidates are required to achieve a pass grade in their project. 
+
+The project is expected to be presented at a level comparable to a project completed for Master’s Degree.
+
+The project is expected to be undertaken independently by the candidate. Candidates seeking to submit a group project for their AST must have this approved prospectively. The candidate will need to demonstrate a lead role in the project  and detail their responsibilities in the project proposal.
+
+All projects will require ethics approval. A candidate’s [project proposal](https://www.acrrm.org.au/resources/assessment/forms), including details of ethics approval must be submitted to the College for review and approval by the Censor in Chief **before commencement** of the actual project.
+
+Completed projects must include submission of a piece of assessable written work of approximately 4000–5000 words in length. 
+
+The written report is assessed against the project criteria. Projects that meet the standard are awarded a pass grade.
+
+Projects that do not meet the standard are awarded a fail grade and information provided on what aspects require improvement to meet the standard. Candidates can revise and resubmit the project for regrading. This is recorded as a second attempt. An additional fee may be charged for regrading. Grades are ratified at the next meeting of the Board of Assessors and candidates notified of the outcome.
+
+***Content***
+
+The project must relate to the knowledge, skills and attributes in the relevant Learning Area of the [Rural Generalist Curriculum](https://www.acrrm.org.au/resources/training/curriculum). 
+
+The completed project proposal must include:
+
+* Academic supervisor name and qualifications
+* Type of project 
+* Background to the project including how the project will benefit the community
+* Project aims and benefits 
+* Project value or importance to rural medicine
+* Relevance to the chosen AST curriculum
+* Methodology that will be used to collect and evaluate information/ data
+* Ethical considerations and progress with the ethics approval process
+* Engagement with the community especially if the project relates to Aboriginal and Torres Strait Islander health
+* Project timeline
+
+The completed written submission must include: 
+
+* projects’ aim/question 
+* projects’ value or importance to rural medicine
+* that appropriate permissions were gained including ethics approval
+* a critique of the relevant literature (literature review)
+* methodology used to collect and evaluate information/ data in the project 
+* interpretation of results 
+* discussion of major findings 
+* evaluation of success 
+* a sound conclusion and 
+* recommendations for further work
+* an Academic supervisor report 
+
+***College support*** 
+
+The College offers the following support for Candidates undertaking projects: 
+
+* Providing feedback on the project proposal. 
+* Assistance with finding an Academic Supervisor if the Candidate has been unable to find a suitable supervisor. 
+* Facilitating peer support through linking Candidates completing a project. 
+
+***Academic supervisor*** 
+Candidates are required to have an Academic Supervisor to provide support and guidance in completing the project. Local rural clinical school or training organisations may be able to assist in identifying a suitable supervisor. 
+
+The Academic Supervisor must be nominated and provide input into the project proposal. An Academic Supervisor report is required to be submitted mid project and with the final project. The supervisor report is initiated by the candidate. The candidate completes their section first and then the supervisor. 
+
+### Process
+
+***Enrolment*** 
+
+Candidates must enrol in the project at the beginning of their AST. Enrolment is completed [online](https://www.acrrm.org.au/fellowship/discover-fellowship/assessment/assessment-dates-enrolments).
+
+A project proposal must be uploaded as part of enrolment process. Candidates must document a project timeline demonstrating completion of the project within 12 months. 
+
+***Project proposal approval***
+
+The College will review the proposal against the criteria set for the project. The proposal will either be given approval or feedback will be provided on what is required to gain approval. 
+
+***Project submission***
+
+A written report on the project must be submitted within 12 months. The final report must be accompanied by an Academic Supervisor Report. 
+
+***Project grading***
+
+Projects are graded as Pass or Fail. 
+Project grading is ratified by the Board of Examiners at the next scheduled meeting and candidates provided with an outcome. 
+Candidates awarded a fail grade are given the opportunity to revise the project and resubmit for grading. A re-grading fee applies.
