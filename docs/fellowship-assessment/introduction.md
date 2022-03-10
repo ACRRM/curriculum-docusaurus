@@ -1343,4 +1343,24 @@ Where information specific information is not mentioned in the community profile
 
 The content is mapped to the Core Generalist component of the [Rural Generalist Curriculum](https://www.acrrm.org.au/docs/default-source/all-files/rural-generalist-curriculum_final.pdf?sfvrsn=b0fe42c8_4) 5th edition, 2020. The approximate percentage of cover for each domain is outlined below.
 
-The total of this column is greater than 100% due to multiple domains being assessed multiple times within one assessment.
+The total of percentages is greater than 100% due to multiple domains being assessed multiple times within one assessment.
+
+**Domain 1:** Provide expert medical care in all rural contexts **(100%)**
+
+**Domain 2:** Provide primary care **(60-70%)**
+
+**Domain 3:** Provide secondary medical care **(20-30%)**
+
+**Domain 4:** Respond to medical emergencies **(12-16%)**
+
+**Domain 5:** Apply a population health approach **(8-12%)**
+
+**Domain 6:** Work with Aboriginal, Torres Strait Islander, and other culturally diverse communities to improve health and wellbeing **(13-17%)**
+
+**Domain 7:** Practise medicine within an ethical, intellectual and professional framework **(10-15%)**
+
+**Domain 8:** Provide safe medical care wile working in geographic and professional isolation **(100%)**
+
+The assessment aims to sample across the Core Generalist content of hte Rural Generalist Curriculum Learning Areas.  The likelihood of a curriculum topic appearing in an assessment is outlined below.
+
+Key: Very Likely (VL), Likely (L), Neutral (N), Unlikely (U), Very Unlikely (VU)
