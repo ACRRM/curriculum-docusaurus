@@ -1361,6 +1361,68 @@ The total of percentages is greater than 100% due to multiple domains being asse
 
 **Domain 8:** Provide safe medical care wile working in geographic and professional isolation **(100%)**
 
-The assessment aims to sample across the Core Generalist content of hte Rural Generalist Curriculum Learning Areas.  The likelihood of a curriculum topic appearing in an assessment is outlined below.
+The assessment aims to sample across the Core Generalist content of the Rural Generalist Curriculum Learning Areas.  The likelihood of a curriculum topic appearing in an assessment is outlined below.
 
-Key: Very Likely (VL), Likely (L), Neutral (N), Unlikely (U), Very Unlikely (VU)
+Key: ***** always covered to * occasionally covered
+
+**Learning Area**: History taking 
+**Learning Area**: Physical examination 
+**Learning Area**: Differential diagnosis 
+**Learning Area**: Investigations 
+**Learning Area**: Procedural skills 
+**Learning Area**: Diagnostic imaging 
+**Learning Area**: Pharmaceuticals 
+**Learning Area**: Digital health 
+**Learning Area**: Aboriginal and Torres Strait Islander Health 
+**Learning Area**: Addictive behaviours 
+**Learning Area**: Adult Internal Medicine 
+**Learning Area**: Aged Care 
+**Learning Area**: Anaesthetics 
+**Learning Area**: Chronic disease 
+**Learning Area**: Dermatology 
+**Learning Area**: Emergency 
+**Learning Area**: Genetics 
+**Learning Area**: Mental Health 
+**Learning Area**: Musculoskeletal 
+**Learning Area**: Obstetrics and Gynaecology 
+**Learning Area**: Occupational health 
+**Learning Area**: Ophthalmology 
+**Learning Area**: Oral Health 
+**Learning Area**: Paediatrics 
+**Learning Area**: Palliative Care 
+**Learning Area**: Rehabilitation 
+**Learning Area**: Sexual Health 
+**Learning Area**: Surgery 
+**Learning Area**: Communicator 
+**Learning Area**: Collaborator 
+**Learning Area**: Leader 
+**Learning Area**: Health Advocate 
+**Learning Area**: Scholar 
+**Learning Area**: Professional 
+
+**Advanced Specialised Training**
+
+Emergency Medicine, Paediatrics, Mental Health, Adult Internal Medicine and Surgery
+are assessed by StAMPS using content mapped to the specific component of the curriculum. 
+
+
+Paediatrics, Mental Health, Adult Internal Medicine and Surgery share a common Community Profile, the setting is a rural hospital that services a vast district.
+
+
+Emergency Medicine has a specific StAMPS Community Profile, the setting is a regional hospital that services a vast district.
+
+
+### StAMPS delivery
+The StAMPS assessment is conducted using a virtual assessment room. is the candidate’s responsibility to ensure that they can access a computer that meets the IT minimum requirements (detailed in page 3 of the Assessment Venue Requirements) on the day of the assessment. 
+
+
+Candidates may take their own personal laptop or computer to the venue. The College will not be liable for any difficulties caused by using alternative configurations. 
+
+
+### Summary of the StAMPS process 
+* Candidate enrols in the StAMPS
+* College sends a confirmation of enrolment 
+* Candidate returns the Examination Venue Requirements form, including invigilator details, by the dates specified
+* College provides information to invigilators 
+* College provides a confirmation of arrangements email to candidates 
+ 
