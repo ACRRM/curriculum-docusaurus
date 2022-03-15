@@ -449,9 +449,7 @@ component.
 
 ##### Achieved
 
-* Makes decisions about patient transfer with consideration of clinical
-          indications, service capabilities, patient preferences, transportation
-          and geography
+* Makes decisions about patient transfer with consideration of clinical indications, service capabilities, patient preferences, transportation and geography
 * Arranges transfer and prepares patient appropriately 
 
 #### 3.7 Undertake early discharge planning, involving the multi-disciplinary team
@@ -474,40 +472,33 @@ component.
 
 ##### Beginning
 
-* Recognises and effectively assesses acutely ill, deteriorating or
-          dying patients
+* Recognises and effectively assesses acutely ill, deteriorating or dying patients
 * Supports a colleague to stabilise emergency presentations
 
 ##### Progressing
 
 * Consistently recognises situations requiring urgent medical care
-* Stabilises emergency presentations with support of an experienced
-          colleague onsite
+* Stabilises emergency presentations with support of an experienced colleague onsite
 
 ##### Achieved
 
-* Recognises, provides and coordinates care for acutely ill patients
-          within local community
-* Stabilises emergency presentations with support of an experienced
-          colleague onsite or off site if required
+* Recognises, provides and coordinates care for acutely ill patients within local community
+* Stabilises emergency presentations with support of an experienced colleague onsite or off site if required
 
 #### 4.2 Provide definitive emergency management across the lifespan in keeping with clinical need, own capabilities, local context and resources
 
 ##### Beginning
 
-* Gathers essential information, generates differential diagnosis, and
-          seeks assistance
+* Gathers essential information, generates differential diagnosis, and seeks assistance
 * Follows clinical guidelines and facility protocols 
 
 ##### Progressing
 
-* Gathers essential information, generates differential diagnosis, and
-          follows clinical guidelines and facility protocols
+* Gathers essential information, generates differential diagnosis, and follows clinical guidelines and facility protocols
 
 ##### Achieved
 
-* Develops and implements appropriate diagnostic and therapeutic
-          management plans for common acute conditions
+* Develops and implements appropriate diagnostic and therapeutic management plans for common acute conditions
 * Arranges appropriate transitions of care
 
 #### 4.3 Perform emergency diagnostic and therapeutic procedures
@@ -515,8 +506,7 @@ component.
 ##### Beginning
 
 * Implements Basic Life Support
-* Identifies the indications for advanced airway management and
-          ventilation
+* Identifies the indications for advanced airway management and ventilation
 * Understands the pathophysiology of shock, obtains IV access and
           commences IV fluids
 * Understands and initiates commonly used analgesics
