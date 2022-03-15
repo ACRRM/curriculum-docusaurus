@@ -412,14 +412,12 @@ component.
 
 ##### Progressing
 
-* Identifies patients at risk of deterioration and escalates level of
-          observation
+* Identifies patients at risk of deterioration and escalates level of observation
 * Consults with colleagues to adjust treatment, if time permits
 
 ##### Achieved
 
-* Anticipates and identifies patients at risk of deterioration early and
-          escalates level of observation and treatment accordingly
+* Anticipates and identifies patients at risk of deterioration early and escalates level of observation and treatment accordingly
 
 #### 3.5 Communicate effectively with the healthcare team, including effective handover
 
@@ -433,8 +431,7 @@ component.
 
 ##### Achieved
 
-* Evaluates the key communication skills that are required to
-          deliver effective handovers in clinical settings
+* Evaluates the key communication skills that are required to deliver effective handovers in clinical settings
 
 #### 3.6 Anticipate and judiciously arrange safe patient transfer to other facilities
 
@@ -507,51 +504,36 @@ component.
 
 * Implements Basic Life Support
 * Identifies the indications for advanced airway management and ventilation
-* Understands the pathophysiology of shock, obtains IV access and
-          commences IV fluids
+* Understands the pathophysiology of shock, obtains IV access and commences IV fluids
 * Understands and initiates commonly used analgesics
 
 ##### Progressing
 
-* Assists with instituting protection of the airway and adequate
-          oxygenation when the airway and/or ventilation is compromised
-* Recognises shocked patient, obtains IV access, understands the
-          principles of fluid resuscitation, initiates relevant investigations,
-          provides initial treatment with onsite guidance
-* Understands more complex pain management and alternative routes of
-          administration.
+* Assists with instituting protection of the airway and adequate oxygenation when the airway and/or ventilation is compromised
+* Recognises shocked patient, obtains IV access, understands the principles of fluid resuscitation, initiates relevant investigations, provides initial treatment with onsite guidance
+* Understands more complex pain management and alternative routes of administration.
 
 ##### Achieved
 
-* Institutes protection of the airway and adequate oxygenation when the
-          airway and/or ventilation is compromised
-* Provides initial time critical management (with onsite or distant
-          guidance if required) of shocked patients including alternate vascular
-          access, timely fluid and/or transfusion management, relevant
-          therapeutic measures, ancillary life support measures, interpretation
-          of common investigations, timely admission or onward referral for
-          definitive management
-* Provides higher level management including simple procedural sedation
-          and simple nerve blocks
+* Institutes protection of the airway and adequate oxygenation when the airway and/or ventilation is compromised
+* Provides initial time critical management (with onsite or distant guidance if required) of shocked patients including alternate vascular access, timely fluid and/or transfusion management, relevant therapeutic measures, ancillary life support measures, interpretation of common investigations, timely admission or onward referral for definitive management
+* Provides higher level management including simple procedural sedation and simple nerve blocks
 
 #### 4.5 Interpret common pathology, imaging and other diagnostic modalities relevant to emergency management
 
 ##### Beginning
 
 * Reads and interprets ECG, pathology and imaging reports 
-* Activates or support emergency patient retrieval, transport or
-          evacuation when needed
+* Activates or support emergency patient retrieval, transport or evacuation when needed
 
 ##### Progressing
 
 * Can identify normal pathology and imaging
-* Beginning to identify common injury and pathological conditions on
-          diagnostic test abnormalities
+* Beginning to identify common injury and pathological conditions on diagnostic test abnormalities
 
 ##### Achieved
 
-* Recognises important features of common injuries and pathological
-          conditions on ECG, pathology, radiology
+* Recognises important features of common injuries and pathological conditions on ECG, pathology, radiology
 * Recognises the need for transfer for higher level and diagnostics
 
 #### 4.6 Provide inter-professional team leadership in emergency care that includes resource allocation, risk management assessment, quality assurance, team debriefing and self-care
@@ -562,31 +544,26 @@ component.
 
 ##### Progressing
 
-* Participates in an inter-professional team to implement advanced life
-          support for children and adults
+* Participates in an inter-professional team to implement advanced life support for children and adults
 
 ##### Achieved
 
-* Effectively evaluates the role of colleague support in managing patient
-          outcomes
+* Effectively evaluates the role of colleague support in managing patient outcomes
 * Aware of own skills/knowledge limitations and local resources
 
 #### 4.7 Utilise assistance and/or guidance from other specialist practitioners and services as required
 
 ##### Beginning
 
-* Understands the need to gain assistance from colleagues and other
-          service providers
+* Understands the need to gain assistance from colleagues and other service providers
 
 ##### Progressing
 
-* Describes the process required to gain assistance from colleagues and
-          other health care providers to assist patient management
+* Describes the process required to gain assistance from colleagues and other health care providers to assist patient management
 
 ##### Achieved
 
-* Leads an inter-professional team to implement advanced life support
-          for children and adults
+* Leads an inter-professional team to implement advanced life support for children and adults
 
 ### Domain 5. Apply a population health approach
 
@@ -594,19 +571,15 @@ component.
 
 ##### Beginning
 
-* Identifies information sources to assist in understanding the local
-          community
+* Identifies information sources to assist in understanding the local community
 
 ##### Progressing
 
-* Investigates the key social, environmental, economic and occupational
-          determinants of health that affect the community
+* Investigates the key social, environmental, economic and occupational determinants of health that affect the community
 
 ##### Achieved
 
-* Analyses the social, environmental, economic and occupational
-          determinants of health that affect the community burden of disease and
-          access to health-related services
+* Analyses the social, environmental, economic and occupational determinants of health that affect the community burden of disease and access to health-related services
 
 #### 5.2 Describe the local community profile, including health, age groups, ethnicity, occupations
 
@@ -616,70 +589,56 @@ component.
 
 ##### Progressing
 
-* Collates and synthesises appropriate data to describe the local
-          community profile
+* Collates and synthesises appropriate data to describe the local community profile
 
 ##### Achieved
 
 * Presents and explains the implications of the local community profile
-* Monitors population health trends and recognises ‘red flags’ that
-          require action
+* Monitors population health trends and recognises ‘red flags’ that require action
 
 #### 5.3 Apply a population health approach that is relevant to the community profile
 
 ##### Beginning
 
-* Advocates for healthy lifestyles and explains environmental &
-          lifestyle risks to health
+* Advocates for healthy lifestyles and explains environmental & lifestyle risks to health
 
 ##### Progressing
 
-* Accesses and collaborates with agencies responsible for key population
-          health functions including public health services, employer groups and
-          local government
+* Accesses and collaborates with agencies responsible for key population health functions including public health services, employer groups and local government
 * Advocates for patients to ensure equitable access to healthcare
 * Seeks to improve health care systems where they practice
 
 ##### Achieved
 
-* Actively participates in local community and regional groups and
-          forums to advocate in the design, implementation and evaluation of
-          interventions that address determinants of population health for their
-          community
+* Actively participates in local community and regional groups and forums to advocate in the design, implementation and evaluation of interventions that address determinants of population health for their community
 
 #### 5.4 Integrate evidence-based prevention, early detection and health maintenance activities into practise at a population level
 
 ##### Beginning
 
-* Evaluates the positive and negative aspects of health screening and
-          prevention when making healthcare decisions
+* Evaluates the positive and negative aspects of health screening and prevention when making healthcare decisions
 
 ##### Progressing
 
-* Implements individual and national population-based screening
-          activities in the consultation; motivates patients to participate
+* Implements individual and national population-based screening activities in the consultation; motivates patients to participate
 
 ##### Achieved
 
-* Integrates evidence-based prevention, early detection and health
-          maintenance activities into practise at a systems level
+* Integrates evidence-based prevention, early detection and health maintenance activities into practise at a systems level
 
 #### 5.5 Fulfil reporting requirements in relation to statutory notification of health conditions
 
 ##### Beginning
 
-* Aware of individual and systemic reporting requirements in relation
-          to statutory notification
+* Aware of individual and systemic reporting requirements in relation to statutory notification
 
 ##### Progressing
 
-* Understands and implements processes to fulfil reporting requirements
-          in relation to statutory notification of health conditions
+* Understands and implements processes to fulfil reporting requirements in relation to statutory notification of health conditions
 
 ##### Achieved
 
-* Independently fulfils reporting requirements in relation to statutory
-          notification of health conditions
+* Independently fulfils reporting requirements in relation to statutory notification of health conditions
 
 #### 5.6 Participate in disaster planning and implementation of disaster plans, and post-incident analysis and debriefing
 
@@ -693,11 +652,9 @@ component.
 
 ##### Achieved
 
-* Actively contributes to disaster planning with reference to previous
-          post-incident analyses
+* Actively contributes to disaster planning with reference to previous post-incident analyses
 * Collaborates with others to implement disaster planning
-* Facilitates and actively contributes to post-incident analysis and
-          debriefing
+* Facilitates and actively contributes to post-incident analysis and debriefing
 
 ### Domain 6. Work with Aboriginal, Torres Strait Islander, and other culturally diverse communities to improve health and wellbeing
 
@@ -705,8 +662,7 @@ component.
 
 ##### Beginning
 
-* Knowledge of health practices of Aboriginal and Torres Strait Islander
-          peoples and other cultural groups
+* Knowledge of health practices of Aboriginal and Torres Strait Islander peoples and other cultural groups
 
 ##### Progressing
 
@@ -720,16 +676,13 @@ component.
 
 ##### Beginning
 
-* Behaves in a manner that acknowledges the impact of cultural, ethnic,
-          spiritual, social, and economic factors on health
+* Behaves in a manner that acknowledges the impact of cultural, ethnic, spiritual, social, and economic factors on health
 * Has knowledge of activities shown to improve outcomes of health care
-* Has knowledge of the barriers to access and the social and cultural
-          determinants of health
+* Has knowledge of the barriers to access and the social and cultural determinants of health
 
 ##### Progressing
 
-* Learns about the community and its resources, strengths and
-          vulnerabilities
+* Learns about the community and its resources, strengths and vulnerabilities
 * Participates in activities to improve outcomes of care
 
 ##### Achieved
@@ -740,23 +693,18 @@ component.
 
 ##### Beginning
 
-* Reflects on own assumptions, cultural beliefs and emotional reactions
-          in providing culturally safe care
-* Behaves in a manner that acknowledges the impact of cultural, ethnic,
-          spiritual, social, and economic factors on health
+* Reflects on own assumptions, cultural beliefs and emotional reactions in providing culturally safe care
+* Behaves in a manner that acknowledges the impact of cultural, ethnic, spiritual, social, and economic factors on health
 * Knows how to find an interpreter and key community contacts
 
 ##### Progressing
 
-* Identifies own cultural values that may impact on his/her role as a
-          doctor.
-* Identifies own cultural norms and the impact that this may have on
-          interactions with the community
+* Identifies own cultural values that may impact on his/her role as a doctor.
+* Identifies own cultural norms and the impact that this may have on interactions with the community
 
 ##### Achieved
 
-* Delivers culturally safe care taking into account their own cultural
-          values and those of different cultural groups
+* Delivers culturally safe care taking into account their own cultural values and those of different cultural groups
 * Reflects and seeks feedback on own provision of culturally safe care
 * Engages interpreters and community contacts as appropriate 
 
@@ -774,7 +722,7 @@ Culturally safe practice is the ongoing critical reflection of health practition
   c.	Recognise the importance of self-determined decision-making, partnership and collaboration in healthcare which is driven by the individual, family and community
   d.	Foster a safe working environment through leadership to support the rights and dignity of Aboriginal and Torres Strait Islander people and colleagues.
 
- Culturally safe and respectful practice is also important for all communities.
+Culturally safe and respectful practice is also important for all communities.
 
 From the Medical Board of Australia, Good medical practice: a code of conduct for doctors in Australia: October 2020
 
