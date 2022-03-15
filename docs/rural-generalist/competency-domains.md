@@ -412,14 +412,12 @@ component.
 
 ##### Progressing
 
-* Identifies patients at risk of deterioration and escalates level of
-          observation
+* Identifies patients at risk of deterioration and escalates level of observation
 * Consults with colleagues to adjust treatment, if time permits
 
 ##### Achieved
 
-* Anticipates and identifies patients at risk of deterioration early and
-          escalates level of observation and treatment accordingly
+* Anticipates and identifies patients at risk of deterioration early and escalates level of observation and treatment accordingly
 
 #### 3.5 Communicate effectively with the healthcare team, including effective handover
 
@@ -433,8 +431,7 @@ component.
 
 ##### Achieved
 
-* Evaluates the key communication skills that are required to
-          deliver effective handovers in clinical settings
+* Evaluates the key communication skills that are required to deliver effective handovers in clinical settings
 
 #### 3.6 Anticipate and judiciously arrange safe patient transfer to other facilities
 
@@ -449,9 +446,7 @@ component.
 
 ##### Achieved
 
-* Makes decisions about patient transfer with consideration of clinical
-          indications, service capabilities, patient preferences, transportation
-          and geography
+* Makes decisions about patient transfer with consideration of clinical indications, service capabilities, patient preferences, transportation and geography
 * Arranges transfer and prepares patient appropriately 
 
 #### 3.7 Undertake early discharge planning, involving the multi-disciplinary team
@@ -474,40 +469,33 @@ component.
 
 ##### Beginning
 
-* Recognises and effectively assesses acutely ill, deteriorating or
-          dying patients
+* Recognises and effectively assesses acutely ill, deteriorating or dying patients
 * Supports a colleague to stabilise emergency presentations
 
 ##### Progressing
 
 * Consistently recognises situations requiring urgent medical care
-* Stabilises emergency presentations with support of an experienced
-          colleague onsite
+* Stabilises emergency presentations with support of an experienced colleague onsite
 
 ##### Achieved
 
-* Recognises, provides and coordinates care for acutely ill patients
-          within local community
-* Stabilises emergency presentations with support of an experienced
-          colleague onsite or off site if required
+* Recognises, provides and coordinates care for acutely ill patients within local community
+* Stabilises emergency presentations with support of an experienced colleague onsite or off site if required
 
 #### 4.2 Provide definitive emergency management across the lifespan in keeping with clinical need, own capabilities, local context and resources
 
 ##### Beginning
 
-* Gathers essential information, generates differential diagnosis, and
-          seeks assistance
+* Gathers essential information, generates differential diagnosis, and seeks assistance
 * Follows clinical guidelines and facility protocols 
 
 ##### Progressing
 
-* Gathers essential information, generates differential diagnosis, and
-          follows clinical guidelines and facility protocols
+* Gathers essential information, generates differential diagnosis, and follows clinical guidelines and facility protocols
 
 ##### Achieved
 
-* Develops and implements appropriate diagnostic and therapeutic
-          management plans for common acute conditions
+* Develops and implements appropriate diagnostic and therapeutic management plans for common acute conditions
 * Arranges appropriate transitions of care
 
 #### 4.3 Perform emergency diagnostic and therapeutic procedures
@@ -515,53 +503,37 @@ component.
 ##### Beginning
 
 * Implements Basic Life Support
-* Identifies the indications for advanced airway management and
-          ventilation
-* Understands the pathophysiology of shock, obtains IV access and
-          commences IV fluids
+* Identifies the indications for advanced airway management and ventilation
+* Understands the pathophysiology of shock, obtains IV access and commences IV fluids
 * Understands and initiates commonly used analgesics
 
 ##### Progressing
 
-* Assists with instituting protection of the airway and adequate
-          oxygenation when the airway and/or ventilation is compromised
-* Recognises shocked patient, obtains IV access, understands the
-          principles of fluid resuscitation, initiates relevant investigations,
-          provides initial treatment with onsite guidance
-* Understands more complex pain management and alternative routes of
-          administration.
+* Assists with instituting protection of the airway and adequate oxygenation when the airway and/or ventilation is compromised
+* Recognises shocked patient, obtains IV access, understands the principles of fluid resuscitation, initiates relevant investigations, provides initial treatment with onsite guidance
+* Understands more complex pain management and alternative routes of administration.
 
 ##### Achieved
 
-* Institutes protection of the airway and adequate oxygenation when the
-          airway and/or ventilation is compromised
-* Provides initial time critical management (with onsite or distant
-          guidance if required) of shocked patients including alternate vascular
-          access, timely fluid and/or transfusion management, relevant
-          therapeutic measures, ancillary life support measures, interpretation
-          of common investigations, timely admission or onward referral for
-          definitive management
-* Provides higher level management including simple procedural sedation
-          and simple nerve blocks
+* Institutes protection of the airway and adequate oxygenation when the airway and/or ventilation is compromised
+* Provides initial time critical management (with onsite or distant guidance if required) of shocked patients including alternate vascular access, timely fluid and/or transfusion management, relevant therapeutic measures, ancillary life support measures, interpretation of common investigations, timely admission or onward referral for definitive management
+* Provides higher level management including simple procedural sedation and simple nerve blocks
 
 #### 4.5 Interpret common pathology, imaging and other diagnostic modalities relevant to emergency management
 
 ##### Beginning
 
 * Reads and interprets ECG, pathology and imaging reports 
-* Activates or support emergency patient retrieval, transport or
-          evacuation when needed
+* Activates or support emergency patient retrieval, transport or evacuation when needed
 
 ##### Progressing
 
 * Can identify normal pathology and imaging
-* Beginning to identify common injury and pathological conditions on
-          diagnostic test abnormalities
+* Beginning to identify common injury and pathological conditions on diagnostic test abnormalities
 
 ##### Achieved
 
-* Recognises important features of common injuries and pathological
-          conditions on ECG, pathology, radiology
+* Recognises important features of common injuries and pathological conditions on ECG, pathology, radiology
 * Recognises the need for transfer for higher level and diagnostics
 
 #### 4.6 Provide inter-professional team leadership in emergency care that includes resource allocation, risk management assessment, quality assurance, team debriefing and self-care
@@ -572,31 +544,26 @@ component.
 
 ##### Progressing
 
-* Participates in an inter-professional team to implement advanced life
-          support for children and adults
+* Participates in an inter-professional team to implement advanced life support for children and adults
 
 ##### Achieved
 
-* Effectively evaluates the role of colleague support in managing patient
-          outcomes
+* Effectively evaluates the role of colleague support in managing patient outcomes
 * Aware of own skills/knowledge limitations and local resources
 
 #### 4.7 Utilise assistance and/or guidance from other specialist practitioners and services as required
 
 ##### Beginning
 
-* Understands the need to gain assistance from colleagues and other
-          service providers
+* Understands the need to gain assistance from colleagues and other service providers
 
 ##### Progressing
 
-* Describes the process required to gain assistance from colleagues and
-          other health care providers to assist patient management
+* Describes the process required to gain assistance from colleagues and other health care providers to assist patient management
 
 ##### Achieved
 
-* Leads an inter-professional team to implement advanced life support
-          for children and adults
+* Leads an inter-professional team to implement advanced life support for children and adults
 
 ### Domain 5. Apply a population health approach
 
@@ -604,19 +571,15 @@ component.
 
 ##### Beginning
 
-* Identifies information sources to assist in understanding the local
-          community
+* Identifies information sources to assist in understanding the local community
 
 ##### Progressing
 
-* Investigates the key social, environmental, economic and occupational
-          determinants of health that affect the community
+* Investigates the key social, environmental, economic and occupational determinants of health that affect the community
 
 ##### Achieved
 
-* Analyses the social, environmental, economic and occupational
-          determinants of health that affect the community burden of disease and
-          access to health-related services
+* Analyses the social, environmental, economic and occupational determinants of health that affect the community burden of disease and access to health-related services
 
 #### 5.2 Describe the local community profile, including health, age groups, ethnicity, occupations
 
@@ -626,70 +589,56 @@ component.
 
 ##### Progressing
 
-* Collates and synthesises appropriate data to describe the local
-          community profile
+* Collates and synthesises appropriate data to describe the local community profile
 
 ##### Achieved
 
 * Presents and explains the implications of the local community profile
-* Monitors population health trends and recognises ‘red flags’ that
-          require action
+* Monitors population health trends and recognises ‘red flags’ that require action
 
 #### 5.3 Apply a population health approach that is relevant to the community profile
 
 ##### Beginning
 
-* Advocates for healthy lifestyles and explains environmental &
-          lifestyle risks to health
+* Advocates for healthy lifestyles and explains environmental & lifestyle risks to health
 
 ##### Progressing
 
-* Accesses and collaborates with agencies responsible for key population
-          health functions including public health services, employer groups and
-          local government
+* Accesses and collaborates with agencies responsible for key population health functions including public health services, employer groups and local government
 * Advocates for patients to ensure equitable access to healthcare
 * Seeks to improve health care systems where they practice
 
 ##### Achieved
 
-* Actively participates in local community and regional groups and
-          forums to advocate in the design, implementation and evaluation of
-          interventions that address determinants of population health for their
-          community
+* Actively participates in local community and regional groups and forums to advocate in the design, implementation and evaluation of interventions that address determinants of population health for their community
 
 #### 5.4 Integrate evidence-based prevention, early detection and health maintenance activities into practise at a population level
 
 ##### Beginning
 
-* Evaluates the positive and negative aspects of health screening and
-          prevention when making healthcare decisions
+* Evaluates the positive and negative aspects of health screening and prevention when making healthcare decisions
 
 ##### Progressing
 
-* Implements individual and national population-based screening
-          activities in the consultation; motivates patients to participate
+* Implements individual and national population-based screening activities in the consultation; motivates patients to participate
 
 ##### Achieved
 
-* Integrates evidence-based prevention, early detection and health
-          maintenance activities into practise at a systems level
+* Integrates evidence-based prevention, early detection and health maintenance activities into practise at a systems level
 
 #### 5.5 Fulfil reporting requirements in relation to statutory notification of health conditions
 
 ##### Beginning
 
-* Aware of individual and systemic reporting requirements in relation
-          to statutory notification
+* Aware of individual and systemic reporting requirements in relation to statutory notification
 
 ##### Progressing
 
-* Understands and implements processes to fulfil reporting requirements
-          in relation to statutory notification of health conditions
+* Understands and implements processes to fulfil reporting requirements in relation to statutory notification of health conditions
 
 ##### Achieved
 
-* Independently fulfils reporting requirements in relation to statutory
-          notification of health conditions
+* Independently fulfils reporting requirements in relation to statutory notification of health conditions
 
 #### 5.6 Participate in disaster planning and implementation of disaster plans, and post-incident analysis and debriefing
 
@@ -703,11 +652,9 @@ component.
 
 ##### Achieved
 
-* Actively contributes to disaster planning with reference to previous
-          post-incident analyses
+* Actively contributes to disaster planning with reference to previous post-incident analyses
 * Collaborates with others to implement disaster planning
-* Facilitates and actively contributes to post-incident analysis and
-          debriefing
+* Facilitates and actively contributes to post-incident analysis and debriefing
 
 ### Domain 6. Work with Aboriginal, Torres Strait Islander, and other culturally diverse communities to improve health and wellbeing
 
@@ -715,8 +662,7 @@ component.
 
 ##### Beginning
 
-* Knowledge of health practices of Aboriginal and Torres Strait Islander
-          peoples and other cultural groups
+* Knowledge of health practices of Aboriginal and Torres Strait Islander peoples and other cultural groups
 
 ##### Progressing
 
@@ -730,16 +676,13 @@ component.
 
 ##### Beginning
 
-* Behaves in a manner that acknowledges the impact of cultural, ethnic,
-          spiritual, social, and economic factors on health
+* Behaves in a manner that acknowledges the impact of cultural, ethnic, spiritual, social, and economic factors on health
 * Has knowledge of activities shown to improve outcomes of health care
-* Has knowledge of the barriers to access and the social and cultural
-          determinants of health
+* Has knowledge of the barriers to access and the social and cultural determinants of health
 
 ##### Progressing
 
-* Learns about the community and its resources, strengths and
-          vulnerabilities
+* Learns about the community and its resources, strengths and vulnerabilities
 * Participates in activities to improve outcomes of care
 
 ##### Achieved
@@ -750,23 +693,18 @@ component.
 
 ##### Beginning
 
-* Reflects on own assumptions, cultural beliefs and emotional reactions
-          in providing culturally safe care
-* Behaves in a manner that acknowledges the impact of cultural, ethnic,
-          spiritual, social, and economic factors on health
+* Reflects on own assumptions, cultural beliefs and emotional reactions in providing culturally safe care
+* Behaves in a manner that acknowledges the impact of cultural, ethnic, spiritual, social, and economic factors on health
 * Knows how to find an interpreter and key community contacts
 
 ##### Progressing
 
-* Identifies own cultural values that may impact on his/her role as a
-          doctor.
-* Identifies own cultural norms and the impact that this may have on
-          interactions with the community
+* Identifies own cultural values that may impact on his/her role as a doctor.
+* Identifies own cultural norms and the impact that this may have on interactions with the community
 
 ##### Achieved
 
-* Delivers culturally safe care taking into account their own cultural
-          values and those of different cultural groups
+* Delivers culturally safe care taking into account their own cultural values and those of different cultural groups
 * Reflects and seeks feedback on own provision of culturally safe care
 * Engages interpreters and community contacts as appropriate 
 
@@ -779,14 +717,15 @@ Cultural safety is determined by Aboriginal and Torres Strait Islander individua
 Culturally safe practice is the ongoing critical reflection of health practitioner knowledge, skills, attitudes, practising behaviours and power differentials in delivering safe, accessible and responsive healthcare free of racism.
 
   To ensure culturally safe and respectful practice, medical practitioners must:
-  a.	Acknowledge colonisation and systemic racism, social, cultural, behavioural and economic factors which impact individual and community health
-  b.	Acknowledge and address individual racism, their own biases, assumptions, stereotypes and prejudices and provide care that is holistic, free of bias and racism
-  c.	Recognise the importance of self-determined decision-making, partnership and collaboration in healthcare which is driven by the individual, family and community
-  d.	Foster a safe working environment through leadership to support the rights and dignity of Aboriginal and Torres Strait Islander people and colleagues.
 
- Culturally safe and respectful practice is also important for all communities.
+1. Acknowledge colonisation and systemic racism, social, cultural, behavioural and economic factors which impact individual and community health
+2. Acknowledge and address individual racism, their own biases, assumptions, stereotypes and prejudices and provide care that is holistic, free of bias and racism
+3. Recognise the importance of self-determined decision-making, partnership and collaboration in healthcare which is driven by the individual, family and community
+4. Foster a safe working environment through leadership to support the rights and dignity of Aboriginal and Torres Strait Islander people and colleagues.
 
-From the Medical Board of Australia, Good medical practice: a code of conduct for doctors in Australia: October 2020
+Culturally safe and respectful practice is also important for all communities.
+
+From the Medical Board of Australia, Good medical practice: a code of conduct for doctors in Australia: October 2020.
 
 ### Domain 7. Practise medicine within an ethical, intellectual and professional framework
 
@@ -794,46 +733,38 @@ From the Medical Board of Australia, Good medical practice: a code of conduct fo
 
 ##### Beginning
 
-* Behaves in a way that acknowledges the ethical complexity of practice
-          & follows professional & ethical codes
+* Behaves in a way that acknowledges the ethical complexity of practice & follows professional & ethical codes
 * Understands requirements for public health notifications 
-* Familiar with the Medical Board of Australia’s Good Medical
-          Practice code of conduct.
+* Familiar with the Medical Board of Australia’s Good Medical Practice code of conduct.
 * Aware of ACRRM Academic Code of Conduct
 
 ##### Progressing
 
 * Makes ethical decisions and accepts responsibility for decisions made
-* Understands certification; WorkCover, Centrelink, care plans, billing
-          rules, notification requirements, involuntary admission legislation
+* Understands certification; WorkCover, Centrelink, care plans, billing rules, notification requirements, involuntary admission legislation
 
 ##### Achieved
 
 * Makes difficult decisions 
 * Understands when Medical Defence Organisation advice is required
-* Provides accurate and appropriate certification; WorkCover,
-          Centrelink, care plans, billing rules, notification requirements,
-          involuntary admission legislation
+* Provides accurate and appropriate certification; WorkCover, Centrelink, care plans, billing rules, notification requirements, involuntary admission legislation
 
 #### 7.2 Keep clinical documentation in accordance with legal and professional standards
 
 ##### Beginning
 
 * Knows how to use practice management software
-* Uses a structure to ensure that consultation notes are clear and
-          complete
+* Uses a structure to ensure that consultation notes are clear and complete
 
 ##### Progressing
 
 * Uses practice management software efficiently
 * Timely entry of consultation notes
-* Records concise, with enough information on a patient consult to allow
-          others to follow.
+* Records concise, with enough information on a patient consult to allow others to follow.
 
 ##### Achieved
 
-* Ensures that health summary information is complete and up dated
-          regularly
+* Ensures that health summary information is complete and up dated regularly
 * Records are comprehensive and accurate
 * Undertakes record audits
 
@@ -841,35 +772,29 @@ From the Medical Board of Australia, Good medical practice: a code of conduct fo
 
 ##### Beginning
 
-* Knows and considers costs and risks/benefits of different treatment
-          options in common conditions
+* Knows and considers costs and risks/benefits of different treatment options in common conditions
 
 ##### Progressing
 
-* Coordinates individual patient care in a way that is sensitive to
-          resource use, efficiency and effectiveness
+* Coordinates individual patient care in a way that is sensitive to resource use, efficiency and effectiveness
 
 ##### Achieved
 
-* Works in consultation with patient to consistently use resources
-          efficiently and cost effectively including complex situations
+* Works in consultation with patient to consistently use resources efficiently and cost effectively including complex situations
 
 #### 7.4 Manage, appraise and assess own performance in the provision of medical care for patients
 
 ##### Beginning
 
-* Consults with colleagues about ethical concerns and accepts
-          responsibility for ethical decisions
+* Consults with colleagues about ethical concerns and accepts responsibility for ethical decisions
 
 ##### Progressing
 
-* Demonstrates an understanding of patient competency and shared
-          decision making
+* Demonstrates an understanding of patient competency and shared decision making
 
 ##### Achieved
 
-* Checks with patient in order to check they fully understand
-          responsibilities and how condition and treatment may impact on this.
+* Checks with patient in order to check they fully understand responsibilities and how condition and treatment may impact on this.
 * Appreciates the legalities of caring for patients who cannot consent
 
 #### 7.5 Participate in quality and safety improvement and risk management activities
@@ -879,19 +804,16 @@ From the Medical Board of Australia, Good medical practice: a code of conduct fo
 * Follows procedures and protocols 
 * Acknowledges that errors occur in health care
 * Reports errors if they occur
-* Attends institutional quality and safety improvement and risk
-          management meetings
+* Attends institutional quality and safety improvement and risk management meetings
 
 ##### Progressing
 
 ##### Achieved
 
-* Facilitates root cause analysis and debriefing of colleagues following
-          critical incidents
+* Facilitates root cause analysis and debriefing of colleagues following critical incidents
 * Establishes and reviews processes to improve safety
 * Undertakes regular audit and improvement activities
-* Facilitates institutional quality and safety improvement and risk
-          management activities
+* Facilitates institutional quality and safety improvement and risk management activities
 
 #### 7.6 Teach and clinically supervise health students, junior doctors and other health professionals
 
@@ -904,13 +826,11 @@ From the Medical Board of Australia, Good medical practice: a code of conduct fo
 
 * Recognises, documents and manages adverse events and near misses
 * Participates in quality improvement activities
-* Participates in institutional quality and safety improvement and risk
-          management activities
+* Participates in institutional quality and safety improvement and risk management activities
 
 ##### Achieved
 
-* Works with peers and juniors to identify learning needs and develop
-          and deliver an appropriate teaching session
+* Works with peers and juniors to identify learning needs and develop and deliver an appropriate teaching session
 * Acts as a supervisor with the support of more senior doctor 
 
 #### 7.7 Recognise unprofessional behaviour and signs of the practitioner in difficulty among colleagues and respond according to ethical guidelines and statutory requirements
@@ -921,16 +841,12 @@ From the Medical Board of Australia, Good medical practice: a code of conduct fo
 
 ##### Progressing
 
-* Reports unprofessional behaviour using appropriate reporting
-          procedures
+* Reports unprofessional behaviour using appropriate reporting procedures
 
 ##### Achieved
 
-* Develops own ability to identify and support practitioners in
-          difficulty
-* Contributes to the improvement of processes for the early
-          identification of unprofessional behaviour and support of
-          practitioners in difficulty
+* Develops own ability to identify and support practitioners in difficulty
+* Contributes to the improvement of processes for the early identification of unprofessional behaviour and support of practitioners in difficulty
 
 #### 7.8 Contribute to the management of human and financial resources within a health service
 
@@ -940,25 +856,21 @@ From the Medical Board of Australia, Good medical practice: a code of conduct fo
 
 ##### Progressing
 
-* Participates in facility/team meetings to contribute to effective
-          management of service
+* Participates in facility/team meetings to contribute to effective management of service
 
 ##### Achieved
 
-* Assists with staff rostering, employment and budget management as
-          appropriate
+* Assists with staff rostering, employment and budget management as appropriate
 
 #### 7.9 Provide leadership in professional practice
 
 ##### Beginning
 
-* Identifies key qualities of positive leadership in professional
-          practice
+* Identifies key qualities of positive leadership in professional practice
 
 ##### Progressing
 
-* Reflects and develops own ability to provide leadership in
-          professional practice
+* Reflects and develops own ability to provide leadership in professional practice
 
 ##### Achieved
 
@@ -976,10 +888,8 @@ From the Medical Board of Australia, Good medical practice: a code of conduct fo
 
 ##### Achieved
 
-* Maintains knowledge of evolving evidence around common areas of
-          practice
-* Maintains a professional development plan that includes reflective
-          practice, practice audit and outcome measures
+* Maintains knowledge of evolving evidence around common areas of practice
+* Maintains a professional development plan that includes reflective practice, practice audit and outcome measures
 
 #### 7.11 Critically appraise and apply relevant research
 
@@ -990,10 +900,8 @@ From the Medical Board of Australia, Good medical practice: a code of conduct fo
 
 ##### Progressing
 
-* Critically appraises information from others, including colleagues,
-          experts, pharmaceutical companies, and patient education information
-* Works with colleagues to implement small research and quality
-          improvement activities
+* Critically appraises information from others, including colleagues, experts, pharmaceutical companies, and patient education information
+* Works with colleagues to implement small research and quality improvement activities
 
 ##### Achieved
 
@@ -1010,13 +918,11 @@ From the Medical Board of Australia, Good medical practice: a code of conduct fo
 
 ##### Progressing
 
-* Learning resourcefulness when working with others in a rural or remote
-          setting
+* Learning resourcefulness when working with others in a rural or remote setting
 
 ##### Achieved
 
-* Independently provides effective clinical care when distant from
-          medical services
+* Independently provides effective clinical care when distant from medical services
 
 #### 8.2 Develop and apply strategies for self-care, personal support and caring for family
 
@@ -1038,25 +944,19 @@ From the Medical Board of Australia, Good medical practice: a code of conduct fo
 
 ##### Beginning
 
-* Behaves in ways which acknowledge the professional responsibilities
-          relevant to his/her health care role
-* Describes the issues around providing care to self, family and
-          colleagues
+* Behaves in ways which acknowledge the professional responsibilities relevant to his/her health care role
+* Describes the issues around providing care to self, family and colleagues
 
 ##### Progressing
 
-* Identifies and manages occasions when duty of care clashes with
-          confidentiality requirements{" "}
+* Identifies and manages occasions when duty of care clashes with confidentiality requirements
 * Has engaged a GP for self and for family 
-* Respects local community norms and values in own life and work
-          practices
+* Respects local community norms and values in own life and work practices
 
 ##### Achieved
 
-* Considers continuity of care and importance of long-term doctor
-          patient relationship in small town context.{" "}
-* Considers need for confidentiality in small and close community town
-          context.
+* Considers continuity of care and importance of long-term doctor patient relationship in small town context.
+* Considers need for confidentiality in small and close community town context.
 
 #### 8.4 Establish, maintain and utilise professional networks to assist with safe, optimum patient care
 
@@ -1071,35 +971,26 @@ From the Medical Board of Australia, Good medical practice: a code of conduct fo
 ##### Achieved
 
 * Developed an ongoing support network
-* Maintains regular contact with network through face to face and
-          virtual means
+* Maintains regular contact with network through face to face and virtual means
 
 #### 8.5 Provide safe, effective clinical care when away from ready access to specialist medical, diagnostic and allied health services
 
 ##### Beginning
 
-* Understands the factors that contribute to safe, effective provision
-          of care when working in professional isolation
+* Understands the factors that contribute to safe, effective provision of care when working in professional isolation
 * Aware of own limitations and seeks assistance appropriately
-* Knowledge of symptoms and treatment for conditions more commonly
-          encountered in rural areas including zoonoses, bites and stings.
+* Knowledge of symptoms and treatment for conditions more commonly encountered in rural areas including zoonoses, bites and stings.
 
 ##### Progressing
 
-* Considers own expertise, local resources, support and transport when
-          providing care
-* Recognises and manages conditions more commonly found in rural
-          environments with support from supervisors
+* Considers own expertise, local resources, support and transport when providing care
+* Recognises and manages conditions more commonly found in rural environments with support from supervisors
 
 ##### Achieved
 
-* Works in partnership with the patient and with consideration of own
-          expertise, local resources, support and transport to provide access to
-          specialist medical, diagnostic and allied health services
-* Manages time and patient priorities working across facilities such as
-          general practice, hospital, nursing home, ED
-* Recognises and manages conditions more commonly found in rural
-          environments
+* Works in partnership with the patient and with consideration of own expertise, local resources, support and transport to provide access to specialist medical, diagnostic and allied health services
+* Manages time and patient priorities working across facilities such as general practice, hospital, nursing home, ED
+* Recognises and manages conditions more commonly found in rural environments
 
 #### 8.6 Use information and communication technology to assist in diagnosis, monitoring and provision of medical care or to facilitate access to specialised care for patients
 
@@ -1109,21 +1000,17 @@ From the Medical Board of Australia, Good medical practice: a code of conduct fo
 
 ##### Progressing
 
-* Collaborates with colleagues to use information and communication
-          technology to provide medical care or to facilitate access to
-          specialised care for patients
+* Collaborates with colleagues to use information and communication technology to provide medical care or to facilitate access to specialised care for patients
 
 ##### Achieved
 
-* Independently uses information and communication technology to provide
-          medical care or to facilitate access to specialised care for patients
+* Independently uses information and communication technology to provide medical care or to facilitate access to specialised care for patients
 
 #### 8.7 Identify and acquire extended knowledge and skills as may be required to meet health care needs of the local population
 
 ##### Beginning
 
-* Commits to acquisition of knowledge required to care for the local
-          community
+* Commits to acquisition of knowledge required to care for the local community
 
 ##### Progressing
 
