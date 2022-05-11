@@ -4,7 +4,7 @@ sidebar_label: Procedural Skills
 ---
 ## Core Generalist
 
-### Knowledge
+### Knowledges
 
 #### CG.K.1
 
