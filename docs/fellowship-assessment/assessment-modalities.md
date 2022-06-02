@@ -1,6 +1,6 @@
 ---
 id: assessment-modalities
-title: Fellowship Assessment
+title: Assessment Modalities
 sidebar_label: Assessment Modalities
 ---
 **Contact details**
