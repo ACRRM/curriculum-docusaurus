@@ -1,6 +1,6 @@
 ---
 id: assessment-policies
-title: Fellowship Assessment
+title: Assessment Policies
 sidebar_label: Assessment Policies
 ---
 **Contact details**
