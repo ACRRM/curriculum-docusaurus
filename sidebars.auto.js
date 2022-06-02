@@ -19,7 +19,9 @@ module.exports = {
         },
     ],
     "Fellowship Assessment": [
-        "fellowship-assessment/introduction"
+        "fellowship-assessment/introduction",
+        "fellowship-assessment/assessment-policies",
+        "fellowship-assessment/assessment-modalities"
     ],
     "Fellowship Training": [
         "fellowship-training/introduction"
