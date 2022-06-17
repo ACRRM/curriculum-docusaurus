@@ -817,9 +817,12 @@ Candidates are required to achieve certification at specified competency levels 
 
 There are four logbook levels:
 
-**A**. Performed on a patient under observation.\
-**B**. Demonstrated in a simulated setting under observation.\
-**C**. Performed on a patient without observation.\
+**A**. Performed on a patient under observation.
+
+**B**. Demonstrated in a simulated setting under observation.
+
+**C**. Performed on a patient without observation.
+
 **D**. Observed or assisted someone else doing the procedure on a patient or observed the procedure on video (e.g. YouTube). 
 
 Candidates are required to complete:   
@@ -837,9 +840,12 @@ The AST EM procedural logbook requires certification of the candidate reaching t
 
 Competency levels:
 
-**A**. Performed to the standard of an independent practitioner on a real patient and not just a simulated environment\
-**B**. Performed to a pass standard in a certified course in a simulated environment\
-**C**. Performed under supervision to the standard of a practitioner working under supervision\
+**A**. Performed to the standard of an independent practitioner on a real patient and not just a simulated environment
+
+**B**. Performed to a pass standard in a certified course in a simulated environment
+
+**C**. Performed under supervision to the standard of a practitioner working under supervision
+
 **D**. Assisted with the supervisor performing the task
 
 The [AST Emergency Medicine Logbook](https://www.acrrm.org.au/docs/default-source/all-files/acrrm-emergency-medicine-logbook.pdf?sfvrsn=be4990eb_6) may be downloaded or a hardcopy obtained by emailing the training@acrrm.org.au    
