@@ -11,7 +11,7 @@ GPO Box 2507<br />
 Brisbane QLD 4000<br />
 P: (+61) 7 3105 8200 or 1800 223 226<br />
 F: (+61) 7 3105 8299<br />
-E: training@acrrm.org.au<br />
+E: assessment@acrrm.org.au<br />
 Website: [www.acrrm.org.au](www.acrrm.org.au)<br />
 ABN: 12 078 081 848
 
