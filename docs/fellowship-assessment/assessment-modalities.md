@@ -334,43 +334,7 @@ Questions are designed to address specific components of the curriculum. Questio
 
 The assessment covers a balance of acute care cases, common and less common presentations, male and female patients, indigenous and non-indigenous patients, across all age groups. The assessment samples content from the curriculum domains and learning areas.   The approximate percentage of questions for learning areas appearing in an assessment is outlined in the table below.
 
-**Curriculum learning areas and Percentage of assessment content***
-
-Aboriginal and Torres Strait Islander Health **(5-10%)**
-
-Adult Internal Medicine **(20-30%)**
-
-Aged Care **(5-15%)**
-
-Anaesthetics **(2-5%)**
-
-Business and Professional Management **(2-5%)**
-
-Child and Adolescent Health **(10-15%)**
-
-Dermatology **(3-8%)**
-
-Information Management and Information Technology **(0%)**
-
-Mental Health **(4-8%)**
-
-Musculoskeletal Medicine **(5-10%)**
-
-Obstetrics and Women's Health **(5-10%)**
-
-Ophthalmology **(1-4%)**
-
-Oral Health **(1-4%)**
-
-Palliative Care **(4-8%)**
-
-Radiology **(1-4%)**
-
-Rehabilitation **(1-4%)**
-
-Research and Surgery **(1-4%)**
-
-Surgery **(4-8%)**
+![](/img/assessment.jpg)
 
 \**The total of percentages is greater than 100% due to multiple domains being assessed multiple times within one assessment.*
 
@@ -741,25 +705,11 @@ Where information specific information is not mentioned in the community profile
 
 ### Content
 
-The content is mapped to the Core Generalist component of the [Rural Generalist Curriculum](https://www.acrrm.org.au/docs/default-source/all-files/rural-generalist-curriculum_final.pdf?sfvrsn=b0fe42c8_4) 5th edition, 2020. The approximate percentage of cover for each domain is outlined below.
+The content is mapped to the Core Generalist component of the [Rural Generalist Curriculum](https://www.acrrm.org.au/docs/default-source/all-files/rural-generalist-curriculum_final.pdf?sfvrsn=b0fe42c8_4). The approximate percentage of cover for each domain is outlined below.
 
 The total of percentages is greater than 100% due to multiple domains being assessed multiple times within one assessment.
 
-**Domain 1:** Provide expert medical care in all rural contexts **(100%)**
-
-**Domain 2:** Provide primary care **(60-70%)**
-
-**Domain 3:** Provide secondary medical care **(20-30%)**
-
-**Domain 4:** Respond to medical emergencies **(12-16%)**
-
-**Domain 5:** Apply a population health approach **(8-12%)**
-
-**Domain 6:** Work with Aboriginal, Torres Strait Islander, and other culturally diverse communities to improve health and wellbeing **(13-17%)**
-
-**Domain 7:** Practise medicine within an ethical, intellectual and professional framework **(10-15%)**
-
-**Domain 8:** Provide safe medical care wile working in geographic and professional isolation **(100%)**
+![](/img/content.jpg)
 
 The assessment aims to sample across the Core Generalist content of the Rural Generalist Curriculum Learning Areas.  The likelihood of a curriculum topic appearing in an assessment is outlined below.
 
@@ -767,40 +717,7 @@ The assessment aims to sample across the Core Generalist content of the Rural Ge
 
 Key: always covered **\*\*\*\**** / occasionally covered **\***
 
-History taking: **\*\*\*\****
-Physical examination: **\*\*\*\****
-Differential diagnosis: **\*\*\*\****
-Investigations: **\*\*\*\***
-Procedural skills: **\*\*\*\***
-Diagnostic imaging: **\*\***
-Pharmaceuticals: **\*\****
-Digital health: **\***
-Aboriginal and Torres Strait Islander Health: **\*\*\*\****
-Addictive behaviours: **\***
-Adult Internal Medicine: **\*\*\*\****
-Aged Care: **\*\*\*\***
-Anaesthetics: **\*\***
-Chronic disease: **\*\*\*\**** 
-Dermatology: **\*\***
-Emergency: **\*\*\*\****
-Genetics: **\***
-Mental Health: **\*\*\*\****
-Musculoskeletal: **\*\****
-Obstetrics and Gynaecology: **\*\*\*\****
-Occupational health: **\*\***
-Ophthalmology: **\*\***
-Oral Health: **\***
-Paediatrics: **\*\*\*\****
-Palliative Care: **\*\****
-Rehabilitation: **\***
-Sexual Health: **\*\****
-Surgery: **\*\***
-Communicator: **\*\*\*\****
-Collaborator: **\*\*\*\***
-Leader: **\***
-Health Advocate: **\*\****
-Scholar: **\***
-Professional: **\*\*\*\****
+![](/img/learning-areas.jpg)
 
 **Advanced Specialised Training**
 
@@ -884,9 +801,9 @@ The requirements for each version of the logbook is described below.
 
 There are four levels of minimum competency, candidate performed the procedure to the standard of a:
 
-**A**. Practitioner operating independently – demonstrated on a real patient
-**B**. Pass in an accredited course or certified satisfactory by a supervisor – demonstrated on a simulated patient
-**C**. Practitioner under supervision – demonstrated on a real patient
+**A**. Practitioner operating independently – demonstrated on a real patient\
+**B**. Pass in an accredited course or certified satisfactory by a supervisor – demonstrated on a simulated patient\
+**C**. Practitioner under supervision – demonstrated on a real patient\
 **D**. Practitioner assisting an independent practitioner – demonstrated on a real patient
 
 Each procedure has a defined minimum level of competency that must be met before the certifier can assign competency. A higher level of competency is also acceptable e.g. a candidate appropriately performs a specified task to the standard of an independent practitioner on a real patient when only simulation is required, is eligible for the certifier to sign that competency has been achieved.
@@ -900,9 +817,9 @@ Candidates are required to achieve certification at specified competency levels 
 
 There are four logbook levels:
 
-**A**. Performed on a patient under observation.
-**B**. Demonstrated in a simulated setting under observation. 
-**C**. Performed on a patient without observation.
+**A**. Performed on a patient under observation.\
+**B**. Demonstrated in a simulated setting under observation.\
+**C**. Performed on a patient without observation.\
 **D**. Observed or assisted someone else doing the procedure on a patient or observed the procedure on video (e.g. YouTube). 
 
 Candidates are required to complete:   
@@ -920,9 +837,9 @@ The AST EM procedural logbook requires certification of the candidate reaching t
 
 Competency levels:
 
-**A**. Performed to the standard of an independent practitioner on a real patient and not just a simulated environment
-**B**. Performed to a pass standard in a certified course in a simulated environment
-**C**. Performed under supervision to the standard of a practitioner working under supervision
+**A**. Performed to the standard of an independent practitioner on a real patient and not just a simulated environment\
+**B**. Performed to a pass standard in a certified course in a simulated environment\
+**C**. Performed under supervision to the standard of a practitioner working under supervision\
 **D**. Assisted with the supervisor performing the task
 
 The [AST Emergency Medicine Logbook](https://www.acrrm.org.au/docs/default-source/all-files/acrrm-emergency-medicine-logbook.pdf?sfvrsn=be4990eb_6) may be downloaded or a hardcopy obtained by emailing the training@acrrm.org.au    
