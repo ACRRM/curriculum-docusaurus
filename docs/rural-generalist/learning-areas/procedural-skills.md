@@ -8,7 +8,7 @@ sidebar_label: Procedural Skills
 
 #### CG.K.1
 
-Identify common and important procedures for the patient
+Identify common and important procedures for the patients
 
 #### CG.K.2
 
