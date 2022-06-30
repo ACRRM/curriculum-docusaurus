@@ -8,7 +8,7 @@ sidebar_label: Adult Internal Medicine
 
 #### CG.K.1
 
-Illustrate a working knowledge of anatomy and physiologyy 
+Illustrate a working knowledge of anatomy and **physiology**
 
 #### CG.K.2
 
