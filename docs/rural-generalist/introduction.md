@@ -13,7 +13,7 @@ acknowledgment of:
 * the need for well-designed vocational preparation and continuing medical education for
   rural doctors, and
 * the need to address the shortage of rural and remote doctors in Australia, by providing
-  them with a separate and distinctive professional body
+  them with a separate and distinctive professional body.
 
 ACRRM is a professional college accredited by the Australian Medical Council to define
 standards and deliver training in the medical specialty of general practice.
