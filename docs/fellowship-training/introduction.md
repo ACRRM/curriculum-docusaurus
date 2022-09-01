@@ -721,15 +721,11 @@ Life Hacks Connect is a series of non-mandatory monthly education support acti
 
 All registrars must successfully complete:
 
-* One ACRRM core emergency medicine course (eg. [REST](https://www.acrrm.org.au/courses/face-to-face/rest))
-* One [ACRRM ALS Level 2](https://www.acrrm.org.au/courses/face-to-face/als) course
-* One Tier 2 course relevant to their AST, or other identified need (eg. [REOT](https://www.acrrm.org.au/courses/face-to-face/reot), [PHEC](https://www.acrrm.org.au/courses/face-to-face/pre-hospital-emergency-care-phec), [RACM](https://www.acrrm.org.au/courses/face-to-face/racm))
+* Rural Emergency Skills Training ([REST](https://www.acrrm.org.au/courses/face-to-face/rest)) provided by ACRRM
+  * completed by the end of second year CGT, and
+* One Tier 1 course or two Tier 2 courses, approved by ACRRM
 
-All education activities must be completed within the 5 years prior to 'Completion of Training'. 
-
-One ALS Level 2 course must be completed within three year prior to 'Completion of Training'.
-
-These courses are provided by ACRRM and other approved providers.
+All courses must be completed within the 10 years prior to 'Completion of Training'. 
 
 *Emergency course criteria*
 
@@ -1006,7 +1002,7 @@ Train in Anaesthetics posts accredited by the Diploma of Rural Generalist Anaest
 
 Registrars participate in the ANZCA registrar education program and education tailored to the AST curriculum.
 
-Registrars must successfully complete mandatory courses, including [Rural Anaesthetic Crisis Management (RACM)](https://www.acrrm.org.au/courses/face-to-face/racm).
+Registrars must successfully complete mandatory courses, such as[Rural Anaesthetic Crisis Management (RACM)](https://www.acrrm.org.au/courses/face-to-face/racm).
 
 **Assessment**
 
@@ -1241,7 +1237,7 @@ Placements in an ACRRM accredited post in a MM 6-7 location or MM 5 approved cas
 
 Registrars must participate in the education program provided by the training post.
 
-Registrars must complete a [Pre-Hospital Emergency Care Course (PHEC)](https://www.acrrm.org.au/courses/face-to-face/pre-hospital-emergency-care-phec).
+Registrars are also recommended to undertake a [Pre-Hospital Emergency Care Course (PHEC)](https://www.acrrm.org.au/courses/face-to-face/pre-hospital-emergency-care-phec).
 
 Registrars will supplement their learning by completing ACRRM online courses which have content relevant to remote medicine, for example:
 
