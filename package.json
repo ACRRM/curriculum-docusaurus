@@ -11,7 +11,8 @@
     "deploy": "docusaurus deploy",
     "move-pdf": "shx mv docusaurus.pdf build/generated.pdf && shx cp build/rural-generalist.pdf static/rural-generalist.pdf",
     "create-pdf": "docusaurus-pdf from-build build /rural-generalist/introduction --output-file build/img/rural-generalist.pdf",
-    "postinstall": "patch-package"
+    "postinstall": "patch-package",
+    "format": "prettier --write ."
   },
   "dependencies": {
     "@docusaurus/core": "2.0.0-alpha.70",
@@ -36,6 +37,7 @@
     "not unreleased versions"
   ],
   "devDependencies": {
+    "prettier": "^2.7.1",
     "shx": "^0.3.2"
   }
 }

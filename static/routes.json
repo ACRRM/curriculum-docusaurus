@@ -1,6 +1,6 @@
 {
-    "routes": [],
-    "mimeTypes": {
-        "yml": "application/x-yaml"
-    }
+  "routes": [],
+  "mimeTypes": {
+    "yml": "application/x-yaml"
+  }
 }

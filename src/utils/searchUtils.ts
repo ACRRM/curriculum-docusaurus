@@ -5,7 +5,7 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-export const DEFAULT_SEARCH_TAG = 'default';
+export const DEFAULT_SEARCH_TAG = "default";
 
 export function docVersionSearchTag(pluginId: string, versionName: string) {
   return `docs-${pluginId}-${versionName}`;

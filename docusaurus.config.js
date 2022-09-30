@@ -10,20 +10,18 @@ module.exports = {
   onBrokenLinks: "warn",
   scripts: [
     {
-      src:
-      "https://identity.netlify.com/v1/netlify-identity-widget.js",
+      src: "https://identity.netlify.com/v1/netlify-identity-widget.js",
       async: true,
     },
     {
-      src:
-      "/netlifyIdentity.js",
+      src: "/netlifyIdentity.js",
       defer: true,
     },
   ],
   themeConfig: {
-    colorMode: {      
+    colorMode: {
       disableSwitch: true,
-      respectPrefersColorScheme: true
+      respectPrefersColorScheme: true,
     },
     navbar: {
       hideOnScroll: true,
@@ -88,35 +86,35 @@ module.exports = {
             content: "#e87500",
           },
           {
-            tagName: 'meta',
-            name: 'apple-mobile-web-app-capable',
-            content: 'yes',
+            tagName: "meta",
+            name: "apple-mobile-web-app-capable",
+            content: "yes",
           },
           {
-            tagName: 'meta',
-            name: 'apple-mobile-web-app-status-bar-style',
-            content: '#000',
+            tagName: "meta",
+            name: "apple-mobile-web-app-status-bar-style",
+            content: "#000",
           },
           {
-            tagName: 'link',
-            rel: 'apple-touch-icon',
-            href: '/img/icons/icon-512x512.png',
+            tagName: "link",
+            rel: "apple-touch-icon",
+            href: "/img/icons/icon-512x512.png",
           },
           {
-            tagName: 'link',
-            rel: 'mask-icon',
-            href: '/img/icons/maskable_icon.png',
-            color: '#e87500',
+            tagName: "link",
+            rel: "mask-icon",
+            href: "/img/icons/maskable_icon.png",
+            color: "#e87500",
           },
           {
-            tagName: 'meta',
-            name: 'msapplication-TileImage',
-            content: '/img/icons/icon-512x512.png',
+            tagName: "meta",
+            name: "msapplication-TileImage",
+            content: "/img/icons/icon-512x512.png",
           },
           {
-            tagName: 'meta',
-            name: 'msapplication-TileColor',
-            content: '#000',
+            tagName: "meta",
+            name: "msapplication-TileColor",
+            content: "#000",
           },
         ],
       },
@@ -138,10 +136,10 @@ module.exports = {
         },
         sitemap: {
           cacheTime: 600 * 1000, // 600 sec - cache purge period
-          changefreq: 'weekly',
+          changefreq: "weekly",
           priority: 0.5,
           trailingSlash: false,
-        }
+        },
       },
     ],
   ],
