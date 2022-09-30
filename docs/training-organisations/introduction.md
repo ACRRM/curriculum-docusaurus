@@ -78,8 +78,8 @@ subsections mandatory indicators are included to provide additional guidance.
 
 The ACRRM Standards for Training Organisations 2020 replace the ACRRM Standards for
 Training Organisations 2016. The language in the Standards document is updated to reflect
-structural and terminology changes in the College program resulting from the implementation
-of the Rural Generalist Curriculum and the Training Program Requirements policy.
+structural and terminology changes in the College program resulting from the implementation of the Rural Generalist Curriculum and the Training Program Requirements policy.
+
 The revised standards include two additional mandatory indicators. The first indicator has
 been added following a revision of the ACRRM Standards for Supervisors and Training
 Posts. This standard moves the responsibility for ACRRM registrars to have a rural mentor
