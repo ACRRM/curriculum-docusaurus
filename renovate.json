@@ -1,5 +1,6 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": ["config:base"],
-  "gitAuthor": "acrrmbot <114710185+acrrmbot@users.noreply.github.com@acrrm.org.au>"
+  "gitAuthor": "114710185+acrrmbot@users.noreply.github.com@acrrm.org.au",
+  "prConcurrentLimit": 1
 }
