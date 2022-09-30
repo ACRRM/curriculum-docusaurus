@@ -12,7 +12,8 @@
     "move-pdf": "shx mv docusaurus.pdf build/generated.pdf && shx cp build/rural-generalist.pdf static/rural-generalist.pdf",
     "create-pdf": "docusaurus-pdf from-build build /rural-generalist/introduction --output-file build/img/rural-generalist.pdf",
     "postinstall": "patch-package",
-    "format": "prettier --write ."
+    "format": "prettier --write .",
+    "allg": "renovate-config-validator"
   },
   "dependencies": {
     "@docusaurus/core": "2.0.0-alpha.70",
