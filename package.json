@@ -18,16 +18,16 @@
     "@docusaurus/core": "2.0.0-alpha.70",
     "@docusaurus/plugin-pwa": "2.0.0-alpha.70",
     "@docusaurus/preset-classic": "2.0.0-alpha.70",
-    "clsx": "^1.1.1",
-    "docusaurus-lunr-search": "^2.1.9",
-    "docusaurus-pdf": "^1.2.0",
-    "docusaurus-plugin-auto-sidebars": "^1.0.7",
-    "netlify-cms": "^2.10.78",
-    "netlify-cms-widget-mdx": "^0.4.4",
-    "patch-package": "^6.2.2",
-    "postinstall-postinstall": "^2.1.0",
-    "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "clsx": "1.1.1",
+    "docusaurus-lunr-search": "2.1.9",
+    "docusaurus-pdf": "1.2.0",
+    "docusaurus-plugin-auto-sidebars": "1.0.7",
+    "netlify-cms": "2.10.78",
+    "netlify-cms-widget-mdx": "0.4.4",
+    "patch-package": "6.2.2",
+    "postinstall-postinstall": "2.1.0",
+    "react": "17.0.1",
+    "react-dom": "17.0.1"
   },
   "browserslist": [
     "defaults",
@@ -37,10 +37,10 @@
     "not unreleased versions"
   ],
   "devDependencies": {
-    "prettier": "^2.7.1",
-    "shx": "^0.3.2"
+    "prettier": "2.7.1",
+    "shx": "0.3.2"
   },
   "engines": {
-    "node": "^16"
+    "node": "16"
   }
 }
