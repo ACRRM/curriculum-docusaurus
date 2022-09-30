@@ -18,13 +18,7 @@ jobs:
       - uses: actions/checkout@v2
         with:
           submodules: true
-
-      - name: Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: 16
-          # try to get the latest 16.x Node
-          check-latest: true
+          fetch-depth: 1
 
       - name: App Service Web App Build Action
         uses: Azure/appservice-build@v2
