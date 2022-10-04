@@ -39,7 +39,7 @@ const DocsPreferredVersionStorage = {
     } else {
       window.localStorage.removeItem(storageKey(pluginId));
     }
-  },
+  }
 };
 
 export default DocsPreferredVersionStorage;

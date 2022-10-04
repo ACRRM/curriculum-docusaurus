@@ -11,10 +11,10 @@ class LunrSearchAdapter {
     return this.lunrIndex.query(function (query) {
       const tokens = lunr.tokenizer(input);
       query.term(tokens, {
-        boost: 10,
+        boost: 10
       });
       query.term(tokens, {
-        wildcard: lunr.Query.wildcard.TRAILING,
+        wildcard: lunr.Query.wildcard.TRAILING
       });
     });
   }
@@ -23,30 +23,30 @@ class LunrSearchAdapter {
     return {
       hierarchy: {
         lvl0: doc.pageTitle || doc.title,
-        lvl1: doc.type === 0 ? null : doc.title,
+        lvl1: doc.type === 0 ? null : doc.title
       },
       url: doc.url,
       _snippetResult: formattedContent
         ? {
             content: {
               value: formattedContent,
-              matchLevel: "full",
-            },
+              matchLevel: "full"
+            }
           }
         : null,
       _highlightResult: {
         hierarchy: {
           lvl0: {
-            value: doc.type === 0 ? formattedTitle || doc.title : doc.pageTitle,
+            value: doc.type === 0 ? formattedTitle || doc.title : doc.pageTitle
           },
           lvl1:
             doc.type === 0
               ? null
               : {
-                  value: formattedTitle || doc.title,
-                },
-        },
-      },
+                  value: formattedTitle || doc.title
+                }
+        }
+      }
     };
   }
   getTitleHit(doc, position, length) {

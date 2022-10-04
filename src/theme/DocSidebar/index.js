@@ -87,7 +87,7 @@ function DocSidebarItemCategory({
   return (
     <li
       className={clsx("menu__list-item", {
-        "menu__list-item--collapsed": collapsed,
+        "menu__list-item--collapsed": collapsed
       })}
       key={label}
     >
@@ -95,7 +95,7 @@ function DocSidebarItemCategory({
         className={clsx("menu__link", {
           "menu__link--sublist": collapsible,
           "menu__link--active": collapsible && isActive,
-          [styles.menuLinkText]: !collapsible,
+          [styles.menuLinkText]: !collapsible
         })}
         onClick={collapsible ? handleItemClick : undefined}
         href={collapsible ? "#!" : undefined}
@@ -132,18 +132,18 @@ function DocSidebarItemLink({
     <li className="menu__list-item" key={label}>
       <Link
         className={clsx("menu__link", {
-          "menu__link--active": isActive,
+          "menu__link--active": isActive
         })}
         to={href}
         {...(isInternalUrl(href)
           ? {
               isNavLink: true,
               exact: true,
-              onClick: onItemClick,
+              onClick: onItemClick
             }
           : {
               target: "_blank",
-              rel: "noreferrer noopener",
+              rel: "noreferrer noopener"
             })}
         {...props}
       >
@@ -168,9 +168,9 @@ function DocSidebar({ path, sidebar, sidebarCollapsible = true }) {
   const [showResponsiveSidebar, setShowResponsiveSidebar] = useState(false);
   const {
     siteConfig: {
-      themeConfig: { navbar: { title = "", hideOnScroll = false } = {} } = {},
+      themeConfig: { navbar: { title = "", hideOnScroll = false } = {} } = {}
     } = {},
-    isClient,
+    isClient
   } = useDocusaurusContext();
   const { isAnnouncementBarClosed } = useUserPreferencesContext();
   const { scrollY } = useScrollPosition();
@@ -184,7 +184,7 @@ function DocSidebar({ path, sidebar, sidebarCollapsible = true }) {
   return (
     <div
       className={clsx(styles.sidebar, {
-        [styles.sidebarWithHideableNavbar]: hideOnScroll,
+        [styles.sidebarWithHideableNavbar]: hideOnScroll
       })}
     >
       {hideOnScroll && <Logo className={styles.sidebarLogo} />}
@@ -192,7 +192,7 @@ function DocSidebar({ path, sidebar, sidebarCollapsible = true }) {
         className={clsx("menu", "menu--responsive", styles.menu, {
           "menu--show": showResponsiveSidebar,
           [styles.menuWithAnnouncementBar]:
-            !isAnnouncementBarClosed && scrollY === 0,
+            !isAnnouncementBarClosed && scrollY === 0
         })}
       >
         <button

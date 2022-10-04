@@ -10,7 +10,7 @@ import React, {
   useContext,
   useEffect,
   useMemo,
-  useState,
+  useState
 } from "react";
 import useThemeConfig, { DocsVersionPersistence } from "../useThemeConfig";
 import { isDocsPluginEnabled } from "../docsUtils";
@@ -39,7 +39,7 @@ function getInitialState(pluginIds: string[]): DocsPreferredVersionState {
   const initialState: DocsPreferredVersionState = {};
   pluginIds.forEach((pluginId) => {
     initialState[pluginId] = {
-      preferredVersionName: null,
+      preferredVersionName: null
     };
   });
   return initialState;
@@ -50,7 +50,7 @@ function getInitialState(pluginIds: string[]): DocsPreferredVersionState {
 function readStorageState({
   pluginIds,
   versionPersistence,
-  allDocsData,
+  allDocsData
 }: {
   pluginIds: string[];
   versionPersistence: DocsVersionPersistence;
@@ -113,12 +113,12 @@ function useContextValue() {
       );
       setState((s) => ({
         ...s,
-        [pluginId]: { preferredVersionName: versionName },
+        [pluginId]: { preferredVersionName: versionName }
       }));
     }
 
     return {
-      savePreferredVersion,
+      savePreferredVersion
     };
   }, [setState]);
 
@@ -130,7 +130,7 @@ type DocsPreferredVersionContextValue = ReturnType<typeof useContextValue>;
 const Context = createContext<DocsPreferredVersionContextValue | null>(null);
 
 export default function DocsPreferredVersionContextProvider({
-  children,
+  children
 }: {
   children: ReactNode;
 }) {
@@ -146,7 +146,7 @@ export default function DocsPreferredVersionContextProvider({
 }
 
 function DocsPreferredVersionContextProviderUnsafe({
-  children,
+  children
 }: {
   children: ReactNode;
 }) {

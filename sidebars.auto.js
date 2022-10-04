@@ -3,29 +3,29 @@ module.exports = {
     "_index",
     {
       type: "ref",
-      id: "fellowship-assessment/introduction",
+      id: "fellowship-assessment/introduction"
     },
     {
       type: "ref",
-      id: "fellowship-training/introduction",
+      id: "fellowship-training/introduction"
     },
     {
       type: "ref",
-      id: "supervisors-and-training-posts/introduction",
+      id: "supervisors-and-training-posts/introduction"
     },
     {
       type: "ref",
-      id: "training-organisations/introduction",
-    },
+      id: "training-organisations/introduction"
+    }
   ],
   "Fellowship Assessment": [
     "fellowship-assessment/introduction",
     "fellowship-assessment/assessment-policies",
-    "fellowship-assessment/assessment-modalities",
+    "fellowship-assessment/assessment-modalities"
   ],
   "Fellowship Training": ["fellowship-training/introduction"],
   "Supervisors and Training Posts": [
-    "supervisors-and-training-posts/introduction",
+    "supervisors-and-training-posts/introduction"
   ],
   "Training Organisations": ["training-organisations/introduction"],
   "Rural Generalist": [
@@ -72,8 +72,8 @@ module.exports = {
         "rural-generalist/learning-areas/remote-medicine",
         "rural-generalist/learning-areas/scholar",
         "rural-generalist/learning-areas/sexual-health",
-        "rural-generalist/learning-areas/surgery",
-      ],
-    },
-  ],
+        "rural-generalist/learning-areas/surgery"
+      ]
+    }
+  ]
 };

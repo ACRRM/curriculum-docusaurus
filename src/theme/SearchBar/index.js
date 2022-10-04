@@ -32,7 +32,7 @@ const Search = (props) => {
         // So, we can safely remove it. See https://github.com/facebook/docusaurus/issues/1828 for more details.
 
         history.push(url);
-      },
+      }
     });
   };
 
@@ -52,7 +52,7 @@ const Search = (props) => {
         getSearchDoc(),
         getLunrIndex(),
         import("./lib/DocSearch"),
-        import("./algolia.css"),
+        import("./algolia.css")
       ]).then(([searchDocs, searchIndex, { default: DocSearch }]) => {
         initAlgolia(searchDocs, searchIndex, DocSearch);
       });
@@ -77,7 +77,7 @@ const Search = (props) => {
         aria-label="expand searchbar"
         role="button"
         className={classnames("search-icon", {
-          "search-icon-hidden": props.isSearchBarExpanded,
+          "search-icon-hidden": props.isSearchBarExpanded
         })}
         onClick={toggleSearchIconClick}
         onKeyDown={toggleSearchIconClick}

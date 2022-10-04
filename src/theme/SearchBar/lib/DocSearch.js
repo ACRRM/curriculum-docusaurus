@@ -25,13 +25,13 @@ class DocSearch {
     autocompleteOptions = {
       debug: false,
       hint: false,
-      autoselect: true,
+      autoselect: true
     },
     transformData = false,
     queryHook = false,
     handleSelected = false,
     enhancedSearchInput = false,
-    layout = "collumns",
+    layout = "columns"
   }) {
     this.input = DocSearch.getInputFromSelector(inputSelector);
     this.queryDataCallback = queryDataCallback || null;
@@ -66,9 +66,9 @@ class DocSearch {
         templates: {
           suggestion: DocSearch.getSuggestionTemplate(this.isSimpleLayout),
           footer: templates.footer,
-          empty: DocSearch.getEmptyTemplate(),
-        },
-      },
+          empty: DocSearch.getEmptyTemplate()
+        }
+      }
     ]);
 
     const customHandleSelected = handleSelected;
@@ -200,7 +200,7 @@ class DocSearch {
           utils.getHighlightedValue(hit, "lvl3"),
           utils.getHighlightedValue(hit, "lvl4"),
           utils.getHighlightedValue(hit, "lvl5"),
-          utils.getHighlightedValue(hit, "lvl6"),
+          utils.getHighlightedValue(hit, "lvl6")
         ])
         .join(
           '<span class="aa-suggestion-title-separator" aria-hidden="true"> › </span>'
@@ -232,7 +232,7 @@ class DocSearch {
         subcategory,
         title: displayTitle,
         text,
-        url,
+        url
       };
     });
   }

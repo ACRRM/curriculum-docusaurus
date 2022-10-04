@@ -24,10 +24,10 @@ function FooterLink({ to, href, label, prependBaseUrlToHref, ...props }) {
         ? {
             target: "_blank",
             rel: "noopener noreferrer",
-            href: prependBaseUrlToHref ? normalizedHref : href,
+            href: prependBaseUrlToHref ? normalizedHref : href
           }
         : {
-            to: toUrl,
+            to: toUrl
           })}
       {...props}
     >
@@ -53,7 +53,7 @@ function Footer(): JSX.Element | null {
   return (
     <footer
       className={clsx("footer", {
-        "footer--dark": footer.style === "dark",
+        "footer--dark": footer.style === "dark"
       })}
     >
       <div className={styles.containerFooter}>
