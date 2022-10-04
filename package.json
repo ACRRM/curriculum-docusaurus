@@ -22,7 +22,7 @@
     "docusaurus-lunr-search": "2.1.9",
     "docusaurus-pdf": "1.2.0",
     "docusaurus-plugin-auto-sidebars": "1.0.7",
-    "netlify-cms": "2.10.78",
+    "netlify-cms": "2.10.192",
     "netlify-cms-widget-mdx": "0.4.4",
     "patch-package": "6.2.2",
     "postinstall-postinstall": "2.1.0",
