@@ -11,38 +11,36 @@
     "deploy": "docusaurus deploy",
     "move-pdf": "shx mv docusaurus.pdf build/generated.pdf && shx cp build/rural-generalist.pdf static/rural-generalist.pdf",
     "create-pdf": "docusaurus-pdf from-build build /rural-generalist/introduction --output-file build/img/rural-generalist.pdf",
-    "postinstall": "patch-package"
+    "postinstall": "patch-package",
+    "format": "prettier --write ."
   },
   "dependencies": {
     "@docusaurus/core": "2.0.0-alpha.70",
     "@docusaurus/plugin-pwa": "2.0.0-alpha.70",
     "@docusaurus/preset-classic": "2.0.0-alpha.70",
-    "bulma": "^0.9.1",
-    "clsx": "^1.1.1",
-    "docusaurus-lunr-search": "^2.1.9",
-    "docusaurus-pdf": "^1.2.0",
-    "docusaurus-plugin-auto-sidebars": "^1.0.7",
-    "docusaurus-plugin-sass": "^0.1.11",
-    "netlify-cms": "^2.10.78",
-    "netlify-cms-widget-mdx": "^0.4.4",
-    "patch-package": "^6.2.2",
-    "postinstall-postinstall": "^2.1.0",
-    "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "clsx": "1.1.1",
+    "docusaurus-lunr-search": "2.1.9",
+    "docusaurus-pdf": "1.2.0",
+    "docusaurus-plugin-auto-sidebars": "1.0.7",
+    "netlify-cms": "2.10.78",
+    "netlify-cms-widget-mdx": "0.4.4",
+    "patch-package": "6.2.2",
+    "postinstall-postinstall": "2.1.0",
+    "react": "17.0.1",
+    "react-dom": "17.0.1"
   },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
-  },
+  "browserslist": [
+    "defaults",
+    "last 2 major versions",
+    "not ie <= 11",
+    "not op_mini all",
+    "not unreleased versions"
+  ],
   "devDependencies": {
-    "shx": "^0.3.2"
+    "prettier": "2.7.1",
+    "shx": "0.3.2"
+  },
+  "engines": {
+    "node": "16"
   }
 }
