@@ -9,10 +9,8 @@ The Australian College of Rural and Remote Medicine (ACRRM) is a professional Co
 accredited by the Australian Medical Council to define standards and deliver training in the
 medical speciality of general practice. Fellows of ACRRM receive specialist registration as a
 General Practitioner with the Medical Board of Australia and can practise in any location
-throughout Australia.
-
-ACRRM’s curriculum and training program also prepares doctors to be Rural Generalist
-medical practitioners.
+throughout Australia. ACRRM’s curriculum and training program also prepares doctors to be Rural Generalist
+medical practitioners. Hello 🙏
 
 ## Rural Generalist medical practitioner
 
