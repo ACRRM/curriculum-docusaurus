@@ -201,8 +201,6 @@ CGT requires a minimum of three years full time equivalent (FTE) as described in
 
 ### Training
 
-T﻿his is a test
-
 All training must take place in accredited training posts. Training placements must provide the opportunity to gain the required scope, type and volume of clinical experience, at an appropriate level of responsibility. 
 
 ACRRM accredits training posts for CGT in regional, rural or remote areas of Australia. Accredited posts include general practices, Aboriginal and Torres Strait Islander medical services, hospitals, emergency departments and retrieval services. 
