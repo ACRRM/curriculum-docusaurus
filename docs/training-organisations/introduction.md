@@ -10,7 +10,7 @@ accredited by the Australian Medical Council to define standards and deliver tra
 medical speciality of general practice. Fellows of ACRRM receive specialist registration as a
 General Practitioner with the Medical Board of Australia and can practise in any location
 throughout Australia. ACRRM’s curriculum and training program also prepares doctors to be Rural Generalist
-medical practitioners. Hello 🙏
+medical practitioners.
 
 ## Rural Generalist medical practitioner
 
