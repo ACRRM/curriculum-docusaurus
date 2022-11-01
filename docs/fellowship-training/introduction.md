@@ -722,10 +722,13 @@ Life Hacks Connect is a series of non-mandatory monthly education support acti
 All registrars must successfully complete:
 
 * Rural Emergency Skills Training ([REST](https://www.acrrm.org.au/courses/face-to-face/rest)) provided by ACRRM
+
   * completed by the end of second year CGT, and
 * One Tier 1 course or two Tier 2 courses, approved by ACRRM
 
-All courses must be completed within the 10 years prior to 'Completion of Training'. 
+All education activities must be completed within the 5 years prior to 'Completion of Training'. 
+
+These courses are provided by ACRRM and other approved providers.
 
 *Emergency course criteria*
 
@@ -1002,7 +1005,7 @@ Train in Anaesthetics posts accredited by the Diploma of Rural Generalist Anaest
 
 Registrars participate in the ANZCA registrar education program and education tailored to the AST curriculum.
 
-Registrars must successfully complete mandatory courses, such as[Rural Anaesthetic Crisis Management (RACM)](https://www.acrrm.org.au/courses/face-to-face/racm).
+Registrars must successfully complete mandatory courses, such as [Rural Anaesthetic Crisis Management (RACM)](https://www.acrrm.org.au/courses/face-to-face/racm).
 
 **Assessment**
 
