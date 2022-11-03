@@ -158,7 +158,7 @@ Integrity
 
 #### Diagnostic Imaging
 
-***Essential*** 
+*Essential* 
 
 * Focused assessment with sonography for trauma (eFAST)
 * Ultrasound in early pregnancy
