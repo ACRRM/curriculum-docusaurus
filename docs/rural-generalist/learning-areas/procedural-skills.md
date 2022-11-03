@@ -86,7 +86,7 @@ Integrity
 
 #### Adult Internal Medicine
 
-***Essential***
+*Essential*
 
 * Arterial blood gas sampling
 * Blood culture collection
@@ -100,7 +100,7 @@ Integrity
 * Venepuncture
 * Suprapubic catherisation
 
-***Important***
+*Important*
 
 * Proctoscopy
 * Ascitic tap/paracentesis
@@ -110,7 +110,7 @@ Integrity
 
 #### A﻿naesthetics
 
-***Essential***
+*Essential*
 
 * Administer nitrous oxide (as analgesia)
 * Bag/mask ventilation (adult)
@@ -124,7 +124,7 @@ Integrity
 * Peripheral line seldinger
 * Procedural sedation (adult)
 
-***Important***
+*Important*
 
 * Femoral nerve block/fascia iliaca block
 * Intercostal nerve block
@@ -132,7 +132,7 @@ Integrity
 
 #### Dermatology
 
-***Essential***
+*Essential*
 
 * Biopsy of skin lesion- curette
 * Biopsy of skin lesion – excision
@@ -149,7 +149,7 @@ Integrity
 * Suture superficial skin laceration (adult)
 * Wound swab for microscopy, culture, and sensitivity
 
-***Important***
+*Important*
 
 * Burn dressings
 * Viral PCR swab of vesicle
@@ -166,7 +166,7 @@ Integrity
 
 #### Ear, Nose, and Throat
 
-***Essential***
+*Essential*
 
 * Nasal swab
 * Throat swab
@@ -178,14 +178,14 @@ Integrity
 * Packing of nasal cavity (anterior/posterior)
 * Epley manoeuvre for benign paroxysmal positional vertigo
 
-***Important***
+*Important*
 
 * Quinsy incision and drainage
 * Foreign body removal- nose
 
 #### Emergency care
 
-***Essential***
+*Essential*
 
 * Apply ALS algorithm
 * Perform a primary survey
@@ -223,7 +223,7 @@ Integrity
 * Chemically restrain an agitated patient
 * Pressure immoblisation bandage
 
-***Important***
+*Important*
 
 * Central vein cannulation
 * Arterial line insertion
@@ -232,7 +232,7 @@ Integrity
 
 #### Musculoskeletal
 
-***Essential***
+*Essential*
 
 * Application of finger splint
 * Application of lower limb cast/back slab
@@ -247,14 +247,14 @@ Integrity
 * Subcutaneous injection
 * Joint injection (large joints)
 
-***Important*** 
+*Important* 
 
 * Unlocking knee
 * Unlocking temporomandibular joint
 
 #### Obstetrics and Gynaecology
 
-***Essential***
+*Essential*
 
 * Cervical screening test/pap smear
 * Cardiotocography
@@ -267,14 +267,14 @@ Integrity
 * Urine pregnancy testing
 * Manage shoulder dystocia
 
-***Important***
+*Important*
 
 * Episiotomy
 * Perineal repair
 
 #### Ophthalmology
 
-***Essential***
+*Essential*
 
 * Application of eye patch
 * Eyelid eversion
@@ -291,7 +291,7 @@ Integrity
 
 #### Paediatrics
 
-***Essential***
+*Essential*
 
 * Assess hydration status
 * Fluid therapy/fluid resuscitation (child/neonatal)
@@ -318,7 +318,7 @@ Integrity
 * Synchronised DC cardioversion (child)
 * Umbilical catheter (neonate)
 
-***Important***
+*Important*
 
 * Thoracocentesis
 * Defibrillation
@@ -329,7 +329,7 @@ Integrity
 
 #### Surgery
 
-***Essential***
+*Essential*
 
 * Drainage of subungual haematoma
 * Incision and drainage of abscess
@@ -337,7 +337,7 @@ Integrity
 * Wound dressing and management
 * Toenail- Wedge excision/ingrown toenail surgery
 
-***Important***
+*Important*
 
 * Drainage of thrombosed external haemorrhoid
 * Drainage of perianal abscess
