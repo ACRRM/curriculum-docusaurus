@@ -88,259 +88,259 @@ Integrity
 
 ***Essential***
 
-Arterial blood gas sampling\
-Blood culture collection\
-Lumbar puncture\
-NMSE/Dementia screening\
-Nasogastric tube insertion\
-Nebulisation therapy\
-Spirometry and peak flow measurement\
-Thrombolytic therapy\
-Urethral catheterisation on male\
-Venepuncture\
-Suprapubic catherisation
+* Arterial blood gas sampling
+* Blood culture collection
+* Lumbar puncture
+* NMSE/Dementia screening
+* Nasogastric tube insertion
+* Nebulisation therapy
+* Spirometry and peak flow measurement
+* Thrombolytic therapy
+* Urethral catheterisation on male
+* Venepuncture
+* Suprapubic catherisation
 
 ***Important***
 
-Proctoscopy\
-Ascitic tap/paracentesis\
-Pleural tap/drainage\
-Pericardiocentesis\
-Sigmoidoscopy
+* Proctoscopy
+* Ascitic tap/paracentesis
+* Pleural tap/drainage
+* Pericardiocentesis
+* Sigmoidoscopy
 
 #### A﻿naesthetics
 
 ***Essential***
 
-Administer nitrous oxide (as analgesia)\
-Bag/mask ventilation (adult)\
-Bougie\
-Digital nerve block\
-Endotracheal intubation(adult)\
-Intranasal analgesia\
-Intravenous sedation in intubated patient\
-Laryngeal mask airway (LMA)\
-Orogastric tube insertion\
-Peripheral line seldinger\
-Procedural sedation (adult)
+* Administer nitrous oxide (as analgesia)
+* Bag/mask ventilation (adult)
+* Bougie
+* Digital nerve block
+* Endotracheal intubation(adult)
+* Intranasal analgesia
+* Intravenous sedation in intubated patient
+* Laryngeal mask airway (LMA)
+* Orogastric tube insertion
+* Peripheral line seldinger
+* Procedural sedation (adult)
 
 ***Important***
 
-Femoral nerve block/fascia iliaca block\
-Intercostal nerve block\
-Biers block
+* Femoral nerve block/fascia iliaca block
+* Intercostal nerve block
+* Biers block
 
 #### Dermatology
 
 ***Essential***
 
-Biopsy of skin lesion- curette\
-Biopsy of skin lesion – excision\
-Biopsy of skin lesion – incision\
-Biopsy of skin lesion – punch\
-Biopsy of skin lesion – shave\
-Cryotherapy\
-Dermatoscope/dermatoscopy\
-Fungal skin scraping\
-Glue superficial skin laceration\
-Infiltrate local anaesthetic\
-Removal of subcutaneous foreign body\
-Suture deep skin laceration (multi-layer closure)\
-Suture superficial skin laceration (adult)\
-Wound swab for microscopy, culture, and sensitivity
+* Biopsy of skin lesion- curette
+* Biopsy of skin lesion – excision
+* Biopsy of skin lesion – incision
+* Biopsy of skin lesion – punch
+* Biopsy of skin lesion – shave
+* Cryotherapy
+* Dermatoscope/dermatoscopy
+* Fungal skin scraping
+* Glue superficial skin laceration
+* Infiltrate local anaesthetic
+* Removal of subcutaneous foreign body
+* Suture deep skin laceration (multi-layer closure)
+* Suture superficial skin laceration (adult)
+* Wound swab for microscopy, culture, and sensitivity
 
 ***Important***
 
-Burn dressings\
-Viral PCR swab of vesicle\
-Flap repairs\
-Skin graft repair
+* Burn dressings
+* Viral PCR swab of vesicle
+* Flap repairs
+* Skin graft repair
 
 #### Diagnostic Imaging
 
 ***Essential*** 
 
-Focused assessment with sonography for trauma (eFAST)\
-Ultrasound in early pregnancy\
-Ultrasound guided peripheral vascular access
+* Focused assessment with sonography for trauma (eFAST)
+* Ultrasound in early pregnancy
+* Ultrasound guided peripheral vascular access
 
 #### Ear, Nose, and Throat
 
 ***Essential***
 
-Nasal swab\
-Throat swab\
-Cauterise nasal bleeding\
-Ear toilet- dry mopping\
-Foreign body removal- ear\
-Hearing assessment- Rinne and Webber Test\
-Insert wick into external ear canal\
-Packing of nasal cavity (anterior/posterior)\
-Epley manoeuvre for benign paroxysmal positional vertigo
+* Nasal swab
+* Throat swab
+* Cauterise nasal bleeding
+* Ear toilet- dry mopping
+* Foreign body removal- ear
+* Hearing assessment- Rinne and Webber Test
+* Insert wick into external ear canal
+* Packing of nasal cavity (anterior/posterior)
+* Epley manoeuvre for benign paroxysmal positional vertigo
 
 ***Important***
 
-Quinsy incision and drainage\
-Foreign body removal- nose
+* Quinsy incision and drainage
+* Foreign body removal- nose
 
 #### Emergency care
 
 ***Essential***
 
-Apply ALS algorithm\
-Perform a primary survey\
-Apply a pelvic binder\
-Apply a tourniquet\
-Basic airway manoeuvres (chin, lift, jaw thrust)\
-C-Spine immobilisation with collar/inline stabilisation\
-Nasopharyngeal airway\
-Laryngeal mask airways\
-Rapid sequence induction\
-Rapid sequence induction with C-Spine immobilisation \
-Can’t intubate, can’t ventilate drill\
-Cricothyroidotomy/front of neck access\
-CPAP/BiPAP\
-Emergency use of mechanical ventilators\
-Oxygen saturation monitoring\
-Oxygen therapy (NP, Hudson, NRB mask, HFNP, concentrators)\
-Intercostal catheter(chest drain/chest tube)\
-Jet insufflation\
-Reduce tension pneumothorax- needle thoracocentesis/finger thoracostomy\
-Fluid resuscitation\
-Intravenous access- large bore (16G)\
-Blood transfusions\
-ECG- set up and record a 12 lead ECG\
-External cardiac massage/cardiopulmonary resuscitation (adult)\
-Defibrillation (synchronised)\
-Defibrillation (automated external defibrillation)\
-Intraosseous access\
-Synchronised DC cardioversion (adult)\
-3-4 person log roll\
-Glasgow coma scale\
-Stabilisation of injured spine\
-Mental state exam\
-Suicide risk assessment\
-Chemically restrain an agitated patient\
-Pressure immoblisation bandage
+* Apply ALS algorithm
+* Perform a primary survey
+* Apply a pelvic binder
+* Apply a tourniquet
+* Basic airway manoeuvres (chin, lift, jaw thrust)
+* C-Spine immobilisation with collar/inline stabilisation
+* Nasopharyngeal airway
+* Laryngeal mask airways
+* Rapid sequence induction
+* Rapid sequence induction with C-Spine immobilisation 
+* Can’t intubate, can’t ventilate drill
+* Cricothyroidotomy/front of neck access
+* CPAP/BiPAP
+* Emergency use of mechanical ventilators
+* Oxygen saturation monitoring
+* Oxygen therapy (NP, Hudson, NRB mask, HFNP, concentrators)
+* Intercostal catheter(chest drain/chest tube)
+* Jet insufflation
+* Reduce tension pneumothorax- needle thoracocentesis/finger thoracostomy
+* Fluid resuscitation
+* Intravenous access- large bore (16G)
+* Blood transfusions
+* ECG- set up and record a 12 lead ECG
+* External cardiac massage/cardiopulmonary resuscitation (adult)
+* Defibrillation (synchronised)
+* Defibrillation (automated external defibrillation)
+* Intraosseous access
+* Synchronised DC cardioversion (adult)
+* 3-4 person log roll
+* Glasgow coma scale
+* Stabilisation of injured spine
+* Mental state exam
+* Suicide risk assessment
+* Chemically restrain an agitated patient
+* Pressure immoblisation bandage
 
 ***Important***
 
-Central vein cannulation\
-Arterial line insertion\
-External cardiac pacing\
-NAC therapy in paracetamol poisoning
+* Central vein cannulation
+* Arterial line insertion
+* External cardiac pacing
+* NAC therapy in paracetamol poisoning
 
 #### Musculoskeletal
 
 ***Essential***
 
-Application of finger splint\
-Application of lower limb cast/back slab\
-Application of upper limb cast/back slab\
-Application of upper limb sling\
-Intramuscular injection\
-Joint aspiration\
-Reduction of dislocated shoulder\
-Reduction of lower limb fracture/dislocation\
-Reduction of upper limb fracture/dislocation (elbow/wrist/finger)\
-Soft tissue injury strapping/ankle strapping\
-Subcutaneous injection\
-Joint injection (large joints)
+* Application of finger splint
+* Application of lower limb cast/back slab
+* Application of upper limb cast/back slab
+* Application of upper limb sling
+* Intramuscular injection
+* Joint aspiration
+* Reduction of dislocated shoulder
+* Reduction of lower limb fracture/dislocation
+* Reduction of upper limb fracture/dislocation (elbow/wrist/finger)
+* Soft tissue injury strapping/ankle strapping
+* Subcutaneous injection
+* Joint injection (large joints)
 
 ***Important*** 
 
-Unlocking knee\
-Unlocking temporomandibular joint
+* Unlocking knee
+* Unlocking temporomandibular joint
 
 #### Obstetrics and Gynaecology
 
 ***Essential***
 
-Cervical screening test/pap smear\
-Cardiotocography\
-Foetal heart sound detection\
-Fundal height assessment\
-High vaginal swab\
-Insert and remove implanon\
-Manage normal vaginal delivery with complications\
-Urethral catherisation on female\
-Urine pregnancy testing\
-Manage shoulder dystocia
+* Cervical screening test/pap smear
+* Cardiotocography
+* Foetal heart sound detection
+* Fundal height assessment
+* High vaginal swab
+* Insert and remove implanon
+* Manage normal vaginal delivery with complications
+* Urethral catherisation on female
+* Urine pregnancy testing
+* Manage shoulder dystocia
 
 ***Important***
 
-Episiotomy\
-Perineal repair
+* Episiotomy
+* Perineal repair
 
 #### Ophthalmology
 
 ***Essential***
 
-Application of eye patch \
-Eyelid eversion\
-Irrigation of eye\
-Measurement of intra-ocular pressure\
-Removal of corneal foreign body\
-Removal of corneal rust ring\
-Removal of subtarsal foreign body\
-Staining cornea with fluorescein\
-Topical anaesthesia of cornea\
-Use ophthalmoscope\
-Use slit lamp\
-Visual acuity and field assessment
+* Application of eye patch
+* Eyelid eversion
+* Irrigation of eye
+* Measurement of intra-ocular pressure
+* Removal of corneal foreign body
+* Removal of corneal rust ring
+* Removal of subtarsal foreign body
+* Staining cornea with fluorescein
+* Topical anaesthesia of cornea
+* Use ophthalmoscope
+* Use slit lamp
+* Visual acuity and field assessment
 
 #### Paediatrics
 
 ***Essential***
 
-Assess hydration status\
-Fluid therapy/fluid resuscitation (child/neonatal)\
-Nasogastric tube insertion\
-Venepuncture (child/neonate)\
-Intravenous access\
-Vaccinations\
-Nebulisation therapy (child)\
-Use of inhalers/respiratory medical delivery device\
-Use of spacer devices\
-Reduction of fracture\
-Reduction of joint dislocation\
-Repair of superficial skin laceration\
-Procedural sedation\
-Six week baby check\
-Topical wound anaesthesia\
-Bag mask ventilation\
-Basic airways manoeuvres\
-Endotracheal intubation (child)\
-Endotracheal intubation (neonate)\
-External cardiac massage/CPR (child and neonate)\
-Intraosseus access (child and neonate)\
-Neonatal resuscitation\
-Synchronised DC cardioversion (child)\
-Umbilical catheter (neonate)
+* Assess hydration status
+* Fluid therapy/fluid resuscitation (child/neonatal)
+* Nasogastric tube insertion
+* Venepuncture (child/neonate)
+* Intravenous access
+* Vaccinations
+* Nebulisation therapy (child)
+* Use of inhalers/respiratory medical delivery device
+* Use of spacer devices
+* Reduction of fracture
+* Reduction of joint dislocation
+* Repair of superficial skin laceration
+* Procedural sedation
+* Six week baby check
+* Topical wound anaesthesia
+* Bag mask ventilation
+* Basic airways manoeuvres
+* Endotracheal intubation (child)
+* Endotracheal intubation (neonate)
+* External cardiac massage/CPR (child and neonate)
+* Intraosseus access (child and neonate)
+* Neonatal resuscitation
+* Synchronised DC cardioversion (child)
+* Umbilical catheter (neonate)
 
 ***Important***
 
-Thoracocentesis\
-Defibrillation\
-Emergency use of mechanical ventilators\
-Intercostal catheter – chest drain/chest tube (child)\
-Suprapubic aspiration\
-Urethral catheterisation
+* Thoracocentesis
+* Defibrillation
+* Emergency use of mechanical ventilators
+* Intercostal catheter – chest drain/chest tube (child)
+* Suprapubic aspiration
+* Urethral catheterisation
 
 #### Surgery
 
 ***Essential***
 
-Drainage of subungual haematoma
-Incision and drainage of abscess
-Wound debridement
-Wound dressing and management
-Toenail- Wedge excision/ingrown toenail surgery
+* Drainage of subungual haematoma
+* Incision and drainage of abscess
+* Wound debridement
+* Wound dressing and management
+* Toenail- Wedge excision/ingrown toenail surgery
 
 ***Important***
 
-Drainage of thrombosed external haemorrhoid
-Drainage of perianal abscess
+* Drainage of thrombosed external haemorrhoid
+* Drainage of perianal abscess
 
 Description of competency levels
 
