@@ -252,6 +252,96 @@ Joint injection (large joints)
 Unlocking knee\
 Unlocking temporomandibular joint
 
+#### Obstetrics and Gynaecology
+
+***Essential***
+
+Cervical screening test/pap smear\
+Cardiotocography\
+Foetal heart sound detection\
+Fundal height assessment\
+High vaginal swab\
+Insert and remove implanon\
+Manage normal vaginal delivery with complications\
+Urethral catherisation on female\
+Urine pregnancy testing\
+Manage shoulder dystocia
+
+***Important***
+
+Episiotomy\
+Perineal repair
+
+#### Ophthalmology
+
+***Essential***
+
+Application of eye patch \
+Eyelid eversion\
+Irrigation of eye\
+Measurement of intra-ocular pressure\
+Removal of corneal foreign body\
+Removal of corneal rust ring\
+Removal of subtarsal foreign body\
+Staining cornea with fluorescein\
+Topical anaesthesia of cornea\
+Use ophthalmoscope\
+Use slit lamp\
+Visual acuity and field assessment
+
+#### Paediatrics
+
+***Essential***
+
+Assess hydration status\
+Fluid therapy/fluid resuscitation (child/neonatal)\
+Nasogastric tube insertion\
+Venepuncture (child/neonate)\
+Intravenous access\
+Vaccinations\
+Nebulisation therapy (child)\
+Use of inhalers/respiratory medical delivery device\
+Use of spacer devices\
+Reduction of fracture\
+Reduction of joint dislocation\
+Repair of superficial skin laceration\
+Procedural sedation\
+Six week baby check\
+Topical wound anaesthesia\
+Bag mask ventilation\
+Basic airways manoeuvres\
+Endotracheal intubation (child)\
+Endotracheal intubation (neonate)\
+External cardiac massage/CPR (child and neonate)\
+Intraosseus access (child and neonate)\
+Neonatal resuscitation\
+Synchronised DC cardioversion (child)\
+Umbilical catheter (neonate)
+
+***Important***
+
+Thoracocentesis\
+Defibrillation\
+Emergency use of mechanical ventilators\
+Intercostal catheter – chest drain/chest tube (child)\
+Suprapubic aspiration\
+Urethral catheterisation
+
+#### Surgery
+
+***Essential***
+
+Drainage of subungual haematoma
+Incision and drainage of abscess
+Wound debridement
+Wound dressing and management
+Toenail- Wedge excision/ingrown toenail surgery
+
+***Important***
+
+Drainage of thrombosed external haemorrhoid
+Drainage of perianal abscess
+
 Description of competency levels
 
 Performed the procedure to the standard of a:
