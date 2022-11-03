@@ -82,152 +82,270 @@ Accountability
 
 Integrity
 
-<!-- TODO: fix this into table -->
+### Procedural skills list
 
-Procedural skills logbook
-	Minimum standard required for certification	Essential/Important
-Adult Internal Medicine
-rebreathing mask	A	Essential
-spirometry and peak flow measurement	A	
-nebulisation therapy	A	
-pleural tap/drainage	C	
-orogastric tube insertion	A	
-intercostal catheter 	C	
-thrombolytic therapy	C	
-lumbar puncture	C	
-arterial blood sampling	A	
-proctoscopy	C	
-nasogastric tube insertion	A	
-suprapubic catheterisation	C	
-Glasgow coma scale	A	
-urethral catheterisation on male 	A	
-oxygen concentrators	C	Important
-sigmoidoscopy	C	
-venom detection kit	C	
-ascitic tap	C	
-pericardiocentesis	B	
-Anaesthetics 
-intravenous access 	A	Essential
-interosseous access	B	
-peripheral line seldinger 	B	
-blood transfusion	A	
-oxygen saturation monitoring	A	
-oropharyngeal airway 	B	
-nasopharyngeal airway	B	
-laryngeal mask	B	
-endotracheal intubation	B	
-mouth to mouth/mask ventilation	B	
-bag/mask ventilation 	B	
-CPAP/BIPAP 	C	
-jet insufflation	B	
-cricothyroidotomy: emergency access	B	
-external cardiac massage 	B	
-rapid sequence induction 	C	
-Can’t intubate, can’t ventilate drill	B	
-defibrillation 	B	
-synchronised DC cardioversion 	B	
-emergency use of mechanical ventilators	D	
-reduce tension pneumothorax	B	
-administer nitrous oxide (as analgesia)	A	
-digital nerve block	A	
-adult sedation	B	
-topical wound anaesthesia	A	
-intercostal nerve block	C	Important
-biers block	A	
-femoral nerve block 	A	
-Child and Adolescent
-endotracheal intubation 	B	Essential
-intubation (neonate)	B	
-resuscitation (neonate)	B	
-umbilical catheter (neonate)	B	
-synchronised DC cardioversion 	B	
-intravenous access 	B 	
-use of respiratory medication delivery devices 	A	
-use of spacer devices 	A	
-nebulisation therapy 	A	
-intercostal catheter	C	
-thoracentesis 	C	
-nasogastric tube insertion 	A	
-local anaesthesia 	A	
-reduction of fracture 	C	
-reduction of joint dislocation 	C	
-repair of superficial skin lacerations 	A	
-removal of subcutaneous foreign body	A	
-venous blood sampling	A	
-sedation 	C	
-urethral catheterisation 	A	Important
-suprapubic aspiration	C	
-Dermatology
-dermatoscopy	A	Essential
-punch biopsy of skin lesion 	A	
-shave biopsy of skin lesion	A	
-excisional biopsy	A	
-curettage biopsy	A	
-incisional biopsy	A	
-Musculoskeletal medicine 
-soft tissue injury strapping	A	Essential
-soft tissue injection	A	
-joint (ganglions and around tendons) injection	A	
-joint and bursae aspiration	A	
-fracture splinting	A	
-fracture plaster cast	A	
-reduction of fracture (adult)	C	
-stabilisation of injured spine 	A	
-spinal mobilisation	C	
-reduction of joint dislocation 	C	
-unlocking temporomandibular joint	C	Important
-unlocking knee	C	
-Obstetrics & Women’s Health
-urethral catheterisation on female	A	Essential
-perform urine pregnancy testing	A	
-perform foetal heart sound detection	A	
-perform CTG interpretation 	B	
-manage shoulder dystocia 	B	
-manage normal delivery	B	
-episiotomy 	C	
-insert implanon	A	
-fundal height assessment	A	
-perform perineal repair	C	Important
-Ophthalmology 
-visual acuity and field assessment	A	Essential
-use ophthalmoscope	A	
-use slit lamp	A	
-topical anaesthesia of cornea	A	
-staining cornea with fluorescein	A	
-eyelid eversion	A	
-irrigation of eye	A	
-removal of corneal foreign body	A	
-removal of subtarsal foreign body	A	
-measurement of intra-ocular pressure	A	
-Radiology
-obstetric ultrasound	D	Essential
-focussed assessment with sonography for trauma	D	
-Surgery
-insertion wick into external ear canal	A	Essential
-central vein cannulation 	D	
-cryotherapy	A	
-ingrown toenail surgery	C	
-incision and drainage of abscess	A	
-drainage of subungual haematoma	A	
-drainage of thrombosed pile	C	
-packing of nasal cavity 	A	
-cauterise nasal bleeding	A	
-hearing assessment 	A	
-ear toilet	A	
-removal of foreign body from external auditory meatus 	A	
-repair of skin lacerations	A	
-curettage of skin lesions	A	
-wound debridement	A	
-wound dressing	A	
-removal of subcutaneous foreign body 	A	
-drainage perianal abscess	A	Important
-flap repairs	C	
-skin graft repair	C	
+#### Adult Internal Medicine
+
+***Essential***
+
+Arterial blood gas sampling\
+Blood culture collection\
+Lumbar puncture\
+NMSE/Dementia screening\
+Nasogastric tube insertion\
+Nebulisation therapy\
+Spirometry and peak flow measurement\
+Thrombolytic therapy\
+Urethral catheterisation on male\
+Venepuncture\
+Suprapubic catherisation
+
+***Important***
+
+Proctoscopy\
+Ascitic tap/paracentesis\
+Pleural tap/drainage\
+Pericardiocentesis\
+Sigmoidoscopy
+
+#### A﻿naesthetics
+
+***Essential***
+
+Administer nitrous oxide (as analgesia)\
+Bag/mask ventilation (adult)\
+Bougie\
+Digital nerve block\
+Endotracheal intubation(adult)\
+Intranasal analgesia\
+Intravenous sedation in intubated patient\
+Laryngeal mask airway (LMA)\
+Orogastric tube insertion\
+Peripheral line seldinger\
+Procedural sedation (adult)
+
+***Important***
+
+Femoral nerve block/fascia iliaca block\
+Intercostal nerve block\
+Biers block
+
+#### Dermatology
+
+***Essential***
+
+Biopsy of skin lesion- curette\
+Biopsy of skin lesion – excision\
+Biopsy of skin lesion – incision\
+Biopsy of skin lesion – punch\
+Biopsy of skin lesion – shave\
+Cryotherapy\
+Dermatoscope/dermatoscopy\
+Fungal skin scraping\
+Glue superficial skin laceration\
+Infiltrate local anaesthetic\
+Removal of subcutaneous foreign body\
+Suture deep skin laceration (multi-layer closure)\
+Suture superficial skin laceration (adult)\
+Wound swab for microscopy, culture, and sensitivity
+
+***Important***
+
+Burn dressings\
+Viral PCR swab of vesicle\
+Flap repairs\
+Skin graft repair
+
+#### Diagnostic Imaging
+
+***Essential*** 
+
+Focused assessment with sonography for trauma (eFAST)\
+Ultrasound in early pregnancy\
+Ultrasound guided peripheral vascular access
+
+#### Ear, Nose, and Throat
+
+***Essential***
+
+Nasal swab\
+Throat swab\
+Cauterise nasal bleeding\
+Ear toilet- dry mopping\
+Foreign body removal- ear\
+Hearing assessment- Rinne and Webber Test\
+Insert wick into external ear canal\
+Packing of nasal cavity (anterior/posterior)\
+Epley manoeuvre for benign paroxysmal positional vertigo
+
+***Important***
+
+Quinsy incision and drainage\
+Foreign body removal- nose
+
+#### Emergency care
+
+***Essential***
+
+Apply ALS algorithm\
+Perform a primary survey\
+Apply a pelvic binder\
+Apply a tourniquet\
+Basic airway manoeuvres (chin, lift, jaw thrust)\
+C-Spine immobilisation with collar/inline stabilisation\
+Nasopharyngeal airway\
+Laryngeal mask airways\
+Rapid sequence induction\
+Rapid sequence induction with C-Spine immobilisation \
+Can’t intubate, can’t ventilate drill\
+Cricothyroidotomy/front of neck access\
+CPAP/BiPAP\
+Emergency use of mechanical ventilators\
+Oxygen saturation monitoring\
+Oxygen therapy (NP, Hudson, NRB mask, HFNP, concentrators)\
+Intercostal catheter(chest drain/chest tube)\
+Jet insufflation\
+Reduce tension pneumothorax- needle thoracocentesis/finger thoracostomy\
+Fluid resuscitation\
+Intravenous access- large bore (16G)\
+Blood transfusions\
+ECG- set up and record a 12 lead ECG\
+External cardiac massage/cardiopulmonary resuscitation (adult)\
+Defibrillation (synchronised)\
+Defibrillation (automated external defibrillation)\
+Intraosseous access\
+Synchronised DC cardioversion (adult)\
+3-4 person log roll\
+Glasgow coma scale\
+Stabilisation of injured spine\
+Mental state exam\
+Suicide risk assessment\
+Chemically restrain an agitated patient\
+Pressure immoblisation bandage
+
+***Important***
+
+Central vein cannulation\
+Arterial line insertion\
+External cardiac pacing\
+NAC therapy in paracetamol poisoning
+
+#### Musculoskeletal
+
+***Essential***
+
+Application of finger splint\
+Application of lower limb cast/back slab\
+Application of upper limb cast/back slab\
+Application of upper limb sling\
+Intramuscular injection\
+Joint aspiration\
+Reduction of dislocated shoulder\
+Reduction of lower limb fracture/dislocation\
+Reduction of upper limb fracture/dislocation (elbow/wrist/finger)\
+Soft tissue injury strapping/ankle strapping\
+Subcutaneous injection\
+Joint injection (large joints)
+
+***Important*** 
+
+Unlocking knee\
+Unlocking temporomandibular joint
+
+#### Obstetrics and Gynaecology
+
+***Essential***
+
+Cervical screening test/pap smear\
+Cardiotocography\
+Foetal heart sound detection\
+Fundal height assessment\
+High vaginal swab\
+Insert and remove implanon\
+Manage normal vaginal delivery with complications\
+Urethral catherisation on female\
+Urine pregnancy testing\
+Manage shoulder dystocia
+
+***Important***
+
+Episiotomy\
+Perineal repair
+
+#### Ophthalmology
+
+***Essential***
+
+Application of eye patch \
+Eyelid eversion\
+Irrigation of eye\
+Measurement of intra-ocular pressure\
+Removal of corneal foreign body\
+Removal of corneal rust ring\
+Removal of subtarsal foreign body\
+Staining cornea with fluorescein\
+Topical anaesthesia of cornea\
+Use ophthalmoscope\
+Use slit lamp\
+Visual acuity and field assessment
+
+#### Paediatrics
+
+***Essential***
+
+Assess hydration status\
+Fluid therapy/fluid resuscitation (child/neonatal)\
+Nasogastric tube insertion\
+Venepuncture (child/neonate)\
+Intravenous access\
+Vaccinations\
+Nebulisation therapy (child)\
+Use of inhalers/respiratory medical delivery device\
+Use of spacer devices\
+Reduction of fracture\
+Reduction of joint dislocation\
+Repair of superficial skin laceration\
+Procedural sedation\
+Six week baby check\
+Topical wound anaesthesia\
+Bag mask ventilation\
+Basic airways manoeuvres\
+Endotracheal intubation (child)\
+Endotracheal intubation (neonate)\
+External cardiac massage/CPR (child and neonate)\
+Intraosseus access (child and neonate)\
+Neonatal resuscitation\
+Synchronised DC cardioversion (child)\
+Umbilical catheter (neonate)
+
+***Important***
+
+Thoracocentesis\
+Defibrillation\
+Emergency use of mechanical ventilators\
+Intercostal catheter – chest drain/chest tube (child)\
+Suprapubic aspiration\
+Urethral catheterisation
+
+#### Surgery
+
+***Essential***
+
+Drainage of subungual haematoma
+Incision and drainage of abscess
+Wound debridement
+Wound dressing and management
+Toenail- Wedge excision/ingrown toenail surgery
+
+***Important***
+
+Drainage of thrombosed external haemorrhoid
+Drainage of perianal abscess
 
 Description of competency levels
 
 Performed the procedure to the standard of a:
 A.	Practitioner operating independently – demonstrated on a real patient
-B.	Pass in an accredited course or certified satisfactory by a supervisor – demonstrated on a 	simulated 	patient
+B.	Pass in an accredited course or certified satisfactory by a supervisor – demonstrated on a simulated patient
 C.	Practitioner under supervision – demonstrated on a real patient
 D.	Practitioner assisting an independent practitioner – demonstrated on a real patient
