@@ -171,9 +171,7 @@ All candidates should refer to the relevant [Assessment Venue Requirements](http
 
 ##### *Venue*
 
-A candidate is required to undertake their assessments at a venue that has been approved by the Assessment team.
-
-The venues in which a candidate can undertake assessments are outlined in the relevant [Assessment Venue Requirements](https://www.acrrm.org.au/resources/assessment/handbooks-guides) document available on the College website. It is the candidate’s responsibility to ensure that the minimum requirements as indicated in the documents below are met.
+A candidate is required to undertake their assessment at a venue that has been approved by the Assessment team as outlined in the relevant [Assessment Venue Requirements](https://www.acrrm.org.au/resources/assessment/handbooks-guides) document available on the College website. It is the candidate’s responsibility as indicated in the venue requirements are met.
 
 Assessments cannot be conducted in a private residence (with the exception of Mock StAMPS) and candidates must ensure that the room being used does not contain any reference material and all computers in the room must be turned off
 
