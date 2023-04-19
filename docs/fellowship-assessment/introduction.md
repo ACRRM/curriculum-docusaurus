@@ -161,7 +161,7 @@ The following rules apply to a:ll College assessments:
 * Any items that have note been authorised by the College are not permitted to be taken into the assessment room by a candidate.
 * Mobile phones and all other electronic devices, including but not limited to, smart watched and wireless communication devices must be turned off and left with the invigilator.
 * Candidates are strictly prohibited from accessing any component and function of the computer, email or internet sites, other than the platform used for the conduct of the examination.
-* If a toilet break is required, candidates must be accompanied by an invigilator
+* Candidates must be accompanied by their invigilator or authorised person if a restroom break is required.
 * At the end of the exam, candidates must leave all hand-written notes and exam material at the assessment venue
 * Candidates must not share any information related to the content of the exam, this is a serious breach of the College’s [Academic Code of Conduct](https://www.acrrm.org.au/docs/default-source/all-files/academic-code-of-conduct.pdf?sfvrsn=559890eb_14) and will be dealt with accordingly.
 
