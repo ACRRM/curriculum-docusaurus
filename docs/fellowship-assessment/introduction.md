@@ -158,7 +158,7 @@ The following rules apply to a:ll College assessments:
 * Candidates must arrive at the approved venue at the time specified in the instructions to candidates that is provided prior to the assessment date.
 * Candidates must provide valid photographic identification (e.g. driver’s licence or passport) to the invigilator for verification of identity.
 * Food or drink is not permitted into the assessment room other than a clear plastic bottle of water or food required for medical reasons.
-* Any items that have note been authorised by the College are not permitted to be taken into the assessment room by a candidate.
+* Any item that has not been authorised by the College is not permitted to be taken into the assessment room by a candidate.
 * Mobile phones and all other electronic devices, including but not limited to, smart watched and wireless communication devices must be turned off and left with the invigilator.
 * Candidates are strictly prohibited from accessing any component and function of the computer, email or internet sites, other than the platform used for the conduct of the examination.
 * Candidates must be accompanied by their invigilator or authorised person if a restroom break is required.
@@ -167,7 +167,7 @@ The following rules apply to a:ll College assessments:
 
 ### Venues and Invigilators
 
-All candidates should refer to the relevant [Assessment Venue Requirements](https://www.acrrm.org.au/resources/assessment/handbooks-guides) when choosing an assessment and invigilator. A candidate should seek a venue and invigilator as soon as they have enrolled for an assessment.
+All candidates should refer to the relevant [Assessment Venue Requirements](https://www.acrrm.org.au/resources/assessment/handbooks-guides) when choosing a venue and invigilator. A candidate should seek a venue and invigilator as soon as they have enrolled for an assessment.
 
 ##### *Venue*
 
