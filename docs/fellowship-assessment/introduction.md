@@ -153,9 +153,10 @@ The Assessment Committee provides oversight of all aspects of the assessment pro
 
 ### Candidate assessment rules
 
-The following rules apply to the Standardised assessments StAMPS and MCQ:
+The following rules apply to a:ll College assessments:
 
-* Candidates must arrive at the venue early; specific times are provided to candidates who have enrolled 
+* Candidates must arrive at the approved venue at the time specified in the instructions\
+   early; specific times are provided to candidates who have enrolled 
 * Candidates must provide valid photographic identification (e.g. driver’s licence or passport) to the invigilator for verification of identity
 * Candidates are not permitted to bring food or drink into the assessment room other than a clear plastic bottle of water or food required for medical reasons 
 * Candidates can not take any items into the assessment room except those specified by the College, for example rotation plan for StAMPS
