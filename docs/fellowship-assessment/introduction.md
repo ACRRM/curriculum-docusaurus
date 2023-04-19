@@ -19,11 +19,11 @@ ABN: 12 078 081 848
 
 © 2021 Australian College of Rural and Remote Medicine. All rights reserved. No part of this document may be reproduced by any means or in any form without express permission in writing from the Australian College of Rural and Remote Medicine.
 
-**Version 2.1.1/2021**
+**Version 2.5.2023**
 
-Date published: December 2021<br />
-Date implemented: December 2021<br />
-Date for review: December 2022
+Date published: April 2023<br />
+Date implemented: April 2023<br />
+Date for review: December 2023<br />
 
 *ACRRM acknowledges Australian Aboriginal People and Torres Strait Islander People as the first inhabitants of the nation.  We respect the traditional owners of lands across Australia in which our members and staff work and live and pay respect to their elders past present and future.*
 
