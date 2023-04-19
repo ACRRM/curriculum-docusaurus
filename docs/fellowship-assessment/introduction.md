@@ -163,7 +163,8 @@ The following rules apply to a:ll College assessments:
 * Candidates are strictly prohibited from accessing any component and function of the computer, email or internet sites, other than the platform used for the conduct of the examination.
 * Candidates must be accompanied by their invigilator or authorised person if a restroom break is required.
 * At the conclusion of the exam, all hand-written notes and exam material must remain in the exam room with the invigilator who will immediately return to them to the College.
-* Candidates must not share any information related to the content of the exam, this is a serious breach of the College’s [Academic Code of Conduct](https://www.acrrm.org.au/docs/default-source/all-files/academic-code-of-conduct.pdf?sfvrsn=559890eb_14) and will be dealt with accordingly.
+* Candidates must not share any information related to the content of the assessment and this is a serious breach of the College's [Academic Code of Conduct](https://www.acrrm.org.au/docs/default-source/all-files/academic-code-of-conduct.pdf?sfvrsn=559890eb_14). Any breach or alleged breach will be dealt with in accordance with this policy.\
+  exam, this is a serious breach of the College’s [](https://www.acrrm.org.au/docs/default-source/all-files/academic-code-of-conduct.pdf?sfvrsn=559890eb_14) and will be dealt with accordingly.
 
 ### Venues and Invigilators
 
