@@ -34,18 +34,16 @@ Date for review: December 2023<br />
 ### Philosophical underpinnings
 
 The Australian College of Rural and remote Medicine (College) views assessment as an
-ongoing and integral part of learning. The process is developmental in nature, assists learners
-in identifying and understanding their strengths and weaknesses and provides guidance for
-additional development. It also enables candidates to become competent, confident and safe
-medical practitioners practising independently in their provision of health care to the public.
+ongoing and integral part of learning. The assessment process has a purposeful developmental design, that assists learners in identifying and understanding their strengths and weaknesses and providing feedback for guidance of future development.  The assessment program is designed to contribute to the development of lifelong learning practices and skills.
 
-The College has developed its assessment program based on two key principles:
+The College has developed, and delivers, the assessment program based on three key principles:
 
 * Candidates can participate in assessment within the locality where they live and work,
-  preventing depopulating rural and remote Australia of their medical workforce (candidates
-  and assessors) during assessment period; and
+  avoiding depopulating rural and remote Australia of their medical workforce (candidates 
+  and assessors) during assessments; 
 * The content of assessments is developed by clinically active rural and remote medical
-  practitioners.
+  practitioners; and
+*﻿ Assessment plays a role in enabling candidates to become competent, confident and safe medical practitioners practising independently in their provision of health care to rural and remote individuals and communities.
 
 ### Programmatic approach
 
