@@ -57,31 +57,29 @@ The physical examinations are required to be undertaken only in the context of a
 
 A formative MiniCEX can be conducted within the context of the candidate’s medical educator visit or at any time at the instigation of the candidate or supervisor. The MiniCEX reviews are to be conducted by a doctor, meeting one of the following criteria: 
 
-* FACRRM
-*
-* a
-* a Medical Educator from an ACRRM accredited training organisation.
+* F﻿ACRRM
+* a﻿n ACRRM accredited supervisor
 
 The assessor may be onsite viewing the consults face-to-face or offsite viewing the consults virtually. 
 
-At a minimum three (3) different assessors are required to complete the nine (9) miniCEX assessments. Three (3) of the miniCEX assessments must be conducted by a Medical Educator from an ACRRM accredited training organisation (who does not work in the same workplace as the candidate).
+At a minimum three (3) different assessors are required to complete the nine (9) MiniCEX assessments. Three (3) of the MiniCEX assessments must be conducted by a Medical Educator from an ACRRM accredited training organisation (who does not work in the same workplace as the candidate).
 
 ***Advanced Specialised Training (AST)***
 
-Candidates undertaking AST in Aboriginal and Torres Strait Islander Health, Adult Internal Medicine, Emergency Medicine, Mental Health, Paediatrics, Palliative Care, Remote Medicine and Surgery are required to have a formative miniCEX conducted on a minimum of five (5) patient interactions (consults) during AST. 
+Candidates undertaking AST in Aboriginal and Torres Strait Islander Health, Adult Internal Medicine, Emergency Medicine, Mental Health, Paediatrics, Palliative Care, Remote Medicine and Surgery are required to have a formative MiniCEX conducted on a minimum of five (5) patient interactions (consults) during the AST component of their training.
 
-The miniCEX consults should be undertaken progressively during training and include a reasonable range of types of consults, age groups and both genders. The same principles apply around face-to-face and telehealth consults as described for CGT above.
+The MiniCEX consults should be undertaken progressively during training and include a range of types of consults, age groups and mix of genders. The same principles apply around face-to-face and telehealth consults as described for CGT above.
 
-A formative miniCEX can be conducted at any time at the instigation of the candidate or supervisor. The miniCEX assessments must be conducted by a doctor who is an ACRRM accredited supervisor or mentor for the post or holds a Fellowship of the Specialist discipline relevant to the AST.
+A formative MiniCEX can be conducted at any time at the instigation of the candidate or supervisor. The MiniCEX assessments must be conducted by a doctor who is an ACRRM accredited supervisor or mentor for the post or holds a Fellowship of the Specialist discipline relevant to the AST.
 
 ### MiniCEX format
 
 MiniCEX consists of the following:
 
-* A short encounter between a candidate and patient which is observed by a supervisor. This encounter generally consists of a focused history taking and assessment and takes approximately 15-20 minutes.
+* A short encounter between a candidate and patient which is observed by a supervisor. This encounter generally consists of the following components, a focused history taking focused clinical examination and assessment and takes approximately 15-20 minutes.
 * Discussion of patient management and provision of oral and written feedback to the candidate by the supervisor to assist the candidate in planning for future patient encounters. This takes approximately 5-10 minutes.
 
-The process is the same for summative miniCEX except the assessment is undertaken by a College appointed assessor and candidates are not provided with feedback prior to ratification of results.
+The process is the same for summative MiniCEX except the assessment is undertaken by a College appointed assessor and candidates are not provided with feedback prior to ratification of results. 
 
 There are five categories:
 
@@ -92,14 +90,16 @@ There are five categories:
 5. Professionalism
 6. Overall clinical competence
 
-For each consultation, each category is scored:
+For each consultation the proportion of each of these will vary but as many as possible should be assessed for each MiniCEX.
+
+F﻿or each consultation, each category is assessed as:
 
 * Beginning
 * Progressing
 * Achieved
 * Exceeded 
 
-**Achieved rating**
+Using the following domans:
 
 1. Communication
 
@@ -148,37 +148,31 @@ More detailed descriptors for the competency standards for Fellowship- beginning
 
 For the purpose of fulfilling the mandatory requirements of the miniCEX, it is expected that the physical examination will be a thorough and complete assessment of the relevant system.  See [Physical Exam Reference](https://www.acrrm.org.au/resources/assessment/handbooks-guides) for guidance on the standard expected for physical assessment.
 
-The miniCEX form, patient consent proforma and Physical Exam Reference are available on the [Assessment Resources](https://www.acrrm.org.au/resources/assessment/forms) webpage.
+The MiniCEX form, patient consent proforma and Physical Exam Reference are available on the [Assessment Resources](https://www.acrrm.org.au/resources/assessment/forms) webpage.
 
 ### Roles and responsibilities
 
 ***Candidate***
 
-The candidate is responsible for ensuring that they meet the mandatory requirements for miniCEX. A candidate must ensure that completed miniCEX forms are provided to their training organisation. It is also strongly recommended that a copy is uploaded to their College dashboard.
+The candidate is responsible for ensuring that they meet the mandatory requirements for MiniCEX. A candidate must ensure that completed MiniCEX forms are provided to the College.
 
 ***Assessor***
 
-The assessor observes and scores consultation using ACRRM miniCEX form. 
+The assessor observes and scores consultation using ACRRM MiniCEX form. 
 The assessor provides oral and written feedback to the candidate. 
-The completed form is given to the candidate and a copy submitted to the training organisation.
-
-***Training organisation***
-
-The training organisation is responsible for reviewing the completed miniCEX forms and ensuring that any concerns are identified and addressed.
-
-The training organisation monitors that mandatory requirements are met, and that the College is provided with a copy of completed miniCEX forms.
+The completed form is given to the candidate and a copy submitted to the College Training team via the supervisor.
 
 ## Multi-Source Feedback
 
 ### Introduction
 
-The Multi-Source Feedback (MSF) is a recognised, valid and reliable method of assessing interpersonal and professional behaviour, development and clinical skills. 
+The Multi-Source Feedback (MSF) is used widely in a range of professions.  The College includes MSF in the assessment program as a valid and reliable method of assessing interpersonal and professional behaviour, development and clinical skills. 
 
-All candidates must complete MSF for CGT. The assessment must be undertaken in a post accredited by the College for CGT. MSF cannot be undertaken in a post that is recognised for CGT but not accredited by the College, these include posts accredited by a Postgraduate Medical Council or other specialist colleges.
+All candidates must complete the MSF assessment during core generalist training. The assessment must be undertaken in a post accredited by the College for CGT. MSF cannot be undertaken in a post that may be recognised for CGT but not accredited by the College, these include posts accredited by a Postgraduate Medical Council or other Specialist Medical Colleges.
 
 ### Requirements
 
-Candidates are required to demonstrate ‘satisfactory completion’ of at least one MSF. 
+Candidates are required to demonstrate ‘satisfactory completion’ of at least one (1) MSF. 
 
 Satisfactory completion requires submission of:
 
@@ -189,7 +183,7 @@ Satisfactory completion requires submission of:
 
 The first three (3) components of the MSF process must have fulfilled within four (4) months from the date of enrolment in MSF.
 
-While the MSF is not awarded a pass/fail grad, if concerns are raised in any component of the MSF, the training organisation or College may require the candidate to repeat the MSF or undertake another type of assessment to gain further information or to determine if remediation has been effective. 
+The MSF assessment is not awarded a pass/fail standard, however if concerns are raised in any component of the MSF, the training organisation or College may require the candidate to repeat the MSF or undertake another type of assessment to gain further information or to determine if remediation has been effective. 
 
 Once all the components of the MSF, including remediation if required, have been completed, the MSF outcome is presented to the BoE for ratification. The BoE determines ‘Satisfactory Completion’. 
 
@@ -203,7 +197,7 @@ The MSF tool consists of two (2) components:
 2. A patient assessment tool (Doctors Interpersonal Skills Questionnaire — DISQ).
 
    **Colleague tool**\
-   The colleague tool involves a response from a minimum of 12 nominated   colleagues participating in a questionnaire.  Colleagues are required to rate the candidate in 20 different areas.  There is also a provision for qualitative comments.
+   The colleague tool involves a response from a minimum of 12 nominated colleagues participating in a questionnaire.  Colleagues are required to rate the candidate in 20 different areas.  There is also a provision for qualitative comments.
 
    **Self-assessment tool**\
    Completion of the self-assessment is a mandatory requirement for the MSF. 
