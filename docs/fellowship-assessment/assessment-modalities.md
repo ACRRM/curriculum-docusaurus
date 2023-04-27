@@ -33,13 +33,16 @@ The miniCEX training course for Clinicians - [online course](https://mycollege.a
 
 ***Core Generalist Training (CGT)***
 
-Nine (9) miniCEX reviews must be submitted to obtain ‘satisfactory completion’ for formative assessment.
+Nine (9) miniCEX reviews must be submitted to obtain ‘satisfactory completion’ for formative assessment. However, there is no barrier to completing more than 9 MiniCEX if additional learning opportunities are available.
 
-MiniCEX reviews are completed progressively during CGT. MiniCEX may include a combination of face-to-face and telehealth consults but requirements cannot be met through telehealth consults only.  
+MiniCEX reviews are completed progressively during CGT, a plan of 3 per year of training would be appropriate to allow time for reflection on feedback and further clinical skill development. MiniCEX may include a combination of face-to-face and telehealth consults, but requirements cannot be met through telehealth consults only.  
 
 Consults must include a:
 
-* reasonable range of types of consults, age groups and both genders. 
+
+
+reasonable range of types of consults, age groups and both genders. 
+
 * minimum of five physical examinations, each from a different body system:
 
   * cardiovascular
