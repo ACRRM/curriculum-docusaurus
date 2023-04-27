@@ -21,7 +21,11 @@ The Academic Code of Conduct provides the College’s expectations of doctors an
 
 ### Academic misconduct policy
 
-The Academic Misconduct Policy defines how alleged breaches of the Academic Code of Conduct  are investigated and the penalties that may be applied for proven misconduct. 
+The Academic Misconduct Policy defines how alleged breaches of the Academic Code of Conduct are investigated and the penalties that may be applied for proven misconduct. 
+
+### Medical Registration Constraints
+
+To describe the process the College follows to determine if a doctors with constraints on medical registration can train, be awarded Fellowship or be contracted by the College. This process can be found [here](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.acrrm.org.au/docs/default-source/all-files/medical-registration-constraints---process3c07906c80c74ccdba9fa0fc311d8cbe.pdf?sfvrsn=f5298e2a_2).
 
 ### Refund policy
 
