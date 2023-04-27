@@ -173,39 +173,59 @@ All candidates should refer to the relevant [Assessment Venue Requirements](http
 
 A candidate is required to undertake their assessment at a venue that has been approved by the Assessment team as outlined in the relevant [Assessment Venue Requirements](https://www.acrrm.org.au/resources/assessment/handbooks-guides) document available on the College website. It is the candidate’s responsibility as indicated in the venue requirements are met.
 
-Assessments cannot be conducted in a private residence (with the exception of Mock StAMPS) and candidates must ensure that the room being used does not contain any reference material and all computers in the room must be turned off
+The use of a private residence is **only** permitted for Mock StAMPS and CBD, or in the event a chosen/approved venue becomes inaccessible/unavailable due to a natural disaster. In this situation, a candidate who has been affected must obtain approval from the Assessment team.
+
+The candidate must ensure that the room being used for the assessment does not contain any medical reference materials or other items as indicated in the section relevant to *candidate assessment rules* on page 12.
 
 ##### *Invigilators*
 
-Invigilators play a central role in ensuring the security of this examination is maintained at all times. Candidates are responsible for finding a suitable invigilator and will be unable to undertake the assessment without an appropriate invigilator. 
+Invigilators play a central role in ensuring the security of the assessments for all StAMPS and the MCQ assessments. Candidates are responsible for finding a suitable invigilator and will be unable to undertake the assessment without an appropriate invigilator. 
 
-All invigilators are subject to approval by the Assessment team, who has the discretionary authority to approve or decline each nominated invigilator. If a nominated invigilator is deemed unsuitable for any reason, the candidate will be notified and required to nominate another invigilator. Invigilators are paid by the College. 
+All invigilators are subject to approval by the Assessment team, who has the discretionary authority to approve or decline the nominated invigilator. If a nominated invigilator is deemed unsuitable for any reason, the candidate will be notified and required to nominate a replacement invigilator. Invigilators are paid by the College. 
 
 ### Incidents or irregularities
 
-A candidate or assessor who has a concern about the management or conduct of the assessment should complete an [Incident Report](https://www.acrrm.org.au/docs/default-source/all-files/examination-incident-report-form.pdf?sfvrsn=8a69d668_2). An Incident Report must be provided to the Assessment team within 48 hours of the conclusion of the assessment.
+A candidate or assessor who has a concern about the management or conduct of the assessment should complete an [Incident Report](https://www.acrrm.org.au/docs/default-source/all-files/examination-incident-report-form.pdf?sfvrsn=8a69d668_2). An Incident Report must be submitted to the Assessment team within 48 hours of the conclusion of the assessment.
 
 Examples of incidents or other irregularities include but not limited to:
 
-* An uncooperative candidate or assessor
+* An uncooperative candidate or Examiner
+* Assessment procedures not followed
 * Not following the assessment procedure 
-* Disturbances (e.g. unexpected noisy consulting room)
-* Disruptions (e.g. loss of power or telephone malfunction)
+* Disturbances (e.g. unexpected noisy consulting room, fire alarms/drills)
+* U﻿nauthorised persons entering the assessment room
+* U﻿nauthorised material in the assessment room
+* Technical disruptions (e.g. loss of power or internet)
+* Unforeseen emergency evacuations.
+
+I﻿n the event of an unforeseen emergency evacuation, the Invigilator must:
+
+1. C﻿ontact the Assessment team immediately or as soon as practicable;
+2. C﻿ollect all the assessment material from the candidate and evacuate with the candidate as per the venue's emergency evacuation procedures;
+3. R﻿emain with the candidate at all times during the duration of the evacuation;
+4. I﻿f possible, maintain contact with the Assessment team throughout the evacuation; and
+5. F﻿ollow the venue's emergency evacuation orders and return to the assessment room/venue only when safe to do so and as instructed by the venue's emergency contacts or authorities.
+
+A﻿ny time lost as a result of an emergency evacuation will be awarded to the assessment to allow the candidate to continue and complete the assessment if an when safe to do so on the same day. Depending on the duration of the evacuation, the candidate's assessment may be rescheduled to another date.
 
 ### Results
 
-When all post assessment quality assurance processes are complete, a recommendation is presented to the ACRRM Board of Examiners (BoE).  The BoE meets on a regular basis to ratify results.  Candidates are provided with an outcome letter and feedback report (if applicable) shortly after the ratification of results by the BoE.
+F﻿ollowing the completion of all post assessment quality assurance processes, a recommendation is presented to the ACRRM Board of Examiners (BoE).  The BoE meets on a regular basis and is responsible for the ratification of results.  Candidates are provided with an outcome letter and feedback report (if applicable) shortly after the ratification of results by the BoE.
 
-Once available, results are uploaded to the “My Documents” section of a candidate’s “My College” portal, accessible via the College website. Candidates will receive an email notification once results are uploaded. The dates for release of results are generally published for each assessment on the [Assessment, date and enrolments and fees](https://www.acrrm.org.au/fellowship/discover-fellowship/assessment/assessment-dates-enrolments) webpage.
+Once available, results are uploaded to the “My Documents” section of a candidate’s “My College” portal, accessible via the College website. Candidates will receive an email notification once results are uploaded. 
+
+The dates for release of results are published for each assessment on the [Assessment, date and enrolments and fees](https://www.acrrm.org.au/fellowship/discover-fellowship/assessment/assessment-dates-enrolments) webpage.
 
 ### Public assessment reports
 
-A report is published on the College website following each Core Generalist Training (CGT), Advanced Specialty Training (AST) Emergency Medicine (EM) StAMPS and MCQ assessment. CBD public reports are published annually. The public report provides assessment statistics, a description of the scenarios/questions, feedback from the Principal Assessor and a summary of stakeholder feedback and improvements planned. The [Assessment Public Reports](https://www.acrrm.org.au/resources/assessment/public-assessment-reports) are published on Assessment resources webpage. 
+The public report provides assessment statistics, a description of the scenarios/questions, feedback from the Principal Assessor and a summary of stakeholder feedback and improvements planned. The [Assessment Public Reports](https://www.acrrm.org.au/resources/assessment/public-assessment-reports) are published on Assessment resources webpage. 
+
+A public report is published by the College website following each Core Generalist Training (CGT), Advanced Specialty Training (AST) Emergency Medicine (EM) StAMPS and MCQ assessment. CBD public reports are published annually.  
 
 ### Undertaking Assessments Overseas
 
-The College has provisions in place for candidates who wish to undertake their assessment outside of Australia. Candidates who wish to undertake an assessment overseas must contact the Assessment team as soon as practicable for further advice before finalising enrolment.
+The College has provisions in place for candidates who will be overseas at the time of their assessment. Candidates who wish to undertake an assessment overseas must contact the Assessment team as soon as practicable for further advice before finalising their enrolment.
 
-The MCQ and StAMPS assessments can be completed overseas, subject to appropriate invigilation and technical requirements being met. See [Assessment Venue Requirements](https://www.acrrm.org.au/docs/default-source/all-files/examination-venue-requirements.pdf?sfvrsn=12530098_2) for further information. 
+The MCQ and StAMPS assessments can be completed overseas, subject to appropriate invigilation and technical requirements being met. See [Assessment Venue Requirements](https://www.acrrm.org.au/docs/default-source/all-files/examination-venue-requirements.pdf?sfvrsn=12530098_2) for further information.  Mock StAMPS can be completed from overseas from a suitable venue and technical requirements must be met.
 
 The MSF, CBD and formative miniCEX can only be undertaken overseas if in an approved overseas training placement. Refer to the [Overseas Training Placements policy](https://www.acrrm.org.au/docs/default-source/all-files/overseas-training-placements-policy.pdf?sfvrsn=26500726_6).
