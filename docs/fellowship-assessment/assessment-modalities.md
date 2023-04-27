@@ -39,11 +39,8 @@ MiniCEX reviews are completed progressively during CGT, a plan of 3 per year of 
 
 Consults must include a:
 
-
-
-reasonable range of types of consults, age groups and both genders. 
-
-* minimum of five physical examinations, each from a different body system:
+* R﻿ange of types of consults, age groups and a mix of genders.
+* C﻿over a minimum of five system focuses for the sonsultations:
 
   * cardiovascular
   * respiratory
@@ -51,17 +48,18 @@ reasonable range of types of consults, age groups and both genders.
   * neurological
   * endocrine
   * musculoskeletal region
-  * mini-mental state assessment
+  * m﻿ental health
   * neonatal/paediatric
   * antenatal (first visit)
-* detailed history taking of at least one (1) new patient or detailed updating patient database information on a returning patient (of at least medium complexity).
+* Detailed history taking of at least one (1) new patient or detailed updating patient database information on a returning patient (of at least medium complexity).
 
-The physical examinations are required to be undertaken in the context of a face-to-face patient consultation. Where possible the reviewer should be viewing the consults face-to-face. A ‘[Physical Exam Reference](https://www.acrrm.org.au/resources/assessment/handbooks-guides)’ document is provided for guidance on undertaking a systematic physical assessment. 
+The physical examinations are required to be undertaken only in the context of a face-to-face patient consultation.  A ‘[Physical Exam Reference](https://www.acrrm.org.au/resources/assessment/handbooks-guides)’ document is provided for guidance on undertaking a systematic physical assessment. 
 
-A formative miniCEX can be conducted within the context of the candidate’s medical educator visit or at any time at the instigation of the candidate or supervisor. The miniCEX reviews are to be conducted by a doctor, meeting one of the following criteria: 
+A formative MiniCEX can be conducted within the context of the candidate’s medical educator visit or at any time at the instigation of the candidate or supervisor. The MiniCEX reviews are to be conducted by a doctor, meeting one of the following criteria: 
 
-* an ACRRM accredited supervisor or 
-* holding a Fellowship of ACRRM or
+* FACRRM
+*
+* a
 * a Medical Educator from an ACRRM accredited training organisation.
 
 The assessor may be onsite viewing the consults face-to-face or offsite viewing the consults virtually. 
