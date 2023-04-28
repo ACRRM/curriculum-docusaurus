@@ -266,8 +266,6 @@ CFEP will also provide instructions for this process when they send patient ques
 
 ![](picture1.png)
 
-
-
 ## Multiple Choice Question Assessment
 
 ### Introduction
@@ -334,29 +332,31 @@ The MCQFA requires the single best answer for each question. One mark is awarded
 
 ![](picture1.png)
 
-
-
 ## Case Based Discussion
 
 ### Introduction
 
-Case Based Discussion (CBD) is an assessment of clinical reasoning and application of knowledge in a clinical context. The candidate is required to demonstrate evidence of their clinical knowledge and how they apply that knowledge by appropriately assessing patients, formulating differential diagnoses, ordering relevant investigations and applying appropriate management plans.
+Case Based Discussion (CBD) is an assessment of clinical reasoning and application of knowledge b﻿ased in the registrar's real life clinical context. The candidate is required to demonstrate evidence of their clinical knowledge and how they apply that knowledge by demonstrating appropriate patient assessment, formulating differential diagnoses, ordering relevant investigations and applying appropriate management plans with partnership with the patient.
 
 CBD is one of the summative assessment requirements for CGT (Core Generalist Training) and for AST in Palliative Care.
 
-CBD is designed to be undertaken in a health care facility providing continued care. The case notes must contain evidence that the candidate is the doctor primarily responsible for patient care.
+The case notes submitted for CBD assessment must be copies of the unedited original notes and contain clear evidence that the registrar is the doctor primarily responsible for patient care during the time period covered by the notes.
 
-Candidates may also complete CBD as a formative assessment. The format of this assessment remains consistent for both formative and summative assessment.
+Registrars may also complete CBD as a formative assessment. The format of this assessment remains consistent for both formative and summative assessment.
 
-### Requirements
+### Requirements and responsibilities
 
 CBD assesses a total of six (6) cases. To pass the CBD assessment overall, candidates will need to achieve ‘at expected standard’ in five (5) of the six (6) cases. 
 
-All three (3) sessions are conducted irrespective of the outcome of each individual session. Results of individual session are not advised.  The overall results are ratified by the Board of Examiners once all three CBD sessions are completed. Candidates who do not obtain a ‘pass’ grade will be required to enrol and complete the assessment process again.
+All three (3) sessions are conducted irrespective of the outcome of each individual session. Results of individual session are not advised.  The overall results are ratified by the Board of Examiners once all three (3) CBD sessions are completed. Candidates who do not obtain a ‘pass’ grade will be required to re-enrol, submit 12 new cases and complete the assessment again.
 
 ***Core Generalist Training***
 
-Candidates must submit twelve (12) cases at CBD enrolment covering a minimum of **six** (6) of the areas listed below. No more than three (3) cases can be from a single area. Two (2) **mental health** cases must be included in the submission to ensure that at least one (1) case is suitable for the assessment. 
+Candidates must submit twelve (12) cases at CBD enrolment covering a minimum of **six** (6) of the areas listed below. 
+
+No more than three (3) cases can be from a single area. 
+
+Two (2) **mental health** cases must be included in the submission to ensure that at least one (1) case is suitable for the assessment. 
 
 * Aboriginal and Torres Strait Islander Health 
 * Addictive Behaviours
@@ -364,7 +364,7 @@ Candidates must submit twelve (12) cases at CBD enrolment covering a minimum of 
 * Aged Care   
 * Dermatology 
 * Emergency
-* Mental Health* (Mandatory)
+* Mental Health (Mandatory)
 * Musculoskeletal 
 * Obstetrics and Gynaecology
 * Occupational Health
@@ -376,11 +376,13 @@ Candidates must submit twelve (12) cases at CBD enrolment covering a minimum of 
 * Sexual Health
 * Surgery
 
-All sessions must be completed within a six-month period from the date of the first session. 
+T﻿he latest consultation date must be no earlier than three (3) calendar months prior to the date of submission. The final consultation must have a direct link to the preceding consultations, for example it cannot be clinician-initiated telehealth consult to 'monitor progress' or discuss an old investigation result unless this is clearly noted in the preceding consultation notes.
 
-**CBD setting**
+A﻿ll three (3) CBD sessions must be completed within a six (6) month period from the date of enrolment.
 
-This assessment is ideally suited to candidates who are working in a primary care context, however candidates working in an emergency or RFDS setting may still complete this assessment. 
+**CBD clinical setting**
+
+This assessment is ideally suited to candidates who are working in a primary care context, however candidates working in an emergency or RFDS setting may still also complete this assessment. 
 
 Case notes may all be submitted from one post or submitted from a combination of different posts and/or settings. All case notes must meet the eligibility criteria for the setting of the patient encounters (see below). The case notes may be from consults conducted face to face or by teleconsultation providing the case requirements are met.
 
@@ -390,32 +392,36 @@ In all settings the case notes must contain evidence that the candidate is the d
 
 Cases should:
 
-* Include clinical notes with a minimum of 2-3 consultations for each case.
+* Include clinical notes with a minimum of two (2) consultations for each case.
 * Be at least medium level of complexity - not URTIs or medical certificates.
-* Demonstrate continuity of care.
+* Be sufficient to demonstrate continuity of care by the registrar.
 * Include investigations.
+* Include referrals.
+* Include Health Care Plans.
+* Include any other documents relevant to the case.
 
-Candidates should be able to explain clinical reasoning on all aspects.
+Candidates should be able to explain clinical reasoning on all aspects of the case.
 
 Examples of relevant investigations include but are not limited to: 
 
 * results for review
 * referral to specialists or other health care providers  
-* preventative health care plans. 
+
+
 
 ***Emergency or RFDS Setting***
 
-Cases should be described as high risk and be from one of the following areas: 
+Cases should be described as high acuity and be from one of the following areas: 
 
 * One or more chronic illness, with severe exacerbation or progression 
 * Acute or chronic illness or injury which poses a threat to life or bodily function e.g. multiple trauma, acute MI, pulmonary embolism, severe respiratory distress, progressive severe rheumatoid arthritis, psychiatric illness, with potential threat to self or others, peritonitis, ARF
-* An abrupt change in neurological status, e.g., seizure, TIA, weakness, sensory loss
-  For example:
-  ‘A 68-year-old male presents with chest pain with a good story for unstable angina. The patient has a history of hypertension (which is not well controlled on presentation) as well as stable diabetes. You personally review the EKG and CXR, order troponins and start the patient on a heparin drip.  You also order an echocardiogram.’
+* An abrupt change in neurological status, e.g., seizure, TIA, weakness, sensory loss.
 
 ***AST - Palliative care***
 
-Candidates must submit a total of 12 cases within 12 months from date of first submission. A minimum of four cases must be submitted at CBD enrolment, then a minimum of four cases at a time. 
+Candidates must submit a total of 12 cases within 12 months from date of enrolment. Candidates have the option to submit all 12 cases at the time of enrolment, OR they can submit a minimum of four (4) cases at enrolment followed by four (4) cases at a time, within a 12-month period from the date of enrolment.
+
+first submission. A minimum of four cases must be submitted at CBD enrolment, then a minimum of four cases at a time. 
 
 Candidates are required to submit cases where they have played a central role in at least four of the following areas:
 
