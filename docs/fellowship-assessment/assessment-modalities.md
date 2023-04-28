@@ -197,7 +197,7 @@ The MSF tool consists of two (2) components:
 2. A patient assessment tool (Doctors Interpersonal Skills Questionnaire — DISQ).
 
    **Colleague tool**\
-   The colleague tool involves a response from a minimum of 12 nominated colleagues participating in a questionnaire.  Colleagues are required to rate the candidate in 20 different areas.  There is also a provision for qualitative comments.
+   The colleague tool involves a response from a minimum of 12 nominated colleagues,﻿ in order to obtain more complete data, 15 or more colleagues are preferred to participate. Colleagues are required to rate the candidate in 20 different areas.  There is also a provision for qualitative comments.
 
    **Self-assessment tool**\
    Completion of the self-assessment is a mandatory requirement for the MSF. 
@@ -215,15 +215,15 @@ See the [How to guide for reading ACRRM MSF reports](https://www.acrrm.org.au/re
 
 It is the candidate’s responsibility to: 
 
-* inform CFEP that they are undertaking MSF for as part of ACRRM training requirement. 
-* advise CFEP of the practice environment they will be working in whilst undertaking the MSF.    
+* E﻿nrol and inform CFEP that they are undertaking MSF for as part of ACRRM training requirement. 
+* Advise CFEP of the practice environment they will be working in whilst undertaking the MSF assessment.
 
-  Candidates undertaking their MSF in an environment where a significant proportion of the patients may have trouble in completing a questionnaire are able to ask an appropriate person e.g. an Aboriginal Health Worker to assist the patients in completing the form. Candidates can also request CFEP to send an alternative DISQ patient survey for an AMS.
+  Candidates undertaking their MSF assessment in an environment where a significant proportion of the patients may have trouble in completing a questionnaire are able to ask an appropriate person. Candidates can also request CFEP to send an alternative DISQ patient survey for an Aboriginal Medical Service (AMS).
 
 **Self-assessment tool**
 
 * Candidates must submit a completed self-reflective exercise and evidence of discussion with Medical Educator to the College within two (2) months from the date the MSF report was received.
-* In extenuating circumstances, an extension of time may be considered, subject to the candidate providing the College with a written and verifiable statement of the reasons for the requested extension, prior to the expiration of the deadline. 
+* In extenuating circumstances, an extension of time may be considered. T﻿he candidate must submit an [Application for Special Consideration ](https://www.acrrm.org.au/forms/application-for-special-consideration-in-acrrm-training)to the College, containing a written statement for the reasons for the requested extension. This must be submitted prior to the expiration of the deadline.
 * If the deadline is exceeded without prior approval, the College reserves the right to report an ‘incomplete’ grade.  In this instance the candidate will be required to re-enrol, pay the MSF assessment fee and recommence the process.  
 
 **Colleague tool** 
@@ -249,22 +249,25 @@ The candidate is responsible for contracting a member of staff, e.g. a reception
 
 The candidate is responsible for ensuring that the contracted person is provided with instructions to ensure this process is undertaken anonymously and in an ethical and professional manner, as follows:
 
-* The candidate must hand the patient questionnaires with enough envelopes and staff guidelines to the contracted staff member for collection
-* The patient must not be advised of the questionnaire or invited to participate until after a consultation has been conducted
-* A confidential process must be adopted (a sealed box) for collecting completed questionnaires
-* Patients should preferably complete the questionnaire whilst in the waiting room before they leave the premises
-* An envelope must be provided to each patient in which they must place their completed questionnaire
-* Completed questionnaires must be handed back in a sealed envelope
-* If a patient insists on taking questionnaires away to complete, these must be returned the following day
-* Under no circumstances should the candidate be given access to individual questionnaires
-* Sealed questionnaires are not to be opened by anyone and
-* When a minimum of 30 questionnaires has been completed, these should be posted to CFEP in the large envelope provided.
+* the candidate must hand the patient questionnaires with enough envelopes and staff guidelines to the contracted to the staff member for collection,
+* the patient must not be advised of the questionnaire or invited to participate until after a consultation has been conducted,
+* a confidential process must be adopted (a sealed box) for collecting completed questionnaires,
+* patients should preferably complete the questionnaire whilst in the waiting room before they leave the premises,
+* an envelope must be provided to each patient in which they must place their completed questionnaire,
+* completed questionnaires must be handed back in a sealed envelope,
+* if a patient insists on taking questionnaires away to complete, these must be returned the following day,
+* under no circumstances should the candidate be given access to individual questionnaires,
+* sealed questionnaires are not to be opened by anyone, and
+* when a minimum of 30 questionnaires has been completed, these should be posted to CFEP in the large envelope provided.
 
 CFEP will also provide instructions for this process when they send patient questionnaires to candidates.
 
 ### Summary of MSF process
 
-* Candidate enrols with CFEP
+![](picture1.png)
+
+Candidate enrols with CFEP
+
 * CFEP emails the candidate:
 
   * a link to portal with username and password 
