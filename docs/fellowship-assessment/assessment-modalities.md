@@ -266,71 +266,49 @@ CFEP will also provide instructions for this process when they send patient ques
 
 ![](picture1.png)
 
-Candidate enrols with CFEP
 
-* CFEP emails the candidate:
 
-  * a link to portal with username and password 
-  * a Colleague List form
-  * patient questionnaire forms and instructions 
-* Candidate:
-
-  * uploads the colleague list to the portal
-  * completes the online self-assessment via the CFEP portal
-  * ensures completed patient questionnaires are returned
-* CFEP: 
-
-  * emails nominated colleagues with instructions to complete the questionnaire. 
-  * collates and process the information, generating a report
-  * sends report to candidate and the College
-* College:
-
-  * send report to training organisation
-* Candidate:
-
-  * completes self-reflection exercise and discusses report with Medical Educator and designs a learning plan to address any areas for development
-  * submits self-reflective exercise and evidence of Medical Educator discussion to the College
-* College
-
-  * BoE determines if MSF has been completed satisfactorily. 
-  * Uploads results to the “My Documents” section, in a candidate “My College” dashboard, accessible from the College website. 
-* Candidates receive an email once results are uploaded.
-
-## Multiple Choice Question
+## Multiple Choice Question Assessment
 
 ### Introduction
 
-The Multiple-Choice Question (MCQ) assessment assesses recall, reasoning and applied clinical knowledge. 
+The Multiple-Choice Question (MCQ) assessment assesses clinical reasoning and application of clinical knowledge.
 
-The MCQ assessment focuses on assessing the ability to manage medical care in a rural or remote environment. The assessment aims to cover all domains of rural and remote practise and is one of the summative assessments for CGT. 
+reasoning and applied clinical knowledge. 
+
+The MCQ assessment focuses on assessing the ability to manage medical care in a rural or remote environment. The assessment aims to cover all domains of rural and remote practise and is one of the mandatory summative assessments for CGT. 
 
 ### Requirements
 
-Candidates are required to gain a pass in MCQ. The standard expected is that of a doctor practising at Fellowship level. 
+Candidates are required to achieve a pass in the MCQ assessment. The standard expected is that of a doctor practising at Fellowship level. 
 
 Standard setting for the MCQ assessment is based on the modified Angoff method. This involves setting a standard score for test items prior to the test, using judgements by experts based on the projected performance of ‘borderline candidates.’ 
 
-The pass mark for each assessment is calculated from the average Angoff score with consideration for an adjustment by the standard error of measurement and/or removal of questions that have not performed well. 
+There is a detailed extensive post assessment statistical analysis of the performance of each question and the overall exam. This process may result in some questions being removed from the assessment that don't meet statistical performance criteria.
 
 ### MCQ format
 
-The assessment is conducted over three hours and consists of 125 multiple-choice questions. The MCQ is conducted using a pencil-and-paper format. All candidates must complete the MCQ by completing an Answer Sheet of which is uploaded and marked automatically via the MCQ software. 
+The assessment is conducted over three hours and consists of 125 multiple-choice questions. The MCQ assessment is currently conducted using a pencil-and-paper format. All candidates must complete the assessment by completing an Answer Sheet.  A completed Answer Sheet is returned via email to the College at the completion of the assessment by the invigilator. The Answer Sheet is marked automatically using the College assessment management system.
 
 ### Venue and Invigilators
 
-All candidates undertake the MCQ on the same day and at the same time, regardless of their location. Candidates and invigilators will be notified of the assessment start time in Australian Eastern Standard Time. Each candidate and invigilator are advised to check their local time zone and adjust the start time to account for any differences, if necessary. 
-
 For information relevant to venue and invigilator requirements refer to **Venues and Invigilators** section of this handbook.
+
+I﻿t is the candidate's responsibility to ensure that they can access a College approved venue (refer to page 3 of the [Assessment Venue Requirements](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.acrrm.org.au/docs/default-source/all-files/assessment-venue-requirements-stamps.pdf?sfvrsn=12530098_15)) on the day of the assessment.
+
+A﻿ll candidates undertake the MCQ on the same day and at the same time, regardless of their location. Candidates and invigilators will be notified of the assessment start time in Australian Eastern Standard Time (AEST). Each candidate and invigilator are advised to check their local time zone and adjust the start time if required.
 
 ### Questions
 
-Questions mostly consist of a clinical case presentation, a brief targeted lead-in question and four options from which candidates are required to choose the single best option. The stem of the clinical case may include text and images. There are no negative marks for incorrect answers.  
+T﻿he majority of questions mostly consist of a clinical case presentation, a brief targeted lead-in question and four options from which candidates are required to choose the **single best option**. The stem of the clinical case may include text and images. There are no negative marks for incorrect answers.  
 
-Questions are designed to address specific components of the curriculum. Questions focus on topics and concepts that are either common or important to the everyday experience of independent and safe rural and remote doctors practising in Australia. Questions are researched and written by practising rural doctors using up-to-date Australian references. Assembled exams comprising 125 questions are reviewed by a panel of doctors.  
+Questions are designed to address specific topics within the [Rural Generalist Curriculum](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.acrrm.org.au/docs/default-source/all-files/rural-generalist-curriculum.pdf) Questions focus on topics and concepts that are either common or important to the everyday experience of independent and safe rural and remote doctors practising in Australia. Questions are researched and written by practising rural doctors using up-to-date Australian references. The selected questions undergo quality assurance checks by the Lead Assessor.
 
 ### Content
 
-The assessment covers a balance of acute care cases, common and less common presentations, male and female patients, indigenous and non-indigenous patients, across all age groups. The assessment samples content from the curriculum domains and learning areas.   The approximate percentage of questions for learning areas appearing in an assessment is outlined in the table below.
+The assessment covers a range of primary care, acute care, community and hospital presentations. The patients represented include all genders, indigenous and non-indigenous patients and all age groups. The assessment samples content from the curriculum domains and learning areas.
+
+The approximate percentage of questions for learning areas appearing in an assessment is outlined in the table below.
 
 ![](/img/assessment.jpg)
 
@@ -340,7 +318,7 @@ The assessment covers a balance of acute care cases, common and less common pres
 
 **Introduction to MCQ Assessment**
 
-The Introduction to MCQ Assessment [online course](https://mycollege.acrrm.org.au/search/find-online-learning/details?id=17222&title=Introduction+to+MCQ+Assessment) is available to candidates who enrol in the MCQ assessment to give insight into the MCQ assessment. It includes information relevant to the MCQ assessment such as what a MCQ assessment is, how questions are developed and provides an opportunity for candidates to develop MCQs.
+The Introduction to MCQ Assessment [online course](https://mycollege.acrrm.org.au/search/find-online-learning/details?id=17222&title=Introduction+to+MCQ+Assessment) is available to candidates who enrol in the MCQ assessment to give insight into the MCQ assessment. 
 
 **MCQ familiarisation activity (MCQFA)**
 
@@ -348,19 +326,15 @@ The MCQFA is available for candidates enrolled in a MCQ assessment. Candidates a
 
 The MCQFA provides candidates the opportunity to become familiar with the format of questions used in an actual MCQ assessment.
 
-Candidates can complete the activity over a number of hours; however, it is suggested that candidates try and complete the MCQFA under ‘summative assessment conditions’ i.e. over 144 minutes (1.44 minutes per question) and without accessing additional resources.
+Candidates can complete the activity over a number of hours; however, it is suggested that candidates try and complete the MCQFA under 'simulate assessment conditions' using the same time limit and without accessing additional resources or support.
 
-As with the actual MCQ assessment, MCQFA candidates are required to choose the single best answer for each question. One mark is awarded for each correct answer and there are no marks deducted for an incorrect answer. After candidates have completed all the questions and pressed the submit button, they immediately receive their overall score with the opportunity to review each question individually to see if answered correctly. Answer rationale and references are included for MCQFA review purposes.
-
-The MCQFA can be attempted from any computer that meets the minimum technical specifications. There is no requirement for invigilation or supervision while candidates are online undertaking the MCQFA.
+The MCQFA requires the single best answer for each question. One mark is awarded for each correct answer and there are no marks deducted for an incorrect answer.
 
 ### Summary of MCQ process
 
-* Candidates enrol in the MCQ during the advertised enrolment period 
-* The College sends a confirmation of enrolment and eligibility, Examination Requirements and Assessment Venue Form
-* Candidates return the Assessment Venue Form
-* Candidates are advised of dates when the MCQFA can be accessed 
-* The College provides a confirmation of assessment arrangements to invigilators and candidates
+![](picture1.png)
+
+
 
 ## Case Based Discussion
 
