@@ -620,7 +620,6 @@ The context of the assessment is described in the Core Generalist Training [StAM
 
 The profiles are published on the College website. Candidates are permitted to retain the ‘Community Profile’ for reference during the reading time and throughout the assessment.
 
-
 The content is mapped to the Core Generalist component of the [Rural Generalist Curriculum](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.acrrm.org.au/docs/default-source/all-files/rural-generalist-curriculum.pdf?sfvrsn=b0fe42c8_19) 5th edition, 2022. The approximate percentage of cover for each domain is outlined below.
 
 The total of this column is greater than 100% due to multiple domains being assessed multiple times within one assessment.
@@ -658,9 +657,22 @@ The highest scoring candidates who do not meet the pass mark are automatically r
 
 An **Introduction to StAMPS assessment** [online course](https://mycollege.acrrm.org.au/search/find-online-learning/details?id=17341&title=Introduction+to+StAMPS+Assessment) is available to enhance understanding of the context and structure of the StAMPS assessment. It includes information regarding what the StAMPS assessment is, how the scenarios are developed and provides the opportunity to practice the process.
 
+***Formal StAMPS preparation activity***
 
+Candidates must provide evidence of completion of at least one formal StAMPS preparation activity with the College, to be eligible to enrol in Core Generalist StAMPS.
 
+A formal StAMPS preparation activity must be conducted by a medical educator or supervisor who has knowledge of the StAMPS format. The activity must Include information on the StAMPS format and StAMPS scenario practice and feedback.
 
+The following activities meet these requirements:
+
+* A StAMPS Mock Exam is offered by the College, dates and enrolments are on the [website](https://www.acrrm.org.au/fellowship/discover-fellowship/assessment/assessment-dates-enrolments). The content is based on the Core Generalist component of the Curriculum, but the process is relevant to both Core Generalist and Advanced Specialised StAMPS.
+* The StAMPS Study Groups are offered by the College leading up to the assessment. Study groups are routinely held each semester for Core Generalist and AST EM StAMPS. Study groups may also be held for other AST StAMPS. Dates and enrolments are on the [website](https://www.acrrm.org.au/fellowship/discover-fellowship/assessment/assessment-dates-enrolments).
+
+Other activities will be considered on a case-by-case basis against defined criteria.
+
+### Summary of the StAMPS process
+
+![](picture1.png)
 
 ## Logbooks
 
@@ -672,7 +684,9 @@ Logbooks are also used during training to demonstrate experience; in this situat
 
 ### Requirements
 
-Procedures in the Core Generalist Training and AST EM logbooks require certification. The ‘certifier’ refers to the person immediately responsible for the actions of the candidate to ensure patient safety. The minimum qualification for performing the role of a certifier in the logbook is a registered medical practitioner at the rank of senior registrar or equivalent. Where possible, the certifier should hold a Fellowship or other appropriate postgraduate qualification in the relevant discipline. The certifier of a procedure is not necessarily the candidate’s day to day supervisor or principal supervisor. 
+Procedures in the Core Generalist Training and AST EM logbooks require certification. The ‘certifier’ refers to the person immediately responsible for the actions of the candidate to ensure patient safety. 
+
+The minimum qualification for performing the role of a certifier in the logbook is a registered medical practitioner at the level of senior registrar or equivalent. Where possible, the certifier should hold a Fellowship or other appropriate postgraduate qualification in the relevant discipline. The certifier of a procedure is not necessarily the candidate’s day to day supervisor or principal supervisor. 
 
 The certifier must have personally observed the candidate perform the procedure or personally observed the outcome of the procedure performed. An example of the latter would include the receiving Emergency Department consultant examining a patient who has undergone an emergency retrieval and who has had a chest tube inserted by the candidate at another location. Even though the consultant was not present when the tube was inserted, he/she would be able to ascertain whether the procedure had been correctly performed.
 
@@ -704,7 +718,7 @@ Medical students in their final two years can commence having basic procedures i
 * urethral catheterisation 
 * foetal heart sound detection.
 
-The CGT Procedural Skills logbook is available through the “My Training Portfolio” section on a candidate’s “My College” dashboard, accessible from the College website.  The logbook must be submitted online.  
+The CGT Procedural Skills logbook is available through the “My Training Portfolio” section on a candidate’s “[My College](https://mycollege.acrrm.org.au/login)” dashboard, accessible from the College website.  The logbook must be submitted online.  
 
 Candidates are required to present their logbook to either their principal supervisor or medical educator for inspection and discussion at least every six months. The candidate is wholly responsible for maintaining their logbook including ensuring each entry is accurate. 
 
