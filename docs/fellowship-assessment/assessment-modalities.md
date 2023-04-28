@@ -507,7 +507,7 @@ A﻿ candidate is required to:
 * P﻿rovide proof of identification for each session.
 * L﻿isten to the pre-assessment briefing and respond to assessor questions.
 * A﻿dvise the Assessor if unable to hear or understand the questions.
-* A﻿dvise the College of any incident by submitting an [incident report](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.acrrm.org.au/docs/default-source/all-files/assessment-incident-report-form.pdf?sfvrsn=8a69d668_9) to [assessment@acrrm.org.au](assessment@acrrm.org.au) within 48 hours of the session affected.
+* A﻿dvise the College of any incident by submitting an [incident report](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.acrrm.org.au/docs/default-source/all-files/assessment-incident-report-form.pdf?sfvrsn=8a69d668_9) to [assessment@acrrm.org.au](mailto:assessment@acrrm.org.au) within 48 hours of the session affected.
 
 ### Quality assurance
 
@@ -757,7 +757,7 @@ There are four logbook levels:
 
 **C**. Performed on a patient without observation.
 
-**D**. Observed or assisted someone else doing the procedure on a patient or observed the procedure on video (e.g. YouTube). 
+**D**. Observed or assisted someone else doing the procedure on a patient or observed the procedure on video (e.g. YouTube) link to video required.
 
 Candidates are required to complete:   
 
@@ -782,7 +782,7 @@ Competency levels:
 
 **D**. Assisted with the supervisor performing the task
 
-The [AST Emergency Medicine Logbook](https://www.acrrm.org.au/docs/default-source/all-files/acrrm-emergency-medicine-logbook.pdf?sfvrsn=be4990eb_6) may be downloaded or a hardcopy obtained by emailing the training@acrrm.org.au    
+The [AST Emergency Medicine Logbook](https://www.acrrm.org.au/docs/default-source/all-files/acrrm-emergency-medicine-logbook.pdf?sfvrsn=be4990eb_6) may be downloaded or a hardcopy obtained by emailing the [training@acrrm.org.au](mailto:training@acrrm.org.au).  
 
 ***Surgery***
 
@@ -811,7 +811,7 @@ An appropriate logbook would:
 
 ### Introduction
 
-Projects are a substantial piece of original work done by the candidate. Options for projects depend on the discipline but may include: 
+Projects are a substantial piece of original work done by a Registrar. Options for projects depend on the discipline but may include: 
 
 * research and development of a practical resource 
 * research and development of a local disease prevention or health promotion project 
@@ -824,7 +824,7 @@ Projects are the main summative assessment for the following ASTs:
 * Population Health 
 * Remote Medicine 
 
-Candidates are strongly encouraged to share their project through:
+Registrars are strongly encouraged to share their project through:
 
 * publication in a peer-reviewed journal 
 * presentation in the workplace or training organisation as appropriate or 
@@ -832,9 +832,9 @@ Candidates are strongly encouraged to share their project through:
 
 ### Requirements
 
-Candidates should aim to complete the project during the 12 months AST training time.
+Registrars should aim to complete the project during the 12 months AST training time.
 
-Candidates are required to achieve a pass grade in their project. 
+Registrars are required to achieve a pass grade in their project. 
 
 The project is expected to be presented at a level comparable to a project completed for Master’s Degree.
 
@@ -843,10 +843,6 @@ The project is expected to be undertaken independently by the candidate. Candida
 All projects will require ethics approval. A candidate’s [project proposal](https://www.acrrm.org.au/resources/assessment/forms), including details of ethics approval must be submitted to the College for review and approval by the Censor in Chief **before commencement** of the actual project.
 
 Completed projects must include submission of a piece of assessable written work of approximately 4000–5000 words in length. 
-
-The written report is assessed against the project criteria. Projects that meet the standard are awarded a pass grade.
-
-Projects that do not meet the standard are awarded a fail grade and information provided on what aspects require improvement to meet the standard. Candidates can revise and resubmit the project for regrading. This is recorded as a second attempt. An additional fee may be charged for regrading. Grades are ratified at the next meeting of the Board of Assessors and candidates notified of the outcome.
 
 ***Content***
 
@@ -881,24 +877,23 @@ The completed written submission must include:
 
 ***College support*** 
 
-The College offers the following support for Candidates undertaking projects: 
+The College offers the following support for Registrars undertaking projects: 
 
 * Providing feedback on the project proposal. 
-* Assistance with finding an Academic Supervisor if the Candidate has been unable to find a suitable supervisor. 
-* Facilitating peer support through linking Candidates completing a project. 
+* Assistance with finding an Academic Supervisor if the Registrar has been unable to find a suitable supervisor. 
+* Facilitating peer support through linking Registrars completing a project. 
 
 ***Academic supervisor*** 
-Candidates are required to have an Academic Supervisor to provide support and guidance in completing the project. Local rural clinical school or training organisations may be able to assist in identifying a suitable supervisor. 
+Registrars are required to have an Academic Supervisor to provide support and guidance in completing the project. Local rural clinical school or training organisations may be able to assist in identifying a suitable supervisor. 
 
-The Academic Supervisor must be nominated and provide input into the project proposal. An Academic Supervisor report is required to be submitted mid project and with the final project. The supervisor report is initiated by the candidate. The candidate completes their section first and then the supervisor. 
+The Academic Supervisor must be nominated and provide input into the project proposal. An Academic Supervisor report is required to be submitted mid-project and with the final project. The supervisor report is initiated by the Registrar. The Registrar completes their section first and then the supervisor. 
 
 ### Process
 
 ***Enrolment*** 
 
-Candidates must enrol in the project at the beginning of their AST. Enrolment is completed [online](https://www.acrrm.org.au/fellowship/discover-fellowship/assessment/assessment-dates-enrolments).
-
-A project proposal must be uploaded as part of enrolment process. Candidates must document a project timeline demonstrating completion of the project within 12 months. 
+1. Registrars must enrol in the project at the beginning of their AST. Enrolment is completed [online](https://www.acrrm.org.au/fellowship/discover-fellowship/assessment/assessment-dates-enrolments).
+2. A project proposal must be uploaded as part of enrolment process. Registrars must document a project timeline demonstrating completion of the project within 12 months. 
 
 ***Project proposal approval***
 
@@ -910,6 +905,7 @@ A written report on the project must be submitted within 12 months. The final re
 
 ***Project grading***
 
-Projects are graded as Pass or Fail. 
-Project grading is ratified by the Board of Examiners at the next scheduled meeting and candidates provided with an outcome. 
-Candidates awarded a fail grade are given the opportunity to revise the project and resubmit for grading. A re-grading fee applies.
+1. T﻿he AST Project is assessed against the project making criteria.
+2. P﻿rojects that meet the standard are awarded a pass grade.
+3. P﻿rojects that do not meet the standard are awarded a fail grade and information provided on what aspects require improvement to meet the standard. A second attempt is provided for the Registrar to revise the project and resubmit for grading. A re-grading fee applies, and this is considered a second attempt.
+4. P﻿roject grading is ratified by the Board of Examiners and Registrars are provided with an outcome soon after.
