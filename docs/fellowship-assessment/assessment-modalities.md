@@ -421,7 +421,7 @@ Cases should be described as high acuity and be from one of the following areas:
 
 Candidates must submit a total of 12 cases within 12 months from date of enrolment. Candidates have the option to submit all 12 cases at the time of enrolment, OR they can submit a minimum of four (4) cases at enrolment followed by four (4) cases at a time, within a 12-month period from the date of enrolment.
 
-first submission. A minimum of four cases must be submitted at CBD enrolment, then a minimum of four cases at a time. 
+The latest consultation date must be no earlier than three (3) calendar months prior to the date of submission.
 
 Candidates are required to submit cases where they have played a central role in at least four of the following areas:
 
@@ -442,45 +442,64 @@ Refer to the Palliative Care Learning Area in the [Rural Generalist Curriculum](
 
 ### CBD format
 
-Six (6) cases are chosen for assessment from the twelve (12) cases submitted. The assessment takes place over three (3) one-hour sessions.  A different assessor conducts each session and two (2) cases are discussed in each one-hour session. Candidates are notified of the cases to be discussed at the beginning of each session.
+The cases submitted for assessment are those of actual patients that presented themselves to and were managed by the candidate with the last consult date being **within 3 months** of the submission date. The candidate is to provide evidence in the form of **de-identified** patient records for this assessment. Case notes may be print outs or PDF from the patient electronic clinical records and these original records cannot be altered apart from redaction of identifying information, including not copying and pasting investigations to the consult notes. Copies of handwritten clinical notes written on health service letterhead are permissible. Candidate generated case summaries without supporting documentation are not permissible.
 
-The cases submitted for assessment are those of actual patients that presented to and were managed by the candidate. The candidate is to provide evidence in the form of de-identified patient records for this assessment. Case notes should be print outs from the patient electronic clinical records, however copies of handwritten clinical notes written on health service letterhead are permissible. Candidate generated case summaries without supporting documentation are not permissible.
+Candidates must be the primary doctor in the cases for discussion. It is possible that additional consultations conducted by other doctors may be included where these contribute to the overall approach / case discussion.
 
-Candidates must be the attending doctor in the cases for discussion. It is possible that additional consultations conducted by other doctors may be included where these contribute to the overall approach / case discussion.
+When first submitting the cases for assessment, the cases uploaded are considered the ‘submission cases’ and cannot be swapped for other cases unless deemed to be out of date. If any cases are returned to the candidate to be de-identified, the same cases must then be de-identified and uploaded without removing / adding any new pages. No new cases will be permitted in this instance.
 
-Submissions should contain enough clinical information for assessors to be able to undertake a comprehensive evaluation of the candidate's clinical knowledge and clinical reasoning skills. The last consultation listed in the case notes should be no older than three months at the time of submission. 
+Submissions should contain enough clinical information for assessors to be able to undertake a comprehensive evaluation of the candidate's clinical knowledge and clinical reasoning skills. 
+The last consultation listed in the case notes should be no older than three months at the time of submission. 
 
 The cases submitted are reviewed by an assessor. If the assessor is not satisfied that all cases are of suitable complexity, cover a satisfactory range of curriculum areas and have relevant supporting documents attached, all cases will be returned with ineligible cases flagged. The candidate will be required to resubmit 12 cases meeting all requirements and may include cases already submitted and not flagged as ineligible.
 
-There are five categories scored by the assessor for each case that determines the global rating for that case:
+The CBD Lead Assessor, or delegate, will select six (6) cases for the assessment from the twelve (12) cases submitted. The assessment takes place over three (3) one-hour sessions.  A different assessor conducts each session, and two (2) cases are discussed in each one-hour session. Candidates are notified of the cases to be discussed at the beginning of each session.
 
-* communication skills 
-* history taking 
-* physical assessment 
-* clinical management, and 
+There are five (5) categories scored by the Assessor for each case that determines the global rating for that case:
+
+* communication skills,
+* history taking,
+* p﻿hysical assessment,
+* clinical management, and
 * professionalism.
 
 Each case will be given a global CBD rating of either:
 
-* ‘At expected standard for FACRRM’ or
+* ‘At expected standard for FACRRM’, or
 * ‘Below expected standard for FACRRM’.
 
-A candidate practising ‘at the expected standard’ would be expected to:
+A candidate practicing ‘at the expected standard’ would be expected to:
 
-* demonstrate an overall systematic approach and be consistently competent across grading categories 
-* make clear efforts to ensure patient comfort and safety and to reduce risks where appropriate  
-* have effective communication skills 
-* take an appropriate history and assessment 
-* consider appropriate diagnoses based on information gathered  
-* arrange for relevant further tests to clarify the diagnosis  
+* demonstrate an overall systematic approach and be consistently competent across grading categories
+* make clear efforts to ensure patient comfort and safety and to reduce risks where appropriate,
+* have effective communication skills,
+* take an appropriate history and assessment,
+* consider appropriate diagnoses based on information gathered,
+* arrange for relevant further tests to clarify the diagnosis,
 * provide appropriate management and include short and some long-term recommendations based on information gathered, and
 * involve the patient in decision making.
 
-Candidates are encouraged to undertake formative CBD. Candidates may initiate this with their supervisor or medical educator at any time.  Formative CBD forms are [available](https://www.acrrm.org.au/resources/assessment/forms).
+Candidates are encouraged to undertake formative CBD. Candidates may initiate this with their supervisor or medical educator at any time.  Formative CBD forms are available.
 
 ### CBD delivery
 
-The CBD assessment is conducted using a virtual (Zoom) room. It is the candidate’s responsibility to ensure that they can access a venue and computer that meets the requirements as detailed in the [Assessment Venue Requirements](https://www.acrrm.org.au/docs/default-source/all-files/assessment-venue-requirements---cbd.pdf?sfvrsn=c9b19370_2) on the day of the assessment.  A phone is also required should either the candidate or assessor lose internet connection, the session can be continued by dialling into Zoom with details provided.
+The CBD assessment is conducted using an online assessment platform. It is the candidate’s responsibility to ensure that they can access a venue/space and the computer to be used meet the requirements as detailed in the [IT Requirements Form](https://www.acrrm.org.au/forms/assessment-it-requirements-form/). If using a private residence, the room must be free of interruptions. For the CBD assessment an invigilator is not required.
+
+A﻿ phone is also required should either the candidate and/or Assessor lose internet connectivity. In this case, candidates may use a personal laptop or computer at their chosen venue.
+
+***IT Requirements***
+
+For information relevant to the IT requirements refer to the [Assessment IT Requirements Form](https://www.acrrm.org.au/forms/assessment-it-requirements-form/).
+
+***Cancellation***
+
+Candidates and Assessors are to advise the College as soon as possible if they are unable to attend a scheduled session. Failure to attend a session without provision of a minimum of one week’s notice will result in an additional administration charge of $395. 
+
+Where a candidate or Assessor is more than 10 minutes late, the session will be cancelled and rescheduled at **no cost to the candidate**.
+
+***Prior to and during the assessment***
+
+Venue Requirements on the day of the assessment.  A phone is also required should either the candidate or assessor lose internet connection, the session can be continued by dialling into Zoom with details provided.
 
 Candidates may take their own personal laptop or computer to the venue. The College will not be liable for any difficulties caused by using alternative configurations. 
 
