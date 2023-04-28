@@ -407,8 +407,6 @@ Examples of relevant investigations include but are not limited to:
 * results for review
 * referral to specialists or other health care providers  
 
-
-
 ***Emergency or RFDS Setting***
 
 Cases should be described as high acuity and be from one of the following areas: 
@@ -499,9 +497,17 @@ Where a candidate or Assessor is more than 10 minutes late, the session will be 
 
 ***Prior to and during the assessment***
 
-Venue Requirements on the day of the assessment.  A phone is also required should either the candidate or assessor lose internet connection, the session can be continued by dialling into Zoom with details provided.
+A﻿ candidate is required to:
 
-Candidates may take their own personal laptop or computer to the venue. The College will not be liable for any difficulties caused by using alternative configurations. 
+* B﻿e present in the room at least five (5) minutes prior to scheduled session start time.
+* P﻿rior to the session, check the room that will be used has access to a computer and camera, and ensure that they are in working order including able to access internet and online assessment platform.
+* H﻿ave access to a phone, in the event of internet connection loss. The session can be continued by using hotspot on your phone to join the Zoom meeting with details provided.
+* L﻿ogin into the virtual room at least fie (5) minutes to the start of the session.
+* B﻿e alone in the room with access to the submitted printed clinical case notes only and no other clinical material, either printed or electronic.
+* P﻿rovide proof of identification for each session.
+* L﻿isten to the pre-assessment briefing and respond to assessor questions.
+* A﻿dvise the Assessor if unable to hear or understand the questions.
+* A﻿dvise the College of any incident by submitting an [incident report](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.acrrm.org.au/docs/default-source/all-files/assessment-incident-report-form.pdf?sfvrsn=8a69d668_9) to [assessment@acrrm.org.au](assessment@acrrm.org.au) within 48 hours of the session affected.
 
 ### Quality assurance
 
@@ -509,17 +515,44 @@ CBD is a complex assessment requiring significant behind the scenes quality assu
 
 The following quality assurance processes occur:
 
-* administrative review of all case notes and attachments for compliance and privacy
-* clinical review of case notes to ensure complexity and domain coverage
-* assessors are experienced Fellows and trained to assess CBD 
-* all assessment sessions recorded and randomly moderated / reviewed
-* review of recording where a candidate fails two (2) cases whether by the same assessor or not 
-* review and endorsement of all session outcomes by the Principal Assessor prior to presentation to Board of Examiners
-* ratification of results by Board of Examiners
+* administrative review of all case notes and attachments for compliance and privacy,
+* clinical review of case notes to ensure complexity and domain coverage,
+* Assessors are experience Fellows and trained CBD Assessors,
+* all assessment sessions recorded and randomly moderated/reviewed,
+* review of recording where a candidate fails two (2) cases whether by the same assessor or not, 
+* review and endorsement of all session outcomes by the Lead Assessor prior to presentation to BoE, and
+* ratification of results by Board of Examiners.
 
-### Roles and responsibilities
+***Assessors***
 
-***Candidates***
+The primary responsibility of the Assessor is to ensure that the candidate is provided with the opportunity to demonstrate their clinical abilities in a fair and uniform testing conditions, and to ensure the integrity, consistency and fairness of the assessment process.  
+
+An Assessors’ responsibilities include:
+
+* Advise the College of a conflict of interest with the candidate to be assessed.
+* Advise as early as possible if the session needs to be rescheduled.
+* Login into the virtual assessment room at least five minutes to the start of the session.
+* Conduct a pre-assessment briefing session (maximum five minutes) before the first case is conducted.  This briefing is to ensure that the:
+
+  * candidate is informed of the assessment process,
+  * mandatory requirements and the standard required for a positive outcome are explained and understood,
+  * candidate is aware of the criteria they will be assessed against, and
+  * candidate and assessor’s perceptions of the assessment match.
+* Advise the candidate which two cases have been selected for discussion.
+* Allow up to 30 minutes to discuss each case.
+* Ask questions relating to the cases selected for discussion.
+* Score the candidate according to marking criteria and return the completed forms to the College within two working days of the session.
+* Inform the College of any incidents relating to the assessment as soon as possible and submit an incident form within two working days.
+* Relevant policies and procedures for the conduct of the CBD are adhered to and that the integrity of the assessment session is not compromised.
+
+The assessor must not be on call during the assessment and will not interrupt the assessment
+process by responding to any electronic communication device. 
+
+***Preparation tools***
+
+A﻿n Introduction to CBD Assessment [online course](https://mycollege.acrrm.org.au/search/find-online-learning/details?id=17374&title=Introduction+to+CBD+Assessment) aims to support candidates in preparing for their CBD assessment.
+
+As this is a summative assessment, feedback to the registrar is provided in the results letter. The assessor must not under any circumstances provide an opinion of the performance or whether they consider the candidate has scored a Pass or Fail grade.
 
 Gain permission to use patient records sought from the employer. 
 
