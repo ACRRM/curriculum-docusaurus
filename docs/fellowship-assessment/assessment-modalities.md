@@ -407,8 +407,6 @@ Examples of relevant investigations include but are not limited to:
 * results for review
 * referral to specialists or other health care providers  
 
-
-
 ***Emergency or RFDS Setting***
 
 Cases should be described as high acuity and be from one of the following areas: 
@@ -499,9 +497,17 @@ Where a candidate or Assessor is more than 10 minutes late, the session will be 
 
 ***Prior to and during the assessment***
 
-Venue Requirements on the day of the assessment.  A phone is also required should either the candidate or assessor lose internet connection, the session can be continued by dialling into Zoom with details provided.
+A﻿ candidate is required to:
 
-Candidates may take their own personal laptop or computer to the venue. The College will not be liable for any difficulties caused by using alternative configurations. 
+* B﻿e present in the room at least five (5) minutes prior to scheduled session start time.
+* P﻿rior to the session, check the room that will be used has access to a computer and camera, and ensure that they are in working order including able to access internet and online assessment platform.
+* H﻿ave access to a phone, in the event of internet connection loss. The session can be continued by using hotspot on your phone to join the Zoom meeting with details provided.
+* L﻿ogin into the virtual room at least fie (5) minutes to the start of the session.
+* B﻿e alone in the room with access to the submitted printed clinical case notes only and no other clinical material, either printed or electronic.
+* P﻿rovide proof of identification for each session.
+* L﻿isten to the pre-assessment briefing and respond to assessor questions.
+* A﻿dvise the Assessor if unable to hear or understand the questions.
+* A﻿dvise the College of any incident by submitting an [incident report](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.acrrm.org.au/docs/default-source/all-files/assessment-incident-report-form.pdf?sfvrsn=8a69d668_9) to [assessment@acrrm.org.au](mailto:assessment@acrrm.org.au) within 48 hours of the session affected.
 
 ### Quality assurance
 
@@ -509,106 +515,46 @@ CBD is a complex assessment requiring significant behind the scenes quality assu
 
 The following quality assurance processes occur:
 
-* administrative review of all case notes and attachments for compliance and privacy
-* clinical review of case notes to ensure complexity and domain coverage
-* assessors are experienced Fellows and trained to assess CBD 
-* all assessment sessions recorded and randomly moderated / reviewed
-* review of recording where a candidate fails two (2) cases whether by the same assessor or not 
-* review and endorsement of all session outcomes by the Principal Assessor prior to presentation to Board of Examiners
-* ratification of results by Board of Examiners
+* administrative review of all case notes and attachments for compliance and privacy,
+* clinical review of case notes to ensure complexity and domain coverage,
+* Assessors are experience Fellows and trained CBD Assessors,
+* all assessment sessions recorded and randomly moderated/reviewed,
+* review of recording where a candidate fails two (2) cases whether by the same assessor or not, 
+* review and endorsement of all session outcomes by the Lead Assessor prior to presentation to BoE, and
+* ratification of results by Board of Examiners.
 
-### Roles and responsibilities
+***Assessors***
 
-***Candidates***
-
-Gain permission to use patient records sought from the employer. 
-
-Enrol online and submit the following at the time of enrolment.
-
-* Twelve (or four for AST Palliative Care) compliant cases, including a cover page
-* Community Profile form 
-* CBD Case Notes Summary
-
-**Case note de-identification and uploading**
-
-Case notes must be completely de-identified to ensure the confidentiality and privacy of patient clinical details.  Patient date of birth and gender details must be retained in the notes for assessment. Notes that contain identifying information will not be assessed and the submission of these may result in a “fail’ grade.
-
-It is the candidate’s responsibility to:
-
-* Print off the relevant clinical data for the cases from the computerised medical record system.  
-* Redact / delete patient names, phone numbers and address. **Note: Use whiteout, black felt pen does not sufficiently cover details.**
-* Do not redact/delete gender, DOB, date of the consultation or evidence of the attending doctor. 
-* Scan the de-identified notes and save them as a PDF file of less than 5mb.
-* Upload into the ‘My Documents’ portal on the ‘My College’ dashboard, accessible from the College website.  Please select the document type ‘CBD Case’. **Do not email, post or fax case notes.**
-* Contact the Assessment team immediately to discuss alternative submission if not able to scan and upload cases.
-
-***Venue and IT Requirements***
-
-For information relevant to venue and IT requirements refer to the [Assessment Venue Requirements - CBD](https://www.acrrm.org.au/docs/default-source/all-files/assessment-venue-requirements---cbd.pdf?sfvrsn=c9b19370_2).
-
-**Cancellation**
-
-Candidates and assessors are to advise the College as soon as possible if they are unable to attend a scheduled session. Failure to attend a session without provision of a minimum of one week’s notice will result in an additional administration charge of $395. 
-
-Where a candidate or assessor is more than 10 minutes late, the session will be cancelled.
-
-**During the assessment**
-
-A candidate is required to:
-
-* Be present in the room at least five minutes prior to scheduled session start time. 
-* Check the room that will be used for the discussion has access to a computer and ensure that it is in working order and able to access Zoom. 
-* A phone is also required should either the candidate or assessor lose internet connection, the session can be continued by dialling into Zoom with details provided.
-* Login into the virtual assessment room at least five minutes to the start of the session.
-* Have a printed copy of all clinical notes submitted. 
-* Be alone in the room with access to the submitted printed clinical case notes only and no other clinical material, either printed or electronic.
-* Listen to the pre-assessment briefing and respond to assessor questions.
-* Advise the assessor if unable to hear or understand the questions.
-* Advise the College of any incident through submission of an [incident report](https://www.acrrm.org.au/docs/default-source/all-files/examination-incident-report-form.pdf?sfvrsn=8a69d668_2) to [assessment@acrrm.org.au](mailto:assessment@acrrm.org.au) within 48 hours of session.
-
-**Assessors**
-
-The primary responsibility of the Assessor is to ensure that the candidate is provided with the opportunity to demonstrate their clinical abilities under fair and uniform testing conditions, and to ensure the integrity, consistency and fairness of the assessment process.  
+The primary responsibility of the Assessor is to ensure that the candidate is provided with the opportunity to demonstrate their clinical abilities in a fair and uniform testing conditions, and to ensure the integrity, consistency and fairness of the assessment process.  
 
 An Assessors’ responsibilities include:
 
-* advise the College of a conflict of interest with the candidate to be assessed.
-* advise as early as possible if the session needs to be rescheduled.
-* login into the virtual assessment room at least five minutes to the start of the session
-* conduct a pre-assessment briefing session (maximum five minutes) before the first case is conducted.  This briefing is to ensure that the:
+* Advise the College of a conflict of interest with the candidate to be assessed.
+* Advise as early as possible if the session needs to be rescheduled.
+* Login into the virtual assessment room at least five minutes to the start of the session.
+* Conduct a pre-assessment briefing session (maximum five minutes) before the first case is conducted.  This briefing is to ensure that the:
 
-  * candidate is informed of the assessment process
-  * mandatory requirements and the standard required for a positive outcome are explained and understood
+  * candidate is informed of the assessment process,
+  * mandatory requirements and the standard required for a positive outcome are explained and understood,
   * candidate is aware of the criteria they will be assessed against, and
-  * candidate and assessor’s perceptions of the assessment match
-* advise the candidate which two cases have been selected for discussion.
-* allow up to 30 minutes to discuss each case.
-* ask questions relating to the cases selected for discussion.
-* score the candidate according to marking criteria and return completed forms to the College within two working days of the session.
-* inform the College of any incidents relating to the assessment as soon as possible and submit an incident form within two working days.
-* relevant policies and procedures for the conduct of the CBD are adhered to and that the integrity of the assessment session is not compromised.
+  * candidate and assessor’s perceptions of the assessment match.
+* Advise the candidate which two cases have been selected for discussion.
+* Allow up to 30 minutes to discuss each case.
+* Ask questions relating to the cases selected for discussion.
+* Score the candidate according to marking criteria and return the completed forms to the College within two working days of the session.
+* Inform the College of any incidents relating to the assessment as soon as possible and submit an incident form within two working days.
+* Relevant policies and procedures for the conduct of the CBD are adhered to and that the integrity of the assessment session is not compromised.
 
-The Assessor must not be on call during the assessment and will not interrupt the assessment
- process by responding to any electronic communication device. 
-
-As this is a summative assessment, the assessor is not permitted to provide feedback to the candidate. The assessor must not under any circumstances offer an opinion of performance or whether they consider the candidate has scored a Pass or Fail grade.
+The assessor must not be on call during the assessment and will not interrupt the assessment
+process by responding to any electronic communication device. 
 
 ***Preparation tools***
 
-An [Introduction to CBD Assessment online course](https://mycollege.acrrm.org.au/search/find-online-learning/details?id=17374&title=Introduction+to+CBD+Assessment) aims to support candidates in preparing for their CBD assessment.
+A﻿n Introduction to CBD Assessment [online course](https://mycollege.acrrm.org.au/search/find-online-learning/details?id=17374&title=Introduction+to+CBD+Assessment) aims to support candidates in preparing for their CBD assessment.
 
 ### Summary of CBD process
 
-* Obtain permission from employer to use case notes
-* Complete the Community Profile form
-* Compile 12 case notes, ensuring that they:
-
-  * meet the requirements as stated in this Handbook 
-  * are de-identified 
-  * include a cover page, for each set of case notes including the number awarded to the case notes
-* Complete the CBD case notes summary form with the number awarded to each case and the curriculum statement/s covered 
-* Enrol in the assessment
-* Source a suitable venue room once session date / time is proposed
+![](picture1.png)
 
 ## Structured Assessment using Multiple Patient Scenarios (StAMPS)
 
@@ -616,107 +562,79 @@ An [Introduction to CBD Assessment online course](https://mycollege.acrrm.org.au
 
 The Structured Assessment using Multiple Patient Scenarios (StAMPS) is a blend of the Objective Structured Clinical Assessment (OSCE) and the traditional viva vocé (Viva) assessment. 
 
-StAMPS aims to assess higher order functions in a highly contextualised framework, where candidates can explain what they do and demonstrate their clinical reasoning, instead of simply providing evidence of knowledge, listing facts or recalling protocols. The assessors also ask the candidates how they would deal with system or patient factors that prevent the ‘standard’ approach being applied.
+StAMPS aims to assess higher order functions in a highly contextualised framework, where candidates have opportunity to explain what they do and demonstrate their clinical reasoning, rather than of simply providing evidence of knowledge, listing facts or recalling protocols. The assessors also ask the candidates how they would deal with system or patient factors that prevent the ‘standardised' approach being applied.
 
 StAMPS is used as an assessment modality for Core Generalist Training and several Advanced Specialised Training (AST) programs. 
-
-The StAMPS is conducted by videoconference with each candidate in their home region.  The StAMPS is delivered in a series of rotations over one or two days, dependent upon the number of candidates undertaking the StAMPS. 
-
-***Preparation activities*** 
-
-An [Introduction to StAMPS assessment online course](https://mycollege.acrrm.org.au/search/find-online-learning/details?id=17341&title=Introduction+to+StAMPS+Assessment) is available to enhance understanding of the context and structure of this assessment. It includes information regarding what the StAMPS assessment is, how the scenarios are developed and provides the opportunity to practice the process.
-
-A **StAMPS Mock Exam** is offered by the College each semester, dates and enrolments are on the [website](https://www.acrrm.org.au/fellowship/discover-fellowship/assessment/assessment-dates-enrolments). The content is based on the Core Generalist component of the Curriculum, but the process is relevant to both Core Generalist and Advanced Specialised StAMPS. 
-
-**StAMPS Study Groups** are offered by the College leading up to the assessment. Study groups are routinely held each semester for Core Generalist and AST EM StAMPS. Study groups may also be held for other AST StAMPS. Dates and enrolments are on the [website](https://www.acrrm.org.au/fellowship/discover-fellowship/assessment/assessment-dates-enrolments).
-
-**Formal StAMPS preparation activity**
-
-Candidates must provide evidence of completion of at least one formal StAMPS preparation activity with the College, RTO or RVTS to be eligible to enrol in Core Generalist StAMPS.
-
-A formal StAMPS preparation activity must be conducted by a medical educator or supervisor who has knowledge of the StAMPS format. The activity must Include information on the StAMPS format and StAMPS scenario practice and feedback.
-
-The following activities meet these requirements:
-
-* College, RTO or RVTS Mock Exam or Study Groups 
-* College, RTO or RVTS online courses, if supplemented with StAMPS scenarios practice with medical educator or supervisor
-
-Other activities will be considered on a case-by-case basis against these criteria.
 
 ### Requirements
 
 Candidates are required to achieve a pass grade in StAMPS.
 
+Candidates are rated across 8 scenarios which are comprised of 3 questions in each scenario.
+
 Grading is based on a numerical score which is the sum of 48 individual scores within the following domains:
 
-* Management in the Rural-Remote context
-* Problem Definition and Structured Approach
-* Communication and Professionalism
-* Flexibility to changing context
+* Management in the Rural-Remote context (applied to each of the three questions).
+* Problem Definition and Structured Approach (applied to each scenario).
+* Communication and Professionalism (applied to each scenario).
+* Flexibility to changing context (applied to each scenario).
 
-Candidates are rated across 8 scenarios which are comprised of 24 individual scenario parts/questions.  
+### StAMPS format
 
-### Scoring Explanation
-
-In 2022, following on from its successful application to the Core Generalist Training (CGT) StAMPS exam, the following revised grading and scoring system (referred to the Behavioural Anchored Rubric System (BARS) will be implemented for all StAMPS modalities.
-
-Each scenario is scored in six areas (three Management scores \[one for each question/part] and one score for each of the remaining three domains). Each question/domain is scored independently on a linear scale where 0 is the lowest possible score and 7 is the highest possible score. Therefore, a maximum score of 336 is possible. The scales are anchored using scenario-specific rubrics which describe candidate behaviours. A score of 4 or greater on a single scale is usually considered to have met the required standard in that question/domain. The scores are summed across all eight scenarios and the total is used to determine the overall Pass or Fail outcome.
-
-StAMPS standard setting is achieved using a Delphi panel during scenario writing, scenario road-testing, moderation/calibration meetings, assessor training, scenario-specific scoring rubrics and post-exam statistical analysis. The difficulty is targeted to achieve a pass cut score in the range of 190-200 marks out of the maximum score of 336. The overall pass mark in any given exam sitting may vary due to relative difficulty and this is statistically verified.
-
-The highest scoring candidates who do not meet the pass mark are subsequently reviewed. Further grading criteria and review of video recordings are used. As a result of this review, a candidate may be awarded to Conceded Pass if possible.
-
-***Scenario description***
-
-The scenarios are in the viva vocé format where the candidate discusses the scenario directly with the assessor. The candidate may be asked to clarify their answers when these are unclear and to expand on answers when there is insufficient detail. 
-
-Each scenario takes the form of introductory case information and then approximately three questions relating to that case, sometimes with additional unfolding information provided.
-
-StAMPS scenarios are written and researched using up-to-date Australian references. Care is taken to ensure that the scenarios reflect realistic patient presentations or issues that a FACRRM might reasonably encounter.
-
-The StAMPS scenarios are designed to measure the candidate’s understanding of core and general principles, rather than only applying them to the specific nominated patient. The scenarios reflect real life where often clinical management is required prior to a definitive diagnosis being known. The scenarios and questions are sometimes unfolding in nature, allowing information to be progressively revealed. 
+The StAMPS scenarios are designed to measure a Registrar’s understanding of core and general principles, rather than only applying them to the specific nominated patient. The scenarios reflect real life where often clinical management is required prior to a definitive diagnosis being known. The scenarios and questions are sometimes unfolding in nature, with information being progressively revealed. 
 
 Candidates are provided with an opportunity to explain the rationale behind their thinking, as well as an opportunity for the assessor to explore issues in greater depth than is possible in a written paper.
 
-StAMPS consists of eight scenarios, each of ten minutes duration.  There is an interval between scenarios for candidates to read the material for the next scenario.  Candidates have a designated video (Zoom) room and assessors rotate between candidates.
+The scenarios are in the viva vocé format where the candidate discusses the scenario directly with the Examiner. The candidate may be asked to clarify their answers when these are unclear and to expand on answers if there is insufficient detail.
 
-Candidates have 10 minutes at the commencement of the assessment to read the assessment material provided. Candidates are permitted to read all the eight scenarios during this assessment reading time. Candidates are expected to have read and be prepared for their first scenario by the start of the assessment (first scenarios).
+Each scenario takes the form of introductory case information and then three questions relating to that case, sometimes with the inclusion of additional information provided.
 
-The assessment is delivered over multiple rotations.  Candidates are not permitted to discuss the assessment with any other candidates undertaking the StAMPS assessment until all scheduled rotations have concluded (this could be over a two-day period).  Any such communications will be considered a breach of the Academic Code of Conduct and the College will action accordingly.
+StAMPS scenarios are written and researched using current Australian references. Care is taken to ensure that the scenarios reflect realistic patient presentations or issues that a FACRRM might reasonably encounter.
+The StAMPS exam is conducted online over three (3) hours and delivered across a series of rotations over one (1) or two (2) days, dependent upon the number of candidates enrolled. Candidates have a designated virtual exam (Zoom) room and Examiners rotate between candidates.  Candidates will typically start and finish at the same time which is in Australian Eastern Standard Time. All candidates and invigilators are advised to check their local time zone and adjust the start time to their local time, if required. 
 
-***Context and Content***
+The StAMPS consists of eight (8) scenarios, each of ten minutes duration.  Candidates have 10 minutes at the commencement of the exam to read and familiarise themselves with all eight (8) scenarios during the pre-exam reading time. Candidates are expected to have read and be prepared for their first scenario by the start of the commencement of the first rotation.
 
-The ‘Community Profile’ details key logistical issues about the location where the assessment is set and provides information regarding other relevant community factors. 
+Scenarios are shown to the candidates using the “share screen” function. A copy of the assessment material is also sent to the invigilator which is used only in the event of a technical issue on the exam day. 
 
-The Community Profile and the content differs depending on the component of the curriculum being assessed.
+An interval of 10 minutes is placed between scenarios consisting of 5 minutes for candidates to read the exam material for the following scenario and 5 minutes to allow for any technical issues that may arise.  
 
-**Core Generalist Training StAMPS**
+Candidates must not discuss any part of the assessment with other candidates undertaking the StAMPS assessment until all scheduled rotations have concluded (this could be over a two-day period).  Any such conduct will be considered a breach of the Academic Code of Conduct and be dealt with accordingly.
 
-The context of the assessment is described in the Core Generalist Training [StAMPS Community Profile](https://www.acrrm.org.au/docs/default-source/all-files/community-profile-for-stamps.pdf?sfvrsn=4d6488eb_8).
+### Venue and Invigilators
 
-The setting is a rural town in Australia. The candidate is the most senior doctor in the town and works across the general practice and local hospital. The candidate is on a one in four on call roster and does outreach clinics in Aboriginal communities. Telephone specialist back up is always available including a video telehealth facility at the hospital.
+For information relevant to venue and invigilator requirements refer to **Venues and Invigilators**.
 
-The profiles are published on the College website. Candidates are permitted to retain the ‘Community Profile’ for reference during the reading time and throughout the assessment.
+It is the candidate’s responsibility to ensure that they can access a College approved venue and computer that meets the IT minimum requirements (refer to page 3 of the [Assessment Venue Requirements](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.acrrm.org.au/docs/default-source/all-files/assessment-venue-requirements-stamps.pdf?sfvrsn=12530098_15)) on the day of the assessment. 
 
-Where information specific information is not mentioned in the community profile, candidates would be expected to be able to discuss this e.g. ‘If o-neg blood is available I would prescribe and deliver this …. If o-neg blood is not available, I would …...
+Candidates may take use their own laptop or computer at the venue. The College will not be liable for any technical issues / difficulties caused by using alternative configurations. 
 
 ### Content
 
-The content is mapped to the Core Generalist component of the [Rural Generalist Curriculum](https://www.acrrm.org.au/docs/default-source/all-files/rural-generalist-curriculum_final.pdf?sfvrsn=b0fe42c8_4). The approximate percentage of cover for each domain is outlined below.
+The ‘Community Profile’ details key logistical issues about the location where the assessment is set and provides information regarding other relevant community factors. 
 
-The total of percentages is greater than 100% due to multiple domains being assessed multiple times within one assessment.
+The Community Profile and the content differs between CGT and various AST.
+
+***Core Generalist Training StAMPS***
+
+The context of the assessment is described in the Core Generalist Training [StAMPS Community Profile](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.acrrm.org.au/docs/default-source/all-files/community-profile-for-stamps.pdf?sfvrsn=4d6488eb_8). The setting is a rural town in Australia. The candidate is the most senior doctor in the town and works across the general practice and local hospital. The candidate is on a one in four on call roster and does outreach clinics in Aboriginal communities. Telephone specialist back up is always available including a video telehealth facility at the hospital.
+
+The profiles are published on the College website. Candidates are permitted to retain the ‘Community Profile’ for reference during the reading time and throughout the assessment.
+
+The content is mapped to the Core Generalist component of the [Rural Generalist Curriculum](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.acrrm.org.au/docs/default-source/all-files/rural-generalist-curriculum.pdf?sfvrsn=b0fe42c8_19) 5th edition, 2022. The approximate percentage of cover for each domain is outlined below.
+
+The total of this column is greater than 100% due to multiple domains being assessed multiple times within one assessment.
 
 ![](/img/content.jpg)
 
 The assessment aims to sample across the Core Generalist content of the Rural Generalist Curriculum Learning Areas.  The likelihood of a curriculum topic appearing in an assessment is outlined below.
 
-**Learning Areas & Likelihood of the topic appearing in an assessment**
 
-Key: always covered **\*\*\*\**** / occasionally covered **\***
 
 ![](/img/learning-areas.jpg)
 
-**Advanced Specialised Training**
+Key: always covered **\*\*\*\**** / occasionally covered **\***
+
+***Advanced Specialised Training***
 
 Emergency Medicine, Paediatrics, Mental Health, Adult Internal Medicine and Surgery
 are assessed by StAMPS using content mapped to the specific component of the curriculum. 
@@ -725,19 +643,36 @@ Paediatrics, Mental Health, Adult Internal Medicine and Surgery share a common [
 
 [Emergency Medicine](https://www.acrrm.org.au/docs/default-source/all-files/stamps-community-profile-for-ast-and-gem-examination.pdf?sfvrsn=98b790eb_6) has a specific StAMPS Community Profile, the setting is a regional hospital that services a vast district.
 
-### StAMPS delivery
+### Scoring Explanation
 
-The StAMPS assessment is conducted using a virtual assessment room. is the candidate’s responsibility to ensure that they can access a computer that meets the IT minimum requirements (detailed in page 3 of the [Assessment Venue Requirements](https://www.acrrm.org.au/docs/default-source/all-files/assessment-venue-requirements.pdf?sfvrsn=12530098_6)) on the day of the assessment. 
+Following on from its successful application to the Core Generalist Training (CGT) StAMPS exam in 2021, Emergency Medicine and Adult Internal Medicine in 2022, the Behavioural Anchored Rubric System (BARS) will be fully implemented for all StAMPS modalities in 2023.
 
-Candidates may take their own personal laptop or computer to the venue. The College will not be liable for any difficulties caused by using alternative configurations. 
+Each scenario is scored in six (6) areas (three Management scores [one for each question and one score for each of the remaining three domains). Each question/domain is scored independently on a linear scale where 0 is the lowest possible score and 7 is the highest possible score. The scores are summed across all eight scenarios and the total is used to determine the overall Pass or Fail outcome. A maximum score of 336 is possible.
+
+StAMPS standard setting is achieved using a Delphi panel during scenario writing, scenario road-testing, moderation/calibration meetings, assessor training, scenario-specific scoring rubrics and post-exam statistical analysis.. The overall pass mark in any given exam sitting may vary due to relative difficulty of scenarios and characteristics of the candidates and this is statistically verified during the post assessment analysis.
+
+The highest scoring candidates who do not meet the pass mark are automatically reviewed prior to the release of results. As a result of this review process, a candidate may be elevated to a “Pass”.
+
+### Preparation Tools
+
+An **Introduction to StAMPS assessment** [online course](https://mycollege.acrrm.org.au/search/find-online-learning/details?id=17341&title=Introduction+to+StAMPS+Assessment) is available to enhance understanding of the context and structure of the StAMPS assessment. It includes information regarding what the StAMPS assessment is, how the scenarios are developed and provides the opportunity to practice the process.
+
+***Formal StAMPS preparation activity***
+
+Candidates must provide evidence of completion of at least one formal StAMPS preparation activity with the College, to be eligible to enrol in Core Generalist StAMPS.
+
+A formal StAMPS preparation activity must be conducted by a medical educator or supervisor who has knowledge of the StAMPS format. The activity must Include information on the StAMPS format and StAMPS scenario practice and feedback.
+
+The following activities meet these requirements:
+
+* A StAMPS Mock Exam is offered by the College, dates and enrolments are on the [website](https://www.acrrm.org.au/fellowship/discover-fellowship/assessment/assessment-dates-enrolments). The content is based on the Core Generalist component of the Curriculum, but the process is relevant to both Core Generalist and Advanced Specialised StAMPS.
+* The StAMPS Study Groups are offered by the College leading up to the assessment. Study groups are routinely held each semester for Core Generalist and AST EM StAMPS. Study groups may also be held for other AST StAMPS. Dates and enrolments are on the [website](https://www.acrrm.org.au/fellowship/discover-fellowship/assessment/assessment-dates-enrolments).
+
+Other activities will be considered on a case-by-case basis against defined criteria.
 
 ### Summary of the StAMPS process
 
-* Candidate enrols in the StAMPS
-* College sends a confirmation of enrolment 
-* Candidate returns the Examination Venue Requirements form, including invigilator details, by the dates specified
-* College provides information to invigilators 
-* College provides a confirmation of arrangements email to candidates
+![](picture1.png)
 
 ## Logbooks
 
@@ -749,7 +684,9 @@ Logbooks are also used during training to demonstrate experience; in this situat
 
 ### Requirements
 
-Procedures in the Core Generalist Training and AST EM logbooks require certification. The ‘certifier’ refers to the person immediately responsible for the actions of the candidate to ensure patient safety. The minimum qualification for performing the role of a certifier in the logbook is a registered medical practitioner at the rank of senior registrar or equivalent. Where possible, the certifier should hold a Fellowship or other appropriate postgraduate qualification in the relevant discipline. The certifier of a procedure is not necessarily the candidate’s day to day supervisor or principal supervisor. 
+Procedures in the Core Generalist Training and AST EM logbooks require certification. The ‘certifier’ refers to the person immediately responsible for the actions of the candidate to ensure patient safety. 
+
+The minimum qualification for performing the role of a certifier in the logbook is a registered medical practitioner at the level of senior registrar or equivalent. Where possible, the certifier should hold a Fellowship or other appropriate postgraduate qualification in the relevant discipline. The certifier of a procedure is not necessarily the candidate’s day to day supervisor or principal supervisor. 
 
 The certifier must have personally observed the candidate perform the procedure or personally observed the outcome of the procedure performed. An example of the latter would include the receiving Emergency Department consultant examining a patient who has undergone an emergency retrieval and who has had a chest tube inserted by the candidate at another location. Even though the consultant was not present when the tube was inserted, he/she would be able to ascertain whether the procedure had been correctly performed.
 
@@ -781,7 +718,7 @@ Medical students in their final two years can commence having basic procedures i
 * urethral catheterisation 
 * foetal heart sound detection.
 
-The CGT Procedural Skills logbook is available through the “My Training Portfolio” section on a candidate’s “My College” dashboard, accessible from the College website.  The logbook must be submitted online.  
+The CGT Procedural Skills logbook is available through the “My Training Portfolio” section on a candidate’s “[My College](https://mycollege.acrrm.org.au/login)” dashboard, accessible from the College website.  The logbook must be submitted online.  
 
 Candidates are required to present their logbook to either their principal supervisor or medical educator for inspection and discussion at least every six months. The candidate is wholly responsible for maintaining their logbook including ensuring each entry is accurate. 
 
@@ -820,7 +757,7 @@ There are four logbook levels:
 
 **C**. Performed on a patient without observation.
 
-**D**. Observed or assisted someone else doing the procedure on a patient or observed the procedure on video (e.g. YouTube). 
+**D**. Observed or assisted someone else doing the procedure on a patient or observed the procedure on video (e.g. YouTube) link to video required.
 
 Candidates are required to complete:   
 
@@ -845,7 +782,7 @@ Competency levels:
 
 **D**. Assisted with the supervisor performing the task
 
-The [AST Emergency Medicine Logbook](https://www.acrrm.org.au/docs/default-source/all-files/acrrm-emergency-medicine-logbook.pdf?sfvrsn=be4990eb_6) may be downloaded or a hardcopy obtained by emailing the training@acrrm.org.au    
+The [AST Emergency Medicine Logbook](https://www.acrrm.org.au/docs/default-source/all-files/acrrm-emergency-medicine-logbook.pdf?sfvrsn=be4990eb_6) may be downloaded or a hardcopy obtained by emailing the [training@acrrm.org.au](mailto:training@acrrm.org.au).  
 
 ***Surgery***
 
@@ -874,7 +811,7 @@ An appropriate logbook would:
 
 ### Introduction
 
-Projects are a substantial piece of original work done by the candidate. Options for projects depend on the discipline but may include: 
+Projects are a substantial piece of original work done by a Registrar. Options for projects depend on the discipline but may include: 
 
 * research and development of a practical resource 
 * research and development of a local disease prevention or health promotion project 
@@ -887,7 +824,7 @@ Projects are the main summative assessment for the following ASTs:
 * Population Health 
 * Remote Medicine 
 
-Candidates are strongly encouraged to share their project through:
+Registrars are strongly encouraged to share their project through:
 
 * publication in a peer-reviewed journal 
 * presentation in the workplace or training organisation as appropriate or 
@@ -895,9 +832,9 @@ Candidates are strongly encouraged to share their project through:
 
 ### Requirements
 
-Candidates should aim to complete the project during the 12 months AST training time.
+Registrars should aim to complete the project during the 12 months AST training time.
 
-Candidates are required to achieve a pass grade in their project. 
+Registrars are required to achieve a pass grade in their project. 
 
 The project is expected to be presented at a level comparable to a project completed for Master’s Degree.
 
@@ -906,10 +843,6 @@ The project is expected to be undertaken independently by the candidate. Candida
 All projects will require ethics approval. A candidate’s [project proposal](https://www.acrrm.org.au/resources/assessment/forms), including details of ethics approval must be submitted to the College for review and approval by the Censor in Chief **before commencement** of the actual project.
 
 Completed projects must include submission of a piece of assessable written work of approximately 4000–5000 words in length. 
-
-The written report is assessed against the project criteria. Projects that meet the standard are awarded a pass grade.
-
-Projects that do not meet the standard are awarded a fail grade and information provided on what aspects require improvement to meet the standard. Candidates can revise and resubmit the project for regrading. This is recorded as a second attempt. An additional fee may be charged for regrading. Grades are ratified at the next meeting of the Board of Assessors and candidates notified of the outcome.
 
 ***Content***
 
@@ -944,24 +877,23 @@ The completed written submission must include:
 
 ***College support*** 
 
-The College offers the following support for Candidates undertaking projects: 
+The College offers the following support for Registrars undertaking projects: 
 
 * Providing feedback on the project proposal. 
-* Assistance with finding an Academic Supervisor if the Candidate has been unable to find a suitable supervisor. 
-* Facilitating peer support through linking Candidates completing a project. 
+* Assistance with finding an Academic Supervisor if the Registrar has been unable to find a suitable supervisor. 
+* Facilitating peer support through linking Registrars completing a project. 
 
 ***Academic supervisor*** 
-Candidates are required to have an Academic Supervisor to provide support and guidance in completing the project. Local rural clinical school or training organisations may be able to assist in identifying a suitable supervisor. 
+Registrars are required to have an Academic Supervisor to provide support and guidance in completing the project. Local rural clinical school or training organisations may be able to assist in identifying a suitable supervisor. 
 
-The Academic Supervisor must be nominated and provide input into the project proposal. An Academic Supervisor report is required to be submitted mid project and with the final project. The supervisor report is initiated by the candidate. The candidate completes their section first and then the supervisor. 
+The Academic Supervisor must be nominated and provide input into the project proposal. An Academic Supervisor report is required to be submitted mid-project and with the final project. The supervisor report is initiated by the Registrar. The Registrar completes their section first and then the supervisor. 
 
 ### Process
 
 ***Enrolment*** 
 
-Candidates must enrol in the project at the beginning of their AST. Enrolment is completed [online](https://www.acrrm.org.au/fellowship/discover-fellowship/assessment/assessment-dates-enrolments).
-
-A project proposal must be uploaded as part of enrolment process. Candidates must document a project timeline demonstrating completion of the project within 12 months. 
+1. Registrars must enrol in the project at the beginning of their AST. Enrolment is completed [online](https://www.acrrm.org.au/fellowship/discover-fellowship/assessment/assessment-dates-enrolments).
+2. A project proposal must be uploaded as part of enrolment process. Registrars must document a project timeline demonstrating completion of the project within 12 months. 
 
 ***Project proposal approval***
 
@@ -973,6 +905,7 @@ A written report on the project must be submitted within 12 months. The final re
 
 ***Project grading***
 
-Projects are graded as Pass or Fail. 
-Project grading is ratified by the Board of Examiners at the next scheduled meeting and candidates provided with an outcome. 
-Candidates awarded a fail grade are given the opportunity to revise the project and resubmit for grading. A re-grading fee applies.
+1. T﻿he AST Project is assessed against the project making criteria.
+2. P﻿rojects that meet the standard are awarded a pass grade.
+3. P﻿rojects that do not meet the standard are awarded a fail grade and information provided on what aspects require improvement to meet the standard. A second attempt is provided for the Registrar to revise the project and resubmit for grading. A re-grading fee applies, and this is considered a second attempt.
+4. P﻿roject grading is ratified by the Board of Examiners and Registrars are provided with an outcome soon after.
