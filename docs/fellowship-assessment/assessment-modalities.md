@@ -266,71 +266,47 @@ CFEP will also provide instructions for this process when they send patient ques
 
 ![](picture1.png)
 
-Candidate enrols with CFEP
-
-* CFEP emails the candidate:
-
-  * a link to portal with username and password 
-  * a Colleague List form
-  * patient questionnaire forms and instructions 
-* Candidate:
-
-  * uploads the colleague list to the portal
-  * completes the online self-assessment via the CFEP portal
-  * ensures completed patient questionnaires are returned
-* CFEP: 
-
-  * emails nominated colleagues with instructions to complete the questionnaire. 
-  * collates and process the information, generating a report
-  * sends report to candidate and the College
-* College:
-
-  * send report to training organisation
-* Candidate:
-
-  * completes self-reflection exercise and discusses report with Medical Educator and designs a learning plan to address any areas for development
-  * submits self-reflective exercise and evidence of Medical Educator discussion to the College
-* College
-
-  * BoE determines if MSF has been completed satisfactorily. 
-  * Uploads results to the “My Documents” section, in a candidate “My College” dashboard, accessible from the College website. 
-* Candidates receive an email once results are uploaded.
-
-## Multiple Choice Question
+## Multiple Choice Question Assessment
 
 ### Introduction
 
-The Multiple-Choice Question (MCQ) assessment assesses recall, reasoning and applied clinical knowledge. 
+The Multiple-Choice Question (MCQ) assessment assesses clinical reasoning and application of clinical knowledge.
 
-The MCQ assessment focuses on assessing the ability to manage medical care in a rural or remote environment. The assessment aims to cover all domains of rural and remote practise and is one of the summative assessments for CGT. 
+reasoning and applied clinical knowledge. 
+
+The MCQ assessment focuses on assessing the ability to manage medical care in a rural or remote environment. The assessment aims to cover all domains of rural and remote practise and is one of the mandatory summative assessments for CGT. 
 
 ### Requirements
 
-Candidates are required to gain a pass in MCQ. The standard expected is that of a doctor practising at Fellowship level. 
+Candidates are required to achieve a pass in the MCQ assessment. The standard expected is that of a doctor practising at Fellowship level. 
 
 Standard setting for the MCQ assessment is based on the modified Angoff method. This involves setting a standard score for test items prior to the test, using judgements by experts based on the projected performance of ‘borderline candidates.’ 
 
-The pass mark for each assessment is calculated from the average Angoff score with consideration for an adjustment by the standard error of measurement and/or removal of questions that have not performed well. 
+There is a detailed extensive post assessment statistical analysis of the performance of each question and the overall exam. This process may result in some questions being removed from the assessment that don't meet statistical performance criteria.
 
 ### MCQ format
 
-The assessment is conducted over three hours and consists of 125 multiple-choice questions. The MCQ is conducted using a pencil-and-paper format. All candidates must complete the MCQ by completing an Answer Sheet of which is uploaded and marked automatically via the MCQ software. 
+The assessment is conducted over three hours and consists of 125 multiple-choice questions. The MCQ assessment is currently conducted using a pencil-and-paper format. All candidates must complete the assessment by completing an Answer Sheet.  A completed Answer Sheet is returned via email to the College at the completion of the assessment by the invigilator. The Answer Sheet is marked automatically using the College assessment management system.
 
 ### Venue and Invigilators
 
-All candidates undertake the MCQ on the same day and at the same time, regardless of their location. Candidates and invigilators will be notified of the assessment start time in Australian Eastern Standard Time. Each candidate and invigilator are advised to check their local time zone and adjust the start time to account for any differences, if necessary. 
-
 For information relevant to venue and invigilator requirements refer to **Venues and Invigilators** section of this handbook.
+
+I﻿t is the candidate's responsibility to ensure that they can access a College approved venue (refer to page 3 of the [Assessment Venue Requirements](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.acrrm.org.au/docs/default-source/all-files/assessment-venue-requirements-stamps.pdf?sfvrsn=12530098_15)) on the day of the assessment.
+
+A﻿ll candidates undertake the MCQ on the same day and at the same time, regardless of their location. Candidates and invigilators will be notified of the assessment start time in Australian Eastern Standard Time (AEST). Each candidate and invigilator are advised to check their local time zone and adjust the start time if required.
 
 ### Questions
 
-Questions mostly consist of a clinical case presentation, a brief targeted lead-in question and four options from which candidates are required to choose the single best option. The stem of the clinical case may include text and images. There are no negative marks for incorrect answers.  
+T﻿he majority of questions mostly consist of a clinical case presentation, a brief targeted lead-in question and four options from which candidates are required to choose the **single best option**. The stem of the clinical case may include text and images. There are no negative marks for incorrect answers.  
 
-Questions are designed to address specific components of the curriculum. Questions focus on topics and concepts that are either common or important to the everyday experience of independent and safe rural and remote doctors practising in Australia. Questions are researched and written by practising rural doctors using up-to-date Australian references. Assembled exams comprising 125 questions are reviewed by a panel of doctors.  
+Questions are designed to address specific topics within the [Rural Generalist Curriculum](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.acrrm.org.au/docs/default-source/all-files/rural-generalist-curriculum.pdf) Questions focus on topics and concepts that are either common or important to the everyday experience of independent and safe rural and remote doctors practising in Australia. Questions are researched and written by practising rural doctors using up-to-date Australian references. The selected questions undergo quality assurance checks by the Lead Assessor.
 
 ### Content
 
-The assessment covers a balance of acute care cases, common and less common presentations, male and female patients, indigenous and non-indigenous patients, across all age groups. The assessment samples content from the curriculum domains and learning areas.   The approximate percentage of questions for learning areas appearing in an assessment is outlined in the table below.
+The assessment covers a range of primary care, acute care, community and hospital presentations. The patients represented include all genders, indigenous and non-indigenous patients and all age groups. The assessment samples content from the curriculum domains and learning areas.
+
+The approximate percentage of questions for learning areas appearing in an assessment is outlined in the table below.
 
 ![](/img/assessment.jpg)
 
@@ -340,7 +316,7 @@ The assessment covers a balance of acute care cases, common and less common pres
 
 **Introduction to MCQ Assessment**
 
-The Introduction to MCQ Assessment [online course](https://mycollege.acrrm.org.au/search/find-online-learning/details?id=17222&title=Introduction+to+MCQ+Assessment) is available to candidates who enrol in the MCQ assessment to give insight into the MCQ assessment. It includes information relevant to the MCQ assessment such as what a MCQ assessment is, how questions are developed and provides an opportunity for candidates to develop MCQs.
+The Introduction to MCQ Assessment [online course](https://mycollege.acrrm.org.au/search/find-online-learning/details?id=17222&title=Introduction+to+MCQ+Assessment) is available to candidates who enrol in the MCQ assessment to give insight into the MCQ assessment. 
 
 **MCQ familiarisation activity (MCQFA)**
 
@@ -348,41 +324,39 @@ The MCQFA is available for candidates enrolled in a MCQ assessment. Candidates a
 
 The MCQFA provides candidates the opportunity to become familiar with the format of questions used in an actual MCQ assessment.
 
-Candidates can complete the activity over a number of hours; however, it is suggested that candidates try and complete the MCQFA under ‘summative assessment conditions’ i.e. over 144 minutes (1.44 minutes per question) and without accessing additional resources.
+Candidates can complete the activity over a number of hours; however, it is suggested that candidates try and complete the MCQFA under 'simulate assessment conditions' using the same time limit and without accessing additional resources or support.
 
-As with the actual MCQ assessment, MCQFA candidates are required to choose the single best answer for each question. One mark is awarded for each correct answer and there are no marks deducted for an incorrect answer. After candidates have completed all the questions and pressed the submit button, they immediately receive their overall score with the opportunity to review each question individually to see if answered correctly. Answer rationale and references are included for MCQFA review purposes.
-
-The MCQFA can be attempted from any computer that meets the minimum technical specifications. There is no requirement for invigilation or supervision while candidates are online undertaking the MCQFA.
+The MCQFA requires the single best answer for each question. One mark is awarded for each correct answer and there are no marks deducted for an incorrect answer.
 
 ### Summary of MCQ process
 
-* Candidates enrol in the MCQ during the advertised enrolment period 
-* The College sends a confirmation of enrolment and eligibility, Examination Requirements and Assessment Venue Form
-* Candidates return the Assessment Venue Form
-* Candidates are advised of dates when the MCQFA can be accessed 
-* The College provides a confirmation of assessment arrangements to invigilators and candidates
+![](picture1.png)
 
 ## Case Based Discussion
 
 ### Introduction
 
-Case Based Discussion (CBD) is an assessment of clinical reasoning and application of knowledge in a clinical context. The candidate is required to demonstrate evidence of their clinical knowledge and how they apply that knowledge by appropriately assessing patients, formulating differential diagnoses, ordering relevant investigations and applying appropriate management plans.
+Case Based Discussion (CBD) is an assessment of clinical reasoning and application of knowledge b﻿ased in the registrar's real life clinical context. The candidate is required to demonstrate evidence of their clinical knowledge and how they apply that knowledge by demonstrating appropriate patient assessment, formulating differential diagnoses, ordering relevant investigations and applying appropriate management plans with partnership with the patient.
 
 CBD is one of the summative assessment requirements for CGT (Core Generalist Training) and for AST in Palliative Care.
 
-CBD is designed to be undertaken in a health care facility providing continued care. The case notes must contain evidence that the candidate is the doctor primarily responsible for patient care.
+The case notes submitted for CBD assessment must be copies of the unedited original notes and contain clear evidence that the registrar is the doctor primarily responsible for patient care during the time period covered by the notes.
 
-Candidates may also complete CBD as a formative assessment. The format of this assessment remains consistent for both formative and summative assessment.
+Registrars may also complete CBD as a formative assessment. The format of this assessment remains consistent for both formative and summative assessment.
 
-### Requirements
+### Requirements and responsibilities
 
 CBD assesses a total of six (6) cases. To pass the CBD assessment overall, candidates will need to achieve ‘at expected standard’ in five (5) of the six (6) cases. 
 
-All three (3) sessions are conducted irrespective of the outcome of each individual session. Results of individual session are not advised.  The overall results are ratified by the Board of Examiners once all three CBD sessions are completed. Candidates who do not obtain a ‘pass’ grade will be required to enrol and complete the assessment process again.
+All three (3) sessions are conducted irrespective of the outcome of each individual session. Results of individual session are not advised.  The overall results are ratified by the Board of Examiners once all three (3) CBD sessions are completed. Candidates who do not obtain a ‘pass’ grade will be required to re-enrol, submit 12 new cases and complete the assessment again.
 
 ***Core Generalist Training***
 
-Candidates must submit twelve (12) cases at CBD enrolment covering a minimum of **six** (6) of the areas listed below. No more than three (3) cases can be from a single area. Two (2) **mental health** cases must be included in the submission to ensure that at least one (1) case is suitable for the assessment. 
+Candidates must submit twelve (12) cases at CBD enrolment covering a minimum of **six** (6) of the areas listed below. 
+
+No more than three (3) cases can be from a single area. 
+
+Two (2) **mental health** cases must be included in the submission to ensure that at least one (1) case is suitable for the assessment. 
 
 * Aboriginal and Torres Strait Islander Health 
 * Addictive Behaviours
@@ -390,7 +364,7 @@ Candidates must submit twelve (12) cases at CBD enrolment covering a minimum of 
 * Aged Care   
 * Dermatology 
 * Emergency
-* Mental Health* (Mandatory)
+* Mental Health (Mandatory)
 * Musculoskeletal 
 * Obstetrics and Gynaecology
 * Occupational Health
@@ -402,11 +376,13 @@ Candidates must submit twelve (12) cases at CBD enrolment covering a minimum of 
 * Sexual Health
 * Surgery
 
-All sessions must be completed within a six-month period from the date of the first session. 
+T﻿he latest consultation date must be no earlier than three (3) calendar months prior to the date of submission. The final consultation must have a direct link to the preceding consultations, for example it cannot be clinician-initiated telehealth consult to 'monitor progress' or discuss an old investigation result unless this is clearly noted in the preceding consultation notes.
 
-**CBD setting**
+A﻿ll three (3) CBD sessions must be completed within a six (6) month period from the date of enrolment.
 
-This assessment is ideally suited to candidates who are working in a primary care context, however candidates working in an emergency or RFDS setting may still complete this assessment. 
+**CBD clinical setting**
+
+This assessment is ideally suited to candidates who are working in a primary care context, however candidates working in an emergency or RFDS setting may still also complete this assessment. 
 
 Case notes may all be submitted from one post or submitted from a combination of different posts and/or settings. All case notes must meet the eligibility criteria for the setting of the patient encounters (see below). The case notes may be from consults conducted face to face or by teleconsultation providing the case requirements are met.
 
@@ -416,32 +392,36 @@ In all settings the case notes must contain evidence that the candidate is the d
 
 Cases should:
 
-* Include clinical notes with a minimum of 2-3 consultations for each case.
+* Include clinical notes with a minimum of two (2) consultations for each case.
 * Be at least medium level of complexity - not URTIs or medical certificates.
-* Demonstrate continuity of care.
+* Be sufficient to demonstrate continuity of care by the registrar.
 * Include investigations.
+* Include referrals.
+* Include Health Care Plans.
+* Include any other documents relevant to the case.
 
-Candidates should be able to explain clinical reasoning on all aspects.
+Candidates should be able to explain clinical reasoning on all aspects of the case.
 
 Examples of relevant investigations include but are not limited to: 
 
 * results for review
 * referral to specialists or other health care providers  
-* preventative health care plans. 
+
+
 
 ***Emergency or RFDS Setting***
 
-Cases should be described as high risk and be from one of the following areas: 
+Cases should be described as high acuity and be from one of the following areas: 
 
 * One or more chronic illness, with severe exacerbation or progression 
 * Acute or chronic illness or injury which poses a threat to life or bodily function e.g. multiple trauma, acute MI, pulmonary embolism, severe respiratory distress, progressive severe rheumatoid arthritis, psychiatric illness, with potential threat to self or others, peritonitis, ARF
-* An abrupt change in neurological status, e.g., seizure, TIA, weakness, sensory loss
-  For example:
-  ‘A 68-year-old male presents with chest pain with a good story for unstable angina. The patient has a history of hypertension (which is not well controlled on presentation) as well as stable diabetes. You personally review the EKG and CXR, order troponins and start the patient on a heparin drip.  You also order an echocardiogram.’
+* An abrupt change in neurological status, e.g., seizure, TIA, weakness, sensory loss.
 
 ***AST - Palliative care***
 
-Candidates must submit a total of 12 cases within 12 months from date of first submission. A minimum of four cases must be submitted at CBD enrolment, then a minimum of four cases at a time. 
+Candidates must submit a total of 12 cases within 12 months from date of enrolment. Candidates have the option to submit all 12 cases at the time of enrolment, OR they can submit a minimum of four (4) cases at enrolment followed by four (4) cases at a time, within a 12-month period from the date of enrolment.
+
+The latest consultation date must be no earlier than three (3) calendar months prior to the date of submission.
 
 Candidates are required to submit cases where they have played a central role in at least four of the following areas:
 
@@ -462,45 +442,64 @@ Refer to the Palliative Care Learning Area in the [Rural Generalist Curriculum](
 
 ### CBD format
 
-Six (6) cases are chosen for assessment from the twelve (12) cases submitted. The assessment takes place over three (3) one-hour sessions.  A different assessor conducts each session and two (2) cases are discussed in each one-hour session. Candidates are notified of the cases to be discussed at the beginning of each session.
+The cases submitted for assessment are those of actual patients that presented themselves to and were managed by the candidate with the last consult date being **within 3 months** of the submission date. The candidate is to provide evidence in the form of **de-identified** patient records for this assessment. Case notes may be print outs or PDF from the patient electronic clinical records and these original records cannot be altered apart from redaction of identifying information, including not copying and pasting investigations to the consult notes. Copies of handwritten clinical notes written on health service letterhead are permissible. Candidate generated case summaries without supporting documentation are not permissible.
 
-The cases submitted for assessment are those of actual patients that presented to and were managed by the candidate. The candidate is to provide evidence in the form of de-identified patient records for this assessment. Case notes should be print outs from the patient electronic clinical records, however copies of handwritten clinical notes written on health service letterhead are permissible. Candidate generated case summaries without supporting documentation are not permissible.
+Candidates must be the primary doctor in the cases for discussion. It is possible that additional consultations conducted by other doctors may be included where these contribute to the overall approach / case discussion.
 
-Candidates must be the attending doctor in the cases for discussion. It is possible that additional consultations conducted by other doctors may be included where these contribute to the overall approach / case discussion.
+When first submitting the cases for assessment, the cases uploaded are considered the ‘submission cases’ and cannot be swapped for other cases unless deemed to be out of date. If any cases are returned to the candidate to be de-identified, the same cases must then be de-identified and uploaded without removing / adding any new pages. No new cases will be permitted in this instance.
 
-Submissions should contain enough clinical information for assessors to be able to undertake a comprehensive evaluation of the candidate's clinical knowledge and clinical reasoning skills. The last consultation listed in the case notes should be no older than three months at the time of submission. 
+Submissions should contain enough clinical information for assessors to be able to undertake a comprehensive evaluation of the candidate's clinical knowledge and clinical reasoning skills. 
+The last consultation listed in the case notes should be no older than three months at the time of submission. 
 
 The cases submitted are reviewed by an assessor. If the assessor is not satisfied that all cases are of suitable complexity, cover a satisfactory range of curriculum areas and have relevant supporting documents attached, all cases will be returned with ineligible cases flagged. The candidate will be required to resubmit 12 cases meeting all requirements and may include cases already submitted and not flagged as ineligible.
 
-There are five categories scored by the assessor for each case that determines the global rating for that case:
+The CBD Lead Assessor, or delegate, will select six (6) cases for the assessment from the twelve (12) cases submitted. The assessment takes place over three (3) one-hour sessions.  A different assessor conducts each session, and two (2) cases are discussed in each one-hour session. Candidates are notified of the cases to be discussed at the beginning of each session.
 
-* communication skills 
-* history taking 
-* physical assessment 
-* clinical management, and 
+There are five (5) categories scored by the Assessor for each case that determines the global rating for that case:
+
+* communication skills,
+* history taking,
+* p﻿hysical assessment,
+* clinical management, and
 * professionalism.
 
 Each case will be given a global CBD rating of either:
 
-* ‘At expected standard for FACRRM’ or
+* ‘At expected standard for FACRRM’, or
 * ‘Below expected standard for FACRRM’.
 
-A candidate practising ‘at the expected standard’ would be expected to:
+A candidate practicing ‘at the expected standard’ would be expected to:
 
-* demonstrate an overall systematic approach and be consistently competent across grading categories 
-* make clear efforts to ensure patient comfort and safety and to reduce risks where appropriate  
-* have effective communication skills 
-* take an appropriate history and assessment 
-* consider appropriate diagnoses based on information gathered  
-* arrange for relevant further tests to clarify the diagnosis  
+* demonstrate an overall systematic approach and be consistently competent across grading categories
+* make clear efforts to ensure patient comfort and safety and to reduce risks where appropriate,
+* have effective communication skills,
+* take an appropriate history and assessment,
+* consider appropriate diagnoses based on information gathered,
+* arrange for relevant further tests to clarify the diagnosis,
 * provide appropriate management and include short and some long-term recommendations based on information gathered, and
 * involve the patient in decision making.
 
-Candidates are encouraged to undertake formative CBD. Candidates may initiate this with their supervisor or medical educator at any time.  Formative CBD forms are [available](https://www.acrrm.org.au/resources/assessment/forms).
+Candidates are encouraged to undertake formative CBD. Candidates may initiate this with their supervisor or medical educator at any time.  Formative CBD forms are available.
 
 ### CBD delivery
 
-The CBD assessment is conducted using a virtual (Zoom) room. It is the candidate’s responsibility to ensure that they can access a venue and computer that meets the requirements as detailed in the [Assessment Venue Requirements](https://www.acrrm.org.au/docs/default-source/all-files/assessment-venue-requirements---cbd.pdf?sfvrsn=c9b19370_2) on the day of the assessment.  A phone is also required should either the candidate or assessor lose internet connection, the session can be continued by dialling into Zoom with details provided.
+The CBD assessment is conducted using an online assessment platform. It is the candidate’s responsibility to ensure that they can access a venue/space and the computer to be used meet the requirements as detailed in the [IT Requirements Form](https://www.acrrm.org.au/forms/assessment-it-requirements-form/). If using a private residence, the room must be free of interruptions. For the CBD assessment an invigilator is not required.
+
+A﻿ phone is also required should either the candidate and/or Assessor lose internet connectivity. In this case, candidates may use a personal laptop or computer at their chosen venue.
+
+***IT Requirements***
+
+For information relevant to the IT requirements refer to the [Assessment IT Requirements Form](https://www.acrrm.org.au/forms/assessment-it-requirements-form/).
+
+***Cancellation***
+
+Candidates and Assessors are to advise the College as soon as possible if they are unable to attend a scheduled session. Failure to attend a session without provision of a minimum of one week’s notice will result in an additional administration charge of $395. 
+
+Where a candidate or Assessor is more than 10 minutes late, the session will be cancelled and rescheduled at **no cost to the candidate**.
+
+***Prior to and during the assessment***
+
+Venue Requirements on the day of the assessment.  A phone is also required should either the candidate or assessor lose internet connection, the session can be continued by dialling into Zoom with details provided.
 
 Candidates may take their own personal laptop or computer to the venue. The College will not be liable for any difficulties caused by using alternative configurations. 
 
